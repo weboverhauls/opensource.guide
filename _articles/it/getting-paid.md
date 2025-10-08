@@ -14,13 +14,13 @@ related:
 
 Gran parte del lavoro open source è volontario. Ad esempio, qualcuno potrebbe imbattersi in un bug in un progetto che sta utilizzando e inviare una soluzione rapida, oppure potrebbe divertirsi armeggiare con un progetto open source nel tempo libero.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Stavo cercando un progetto di programmazione "hobby" per tenermi occupato durante la settimana intorno a Natale. (...) Avevo tra le mani un computer di casa e nient'altro. Ho deciso di scrivere un interprete per il nuovo linguaggio di scripting a cui ho pensato ultimamente. (...) Ho scelto Python come titolo provvisorio.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programmazione di Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Ci sono molte ragioni per cui non si vorrebbe essere pagati per il proprio lavoro open source.
 
@@ -28,35 +28,35 @@ Ci sono molte ragioni per cui non si vorrebbe essere pagati per il proprio lavor
 * **A loro piace pensare all'open source come a un hobby** o a una fuga creativa e non vogliono sentirsi finanziariamente obbligati a lavorare sui propri progetti.
 * **Ottengono altri vantaggi dal contributo all'open source,** come costruire una reputazione o un portfolio, apprendere nuove competenze o sentirsi vicini a una comunità.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Le donazioni finanziarie aggiungono un senso di responsabilità per alcuni. (...) È importante per noi, nel mondo globalmente connesso e frenetico in cui viviamo, poter dire "non ora, voglio fare qualcosa di completamente diverso".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Perchè non accettiamo donazioni?"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Per altri, soprattutto quando il contributo è in corso o richiede molto tempo, essere pagati per contribuire all'open source è l'unico modo per partecipare, sia perché il progetto lo richiede sia per motivi personali.
 
 Mantenere progetti popolari può essere una responsabilità significativa, impiegando 10 o 20 ore a settimana invece di poche ore al mese.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Chiedi a qualsiasi sostenitore di progetti open source e ti diranno la realtà della quantità di lavoro necessaria per gestire un progetto. Hai clienti. Risolvi i problemi per loro. Crei nuove funzionalità. Diventa una vera e propria richiesta del tuo tempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["L'etica del lavoro non retribuito e la comunità OSS"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Il lavoro retribuito consente inoltre a persone provenienti da percorsi di vita diversi di dare un contributo significativo. Alcune persone non possono permettersi di dedicare tempo non retribuito a progetti open source a causa della loro attuale situazione finanziaria, dei debiti, delle responsabilità familiari o di altro tipo. Ciò significa che il mondo non vede mai contributi da parte di persone di talento che non possono permettersi di offrire volontariato. Ciò ha implicazioni etiche, come @ashedryden [descritto](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) poiché il lavoro svolto è distorto nel favorire coloro che hanno già vantaggi nella vita, che poi ricevono ulteriori vantaggi in base ai loro contributi volontari, mentre ad altri che non possono fare volontariato vengono negate opportunità successive, rafforzando l'attuale mancanza di diversità nella comunità open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    L’OSS apporta enormi vantaggi al settore tecnologico, che a loro volta si traducono in vantaggi per tutti i settori. (...) Tuttavia, se le uniche persone che riescono a focalizzarsi su di esso sono i fortunati e gli ossessionati, allora c'è un enorme potenziale non sfruttato.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Soldi e open source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Se stai cercando un sostegno finanziario, ci sono due modi da considerare. Puoi finanziare il tuo tempo come collaboratore oppure puoi trovare finanziamenti organizzativi per il progetto.
 
@@ -76,13 +76,13 @@ Molte aziende stanno sviluppando programmi open source per rafforzare il proprio
 
 Se la tua azienda segue questa strada, è importante mantenere chiari i confini tra le operazioni comunitarie e aziendali. Dopotutto, l'open source è supportato dal contributo di persone di tutto il mondo, e questo è più grande di quello di qualsiasi altra azienda o luogo.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Essere pagati per un lavoro open source è un'opportunità rara e meravigliosa, ma non devi rinunciare alla tua passione nel processo. La tua passione dovrebbe essere il motivo per cui le aziende vogliono pagarti.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Linee sfocate"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Se non riesci a convincere il tuo attuale datore di lavoro a dare priorità al lavoro open source, valuta la possibilità di trovare un nuovo datore di lavoro che incoraggi il contributo dei dipendenti all'open source. Cerca aziende che sottolineano il loro impegno verso l'open source. Per esempio:
 
@@ -164,13 +164,13 @@ Cosa otterrete esattamente con il finanziamento proposto? Concentrarsi sulle tap
 
 Il finanziatore ha dei requisiti di rimborso? Ad esempio, potrebbe essere necessario essere un'organizzazione senza scopo di lucro o avere uno sponsor fiscale senza scopo di lucro. O forse i fondi dovrebbero essere assegnati a un singolo appaltatore piuttosto che a un'organizzazione. Questi requisiti variano tra i finanziatori, quindi assicurati di fare le tue ricerche in anticipo.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   Per anni siamo stati la risorsa principale per le icone ottimizzate per i siti Web, con una community di oltre 20 milioni di persone e presenti su oltre 70 milioni di siti Web, incluso Whitehouse.gov. (...) La versione 4 risale a tre anni fa. La tecnologia web è cambiata molto da allora e, a dire il vero, Font Awesome è invecchiato. (...) Ecco perché stiamo introducendo Font Awesome 5. Stiamo modernizzando e riscrivendo i CSS e rifacendo ogni icona dall'alto verso il basso. Stiamo parlando di un design migliore, di una migliore coerenza e di una migliore leggibilità.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Sperimenta e non mollare
 

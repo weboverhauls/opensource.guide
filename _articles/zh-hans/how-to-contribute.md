@@ -13,13 +13,13 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ## 为什么要为开源做贡献?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   在 \[自由代码\] 下工作，让我学习到了职业生涯中非常重要的技能，无论是大学还是实际的工作，我认为从开源项目中得到的收获的远大于我的贡献！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["我为何是如此的热衷于为开源软件贡献力量"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 为开源贡献力量，得到的回报就是能够学习到很多、受教很多、且能够锻炼任何你能够想到的经验。
 
@@ -59,13 +59,13 @@ redirect_from: /zh-cn/how-to-contribute/
 
 对于为开源做贡献常见的误解就是：为开源做贡献必须得提交代码。事实上，代码固然重要，但是项目中不需编码的重要部分[经常被忽视](https://github.com/blog/2195-the-shape-of-open-source)。你若做了这部分，对于项目来说可是莫大的贡献，而这根本就不需要什么撰写代码！
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因为为 CocoaPods 做了一些事, 其实大伙并不知道我实际并没有为 CocoaPods 本身做了什么，我大多数的工作是诸如撰写文档、品牌宣传之类的。
   <p markdown="1" class="pquote-credit">
 — @orta, ["默认迁移到开源软件"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 即使你是一位开发者，非代码的贡献对于项目来说也是举足轻重的，尤其是对于社区的其他成员来说。用心维系这些关系能够让你有工作到项目其它部分的机会。
 
@@ -90,13 +90,13 @@ redirect_from: /zh-cn/how-to-contribute/
 * 为项目撰写教程，[一如 pypa 的贡献者所做的](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * 翻译项目的文档为本土语言
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   说真心话， \[文档\] 是非常重要的. 目前 Babel 的文档已经很棒了，这也是其杀手锏的特性之一。当然，还有一些章节需要大家的完善，即使是随便在哪儿增加一个段落都很感激。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["贡献者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### 你喜欢组织活动吗？
 
@@ -137,13 +137,13 @@ redirect_from: /zh-cn/how-to-contribute/
 
 ## 选择一个项目加入贡献
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   如果你跟着了一条 issue，还发现了令人感到困惑的事情，这很正常，不是你一个人这样。这些工具需要大量的隐式的知识，但是总会有人带着你熟悉这些，当然你要找他们问对的问题。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何为开源做贡献"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 为开源做贡献，除了单词拼写错误之外，大多数时候就像是走在陌生人中间，浑身上下不适。这就像人们已经讨论西边的事情讨论得非常深入了，你突然开始讲东边的事情，肯定会让人感到不舒服。
 
@@ -359,13 +359,13 @@ redirect_from: /zh-cn/how-to-contribute/
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   当你看到一个很长的对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_开源软件生产力_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## 如何提交贡献
 
@@ -375,13 +375,13 @@ redirect_from: /zh-cn/how-to-contribute/
 
 无论你出于什么样的目的：仅仅是一次性的贡献，亦或是永久性的加入社区，都得和他人进行沟通和交往，这是你要在开源圈发展必须修炼的技能。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[作为一名新手,\] 我很快的就意识到，我若是要关闭一条 issue 时，我不得不问更多的问题。我浏览了代码库，一旦我觉得有什么问题的时候，我就得需要更多的指点，瞧！ 在我得到所有的所需要的信息后，我就可以解决这个问题！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鸟进入开源世界的坎坷之旅](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 在你开启一个 issue 或 PR 之前，或者是在聊天室问问题之前，请牢记下面所列出的几点建议，会让你的工作更加的高效。
 
@@ -437,13 +437,13 @@ redirect_from: /zh-cn/how-to-contribute/
 
 如果你做的是一个非常实际的贡献，在正式开启之前，先创建一个 issue。Watch 这个项目是很有帮助的（在 GitHub，[点击 "Watch"](https://help.github.com/articles/watching-repositories/)，所有的对话都会通知你），要让社区的成员们知道你要做的工作，免得你做了之后，再让他们知道，他们不同意，就浪费了。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   你能够从单个的项目学习到 <em>很多</em> ，只要你踊跃的去使用，在 GitHub 上密切观察项目，并阅读每一个 issue 和 PR。
 <p markdown="1" class="pquote-credit">
 — @gaearon [参与项目](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### 创建 issue
 

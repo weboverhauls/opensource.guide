@@ -98,13 +98,13 @@ Contoh metrik komuniti yang mungkin ingin anda lacak secara berkala termasuk:
 
 * **Jenis sumbangan:** Contohnya, melakukan, memperbaiki kesalahan ketik atau pepijat, atau memberi komen mengenai sesuatu masalah.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Sumber terbuka lebih daripada sekadar kod. Projek sumber terbuka yang berjaya merangkumi sumbangan kod dan dokumentasi bersama perbualan mengenai perubahan ini.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Aktiviti penyelenggara
 

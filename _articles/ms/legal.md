@@ -44,13 +44,13 @@ Anda bernasib baik, kerana hari ini, lesen sumber terbuka diseragamkan dan mudah
 
 Apabila anda membuat projek baru di GitHub, anda akan menjadi [asked to add a license](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Lesen standard berfungsi sebagai proksi bagi mereka yang tidak mempunyai latihan undang-undang untuk mengetahui dengan tepat apa yang mereka boleh dan tidak boleh lakukan dengan perisian. Sekiranya tidak diperlukan, elakkan syarat-syarat khusus, diubahsuai, atau tidak standard, yang akan menjadi penghalang penggunaan kod agensi di hilir.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Lesen sumber terbuka mana yang sesuai untuk projek saya?
 
@@ -94,13 +94,13 @@ Perjanjian penyumbang tambahan - sering disebut Contributor License Agreement (C
 
 Juga, dengan menambahkan "kertas kerja" yang diyakini oleh beberapa orang tidak perlu, sukar difahami, atau tidak adil (apabila penerima perjanjian mendapat lebih banyak hak daripada penyumbang atau orang ramai melalui lesen sumber terbuka projek), perjanjian penyumbang tambahan mungkin dianggap tidak ramah kepada komuniti projek.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
    Kami telah menghilangkan CLA untuk Node.js. Melakukan ini mengurangkan halangan kemasukan penyumbang Node.js sehingga memperluas pangkalan penyumbang.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Beberapa situasi di mana anda mungkin ingin mempertimbangkan perjanjian penyumbang tambahan untuk projek anda termasuk:
 
@@ -136,23 +136,23 @@ Jangka panjang, pasukan undang-undang anda boleh melakukan lebih banyak perkara 
 
 * **Dasar sumbangan pekerja:** Pertimbangkan untuk mengembangkan polisi korporat yang menentukan bagaimana pekerja anda menyumbang untuk projek sumber terbuka. Dasar yang jelas akan mengurangkan kekeliruan di kalangan pekerja anda dan membantu mereka menyumbang kepada projek sumber terbuka demi kepentingan syarikat, sama ada sebagai sebahagian daripada pekerjaan mereka atau pada masa lapang. Contoh yang baik ialah Rackspace [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Membiarkan IP yang berkaitan dengan patch membina asas pengetahuan dan reputasi pekerja. Ini menunjukkan bahawa syarikat dilaburkan dalam pengembangan pekerja tersebut dan mewujudkan rasa pemberdayaan dan autonomi. Semua faedah ini juga membawa kepada semangat kerja yang lebih tinggi dan pengekalan pekerja yang lebih baik.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Apa yang hendak dilepaskan:** [(Almost) everything?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Sekiranya pasukan undang-undang anda memahami dan dilaburkan dalam strategi sumber terbuka syarikat anda, mereka akan dapat membantu dan bukannya menghalang usaha anda.
 * **Pematuhan:** Walaupun syarikat anda tidak mengeluarkan projek sumber terbuka, ia menggunakan perisian sumber terbuka orang lain. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) dapat mencegah sakit kepala, kelewatan produk, dan tuntutan mahkamah.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Organisasi mesti mempunyai strategi lesen dan pematuhan yang sesuai dengan kedua kategori [["permisive" dan "copyleft" \]. Ini bermula dengan mencatat syarat-syarat pelesenan yang berlaku untuk perisian sumber terbuka yang Anda gunakan - termasuk subkomponen dan dependensi.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Paten:** Syarikat anda mungkin ingin bergabung dengan[Open Invention Network](https://www.openinventionnetwork.com/), kumpulan paten pertahanan bersama untuk melindungi penggunaan projek sumber terbuka utama anggota, atau meneroka yang lain[alternative patent licensing](https://www.eff.org/document/hacking-patent-system-2016).
 * **Tadbir urus:** Terutama jika dan bila masuk akal untuk memindahkan projek ke [entiti undang-undang di luar syarikat](../leadership-and-governance/#adakah-saya-memerlukan-entiti-undang-undang-untuk-menyokong-projek-saya).

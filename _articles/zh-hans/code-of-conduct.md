@@ -38,12 +38,12 @@ redirect_from: /zh-cn/code-of-conduct/
 
 ## 决定你们如何执行行为守则
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   一份行为守则没有（或者不能）执行会比没有行为守则更糟糕。它释放这样一个信息：行为守则或者尊重在你们的社区并不重要。
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 你们应该在违规发生**之前**解释如何执行行为守则。有几点理由说明为什么这么做：
 
@@ -73,12 +73,12 @@ redirect_from: /zh-cn/code-of-conduct/
 
 在你们做出回应之前，请认真思考发生了什么事。通过阅读他们过去的评论和对话可以更好地理解他们为什么要那样做。尽量收集其他人对他们行为的看法。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   不要陷入争论。在你们处理完手头上的事情之前，不要侧重于处理别人的行为。专注于你们需要什么。
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### 采取适当的行动
 

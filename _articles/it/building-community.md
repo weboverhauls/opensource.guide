@@ -37,13 +37,13 @@ Inizia con la tua documentazione:
 * **Sii di mentalità aperta riguardo ai tipi di contributi che accetti.** Molti contributori iniziano segnalando un bug o apportando una piccola correzione. Ci sono [molti modi per contribuire](../how-to-contribute/#cosa-significa-contribuire) ad un progetto. Lascia che le persone aiutino nel modo in cui vogliono aiutare.
 * **Se c'è un contributo con cui non sei d'accordo,** ringrazialo per la sua idea e [spiegate perchè](../best-practices/#impara-a-dire-di-no) non soddisfa lo scopo del progetto, con un collegamento alla documentazione pertinente, se disponibile.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contribuire all'open source è più facile per alcuni che per altri. C’è una grande paura di essere accusati di non aver fatto qualcosa di giusto o semplicemente di non adattarsi. (...) Dando ai contributori un posto dove contribuire con competenze tecniche molto basse (documentazione, markup di contenuti web, ecc.), puoi ridurre notevolmente queste preoccupazioni.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Crescere una base di contributori nel moderno open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 La maggior parte dei contributori open source sono "collaboratori occasionali": persone che contribuiscono a un progetto solo occasionalmente. Un collaboratore occasionale potrebbe non avere il tempo di familiarizzare completamente con il tuo progetto, quindi il tuo compito è facilitare il suo contributo.
 
@@ -51,13 +51,13 @@ Incoraggiare altri contributori è anche un investimento su te stesso. Quando pe
 
 ### Documenta tutto
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Sei mai stato a un evento (tecnologico) in cui non conosci nessuno, ma tutti gli altri sembrano essere in gruppo a chiacchierare come vecchi amici? (...) Ora immagina di voler contribuire ad un progetto open source, ma non capisci perché e come ciò avvenga.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Open source sostenibile"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Quando si inizia un nuovo progetto, può sembrare naturale mantenere segreto il proprio lavoro. Ma i progetti open source prosperano quando documenti pubblicamente il tuo processo.
 
@@ -113,13 +113,13 @@ Qualsiasi progetto popolare attirerà inevitabilmente persone che danneggiano, n
 
 Fai del tuo meglio per adottare una politica di tolleranza zero nei confronti di questo tipo di persone. Se lasciate senza controllo, le persone negative metteranno a disagio le altre persone nella tua comunità. Potrebbero anche andarsene.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verità è che avere una comunità solidale è fondamentale. Non avrei mai potuto svolgere questo lavoro senza l'aiuto dei miei colleghi, di amichevoli sconosciuti su Internet e di canali IRC chiacchieroni. (...) Non accontentarti di meno. Non accontentarti degli sciocchi.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["Come gestire un progetto FOSS"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Discussioni regolari su aspetti banali del tuo progetto distraggono gli altri, te compreso, dal concentrarsi su compiti importanti. Le nuove persone che arrivano al tuo progetto potrebbero vedere queste conversazioni e non voler partecipare.
 
@@ -145,13 +145,13 @@ Ad esempio, ecco come [Rubinius](https://github.com/rubinius/rubinius/) ha inizi
 
 ### Condividi la proprietà del tuo progetto
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   I tuoi leader avranno opinioni diverse, come dovrebbero fare tutte le comunità sane! Tuttavia, è necessario adottare misure per garantire che la voce più forte non sempre prevalga, logorando le persone, e che le voci meno importanti e minoritarie siano ascoltate.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Ciò che rende una buona comunità?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Le persone sono entusiaste di contribuire ai progetti quando sentono un senso di appartenenza. Ciò non significa che devi stravolgere la visione del tuo progetto o accettare input che non desideri. Ma più riconosci gli altri, più rimarranno presenti.
 
@@ -173,13 +173,13 @@ La realtà è che [la maggior parte dei progetti ha solo](https://peerj.com/prep
 
 Anche se potresti non trovare sempre qualcuno che risponda alla chiamata, diffondere il segnale aumenta le possibilità che altre persone vengano coinvolte. E prima inizi, prima le persone potranno aiutarti.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Nel tuo\] miglior interesse è reclutare collaboratori che si divertano e siano capaci di fare cose che tu non sei. Ti piace programmare ma non rispondi alle domande? Quindi identifica le persone nella tua comunità che lo fanno e consenti loro di farlo.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Comunità accoglienti"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Risoluzione dei conflitti
 
@@ -195,13 +195,13 @@ Quando la tua comunità è alle prese con una questione difficile, il morale pu�
 
 Il tuo compito come sostenitore è evitare che queste situazioni peggiorino. Anche se hai una forte opinione sulla questione, prova ad assumere la posizione di moderatore o facilitatore invece di buttarti nella mischia e promuovere le tue opinioni. Se qualcuno è scortese o monopolizza la conversazione, [agisci immediatamente](../building-community/#non-tollerare-i-cattivi-attori) per mantenere la discussione civile e produttiva.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Essendo un progetto di supporto, è estremamente importante trattare i tuoi contributori con rispetto. Spesso prendono quello che dici in modo molto personale.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Sii cordiale o vai per la tua strada"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Altre persone si rivolgono a te per avere una guida. Dai il buon esempio. Puoi ancora esprimere frustrazione, infelicità o preoccupazione, ma fallo con calma.
 
@@ -221,13 +221,13 @@ A volte è richiesto un voto di parità. Tuttavia, per quanto puoi, enfatizza ["
 
 In un processo di ricerca del consenso, i membri della comunità discutono le preoccupazioni chiave finché non sentono di essere stati adeguatamente ascoltati. Quando rimangono solo preoccupazioni secondarie, la comunità va avanti. La ricerca del consenso riconosce che una comunità potrebbe non essere in grado di arrivare a una risposta perfetta. Invece, dà priorità all'ascolto e alla discussione.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   ЧParte del motivo per cui non esiste un sistema di voto per gli argomenti Atom è che il team Atom non seguirà un sistema di voto in tutti i casi. A volte dobbiamo scegliere ciò che riteniamo giusto, anche se non è popolare. (...) Ciò che posso offrire e mi impegno a fare... è che il mio lavoro è ascoltare la comunità.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm sul processo decisionale di Atom
   </p>
-</aside>
+</div>
 
 Anche se in realtà non adotti un processo di ricerca del consenso, come progetto di supporto è importante che le persone sappiano che stai ascoltando. Far sì che le altre persone si sentano ascoltate e impegnate a risolvere le loro preoccupazioni è molto utile per allentare la tensione in situazioni delicate. Quindi segui le tue parole con l'azione.
 
@@ -247,13 +247,13 @@ Se la conversazione inizia a sgretolarsi, chiedi al gruppo _"Quali passi dovremm
 
 Se la conversazione non sta chiaramente andando da nessuna parte, non c'è alcuna azione chiara da intraprendere o l'azione appropriata è già stata intrapresa, chiudi il problema e spiega perché l'hai chiuso.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Rendere utile un thread senza essere invadente è un'arte. Dire semplicemente alle persone di smettere di sprecare il loro tempo o chiedere loro di non postare a meno che non abbiano qualcosa di costruttivo da dire non funzionerà. (...) Bisogna invece offrire le condizioni per ulteriori progressi: dare alle persone una rotta, un percorso da seguire che porti ai risultati desiderati, ma senza dare l'impressione di dettare comportamenti.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Produzione OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Scegli saggiamente le tue battaglie
 

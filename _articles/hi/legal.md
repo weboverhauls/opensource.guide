@@ -45,13 +45,13 @@ related:
 
 जब आप GitHub पर एक नया प्रोजेक्ट बनाएंगे, तो आप होंगे [लाइसेंस जोड़ने के लिए कहा गया](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   एक मानकीकृत लाइसेंस कानूनी प्रशिक्षण के बिना उन लोगों के लिए एक प्रॉक्सी के रूप में कार्य करता है ताकि वे जान सकें कि वे सॉफ़्टवेयर के साथ क्या कर सकते हैं और क्या नहीं। जब तक बिल्कुल आवश्यक न हो, कस्टम, संशोधित या गैर-मानक शब्दों से बचें, जो एजेंसी कोड के डाउनस्ट्रीम उपयोग में बाधा के रूप में काम करेंगे।
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## मेरे प्रोजेक्ट के लिए कौन सा ओपन सोर्स लाइसेंस उपयुक्त है?
 
@@ -97,13 +97,13 @@ related:
 
 साथ ही, "कागजी कार्रवाई" जोड़कर, जो कुछ लोगों का मानना ​​है कि अनावश्यक, समझने में कठिन या अनुचित है (जब समझौते के प्राप्तकर्ता को परियोजना के ओपन सोर्स लाइसेंस के माध्यम से योगदानकर्ताओं या जनता की तुलना में अधिक अधिकार मिलते हैं), एक अतिरिक्त योगदानकर्ता समझौते को अमित्र माना जा सकता है परियोजना के समुदाय के लिए।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     हमने Node.js के लिए CLA को हटा दिया है। ऐसा करने से Node.js योगदानकर्ताओं के लिए प्रवेश की बाधा कम हो जाती है जिससे योगदानकर्ता आधार का विस्तार होता है।
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 कुछ स्थितियाँ जहाँ आप अपने प्रोजेक्ट के लिए अतिरिक्त योगदानकर्ता समझौते पर विचार करना चाह सकते हैं उनमें शामिल हैं:
 
@@ -139,23 +139,23 @@ related:
 
 * **कर्मचारी योगदान नीतियां:** एक कॉर्पोरेट नीति विकसित करने पर विचार करें जो निर्दिष्ट करती है कि आपके कर्मचारी ओपन सोर्स परियोजनाओं में कैसे योगदान करते हैं। एक स्पष्ट नीति आपके कर्मचारियों के बीच भ्रम को कम करेगी और उन्हें कंपनी के सर्वोत्तम हित में ओपन सोर्स परियोजनाओं में योगदान करने में मदद करेगी, चाहे वह उनकी नौकरी के हिस्से के रूप में हो या उनके खाली समय में। एक अच्छा उदाहरण रैकस्पेस की [मॉडल आईपी और ओपन सोर्स योगदान नीति](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) है।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
 पैच से जुड़े आईपी को देने से कर्मचारी के ज्ञान का आधार और प्रतिष्ठा बनती है। यह दर्शाता है कि कंपनी ने उस कर्मचारी के विकास में निवेश किया है और सशक्तिकरण और स्वायत्तता की भावना पैदा की है। इन सभी लाभों से उच्च मनोबल और बेहतर कर्मचारी प्रतिधारण भी होता है।
   <p markdown="1" class="pquote-credit">
 — @vanl, ["एक मॉडल आईपी और ओपन सोर्स योगदान नीति"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **क्या जारी करें:** [(लगभग) सब कुछ?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) यदि आपकी कानूनी टीम समझती है और है यदि आपने अपनी कंपनी की ओपन सोर्स रणनीति में निवेश किया है, तो वे आपके प्रयासों में बाधा डालने के बजाय मदद करने में सर्वोत्तम रूप से सक्षम होंगे।
 * **अनुपालन:** भले ही आपकी कंपनी कोई ओपन सोर्स प्रोजेक्ट जारी नहीं करती है, यह दूसरों के ओपन सोर्स सॉफ़्टवेयर का उपयोग करती है। [जागरूकता और प्रक्रिया](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) सिरदर्द, उत्पाद में देरी और मुकदमों को रोक सकती है .
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   संगठनों के पास एक लाइसेंस और अनुपालन रणनीति होनी चाहिए जो \["अनुमोदनात्मक" और "कॉपीलेफ्ट"\] दोनों श्रेणियों में फिट हो। इसकी शुरुआत उन लाइसेंसिंग शर्तों का रिकॉर्ड रखने से होती है जो आपके द्वारा उपयोग किए जा रहे ओपन सोर्स सॉफ़्टवेयर पर लागू होती हैं - जिसमें उप-घटक और निर्भरताएं शामिल हैं।
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["ओपन सोर्स सॉफ्टवेयर: अनुपालन की मूल बातें और सर्वोत्तम प्रथाएं"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **पेटेंट:** आपकी कंपनी प्रमुख ओपन सोर्स परियोजनाओं के सदस्यों के उपयोग की सुरक्षा के लिए एक साझा रक्षात्मक पेटेंट पूल [ओपन इन्वेंशन नेटवर्क](https://www.openinventionnetwork.com/) में शामिल होना चाह सकती है, या अन्वेषण कर सकती है अन्य [वैकल्पिक पेटेंट लाइसेंसिंग](https://www.eff.org/document/hacking-patent-system-2016).
 

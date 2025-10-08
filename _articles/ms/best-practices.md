@@ -38,13 +38,13 @@ Mempunyai visi yang jelas dan didokumentasikan membuat anda tetap fokus dan memb
 
 Sebagai contoh, @lord mendapati bahawa mempunyai visi projek membantunya mengetahui permintaan mana yang perlu diluangkan. Sebagai penyelenggara baru, dia menyesal tidak berpegang pada skop projeknya ketika dia mendapat permintaan fitur pertama untuk [Slate] (<https://github.com/lord/slate>).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   Saya meraba-raba. Saya tidak berusaha mencari penyelesaian yang lengkap. Sebagai ganti penyelesaian separuh, saya harap saya mengatakan "Saya tidak mempunyai masa untuk ini sekarang, tetapi saya akan menambahkannya ke dalam senarai jangka panjang yang bagus."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Petua untuk penyelenggara sumber terbuka baru"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Sampaikan harapan anda
 
@@ -95,13 +95,13 @@ Terlepas dari alasannya, adalah mungkin untuk menangani sumbangan yang tidak ses
 
 Sekiranya anda menerima sumbangan yang tidak mahu anda terima, reaksi pertama anda mungkin adalah mengabaikannya atau berpura-pura tidak melihatnya. Melakukannya boleh menyakitkan perasaan orang lain dan bahkan menurunkan semangat penyumbang lain dalam komuniti anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   Kunci untuk menangani sokongan untuk projek sumber terbuka berskala besar adalah memastikan masalah terus berjalan. Cuba untuk mengelakkan masalah. Sekiranya anda seorang pembangun iOS, anda pasti tahu betapa sukarnya menghantar radar. Anda mungkin akan mendengar 2 tahun kemudian, dan diberitahu untuk mencuba lagi dengan versi iOS terkini.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Jangan biarkan sumbangan yang tidak diingini terbuka kerana anda merasa bersalah atau mahu bersikap baik. Lama kelamaan, masalah dan PR anda yang tidak dijawab akan menjadikan kerja projek anda terasa lebih tertekan dan menakutkan.
 
@@ -141,13 +141,13 @@ Sekiranya mereka tidak mematuhi peraturan anda, segera tutup masalahnya dan arah
 
 Walaupun pendekatan ini mungkin terasa tidak baik pada mulanya, proaktif sebenarnya baik untuk kedua-dua pihak. Ini mengurangkan peluang seseorang untuk meletakkan banyak waktu kerja yang terbuang menjadi permintaan tarik yang tidak akan Anda terima. Dan ini menjadikan beban kerja anda lebih mudah diuruskan.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Sebaik-baiknya, jelaskan kepada mereka dan dalam fail CONTRIBUTING.md bagaimana mereka dapat memperoleh petunjuk yang lebih baik di masa depan mengenai perkara yang akan atau tidak akan diterima sebelum mereka memulakan kerja.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Permintaan Tarik Penutup dengan Baik"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Kadang kala, apabila anda mengatakan tidak, calon penyumbang anda mungkin marah atau mengecam keputusan anda. Sekiranya tingkah laku mereka menjadi bermusuhan, [ambil langkah untuk meredakan keadaan](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if they're not willing to collaborate constructively.
 
@@ -171,13 +171,13 @@ Apabila anda melihat penyumbang baru memberikan sumbangan berulang, kenali karya
 
 Menggalakkan orang lain untuk [berkongsi pemilikan projek](../building-community/#kongsi-pemilikan-projek-anda) dapat mengurangkan beban kerja anda sendiri, seperti yang dijumpai oleh @lmccart pada projeknya, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Saya pernah berkata, "Ya, sesiapa sahaja boleh terlibat, anda tidak perlu mempunyai banyak kepakaran pengekodan [...]." Kami ada orang yang mendaftar untuk datang [ke suatu acara] dan ketika itulah saya benar-benar bertanya-tanya: adakah ini benar, apa yang saya katakan? Akan ada 40 orang yang muncul, dan sepertinya saya tidak boleh duduk bersama mereka masing-masing ... Tetapi orang-orang datang bersama, dan ia cukup berjaya. Sebaik sahaja seseorang mendapatkannya, mereka dapat mengajar jiran mereka.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Sekiranya anda perlu menjauhkan diri dari projek anda, sama ada dalam masa rehat atau kekal, tidak ada rasa malu untuk meminta orang lain mengambil alih tugas anda.
 
@@ -193,13 +193,13 @@ Sekiranya calon penyumbang mempunyai pendapat yang berbeza mengenai apa yang har
 
 Memaksa projek tidak harus menjadi perkara yang buruk. Mampu menyalin dan mengubahsuai projek adalah salah satu perkara terbaik mengenai sumber terbuka. Menggalakkan ahli komuniti anda untuk bekerja di garpu mereka sendiri dapat menyediakan saluran kreatif yang mereka perlukan, tanpa bertentangan dengan visi projek anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Saya memenuhi kes penggunaan 80%. Sekiranya anda adalah salah satu unicorn, sila buat kerja saya. Saya tidak akan tersinggung! Projek awam saya hampir selalu bertujuan untuk menyelesaikan masalah yang paling biasa; Saya berusaha mempermudah saya dengan lebih mendalam dengan mengerjakan kerja saya atau memanjangkannya.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 Perkara yang sama berlaku untuk pengguna yang benar-benar mahukan penyelesaian yang anda tidak mempunyai lebar jalur untuk dibina. Menawarkan API dan penyesuaian dapat membantu orang lain memenuhi keperluan mereka sendiri, tanpa harus mengubah sumbernya secara langsung. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) pemalam yang menggalakkan untuk CocoaPod membawa kepada "beberapa idea yang paling menarik":
 
@@ -219,13 +219,13 @@ Sediakan ujian automatik yang akan dijalankan pada semua sumbangan yang masuk, d
 
 Sekiranya anda menambahkan ujian, pastikan untuk menerangkan bagaimana ia berfungsi dalam fail CONTRIBUTING anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Saya percaya bahawa ujian diperlukan untuk semua kod yang diusahakan oleh orang lain. Sekiranya kodnya betul dan betul, ia tidak memerlukan perubahan - kami hanya menulis kod apabila ada yang tidak kena, sama ada "Ia rosak" atau "Tidak mempunyai ciri seperti itu". Dan tanpa mengira perubahan yang anda buat, ujian sangat penting untuk mengatasi kemunduran yang mungkin anda buat secara tidak sengaja.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Gunakan alat untuk mengautomasikan tugas penyelenggaraan asas
 
@@ -261,13 +261,13 @@ Walaupun tidak boleh dikatakan, berehat sebentar! Anda tidak perlu menunggu sehi
 
 Sama seperti jenis pekerjaan lain, berehat sebentar akan membuat anda segar, gembira, dan gembira dengan pekerjaan anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Dalam mengekalkan WP-CLI, saya mendapati bahawa saya harus membuat diri saya bahagia terlebih dahulu, dan menetapkan batasan yang jelas mengenai penglibatan saya. Imbangan terbaik yang saya dapati adalah 2-5 jam seminggu, sebagai sebahagian daripada jadual kerja biasa saya. Ini menjadikan penglibatan saya menjadi minat, dan daripada merasa terlalu suka bekerja. Kerana saya mengutamakan masalah yang sedang saya jalankan, saya dapat membuat kemajuan secara berkala terhadap perkara yang saya rasa paling penting.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Takziah, anda sekarang menjadi penyelenggara projek sumber terbuka yang popular"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Kadang-kadang, sukar untuk mengambil cuti dari kerja sumber terbuka apabila terasa seperti semua orang memerlukan anda. Orang mungkin juga berusaha membuat anda merasa bersalah kerana melangkah pergi.
 

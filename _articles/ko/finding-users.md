@@ -30,12 +30,12 @@ related:
 
 ## 사람들이 당신의 프로젝트를 찾고 팔로우하도록 돕기
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 정보를 한 곳에 집중시켜 사람들이 여러분의 프로젝트를 찾고 기억하기 더 쉽게 만드세요.
 
@@ -43,13 +43,13 @@ related:
 
 아직 프로젝트 계정이나 사이트 등을 만들고 싶지 않다면, 대신 여러분이 하는 모든 일에서 여러분 스스로의 트위터 혹은 GitHub 계정을 홍보하세요. 사람들이 여러분에게 연락하거나 여러분의 프로젝트에 관심을 가질 수 있게 할 것입니다. 모임이나 행사에서 발표를 한다면 약력이나 슬라이드에 꼭 연락처를 적어 두세요.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned”](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **프로젝트 웹사이트 작성을 고려하세요.** 깔끔한 문서와 튜토리얼을 담은 웹사이트는 여러분의 프로젝트를 더 친근하고 탐색하기 쉽게 만듭니다. 웹사이트가 있으면 프로젝트가 더 활성화되어 있다는 느낌을 주고, 이는 방문자들이 프로젝트를 더 편한 마음으로 사용할 수 있게 할 것입니다. 사람들에게 아이디어를 주기 위해 여러분의 프로젝트를 유용하게 사용할 수 있는 예시를 제공하세요.
 
@@ -67,13 +67,13 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 기존의 온라인 커뮤니티나 플랫폼을 이용해 청중에게 다가가세요. 여러분의 오픈소스 프로젝트가 소프트웨어 프로젝트라면 [Stack Overflow](http://stackoverflow.com/), [Reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), [Quora](https://www.quora.com/) 같은 곳에서 관심 있는 사람을 찾을 수 있을 것입니다. 여러분의 작품을 가장 유용하게 쓰거나 반가워할 것 같은 사람들이 모인 채널을 찾으세요.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects”](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 어떻게 여러분의 프로젝트를 공유할 수 있을지 더 알아봅시다.
 
@@ -93,37 +93,37 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 사람들 앞에서 [발표](http://speaking.io/)하는 것이 익숙하지 않다면 여러분의 프로젝트가 사용하는 언어나 시스템에 관련된 지역 모임을 찾는 것부터 시작하세요.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon”](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 행사에서의 발표가 처음이라면 긴장되는 것은 당연한 일입니다! 청중들이 모인 이유는 여러분의 프로젝트에 대해 듣고 싶어서라는 사실을 기억하세요.
 
 이야기를 풀어나가면서 청중들이 어떤 부분에 흥미를 느끼고 있는지, 그리고 어떤 부분에서 가치를 얻을 수 있을지에 집중하세요. 친절하고 상냥한 말투를 사용하세요. 미소 짓고, 호흡하고, 즐기면 됩니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk”](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 준비가 되었다면 프로젝트 홍보를 위해 컨퍼런스에서 발표하는 것도 고려해 보세요. 컨퍼런스는 온 세상의 다양한 사람들을 만날 기회를 제공합니다.
 
 여러분이 사용하는 언어와 시스템에 관한 컨퍼런스를 찾으세요. 발표 신청서를 제출하기 전에 컨퍼런스를 조사한 뒤, 발표 내용을 청중의 상황에 맞게 다듬어 신청이 받아들여질 가능성을 높이세요. 컨퍼런스의 발표자들에 대해 알아보면 전반적인 청중의 성향을 파악할 수 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js” (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## 평판 쌓기
 
@@ -131,13 +131,13 @@ Django의 공동 크리에이터인 [@adrianholovaty](https://news.ycombinator.c
 
 신입을 돕고, 자원을 공유하고, 다른사람들의 프로젝트에 사려 깊은 기여를 하는 것은 긍정적인 평판을 쌓는 데 도움이 됩니다. 오픈소스 커뮤니티에서 적극적으로 활동하는 회원이 되면 다른 회원들이 여러분이 하는 일에 대한 맥락을 얻게 되고, 여러분의 프로젝트에 관심을 갖고 프로젝트를 공유해 줄 가능성이 높아집니다. 타 오픈소스 프로젝트와의 관계가 발전하면 공식적인 파트너십으로 연결될 수도 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive”](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 어느 순간도 평판을 쌓기에는 너무 늦거나 이르지 않습니다. 이미 여러분의 프로젝트를 공개했더라도 사람들을 도울 방법을 항상 찾아 다니세요.
 

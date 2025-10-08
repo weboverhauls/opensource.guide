@@ -30,7 +30,7 @@ Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru pro
 
 **Un „contributor” ar putea fi oricine** care comentează la o problemă sau la o cerere de pull, oameni care adaugă valoare proiectului (fie că este trierea de probleme, scrierea de cod, sau organizarea de evenimente), sau oricine cu o cerere de pull îmbinată (poate cea mai restrânsă definiție a unui contributor).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   <p>
     [Pentru Node.js,] oricare persoană care se arată să comenteze la o problemă sau să trimită cod este o membră a comunității unui proiect. Doar faptul că ea poate fi văzută înseamnă că ea a trecut linia de la a fi un utilizator la a fi un contributor.
@@ -43,13 +43,13 @@ Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru pro
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **Termenul „committer”** poate fi folosit pentru a distinge accesul la commit, care este un tip specific de responsabilitate, de alte forme de contribuție.
 
 În timp ce poți defini rolurile proiectului tău în orice fel îți place, [consideră folosirea de definiții mai largi](../how-to-contribute/#ce-înseamnă-să-contribui) pentru a încuraja mai multe forme de contribuție. Poți folosi roluri de conducere pentru a recunoaște în mod oficial pe oamenii care au făcut contribuții remarcabile la proiectul tău, indiferent de abilitățile lor tehnice.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Poate mă știi ca „inventatorul” lui Django... dar de fapt sunt tipul care a fost angajat să lucreze pe un lucru la un an după ce a fost deja făcut. (...) Oamenii suspectează că sunt de succes datorită abilităților mele de programare... dar sunt în cel mai bun caz un programator mediu.
@@ -62,7 +62,7 @@ Un întreținător nu trebuie să fie neapărat cineva care scrie cod pentru pro
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Cum formalizez aceste roluri de conducere?
 
@@ -74,7 +74,7 @@ Pentru un proiect mai mare, dacă ai un site web, creează o pagină a echipei s
 
 Dacă proiectul tău are o comunitate de contributori foarte activă, ai putea să formezi o „echipă de bază” a întreținătorilor, sau chiar subcomitete ale oamenilor care preiau conducerea unor domenii de probleme diferite (de exemplu, securitate, trierea problemelor, sau conduita comunității). Lasă oamenii să se autoorganizeze și să aplice pentru voluntariat în rolurile de care sunt cei mai încântați, în loc să li le atribui.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <p>
     [Noi] suplinim echipa de bază cu câteva „subechipe”. Fiecare subechipă este concentrată pe un domeniu specific, de exemplu, proiectarea limbajului sau a bibliotecilor. (...) Pentru a asigura coordonare globală și o puternică, coerentă viziune pentru proiect ca întreg, fiecare subechipă este condusă de un membru din echipa de bază.
   </p>
@@ -86,7 +86,7 @@ Dacă proiectul tău are o comunitate de contributori foarte activă, ai putea s
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Echipele de conducere ar putea dori să creeze un canal desemnat (cum ar fi pe IRC) sau să se întâlnească periodic să discute despre proiect (cum ar fi pe Gitter sau Google Hangouts). Poți chiar face aceste întâlniri publice astfel încât alți oameni pot asculta. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), de exemplu, [găzduiește ore de lucru săptămânal](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -104,7 +104,7 @@ Pe de altă parte, în special pentru proiectele mai mari, mai complexe, ai pute
 
 Dacă proiectul tău este pe GitHub, poți folosi [ramuri protejate](https://help.github.com/articles/about-protected-branches/) pentru a gestiona cine poate face push spre o anumită ramură, și în care circumstanțe.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Oricând cineva îți trimite o cerere de pull, dă-i acces de commit la proiectul tău. Cu toate că poate suna incredibil de stupid la început, folosind această strategie îți va permite să dezlănțui adevărata putere a GitHub. (...) Odată ce oamenii au acces de commit, ei nu mai sunt îngrijorați că patch-ul lor ar putea ajunge neîmbinat... făcându-i să pună mult mai multă muncă în el.
@@ -117,7 +117,7 @@ Dacă proiectul tău este pe GitHub, poți folosi [ramuri protejate](https://hel
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Care sunt unele dintre structurile obișnuite de guvernanță pentru proiectele cu sursă deschisă?
 
@@ -143,7 +143,7 @@ Totuși unele documente inițiale vor contribui la guvernarea proiectului tău �
 
 Dacă ești parte dintr-o companie care lansează un proiect cu sursă deschisă, merită să aveți o discuție internă înainte de lansare despre cum compania voastră se așteaptă să mențină și să facă decizii cu privire la proiectul care merge înainte. Poate ați dori de asemenea să explicați în mod public oricare detaliu cu privire la cum compania va fi (sau nu va fi!) implicată în proiect.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Desemnăm echipe mici, să gestioneze proiectele pe GitHub, echipe care lucrează de fapt pe aceste proiecte la Facebook. De exemplu, React este condus de un inginer React.
@@ -156,7 +156,7 @@ Dacă ești parte dintr-o companie care lansează un proiect cu sursă deschisă
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Ce se întâmplă dacă angajați din companii încep să trimită contribuții?
 
@@ -180,7 +180,7 @@ Dacă vrei să accepți donații pentru proiectul tău cu sursă deschisă, poț
 
 Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei organizații nonprofit, deci ele găsesc în schimb un sponsor fiscal nonprofit. Un sponsor fiscal acceptă donații în numele tău, de obicei în schimbul unui procent din donație. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) și [Open Collective](https://opencollective.com/opensource) sunt exemple de organizații care servesc drept sponsori fiscali pentru proiecte cu sursă deschisă.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Scopul nostru este să furnizăm o infrastructură pe care comunitățile o pot folosi pentru a fi autosustenabile, creând astfel un mediu în care oricine — contributori, susținători, sponsori — obțin beneficii concrete din el.
@@ -193,6 +193,6 @@ Multe proiecte nu doresc să treacă prin dificultățile de înființare a unei
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Dacă proiectul tău este strâns legat de un anumit limbaj sau ecosistem, ar putea de asemenea exista o fundație software cu care poți lucra. De exemplu, [Python Software Foundation](https://www.python.org/psf/) ajută la sprijinirea [PyPI](https://pypi.org/), gestionarul de pachete Python, și [Node.js Foundation](https://foundation.nodejs.org/) ajută la sprijinirea [Express.js](https://expressjs.com/), un cadru de lucru bazat pe Node.

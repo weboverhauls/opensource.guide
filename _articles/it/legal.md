@@ -44,13 +44,13 @@ Sei fortunato perché oggi le licenze open source sono standardizzate e facili d
 
 Quando crei un nuovo progetto su GitHub, ti verrà [chiesto di aggiungere una licenza](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   La licenza standardizzata funge da sostituto per coloro che non hanno una formazione legale per sapere esattamente cosa possono e non possono fare con il software. A meno che non sia assolutamente necessario, evitare termini personalizzati, modificati o non standard che costituiranno un ostacolo all'utilizzo del codice dell'agenzia a valle.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Tutto ciò che un avvocato governativo deve sapere sulle licenze open source"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Quale licenza open source è adatta al mio progetto?
 
@@ -96,13 +96,13 @@ Un ulteriore contratto di collaborazione, spesso chiamato Contributor License Ag
 
 Inoltre, aggiungendo "documentazione" che alcuni ritengono non necessaria, difficile da comprendere o ingiusta (quando il destinatario dell'accordo ottiene più diritti dei contributori o del pubblico attraverso la licenza open source del progetto), un ulteriore accordo con il contributore può essere percepito come ostile alla comunità del progetto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Abbiamo rimosso il CLA per Node.js. Ciò riduce la barriera all’ingresso per i contributori di Node.js, espandendo così la base dei contributori.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Estensione dei contributi Node.js"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Alcune situazioni in cui potresti prendere in considerazione un accordo di collaborazione aggiuntivo per il tuo progetto includono:
 
@@ -138,23 +138,23 @@ Nel lungo termine, il tuo team legale può fare di più per aiutare l'azienda a 
 
 * **Regole per il contributo dei dipendenti:** Valuta la possibilità di sviluppare una politica aziendale che definisca il modo in cui i tuoi dipendenti contribuiscono ai progetti open source. Una politica chiara ridurrà la confusione tra i tuoi dipendenti e li aiuterà a contribuire a progetti open source nel migliore interesse dell'azienda, sia come parte del loro lavoro che nel loro tempo libero. Un buon esempio è [un IP modello e una politica di contributo open source](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) di Rackspace.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Fornire proprietà intellettuale correzionale rafforza la base di conoscenze e la reputazione di un dipendente. Ciò dimostra che l'azienda ha investito nello sviluppo del dipendente e crea un senso di empowerment e autonomia. Tutti questi vantaggi portano anche a un morale più alto e a una migliore fidelizzazione dei dipendenti.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["Modello IP e politica di contributo open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Cosa pubblicare:** [(Quasi) tutto?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) АQuando il tuo team legale comprende ed è investito nella strategia open source della tua azienda, sarà in grado di aiutarti meglio piuttosto che ostacolare i tuoi sforzi.
 * **Conformità:** Anche se la tua azienda non rilascia progetti open source, utilizza software open source di terze parti. [Consapevolezza e processo](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) possono prevenire mal di testa, ritardi nei prodotti e azioni legali.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Le organizzazioni devono disporre di una strategia di licenza e conformità che soddisfi entrambe le categorie \["permissivo" e "copyleft"\]. Ciò inizia con la tenuta di un registro dei termini di licenza che si applicano al software open source utilizzato, inclusi sottocomponenti e dipendenze.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Software open source: nozioni di base e best practice sulla conformità"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Brevetti:** la tua azienda potrebbe voler aderire a [Open Invention Network](https://www.openinventionnetwork.com/), un pool di brevetti condiviso e sicuro per proteggere l'uso da parte dei membri di grandi progetti open source o per esplorare altre [licenze di brevetti alternative](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Soprattutto se e quando ha senso trasferire un progetto a [un'entità legale esterna all'azienda](../leadership-and-governance/#ho-bisogno-di-una-persona-giuridica-per-sostenere-il-mio-progetto).

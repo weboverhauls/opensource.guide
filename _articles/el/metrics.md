@@ -96,13 +96,13 @@ related:
 
 * **Τύποι συνεισφορών:** Για παράδειγμα, μεταβιβάσεις, διόρθωση τυπογραφικών λαθών ή σφαλμάτων ή σχολιασμός ενός θέματος.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Ο ανοικτός κώδικας είναι κάτι περισσότερο από απλός κώδικας. Τα επιτυχημένα πρότζεκτ ανοικτού κώδικα περιλαμβάνουν συνεισφορές σε κώδικα και τεκμηρίωση μαζί με συζητήσεις σχετικά με αυτές τις αλλαγές.
   <p markdown="1" class="pquote-credit">
 - @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Δραστηριότητα συντηρητή
 

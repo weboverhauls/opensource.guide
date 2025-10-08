@@ -14,13 +14,13 @@ related:
 
 Mengi ya kazi ya open source ni ya hiari. Kwa mfano, mtu anaweza kukutana na hitilafu katika mradi anaoutumia na kuwasilisha suluhisho haraka, au wanaweza kufurahia kuburudika na mradi wa open source katika wakati wao wa ziada.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Nilikuwa nikitafuta mradi wa "hobby" wa programu ambao ungenifanya niwe na shughuli wakati wa juma karibu na Krismasi. (...) Nilikuwa na tarakilishi ya nyumbani, na sio kitu kingine chochote mikononi mwangu. Niliamua kuandika interpreter kwa lugha mpya ya skripti ambayo nilikuwa nikifikiria hivi karibuni. (...) Nilichagua Python kama jina la kazi.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Kuna sababu nyingi kwa nini mtu anaweza kutotaka kulipwa kwa kazi yao ya open source.
 
@@ -28,35 +28,35 @@ Kuna sababu nyingi kwa nini mtu anaweza kutotaka kulipwa kwa kazi yao ya open so
 * **Wanafurahia kufikiria open source kama hobby** au njia ya ubunifu na hawataki kujisikia kuwa na wajibu wa kifedha kufanya kazi kwenye miradi yao.
 * **Wanapata faida nyingine kutokana na kuchangia kwenye open source,** kama vile kujenga sifa yao au portfolio, kujifunza ujuzi mpya, au kujisikia karibu na jamii.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Misaada ya kifedha huleta hisia ya wajibu, kwa wengine. (...) Ni muhimu kwetu, katika ulimwengu ulio na uhusiano wa kimataifa na wa kasi, kuwa na uwezo wa kusema "sasa si, nahisi kama kufanya kitu tofauti kabisa".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Kwa Nini Hatukubali Misaada"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Kwa wengine, hasa wakati michango ni ya kudumu au inahitaji muda mwingi, kulipwa kuchangia kwenye open source ndiyo njia pekee wanaweza kushiriki, ama kwa sababu mradi unahitaji hivyo, au kwa sababu za kibinafsi.
 
 Kuhifadhi miradi maarufu kunaweza kuwa na wajibu mkubwa, ikichukua masaa 10 au 20 kwa wiki badala ya masaa machache kwa mwezi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Uliza yeyote anayehifadhi mradi wa open source, na watakuambia kuhusu ukweli wa kiasi cha kazi kinachohitajika katika kusimamia mradi. Una wateja. Unarekebisha matatizo kwao. Unaunda vipengele vipya. Hii inakuwa hitaji halisi kwa wakati wako.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["Maadili ya Kazi Isiyolipwa na Jamii ya OSS"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Kazi ya kulipwa pia inawawezesha watu kutoka nyanja tofauti kufanya michango yenye maana. Watu wengine hawawezi kumudu kutumia muda wa bure kwenye miradi ya open source, kulingana na hali zao za kifedha, deni, au wajibu wa kulea familia au wengine. Hii inamaanisha ulimwengu hauoni michango kutoka kwa watu wenye talanta ambao hawawezi kumudu kujitolea wakati wao. Hii ina athari za kimaadili, kama @ashedryden [ameelezea](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), kwani kazi inayofanywa inakabiliwa na upendeleo kwa wale ambao tayari wana faida katika maisha, ambao kisha wanapata faida zaidi kutokana na michango yao ya kujitolea, wakati wengine ambao hawawezi kujitolea basi hawapati fursa za baadaye, ambayo inaimarisha ukosefu wa utofauti katika jamii ya open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS inatoa faida kubwa kwa tasnia ya teknolojia, ambayo, kwa upande wake, inamaanisha faida kwa sekta zote. (...) Hata hivyo, ikiwa watu pekee wanaoweza kuizingatia ni wale wenye bahati na walio na shauku, basi kuna uwezo mkubwa usiotumika.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Pesa na Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Ikiwa unatafuta msaada wa kifedha, kuna njia mbili za kuzingatia. Unaweza kufadhili wakati wako kama mchangiaji, au unaweza kupata ufadhili wa shirika kwa mradi.
 
@@ -76,13 +76,13 @@ Makampuni mengi yanaendeleza programu za open source ili kujenga chapa yao na ku
 
 Ikiwa kampuni yako inaenda kwenye njia hii, ni muhimu kuweka mipaka kati ya shughuli za jamii na za kampuni wazi. Hatimaye, open source hujitegemea kupitia michango kutoka kwa watu kote ulimwenguni, na hiyo ni kubwa zaidi kuliko kampuni moja au eneo lolote.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Kupata malipo ya kufanya kazi kwenye open source ni fursa adimu na nzuri, lakini haupaswi kuacha shauku yako katika mchakato. Shauku yako inapaswa kuwa sababu ambayo makampuni yanataka kukulipa.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Mipaka Iliyokolea"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Ikiwa huwezi kumshawishi mwajiri wako wa sasa kuipa kipaumbele kazi ya open source, fikiria kutafuta mwajiri mpya anayehimiza michango ya wafanyakazi kwenye open source. Tafuta makampuni ambayo yanaweka wazi kujitolea kwao kwa kazi ya open source. Kwa mfano:
 
@@ -164,13 +164,13 @@ Ni nini hasa, utatimiza nini kwa ufadhili uliopendekezwa? Zingatia hatua au mato
 
 Je, mfadhili ana masharti yoyote kuhusu utoaji? Kwa mfano, huenda ukahitaji kuwa shirika lisilo la faida au kuwa na mdhamini wa kifedha wa shirika lisilo la faida. Au labda fedha zinapaswa kutolewa kwa mkandarasi binafsi badala ya shirika. Masharti haya yanatofautiana kati ya wafadhili, hivyo hakikisha unafanya utafiti kabla.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   Kwa miaka mingi, tumekuwa rasilimali inayoongoza kwa icons za kirafiki za tovuti, na jamii ya watu zaidi ya milioni 20 na kuonekana kwenye tovuti zaidi ya milioni 70, ikiwa ni pamoja na Whitehouse.gov. (...) Toleo la 4 lilikuwa miaka mitatu iliyopita. Teknolojia imebadilika sana tangu wakati huo, na kwa kweli, Font Awesome imekuwa kidogo ya zamani. (...) Ndio maana tunazindua Font Awesome 5. Tunaboresha na kuandika upya CSS na kubuni kila icon kutoka juu hadi chini. Tunazungumzia kubuni bora, umoja bora, na usomaji bora.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Video ya Kickstarter ya Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Jaribu na usikate tamaa
 

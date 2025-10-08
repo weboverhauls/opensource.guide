@@ -30,25 +30,25 @@ related:
 
 **Ένας "contributor" θα μπορούσε να είναι οποιοσδήποτε** που σχολιάζει ένα θέμα ή ένα pull request, άνθρωποι που προσθέτουν αξία στο πρότζεκτ (είτε πρόκειται για τη διαχείριση θεμάτων, τη συγγραφή κώδικα ή τη διοργάνωση εκδηλώσεων), ή οποιοσδήποτε με ένα συγχωνευμένο pull request (ίσως ο στενότερος ορισμός ενός contributor).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Για το Node.js,\] κάθε άτομο που εμφανίζεται για να σχολιάσει ένα θέμα ή να υποβάλει κώδικα είναι μέλος της κοινότητας ενός πρότζεκτ. Και μόνο το γεγονός ότι είναι σε θέση να τους βλέπεις σημαίνει ότι είναι πια συνεισφέροντες και όχι απλώς χρήστες.
   <p markdown="1" class="pquote-credit">
 - @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **Ο όρος "committer"** θα μπορούσε να χρησιμοποιηθεί για να διακρίνει την πρόσβαση στα commits, η οποία είναι ένας συγκεκριμένος τύπος ευθύνης, από άλλες μορφές συνεισφοράς.
 
 Ενώ μπορείτε να ορίσετε τους ρόλους του πρότζεκτ σας με όποιον τρόπο θέλετε, [εξετάστε το ενδεχόμενο να χρησιμοποιήσετε ευρύτερους ορισμούς](../how-to-contribute/#τι-σημαίνει-να-συνεισφέρετε) για να ενθαρρύνετε περισσότερες μορφές συνεισφοράς. Μπορείτε να χρησιμοποιήσετε τους ρόλους ηγεσίας για να αναγνωρίσετε επίσημα τους ανθρώπους που έχουν συνεισφέρει εξαιρετικά στο πρότζεκτ σας, ανεξάρτητα από τις τεχνικές τους δεξιότητες.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Μπορεί να με ξέρετε ως τον "εφευρέτη" του Django... αλλά στην πραγματικότητα είμαι ο τύπος που προσλήφθηκε για να δουλέψει πάνω σε ένα πράγμα ένα χρόνο αφότου είχε ήδη φτιαχτεί. (...) Οι άνθρωποι υποψιάζονται ότι είμαι επιτυχημένος λόγω των προγραμματιστικών μου ικανοτήτων... αλλά είμαι στην καλύτερη περίπτωση ένας μέτριος προγραμματιστής.
   <p markdown="1" class="pquote-credit">
 - @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Πώς μπορώ να επισημοποιήσω αυτούς τους ηγετικούς ρόλους;
 
@@ -60,12 +60,12 @@ related:
 
 Εάν το πρότζεκτ σας έχει μια πολύ ενεργή κοινότητα συνεισφερόντων, μπορείτε να δημιουργήσετε μια "βασική ομάδα" συντηρητών ή ακόμη και υποεπιτροπές ατόμων που αναλαμβάνουν την ευθύνη για διαφορετικούς τομείς θεμάτων (για παράδειγμα, ασφάλεια, διαχείριση θεμάτων ή συμπεριφορά της κοινότητας). Αφήστε τους ανθρώπους να αυτοοργανωθούν και να αναλάβουν εθελοντικά τους ρόλους που τους ενθουσιάζουν περισσότερο, αντί να τους αναθέσετε.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[Εμείς\] συμπληρώνουμε τη βασική ομάδα με διάφορες "υποομάδες". Κάθε υποομάδα επικεντρώνεται σε έναν συγκεκριμένο τομέα, π.χ. στο σχεδιασμό γλωσσών ή στις βιβλιοθήκες. (...) Για να εξασφαλιστεί ο συνολικός συντονισμός και ένα ισχυρό, συνεκτικό όραμα για το πρότζεκτ ως σύνολο, κάθε υποομάδα καθοδηγείται από ένα μέλος της βασικής ομάδας.
   <p markdown="1" class="pquote-credit">
 - ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Οι ηγετικές ομάδες μπορεί να θέλουν να δημιουργήσουν ένα καθορισμένο κανάλι (όπως στο IRC) ή να συναντώνται τακτικά για να συζητούν το πρότζεκτ (όπως στο Gitter ή στο Google Hangout). Μπορείτε ακόμη και να κάνετε αυτές τις συναντήσεις δημόσιες ώστε να μπορούν να τις ακούνε και άλλοι. Το [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), για παράδειγμα, [φιλοξενεί ώρες γραφείου κάθε εβδομάδα](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ related:
 
 Αν το πρότζεκτ σας βρίσκεται στο GitHub, μπορείτε να χρησιμοποιήσετε το [protected branches](https://help.github.com/articles/about-protected-branches/) για να διαχειριστείτε ποιος μπορεί να προωθήσει σε ένα συγκεκριμένο κλάδο και υπό ποιες συνθήκες.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Κάθε φορά που κάποιος σας στέλνει ένα pull request, δώστε του πρόσβαση στα commits στο πρότζεκτ σας. Αν και μπορεί να ακούγεται απίστευτα ανόητο στην αρχή, η χρήση αυτής της στρατηγικής θα σας επιτρέψει να απελευθερώσετε την πραγματική δύναμη του GitHub. (...) Μόλις οι άνθρωποι έχουν πρόσβαση στα commits, δεν ανησυχούν πλέον ότι η διόρθωσή τους μπορεί να μην ενσωματωθεί... με αποτέλεσμα να βάλουν πολύ περισσότερη δουλειά σε αυτήν.
   <p markdown="1" class="pquote-credit">
 - @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Ποιες είναι μερικές από τις συνήθεις δομές διακυβέρνησης για πρότζεκτ ανοικτού κώδικα;
 
@@ -115,13 +115,13 @@ related:
 
 Αν ανήκετε σε μια εταιρεία που εγκαινιάζει ένα πρότζεκτ ανοιχτού κώδικα, αξίζει να κάνετε μια εσωτερική συζήτηση πριν από την έναρξη σχετικά με το πώς η εταιρεία σας αναμένει να συντηρεί και να λαμβάνει αποφάσεις σχετικά με το πρότζεκτ που προχωράει. Μπορεί επίσης να θέλετε να εξηγήσετε δημόσια οτιδήποτε ιδιαίτερο σχετικά με τον τρόπο με τον οποίο η εταιρεία σας θα συμμετέχει (ή δεν θα συμμετέχει!) στο πρότζεκτ.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Αναθέτουμε τη διαχείριση πρότζεκτ στο GitHub σε μικρές ομάδες που εργάζονται πραγματικά σε αυτά στο Facebook. Για παράδειγμα, το React διευθύνεται από έναν μηχανικό του React.
   <p markdown="1" class="pquote-credit">
 - @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Τι θα συμβεί αν οι εταιρικοί υπάλληλοι αρχίσουν να υποβάλλουν συνεισφορές;
 
@@ -145,12 +145,12 @@ related:
 
 Πολλά πρότζεκτ δεν επιθυμούν να μπουν στον κόπο να δημιουργήσουν έναν μη κερδοσκοπικό οργανισμό, οπότε βρίσκουν έναν μη κερδοσκοπικό φορολογικό χορηγό. Ένας φορολογικός χορηγός δέχεται δωρεές εκ μέρους σας, συνήθως με αντάλλαγμα ένα ποσοστό της δωρεάς. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) και [Open Collective](https://opencollective.com/opensource) είναι παραδείγματα οργανισμών που λειτουργούν ως φορολογικοί χορηγοί για πρότζεκτ ανοικτού κώδικα.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Στόχος μας είναι να παρέχουμε μια υποδομή που οι κοινότητες μπορούν να χρησιμοποιήσουν για να είναι αυτοσυντηρούμενες, δημιουργώντας έτσι ένα περιβάλλον όπου όλοι - συνεισφέροντες, υποστηρικτές, χορηγοί - θα έχουν συγκεκριμένα οφέλη.
   <p markdown="1" class="pquote-credit">
 - @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Εάν το πρότζεκτ σας συνδέεται στενά με μια συγκεκριμένη γλώσσα ή οικοσύστημα, μπορεί επίσης να υπάρχει ένα σχετικό ίδρυμα λογισμικού με το οποίο μπορείτε να συνεργαστείτε. Για παράδειγμα, το [Python Software Foundation](https://www.python.org/psf/) βοηθά στην υποστήριξη του [PyPI](https://pypi.org/), του διαχειριστή πακέτων Python, και το [Node.js Foundation](https://foundation.nodejs.org/) βοηθά στην υποστήριξη του [Express.js](https://expressjs.com/), ενός πλαισίου βασισμένου στο Node.

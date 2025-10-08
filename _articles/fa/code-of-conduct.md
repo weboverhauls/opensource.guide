@@ -37,12 +37,12 @@ related:
 
 ## تصمیم‌گیری در مورد نحوۀ پیش بردن منشور اخلاقی
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   منشور اخلاقی‌ای که اجرا نمی‌شود (یا نمی‌توان آن را اجرا کرد) بدتر از نبود هیچ منشور اخلاقی‌ای می‌باشد: نبود منشور اخلاقی این پیام را با خود به همراه دارد که ارزش‌های درج شده در منشور اخلاقی در انجمن شما مهم نیستد و مورد احترام واقع نمی‌شوند.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 شما باید **قبل از وقوع** هر گونه تخلفی ابتدا توضیح دهید که منشور اخلاقی شما چگونه عملیاتی می‌شود. چندین دلیل برای اینکار وجود دارد:
 
@@ -72,12 +72,12 @@ related:
 
 قبل از عکس‌العمل نشان دادن، زمان کافی را برای فهمیدن کامل ماجرا صرف کنید. نظرات و گفتگوهای مربوط به گذشتۀ شخص را بررسی کنید تا آن‌ها را بهتر بشناسید و  متوجه شوید چرا ممکن است چنین رفتاری از آن‌ها سر بزند. سعی کنید دیدگاه‌های دیگری را غیر از دیدگاه‌های خودتان دربارۀ این فرد و رفتار او جمع‌آوری کنید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   وارد بحث و جدل با شخص نشوید. قبل از اتمام شدن رسیدگی به موضوع مورد بحث، وارد موضوع دیگر و رسیدگی به شخص دیگری نشوید. بر آنچه که نیاز هست تمرکز کنید.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### اقداماتی مناسب به کار ببرید
 

@@ -12,7 +12,7 @@ related:
 
 ## Po co przyczyniać się do open source?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
@@ -20,7 +20,7 @@ related:
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Wkład w open source może być satysfakcjonującym sposobem uczenia się oraz nauczania i budowania doświadczenia w prawie każdej umiejętności, jaką możesz sobie wyobrazić.
 
@@ -64,7 +64,7 @@ Nie martwić się! Istnieje wiele sposobów na zaangażowanie się w projekt ope
 
 Powszechnym błędnym przekonaniem na temat przyczyniania się do open source jest to, że musisz wnieść kod. W rzeczywistości często inne części projektu są [najbardziej zaniedbywane lub pomijane](https://github.com/blog/2195-the-shape-of-open-source). Zrobisz projektowi _wielką_ przysługę, oferując swój wkład w taką część projektu!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   <i>
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
@@ -72,7 +72,7 @@ Powszechnym błędnym przekonaniem na temat przyczyniania się do open source je
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na zaangażowanie się w projekt i poznanie innych członków społeczności. Budowanie tych relacji da ci możliwość pracy nad innymi częściami projektu.
 
@@ -97,7 +97,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://packaging.python.org/)
 * Napisz tłumaczenie dokumentacji projektu
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
@@ -105,7 +105,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Czy lubisz organizować?
 
@@ -146,7 +146,7 @@ Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc
 
 ## Orientacja na nowy projekt
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   <i>
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
@@ -154,7 +154,7 @@ Nawet jeśli jesteś programistą, praca nad projektem dokumentacji może pomóc
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 W przypadku czegoś więcej niż poprawa literówek, udział w open source jest jak podchodzenie do grupy nieznajomych na imprezie. Jeśli zaczniesz mówić o lamach, gdy byli głęboko w dyskusji na temat złotych rybek, prawdopodobnie spojrzą na ciebie trochę dziwnie.
 
@@ -371,13 +371,13 @@ Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Jak przesłać kontrybucję
 
@@ -387,13 +387,13 @@ Znalazłeś projekt, który ci się podoba i jesteś gotowy, aby wnieść swój 
 
 Niezależnie od tego, czy jesteś jednorazowym współpracownikiem, czy próbujesz dołączyć do społeczności, praca z innymi jest jedną z najważniejszych umiejętności, które rozwiniesz w środowisku open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o tych punktach, aby pomóc skutecznie zrozumieć twoje pomysły.
 
@@ -449,13 +449,13 @@ Zanim otworzysz problem lub pull request, sprawdź dokumenty wspierające projek
 
 Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz rozwiązać, zanim zaczniesz nad nim pracować. Przydatne jest obserwowanie projektu przez jakiś czas (na GitHub, [możesz kliknąć "Watch"](https://help.github.com/articles/watching-repositories/) aby otrzymywać powiadomienia o wszystkich rozmowach) i poznać członków społeczności przed podjęciem pracy, która może nie zostać zaakceptowana.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Otwieranie issue
 

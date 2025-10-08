@@ -24,7 +24,7 @@ _Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _ope
 
 ### Waarom stellen mensen hun werk als open source beschikbaar?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Een van de meest lonende ervaringen die ik krijg bij het gebruiken van en samenwerken aan open source, komt voort uit de relaties die ik opbouw met andere ontwikkelaars die met veel van dezelfde problemen worden geconfronteerd als ik.
 
@@ -33,7 +33,7 @@ _Vrije software (Free software)_ verwijst naar dezelfde reeks projecten als _ope
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["Het was geweldig om in Open Source te komen"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [Er zijn veel redenen](https://ben.balter.com/2015/11/23/why-open-source/) waarom een persoon of organisatie een project zou willen open source maken. Enkele voorbeelden zijn:
 
@@ -71,7 +71,7 @@ Er is geen goed antwoord op deze vraag. Mogelijk hebt u meerdere doelen voor een
 
 Als het je enige doel is om met je werk te pronken, wil je misschien niet eens bijdragen, en dat zeg je zelfs in je README. Aan de andere kant, als u donateurs wilt, investeert u tijd in duidelijke documentatie en zorgt u ervoor dat nieuwkomers zich welkom voelen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Op een gegeven moment heb ik een aangepaste UIAlertView gemaakt die ik gebruikte ... en ik besloot het open source te maken. Dus ik heb het aangepast om het dynamischer te maken en het naar GitHub geüpload. Ik schreef ook mijn eerste documentatie waarin ik aan andere ontwikkelaars uitlegde hoe ze het voor hun projecten konden gebruiken. Waarschijnlijk heeft niemand het ooit gebruikt omdat het een eenvoudig project was, maar ik voelde me goed over mijn bijdrage.
 
@@ -80,7 +80,7 @@ Als het je enige doel is om met je werk te pronken, wil je misschien niet eens b
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Zelf onderwezen softwareontwikkelaars: waarom open source belangrijk voor ons is"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 Naarmate uw project groeit, heeft uw gemeenschap mogelijk meer nodig dan alleen code van u. Reageren op problemen, code herzien en uw project promoten, zijn allemaal belangrijke taken in een open source-project.
 
@@ -90,7 +90,7 @@ Hoewel de hoeveelheid tijd die u aan niet-coderende taken besteedt, afhangt van 
 
 Als u een specifiek budget of personeel nodig heeft voor promotie, operaties en het onderhouden van het project, begin die gesprekken dan vroeg.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Als u begint met het openen van het project, is het belangrijk om ervoor te zorgen dat uw beheerprocessen rekening houden met de bijdragen en capaciteiten van de gemeenschap rond uw project. Wees niet bang om bijdragers die niet in uw bedrijf werkzaam zijn, te betrekken bij de belangrijkste aspecten van het project, vooral als ze regelmatig bijdragen.
 
@@ -99,7 +99,7 @@ Als u een specifiek budget of personeel nodig heeft voor promotie, operaties en 
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["Dus je wilt een project openen, hè?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### Bijdragen aan andere projecten
 
@@ -151,7 +151,7 @@ Probeer in je README de volgende vragen te beantwoorden:
 
 U kunt uw README gebruiken om andere vragen te beantwoorden, zoals hoe u omgaat met bijdragen, wat de doelen van het project zijn en informatie over licenties en attributie. Als u geen bijdragen wilt accepteren, of uw project is nog niet klaar voor productie, schrijf deze informatie dan op.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Betere documentatie betekent meer gebruikers, minder ondersteuningsverzoeken en meer bijdragers. (...) Onthoud dat u niet uw lezers bent. Er zijn mensen die misschien naar een project komen die totaal andere ervaringen hebben.
 
@@ -160,7 +160,7 @@ U kunt uw README gebruiken om andere vragen te beantwoorden, zoals hoe u omgaat 
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Schrijven zodat uw woorden worden gelezen (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 Soms vermijden mensen het schrijven van een README omdat ze het gevoel hebben dat het project niet af is, of omdat ze geen bijdragen willen. Dit zijn allemaal hele goede redenen om er een te schrijven.
 
@@ -200,7 +200,7 @@ Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zi
 
 ### Opstellen van een gedragscode
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   We hebben allemaal ervaringen gehad waarbij we te maken kregen met wat waarschijnlijk misbruik was, hetzij als onderhouder die probeerde uit te leggen waarom iets op een bepaalde manier moest zijn, of als gebruiker ... die een simpele vraag stelde. (...) Een gedragscode wordt een gemakkelijk te raadplegen en koppelbaar document dat aangeeft dat uw team constructief discours zeer serieus neemt.
 
@@ -209,7 +209,7 @@ Link naar uw BIJDRAGEN-bestand vanuit uw README, zodat meer mensen het kunnen zi
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Open Source een gelukkiger plek maken"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 Ten slotte helpt een gedragscode om basisregels vast te stellen voor het gedrag van de deelnemers aan uw project. Dit is vooral waardevol als u een open source-project start voor een gemeenschap of bedrijf. Een gedragscode stelt je in staat om gezond, constructief gemeenschapsgedrag te faciliteren, wat je stress als onderhouder zal verminderen.
 
@@ -254,7 +254,7 @@ Gedurende de levensduur van uw project zult u veel schrijven: README's, tutorial
 
 Of het nu gaat om officiële documentatie of een informele e-mail, uw schrijfstijl maakt deel uit van het merk van uw project. Bedenk hoe u op uw publiek zou kunnen overkomen en of dat de toon is die u wilt overbrengen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Ik probeerde betrokken te zijn bij elke thread op de mailinglijst en voorbeeldig gedrag te tonen, aardig te zijn tegen mensen, hun problemen serieus te nemen en in het algemeen behulpzaam te zijn. Na een tijdje bleven mensen rondhangen om niet alleen vragen te stellen, maar ook om te helpen met het beantwoorden, en tot mijn grote vreugde bootsten ze mijn stijl na.
 
@@ -263,7 +263,7 @@ Of het nu gaat om officiële documentatie of een informele e-mail, uw schrijfsti
   <p markdown="1" class="pquote-credit">
 — @janl op [CouchDB](https://github.com/apache/couchdb), ["Duurzaam open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Het gebruik van warme, inclusieve taal (zoals 'zij', zelfs als je naar de enige persoon verwijst), kan er voor zorgen dat je project een welkom gevoel krijgt bij nieuwe bijdragers. Blijf bij eenvoudige taal, aangezien veel van uw lezers mogelijk geen moedertaalsprekers Engels zijn.
 

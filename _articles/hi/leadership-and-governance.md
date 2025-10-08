@@ -30,25 +30,25 @@ related:
 
 **एक "योगदानकर्ता" कोई भी हो सकता है** जो किसी मुद्दे या पुल अनुरोध पर टिप्पणी करता है, जो लोग परियोजना में मूल्य जोड़ते हैं (चाहे वह मुद्दों का परीक्षण करना हो, कोड लिखना हो, या घटनाओं का आयोजन करना हो), या मर्ज किए गए पुल अनुरोध वाला कोई भी व्यक्ति (शायद योगदानकर्ता की सबसे संकीर्ण परिभाषा।)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[ Node.js के लिया,\] प्रत्येक व्यक्ति जो किसी मुद्दे पर टिप्पणी करने या कोड सबमिट करने के लिए आता है, वह प्रोजेक्ट समुदाय का सदस्य होता है। बस उन्हें देखने में सक्षम होने का मतलब है कि उन्होंने उपयोगकर्ता से योगदानकर्ता बनने की सीमा पार कर ली है।
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **शब्द "कमिटर"** का उपयोग कमिट एक्सेस, जो एक विशिष्ट प्रकार की जिम्मेदारी है, को योगदान के अन्य रूपों से अलग करने के लिए किया जा सकता है।
 
 हालाँकि आप अपनी परियोजना भूमिकाओं को अपनी इच्छानुसार किसी भी तरह परिभाषित कर सकते हैं, [व्यापक परिभाषाओं का उपयोग करने पर विचार करें](../how-to-contribute/#योगदान-देने-का-क्या-मतलब-है) योगदान के और अधिक रूपों को प्रोत्साहित करना। आप उन लोगों को औपचारिक रूप से पहचानने के लिए नेतृत्व की भूमिकाओं का उपयोग कर सकते हैं जिन्होंने आपके प्रोजेक्ट में उत्कृष्ट योगदान दिया है, भले ही उनके तकनीकी कौशल कुछ भी हों।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   आप शायद मुझे Django के "आविष्कारक" के रूप में जानते होंगे...लेकिन वास्तव में मैं वह व्यक्ति हूं जिसे किसी चीज़ के बनने के एक साल बाद उस पर काम करने के लिए नियुक्त किया गया था। (...) लोगों को संदेह है कि मैं अपने प्रोग्रामिंग कौशल के कारण सफल हूं...लेकिन मैं अधिक से अधिक एक औसत प्रोग्रामर हूं।
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## मैं इन नेतृत्व भूमिकाओं को कैसे औपचारिक बनाऊं?
 
@@ -60,12 +60,12 @@ related:
 
 यदि आपके प्रोजेक्ट में बहुत सक्रिय योगदानकर्ता समुदाय है, तो आप अनुरक्षकों की एक "कोर टीम" बना सकते हैं, या ऐसे लोगों की उपसमितियां भी बना सकते हैं जो विभिन्न मुद्दे क्षेत्रों (उदाहरण के लिए, सुरक्षा, समस्या निवारण, या सामुदायिक आचरण) का स्वामित्व लेते हैं। लोगों को वे भूमिकाएँ सौंपने के बजाय स्वयं संगठित होने दें और उनके लिए स्वेच्छा से काम करने दें जिनके बारे में वे सबसे अधिक उत्साहित हैं।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[हम\] कई "उपटीमों" के साथ कोर टीम को पूरक करें। प्रत्येक उपटीम एक विशिष्ट क्षेत्र पर केंद्रित है, जैसे, भाषा डिज़ाइन या पुस्तकालय। (...) समग्र रूप से परियोजना के लिए वैश्विक समन्वय और एक मजबूत, सुसंगत दृष्टिकोण सुनिश्चित करने के लिए, प्रत्येक उपटीम का नेतृत्व कोर टीम के एक सदस्य द्वारा किया जाता है।
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 नेतृत्व दल एक निर्दिष्ट चैनल बनाना चाह सकते हैं (जैसे आईआरसी पर) या परियोजना पर चर्चा करने के लिए नियमित रूप से मिलना चाहते हैं (जैसे गिटर या गूगल हैंगआउट पर)। आप उन बैठकों को सार्वजनिक भी कर सकते हैं ताकि अन्य लोग सुन सकें। [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), उदाहरण के लिए, [hosts office hours every week](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ related:
 
 यदि आपका प्रोजेक्ट GitHub पर है, तो आप इसका उपयोग कर सकते हैं [protected branches](https://help.github.com/articles/about-protected-branches/) यह प्रबंधित करना कि कौन किसी विशेष शाखा में जा सकता है, और किन परिस्थितियों में।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   जब भी कोई आपको पुल अनुरोध भेजता है, तो उन्हें अपने प्रोजेक्ट तक पहुंच प्रदान करें। हालाँकि यह पहली बार में अविश्वसनीय रूप से बेवकूफी भरा लग सकता है, इस रणनीति का उपयोग करने से आप GitHub की वास्तविक शक्ति को उजागर कर सकेंगे। (...) एक बार लोगों के पास प्रतिबद्ध पहुंच हो जाने के बाद, उन्हें चिंता नहीं रहती कि उनका पैच अलग हो सकता है...जिससे उन्हें इसमें और अधिक काम करना पड़ेगा।
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## ओपन सोर्स परियोजनाओं के लिए कुछ सामान्य शासन संरचनाएँ क्या हैं?
 
@@ -116,13 +116,13 @@ related:
 
 यदि आप एक ओपन सोर्स प्रोजेक्ट लॉन्च करने वाली कंपनी का हिस्सा हैं, तो लॉन्च से पहले इस बारे में आंतरिक चर्चा करना उचित है कि आपकी कंपनी प्रोजेक्ट को आगे बढ़ाने के बारे में कैसे बनाए रखने और निर्णय लेने की उम्मीद करती है। हो सकता है कि आप सार्वजनिक रूप से यह स्पष्ट करना चाहें कि आपकी कंपनी इस परियोजना में कैसे शामिल होगी (या नहीं करेगी!)।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   हम GitHub पर प्रोजेक्ट प्रबंधित करने के लिए छोटी टीमें नियुक्त करते हैं जो वास्तव में Facebook पर इन पर काम कर रही हैं। उदाहरण के लिए, रिएक्ट एक रिएक्ट इंजीनियर द्वारा चलाया जाता है।
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## यदि कॉर्पोरेट कर्मचारी अंशदान जमा करना शुरू कर दें तो क्या होगा?
 
@@ -146,12 +146,12 @@ related:
 
 कई परियोजनाएँ एक गैर-लाभकारी संस्था स्थापित करने की परेशानी से गुज़रना नहीं चाहती हैं, इसलिए वे इसके बजाय एक गैर-लाभकारी राजकोषीय प्रायोजक ढूंढती हैं। एक राजकोषीय प्रायोजक आपकी ओर से दान स्वीकार करता है, आमतौर पर दान के एक प्रतिशत के बदले में। [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) ओर [Open Collective](https://opencollective.com/opensource) ऐसे संगठनों के उदाहरण हैं जो ओपन सोर्स परियोजनाओं के लिए वित्तीय प्रायोजक के रूप में काम करते हैं।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   हमारा लक्ष्य एक ऐसा बुनियादी ढाँचा प्रदान करना है जिसका उपयोग समुदाय स्वयं टिकाऊ होने के लिए कर सकें, इस प्रकार एक ऐसा वातावरण तैयार करना है जहाँ सभी — योगदानकर्ताओं, समर्थकों, प्रायोजकों — को इससे ठोस लाभ मिले।
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["दान ढांचे से आगे बढ़ना"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 यदि आपका प्रोजेक्ट किसी निश्चित भाषा या पारिस्थितिकी तंत्र से निकटता से जुड़ा हुआ है, तो एक संबंधित सॉफ़्टवेयर फ़ाउंडेशन भी हो सकता है जिसके साथ आप काम कर सकते हैं। उदाहरण के लिए, [Python Software Foundation](https://www.python.org/psf/) मदद करता है [PyPI](https://pypi.org/), पायथन पैकेज मैनेजर का, और [Node.js Foundation](https://foundation.nodejs.org/) मदद करता है [Express.js](https://expressjs.com/) का, एक नोड-आधारित ढांचा।

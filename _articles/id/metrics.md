@@ -96,13 +96,13 @@ Contoh dari metrik komunitas yang perlu Anda perhatikan secara berkala meliputi:
 
 * **Jenis kontribusi:** Sebagai contoh, commit, memperbaiki kesalahan ketik atau kesalahan program, atau memberikan komentar pada sebuah laporan masalah.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Open source lebih dari sekedar kode. Proyek open source yang sukses meliputi kontribusi kode dan dokumentasi bersama dengan diskusi tentang perubahan ini.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Aktivitas pengelola
 

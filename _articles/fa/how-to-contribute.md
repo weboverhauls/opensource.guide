@@ -12,13 +12,13 @@ related:
 
 ## چرایی مشارکت در یک پروژه‌ی متن باز؟
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   کار کردن در <span dir="rtl">Freenode</span> به من در یادگیری بسیاری از مهارت‌ها کمک کرد و توانستم از آن‌ها در تحقیقات دانشگاهی و شغلم استفاده کنم. فکر می‌کنم به همان اندازه که کار کردن روی پروژه‌های متن باز به پیشبرد پروژه کمک می‌کند به همان اندازه به من هم کمک می‌کند!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 زمانی که در پروژه‌های متن باز مشارکت می‌کنید، چیزهای زیادی یاد می‌گیرید یا یاد می‌دهید، حتی می‌توانید در هر مهارتی که تصورش را می‌کنید تجربه کسب کنید.
 
@@ -62,13 +62,13 @@ related:
 
 یک دید غلط و مرسومی که برای مشارکت در پروژه‌های متن باز وجود دارد این است که فکر می‌کنند برای مشارکت در آن باید حتما کدنویسی شود. در حقیقت، [اغلب بخش‌های دیگر پروژه](https://github.com/blog/2195-the-shape-of-open-source) است که از آن غفلت یا بیش از حد به آن توجه می‌شود. شما با برطرف کردن مشکلات و مشارکت در آن بخش‌ها لطف بزرگی به پروژه‌های متن باز می‌کنید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   من شهرتم را از کار در <span dir="rtl">CocoaPods</span> به دست آوردم، اما بیشتر مردم نمی‌دانند که من واقعاً هیچ کار واقعی با ابزار <span dir="rtl">CocoaPods</span> انجام نمی‌دادم. زمانم در آن پروژه بیشتر روی چیزهایی مانند اسناد یا کار روی برندسازی صرف می‌شد.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 حتی اگر هم به کدنویسی در پروژه علاقه‌مند باشید، روش‌های دیگر مشارکت بهترین راه‌برای درگیر شدن در یک پروژه و ملاقات با اعضای انجمن‌های دیگر وجود دارد. ساختن این روابط به شما فرصت‌هایی می‌دهد تا در بخش‌های دیگر پروژه مشارکت کنید.
 
@@ -93,13 +93,13 @@ related:
 * برای پروژه، مطالب آموزشی بنویسید، مانند مشارکت‌کننده‌هایی که برای [PyPA](https://packaging.python.org/) مطالب آموزشی نوشتند
 * مستندات پروژه را به زبانی دیگر ترجمه کنید
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   اسناد یک پروژه به طور جدی مهم هستند. اسناد پروژه تا به الان عالی پیش رفتند و یکی از ویژگی‌های بی‌نظیر<span dir="rtl">Babel</span> نیز بوده است. بخش‌هایی در اسناد یک پروژه وجود دارد که مطمئناً می‌تواند از آن در برخی کارها استفاده کرد، حتی افزودن یک پاراگراف در این‌جا یا آن‌جا بی‌نهایت قایل تقدیر است.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### آیا به سازماندهی پروژه علاقه‌مند هستید؟
 
@@ -140,13 +140,13 @@ related:
 
 ## ورود و وفق دادن خودمان به یک پروژه جدید
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   اگر به یک ایشو ترکر <span dir="rtl">(issue tracker)</span> برخوردید و چیزهای گیج‌کننده‌ای دیدید، نگران نباشید چون شما تنها نیستید. این ابزارها به دانش ضمنی زیادی نیاز دارند، اما سایرین می‌توانند به شما کمک کند و می‌توانید از آن‌ها سوالاتی بپرسید.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 مشارکت کردن در یک پروژه‌ی متن باز که بیشتر از اصلاح غلط‌هایی املائی است، مانند وارد شدن به پارتی غریبه‌هاست. اگر در این پارتی درباره ماهی قرمز بحث عمیقی شکل گرفته، شما درباره‌ی لاماها صحبت کنید، احتمالاً نگاه عجیبی به شما می‌شود.
 
@@ -364,13 +364,13 @@ related:
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   هر زمان که با یک موضوع طولانی روبه‌رو شدید، جواب‌های توسعه‌دهندگان اصلی که در اواخر موضوع قرار دادند را بررسی کنید. آیا جواب آن‌ها به طور سازنده‌ای خلاصه است و با لحن مودبانه‌ای تصمیم می‌گیرند؟ اگر چیزهای بی‌ادبانه‌ای می‌بینید، اغلب به این خاطر است که به جای توسعه، انرژی منفی می‌دهند
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## چگونه درخواست مشارکت را ارسال کنیم
 
@@ -380,13 +380,13 @@ related:
 
 خواه مشارکت‌کننده‌ی یک‌باره باشید، یا سعی داشته باشید در یک انجمن عضو شوید، کار کردن با دیگران می‌تواند یکی از مهم‌ترین مهارت‌هایی باشد که در مشارکت در پروژه‌ی متن باز می‌توانید آن‌ را توسعه و بهبود دهید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   من به عنوان یک مشارکت‌کننده‌ی جدید به سرعت متوجه شدم که اگر می‌خواهم مسائل مرتبط با پروژه متن باز را برطرف کنم، باید سوال بپرسم. کد را سرسری مطالعه کردم، به خود آمدم و خواستم من را بیشتر راهنمایی کنند. در نتیجه، بعد از دریافت تمام جزئیاتی که نیاز داشتم، توانستم مسائل پروژه را برطرف کنم
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 قبل از درخواست ادغام یا باز کردن <span dir="rtl">issue</span> در بخش گزارش مسئله یا پرسیدن سوال در چت، نکته‌های زیر را در نظر داشته باشید تا به شما کمک کند تا ایده‌هایتان کارآمد و موثرتر باشد.
 
@@ -442,13 +442,13 @@ related:
 
 اگر در یک پروژه مشارکت عمیق و اساسی داشته باشید، قبل از مشارکت در پروژه، یک <span dir="rtl">issue</span> باز کنید و سوال کنید. این کار مفید است و باعث می‌شود پروژه‌ی شما مدتی مشاهده شود. (در سایت <span dir="rtl">GitHub</span> می‌توانید [روی «Watch» کلیک کنید](https://help.github.com/articles/watching-repositories/) تا از تمام مکالمات مطلع شوید)، و قبل از انجام دادم کار که ممکن است پذیرفته نشود، اعضای انجمن را بشناسید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   با فعالیت در پروژه‌های <span dir="rtl">GitHub</span> و مطالعه‌ی تمام <span dir="rtl">issue</span> و درخواست‌های ادغام می‌توانید چیزهای زیادی یاد بگیرید.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### باز کردن <span dir="rtl">issue</span> یا طرح سوال و گفتگو
 

@@ -30,25 +30,25 @@ Mtunzaji haimaanishi lazima kuwa mtu anayandika msimbo kwa mradi wako. Inaweza k
 
 **"Mchangiaji" anaweza kuwa mtu yeyote** anayetoa maoni kwenye suala au ombi la kuvuta, watu wanaoongeza thamani kwa mradi (iwe ni kutunga masuala, kuandika msimbo, au kuandaa matukio), au mtu yeyote mwenye ombi la kuvuta lililopitishwa (labda tafsiri nyembamba zaidi ya mchangiaji).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Kwa Node.js,\] kila mtu anayekuja kutoa maoni kwenye suala au kuwasilisha msimbo ni mwanachama wa jamii ya mradi. Kuwa na uwezo wa kuwaona inamaanisha kwamba wamevuka mstari kutoka kuwa mtumiaji hadi kuwa mchangiaji.
   <p markdown="1" class="pquote-credit">
 — @mikeal, [“Healthy Open Source”](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **Neno "mwandikaji" au "committer"** linaweza kutumika kutofautisha ufikiaji wa kuandika, ambayo ni aina maalum ya wajibu, kutoka kwa aina nyingine za mchango.
 
 Ingawa unaweza kufafanua majukumu ya mradi wako kwa njia yoyote unavyopenda, [zingatia kutumia tafsiri pana](../how-to-contribute/#nini-maana-ya-kuchangia) ili kuhamasisha aina zaidi za mchango. Unaweza kutumia majukumu ya uongozi kutambua rasmi watu ambao wamefanya michango bora kwa mradi wako, bila kujali ujuzi wao wa kiufundi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Huenda unanijua kama "mvumbuzi" wa Django...lakini kweli mimi ni mtu aliyeajiriwa kufanya kazi kwenye jambo mwaka mmoja baada yake kutengenezwa. (...) Watu hudhani kuwa mimi ni mwenye mafanikio kwa sababu ya ujuzi wangu wa kuandika programu...lakini mimi ni mwandishi wa programu wa kawaida tu.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["Hotuba ya Mfunguo wa PyCon 2015" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Je, ninawezaje kuimarisha majukumu haya ya uongozi?
 
@@ -60,12 +60,12 @@ Kwa mradi mkubwa, ikiwa una tovuti, tengeneza ukurasa wa timu au orodheshe viong
 
 Ikiwa mradi wako una jamii ya wachangiaji wenye shughuli nyingi, huenda ukaunda "timu ya msingi" ya watunzaji, au hata kamati ndogo za watu wanaochukua umiliki wa maeneo tofauti ya masuala (kwa mfano, usalama, kutunga masuala, au mwenendo wa jamii). Wacha watu wajipange na kujitolea kwa majukumu wanayofurahia zaidi, badala ya kuwapa.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[Sisi\] tunakamilisha timu ya msingi na timu ndongo au subteams kadhaa chini yao. Kila timu ndogo inazingatia eneo maalum, kwa mfano, muundo wa lugha au maktaba. (...) Ili kuhakikisha uratibu wa kimataifa na maono thabiti, kila subteam inaongozwa na mwanachama wa timu ya msingi.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Timu za uongozi zinaweza kutaka kuunda njia maalum (kama kwenye IRC) au kukutana mara kwa mara kujadili mradi (kama kwenye Gitter au Google Hangout). Unaweza hata kufanya mikutano hiyo kuwa ya umma ili watu wengine waweze kusikiliza. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), kwa mfano, [hufanya ofisi za masaa kila wiki](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ Kwa upande mwingine, hasa kwa miradi mikubwa na ngumu zaidi, huenda unataka kuwa
 
 Ikiwa mradi wako uko kwenye GitHub, unaweza kutumia [protected branches](https://help.github.com/articles/about-protected-branches/) kusimamia ni nani anayeweza kusukuma kwenye tawi fulani, na chini ya hali gani.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Kila wakati mtu anapokutumia ombi la kuvuta, mpe ufikiaji wa kuandika kwenye mradi wako. Ingawa inaweza kuonekana kuwa ya kipumbavu mwanzoni, kutumia mkakati huu kutakuruhusu kuachilia nguvu halisi ya GitHub. (...) Mara watu wanapokuwa na ufikiaji wa kuandika, hawana wasiwasi kwamba marekebisho yao yanawezakosa kuunganishwa...hivyo wanajitolea kufanya kazi zaidi kwa hiyo.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["Mkakati wa Ombi la Kuvuta"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Ni mifano gani ya muundo wa utawala wa miradi ya open source?
 
@@ -115,13 +115,13 @@ Nyaraka za mapema bila shaka zitaongeza kwenye utawala wa mradi wako, hata hivyo
 
 Ikiwa wewe ni sehemu ya kampuni inayozindua mradi wa open source, ni muhimu kuwa na majadiliano ya ndani kabla ya uzinduzi kuhusu jinsi kampuni yako inatarajia kudumisha na kufanya maamuzi kuhusu mradi kuendelea. Unaweza pia kutaka kueleza hadharani chochote maalum kuhusu jinsi kampuni yako itahusika (au haitahusika!) na mradi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Tunapanga timu ndogo kusimamia miradi kwenye GitHub ambao kwa kweli wanashughulikia haya katika Facebook. Kwa mfano, React inaendeshwa na mhandisi wa React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Mtazamo wa ndani wa open source katika Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Ni nini kinatokea ikiwa wafanyakazi wa kampuni wanza kuwasilisha michango?
 
@@ -145,12 +145,12 @@ Ikiwa unataka kupokea michango kwa mradi wako wa open source, unaweza kuanzisha 
 
 Miradi mingi haitaki kupitia shida ya kuanzisha shirika la kiserikali, hivyo wanapata mdhamini wa kiserikali badala yake. Mdhamini wa kiserikali anapokea michango kwa niaba yako, kwa kawaida kwa kubadilishana asilimia ya mchango. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) na [Open Collective](https://opencollective.com/opensource) ni mifano ya mashirika yanayohudumia kama wadhamini wa kiserikali kwa miradi ya open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Lengo letu ni kutoa miundombinu ambayo jamii zinaweza kutumia kuwa na uwezo wa kujitegemea, hivyo kuunda mazingira ambapo kila mtu - wachangiaji, wafuasi, wadhamini - wanapata faida halisi kutoka kwa hiyo.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Kuhama kutoka mfumo wa hisani"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Ikiwa mradi wako unahusishwa kwa karibu na lugha au mfumo fulani, huenda pia kuna shirika la programu linalohusiana ambalo unaweza kufanya kazi nalo. Kwa mfano, [Python Software Foundation](https://www.python.org/psf/) husaidia [PyPI](https://pypi.org/), meneja wa pakiti wa Python, na [Node.js Foundation](https://foundation.nodejs.org/) husaidia [Express.js](https://expressjs.com/), mfumo wa Node.

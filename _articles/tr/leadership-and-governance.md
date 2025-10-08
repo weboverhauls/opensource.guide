@@ -30,25 +30,25 @@ Bir sorumlunun projeniz için kod yazan biri olması gerekmez. Projenizi değiş
 
 **"Katkıda bulunan"**, bir sorun veya PR hakkında yorum yapan, projeye değer katan insanlar (sorunları birleştiren, kod yazan veya etkinlik düzenleyen) veya birleştirilmiş PR'si olan herkes (belki de en dar tanımı katkıda bulunan) olabilir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Node.js için\] bir sorun hakkında yorum yapan veya kod gönderen herkes proje topluluğunun bir üyesidir. Onları görebilmek, bir kullanıcı olmaktan katkıda bulunmaya kadar çizgiyi aştıkları anlamına geliyor.
   <p markdown="1" class="pquote-credit">
 - @mikeal, ["Sağlıklı Açık Kaynak"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **"committer" terimi** , belirli bir sorumluluk türü olan commit erişimini diğer katkı şekillerinden ayırmak için kullanılabilir.
 
 Proje rollerinizi dilediğiniz şekilde tanımlayabilmenize rağmen, daha fazla katkı biçimi geliştirmek için [daha geniş tanımları kullanmayı düşünün](../how-to-contribute/#katkıda-bulunmak-ne-demektir). Teknik becerilerinden bağımsız olarak, projenize olağanüstü katkı sağlayan kişileri resmen tanımak için liderlik rollerini kullanabilirsiniz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Beni Django'nun mucidi olarak tanıyor olabilirsiniz ... ama gerçekten bir yıl sonra bir şey üzerinde çalışmak üzere işe alınan adamım. (...) İnsanlar programlama becerim yüzünden başarılı olduğumdan şüpheleniyorlar ... ama en iyi ihtimalle ortalama bir programcıyım.
   <p markdown="1" class="pquote-credit">
 - @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Bu liderlik rollerini nasıl resmileştiririm?
 
@@ -60,12 +60,12 @@ Daha büyük bir proje için, bir web siteniz varsa, bir ekip sayfası oluşturu
 
 Projeniz çok aktif bir katılımcı topluluğa sahipse, farklı konu alanlarına (örneğin, güvenlik, sorun izleme veya topluluk davranışı) sahip olan kişilerden oluşan bir "çekirdek ekip" veya hatta alt grup komiteleri oluşturabilirsiniz. Rolleri sizin atamanız yerine, insanların en çok heyecanlandıkları roller için kendi kendilerini organize ve gönüllü olmalarına fırsat verin.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[Biz\] çekirdek takıma birkaç "alt takım" ekliyoruz. Her alt takım belirli bir alana, örneğin dil tasarımına veya kütüphanelere odaklanır. (...) Küresel koordinasyon ve bir bütün olarak proje için güçlü, tutarlı bir vizyon sağlamak için her bir alt ekip, çekirdek ekibin bir üyesi tarafından yönetilir.
   <p markdown="1" class="pquote-credit">
 - ["Rust Yönetişim RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Liderlik ekipleri projeyi tartışmak için (Gitter veya Google Hangout'ta olduğu gibi) belirlenmiş bir kanal oluşturmak (IRC'deki gibi) veya düzenli olarak buluşmak isteyebilir. Hatta başkalarının dinleyebilmesi için bu toplantıları halka açabilirsiniz. Örneğin [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) [her hafta çalışma saatlerinde yayın yapar](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs) .
 
@@ -83,13 +83,13 @@ Bazı insanlar katkıda bulunan herkese commit yetkisi vermeniz gerektiğini dü
 
 Projeniz GitHub'daysa, belirli bir dala kimin ve hangi şartlar altında kod gönderebileceğini yönetmek için [korumalı dalları](https://help.github.com/articles/about-protected-branches/) kullanabilirsiniz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Birisi size bir PR gönderdiğinde, projenize erişmelerini sağlayın. İlk başta inanılmaz derecede aptalca görünse de, bu stratejiyi kullanmak GitHub’ın gerçek gücünü ortaya çıkarmanıza izin verecektir. (...) İnsanlar bir kez giriş yaptıklarında, yamalarının bozulmadan kalmasından endişe etmiyorlar ... ... daha çok çalışmalarına neden oluyor.
   <p markdown="1" class="pquote-credit">
 - @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Açık kaynaklı projeler için ortak yönetim yapılarının bazıları nelerdir?
 
@@ -115,13 +115,13 @@ Bununla birlikte, bazı erken hazırlanmış belgeler kaçınılmaz olarak proje
 
 Açık kaynak kodlu bir projeyi başlatmakta olan bir şirketin bir parçasıysanız, şirketinizin projeyi sürdürmek ve ilerletmek için nasıl bir karar vereceğini önceden içerde tartışmaya açmaya değer. Ayrıca, şirketinizin projeye nasıl dahil olacağına (veya olmayacağına) açık bir şekilde açıklamak isteyebilirsiniz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   GitHub'ta aslında Facebook'ta çalışan projeleri yönetmek için küçük takımlar atadık. Örneğin, React bir React mühendisi tarafından yönetilir.
   <p markdown="1" class="pquote-credit">
 - @caabernathy, ["Facebook'ta açık kaynağa içeriden bir bakış"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Şirket çalışanları katkı göndermeye başlarsa ne olur?
 
@@ -145,12 +145,12 @@ Açık kaynak projeniz için bağış kabul etmek istiyorsanız, bağış butonu
 
 Birçok proje kar amacı gütmeyen bir kuruluş kurma zorunluluğunu yaşamak istememektedir, bu yüzden kar amacı gütmeyen bir mali sponsor bulmaktadırlar. Mali bir sponsor, genellikle bağışın bir yüzdesi karşılığında, sizin adınıza bağışları kabul eder. [Yazılım Özgürlüğü Koruması](https://sfconservancy.org/), [Apache Vakfı](https://www.apache.org/), [Eclipse Vakfı](https://eclipse.org/org/), [Linux Vakfı](https://www.linuxfoundation.org/projects) ve [Açık Kollektifi](https://opencollective.com/opensource) açık kaynak projeleri için mali sponsor olarak hizmet veren kuruluşlara örnektir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Amacımız, toplulukların kendi kendine sürdürülebilir olmaları için kullanabilecekleri bir altyapı sağlamak, böylece herkesin - katkıda bulunanların, destekçilerin, sponsorların - bundan somut faydalar elde ettiği bir ortam yaratmaktır.
   <p markdown="1" class="pquote-credit">
 - @piamancini, ["Yardım çerçevesinin ötesine geçme"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Projeniz belirli bir dil veya ekosistem ile yakından ilişkiliyse, birlikte çalışabileceğiniz ilgili bir yazılım kuruluşu da olabilir. Örneğin, [Python Software Foundation](https://www.python.org/psf/) [PyPI](https://pypi.org/) Python paket yöneticisini desteği ve [node.js Vakfı](https://foundation.nodejs.org/)'nın [Express.js](https://expressjs.com/) Node tabanlı bir çerçeveye desteği gibi.

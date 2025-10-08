@@ -38,12 +38,12 @@ redirect_from: /zh-tw/code-of-conduct/
 
 ## 決定你們如何執行行爲守則
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   一份行爲守則沒有（或者不能）執行會比沒有行爲守則更糟糕。它釋放這樣一個資訊：行爲守則或者尊重在你們的社群並不重要。
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 你們應該解釋如何執行行爲守則在違規發生**之前**。有幾點理由說明爲什麼這麼做：
 
@@ -73,12 +73,12 @@ redirect_from: /zh-tw/code-of-conduct/
 
 在你們做出回應之前，請認真思考發生了什麼事。通過閱讀他們過去的評論和對話可以更好地理解他們爲什麼要那樣做。儘量收集其他人對他們行爲的看法。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   不要陷入爭論。在你們處理完手頭上的事情之前，不要側重於處理別人的行爲。專注於你們需要什麼。
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### 採取適當的行動
 

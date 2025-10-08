@@ -97,13 +97,13 @@ redirect_from: /zh-cn/metrics/
 
 * **不同种类的贡献者：** 比如说，提交代码，修复笔误或者bug，或者在issue下面评论。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
 开源远远不止代码，成功的开源项目包括代码、文档，以及它们在演进过程中的所有讨论。
 
 — @arfon, ["开源的形态"](https://github.com/blog/2195-the-shape-of-open-source)
 
-</aside>
+</div>
 
 ## 维护者活动情况
 

@@ -12,7 +12,7 @@ related:
 
 ## Waarom bijdragen aan open source?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Door aan \[freenode\] te werken, heb ik veel van de vaardigheden verworven die ik later gebruikte voor mijn studie aan de universiteit en mijn huidige baan. Ik denk dat werken aan open source-projecten mij net zo goed helpt als het project!
   
@@ -20,7 +20,7 @@ related:
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Waarom ik graag bijdraag aan open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Bijdragen aan open source kan een lonende manier zijn om te leren, les te geven en ervaring op te doen met vrijwel elke vaardigheid die je maar kunt bedenken.
 
@@ -64,7 +64,7 @@ Geen zorgen! Er zijn allerlei manieren om betrokken te raken bij een open source
 
 Een veel voorkomende misvatting over bijdragen aan open source is dat je code moet bijdragen. In feite zijn het vaak de andere delen van een project die [het meest worden verwaarloosd of over het hoofd gezien](https://github.com/blog/2195-the-shape-of-open-source). Je doet het project een _grote_ gunst door aan te bieden mee te werken met dit soort bijdragen!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Ik sta bekend om mijn werk aan CocoaPods, maar de meeste mensen weten niet dat ik eigenlijk geen echt werk aan de CocoaPods-tool zelf doe. Mijn tijd aan het project besteed ik voornamelijk aan zaken als documentatie en branding.
   
@@ -73,7 +73,7 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
   <p markdown="1" class="pquote-credit">
 — @orta, ["Standaard naar OSS gaan"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige manier om bij een project betrokken te raken en andere leden van de gemeenschap te ontmoeten. Door die relaties op te bouwen, krijg je de kans om aan andere delen van het project te werken.
 
@@ -98,7 +98,7 @@ Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige ma
 * Schrijf tutorials voor het project, [zoals de bijdragers van PyPA](https://packaging.python.org/)
 * Schrijf een vertaling voor de documentatie van het project
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Serieus, \[documentatie\] is enorm belangrijk. De documentatie tot nu toe was geweldig en was een geweldige eigenschap van Babel. Er zijn secties die zeker wat werk kunnen gebruiken en zelfs de toevoeging van een alinea hier of daar wordt enorm gewaardeerd.
   
@@ -107,7 +107,7 @@ Zelfs als je graag code schrijft, zijn andere soorten bijdragen een geweldige ma
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Roep bijdragers op"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Houd je van organiseren?
 
@@ -148,13 +148,13 @@ Zelfs als u een softwareontwikkelaar bent, kan het werken aan een documentatiepr
 
 ## Je oriënteren op een nieuw project
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Als je naar een issue-tracker gaat en de dingen verwarrend lijken, ben jij het niet alleen. Deze tools vereisen veel impliciete kennis, maar mensen kunnen je helpen er doorheen te navigeren en je kunt ze vragen stellen.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["Hoe u kunt bijdragen aan Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Voor meer dan een typefout is bijdragen aan open source net zoiets als naar een groep vreemden lopen op een feestje. Als je over lama's begint te praten, terwijl ze diep in een discussie over goudvissen zaten, zullen ze je waarschijnlijk een beetje vreemd aankijken.
 
@@ -371,7 +371,7 @@ Een project dat vriendelijk en gastvrij is, geeft aan dat ze ontvankelijk zullen
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Elke keer dat je een lange thread ziet, controleer dan de reacties van kernontwikkelaars die laat in de thread komen. Vatten ze constructief samen en ondernemen ze stappen om de rode draad tot een beslissing te brengen terwijl ze beleefd blijven? Als je veel vlammenoorlogen ziet plaatsvinden, is dat vaak een teken dat energie in discussie gaat in plaats van in ontwikkeling.
   
@@ -380,7 +380,7 @@ Een project dat vriendelijk en gastvrij is, geeft aan dat ze ontvankelijk zullen
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS Produceren_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Hoe u een bijdrage kunt indienen
 
@@ -390,7 +390,7 @@ Je hebt een project gevonden dat je leuk vindt en je bent klaar om een bijdrage 
 
 Of je nu een eenmalige bijdrage levert of probeert lid te worden van een community, samenwerken met anderen is een van de belangrijkste vaardigheden die je in open source zult ontwikkelen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Als nieuwe bijdrager\] realiseerde ik me al snel dat ik vragen moest stellen als ik het probleem wilde sluiten. Ik bladerde door de codebasis. Toen ik eenmaal een idee had van wat er aan de hand was, vroeg ik om meer richting. En voilà! Ik kon het probleem oplossen nadat ik alle relevante details had gekregen die ik nodig had.
   
@@ -399,7 +399,7 @@ Of je nu een eenmalige bijdrage levert of probeert lid te worden van een communi
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [Een hobbelige reis voor beginners door de wereld van open source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Houd deze punten in gedachten voordat u een probleem of pull-aanvraag opent of een vraag stelt in de chat, zodat uw ideeën effectief overkomen.
 
@@ -455,7 +455,7 @@ Voordat je een issue of pull request opent, controleer je de bijdragende documen
 
 Als je een substantiële bijdrage wilt leveren, open dan een vraagstuk voordat je eraan gaat werken. Het is handig om het project een tijdje te bekijken (op GitHub, [u kunt op "Bekijken" klikken](https://help.github.com/articles/watching-repositories/) om op de hoogte te worden gehouden van alle gesprekken), en ken de leden van de gemeenschap voordat u werk gaat doen dat misschien niet wordt geaccepteerd.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Je leert <em>veel</em> door een enkel project te nemen dat je actief gebruikt, het op GitHub te "bekijken" en elk nummer en PR te lezen.
   
@@ -464,7 +464,7 @@ Als je een substantiële bijdrage wilt leveren, open dan een vraagstuk voordat j
 <p markdown="1" class="pquote-credit">
 — @gaearon [over deelname aan projecten](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Een issue openen
 
