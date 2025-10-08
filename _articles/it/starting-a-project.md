@@ -24,13 +24,13 @@ _Software Libero_ si riferisce allo stesso insieme di progetti di _Open Source_.
 
 ### Защо хората отварят кода на работата си?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Una delle esperienze più gratificanti che ottengo utilizzando e collaborando con l'open source deriva dalle relazioni che instauro con altri sviluppatori che affrontano molti dei miei stessi problemi.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["Come è stato fantastico per me entrare nell'Open Source"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [Ci sono molte ragioni](https://ben.balter.com/2015/11/23/why-open-source/) per cui un individuo o un'organizzazione vorrebbe rendere open source un progetto. Alcuni esempi includono:
 
@@ -68,13 +68,13 @@ Non esiste un'unica risposta corretta a questa domanda. Puoi avere più obiettiv
 
 Se il tuo unico obiettivo è mettere in mostra il tuo lavoro, potresti non volere nemmeno un contributo e addirittura dirlo nel tuo README. D'altra parte, se desideri contributori, investirai tempo in una documentazione chiara e farai sentire i nuovi arrivati ​​i benvenuti.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Ad un certo punto ho creato un UIAlertView personalizzato che ho utilizzato... e ho deciso di renderlo open source. Quindi l'ho modificato per renderlo più dinamico e l'ho caricato su GitHub. Ho anche scritto la mia prima documentazione spiegando ad altri sviluppatori come utilizzarlo nei loro progetti. Probabilmente nessuno lo ha mai usato perché era un progetto semplice, ma mi sono sentito bene con il mio contributo.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Sviluppatori di software autodidatti: perché l'open source è importante per noi"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 Man mano che il tuo progetto cresce, la tua comunità potrebbe aver bisogno di qualcosa di più del semplice codice, da parte tua. Rispondere ai problemi, rivedere il codice ed evangelizzare il tuo progetto sono compiti importanti in un progetto open source.
 
@@ -84,13 +84,13 @@ Anche se la quantità di tempo che dedichi ad attività non di codifica dipender
 
 Se hai bisogno di un budget o di personale dedicato per la promozione, le operazioni e la manutenzione del progetto, avvia queste conversazioni in anticipo.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Quando inizi a rendere open source il tuo progetto, è importante assicurarti che i tuoi processi di governance tengano conto del contributo e delle capacità della comunità attorno al tuo progetto. Non aver paura di coinvolgere collaboratori esterni alla tua azienda negli aspetti chiave del progetto, soprattutto se collaborano spesso.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["Quindi vuoi un progetto open source eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### Contributo ad altri progetti
 
@@ -142,13 +142,13 @@ Nel README, prova a rispondere alle seguenti domande:
 
 Puoi utilizzare il file README per rispondere ad altre domande, ad esempio come gestisci i contributi, quali sono gli obiettivi del progetto e informazioni su licenza e attribuzione. Se non vuoi accettare contributi o il tuo progetto non è ancora pronto per la produzione, salva queste informazioni.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Una migliore documentazione significa più utenti, meno richieste di supporto e più contributori. (...) Ricorda che i tuoi lettori non sei tu. Ci sono persone che possono venire a un progetto che hanno background completamente diversi.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Scrivi in ​​modo che le tue parole vengano lette (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 A volte le persone evitano di scrivere un README perché pensano che il progetto sia incompiuto o non vogliono contributi. Questi sono tutti ottimi motivi per scriverne uno.
 
@@ -187,13 +187,13 @@ Collega il tuo file CONTRIBUTE dal tuo README in modo che più persone possano v
 
 ### Creazione di un codice di condotta
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Tutti abbiamo avuto esperienze in cui ci siamo imbattuti in quello che probabilmente era un abuso, sia come manutentore che cercava di spiegare perché qualcosa dovrebbe essere in un certo modo, sia come utente... che poneva una semplice domanda. (...) Il Codice di condotta diventa un documento con riferimenti e collegamenti facili che dimostra che il vostro team prende molto sul serio il discorso costruttivo.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Rendere l'open source un luogo più felice"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 Infine, un codice di condotta aiuta a definire le regole di base per la condotta dei partecipanti al progetto. Ciò è particolarmente utile se stai avviando un progetto open source per una comunità o un'azienda. Un codice di condotta ti consente di facilitare un comportamento sano e costruttivo nella comunità che ridurrà il tuo stress come sostenitore.
 
@@ -238,13 +238,13 @@ Nel corso della vita del tuo progetto, scriverai molto: README, tutorial, docume
 
 Che si tratti di documentazione formale o di un'e-mail informale, il tuo stile di scrittura fa parte del marchio del tuo progetto. Pensa a come potresti percepire il tuo pubblico e se questo è il tono che vuoi trasmettere.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
    <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
    Ho cercato di partecipare a ogni discussione della mailing list e di mostrare un comportamento esemplare, di essere gentile con le persone, di prendere sul serio i loro problemi e di cercare di essere d'aiuto in generale. Dopo un po', le persone si sono fermate non solo per fare domande, ma anche per aiutare con le risposte, e con mia grande gioia hanno imitato il mio stile.
    <p markdown="1" class="pquote-credit">
 — @janl в [CouchDB](https://github.com/apache/couchdb), ["Open source sostenibile"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
    </p>
-</aside>
+</div>
 
 Usare un linguaggio caldo e inclusivo (come "loro" anche quando si riferisce a una sola persona) può fare molto per far sì che il tuo progetto si senta accogliente per i nuovi contributori. Attieniti a un linguaggio semplice poiché molti dei tuoi lettori potrebbero non essere di madrelingua inglese.
 

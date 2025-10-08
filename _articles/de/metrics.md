@@ -98,7 +98,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 * **Arten der Mithilfe:** Zum Beispiel Commits, das Beheben von Tippfehlern oder Bugs oder das Kommentieren eines Issues.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
 
   Open-Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen.
@@ -108,7 +108,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Betreuer\*innen-Aktivität
 

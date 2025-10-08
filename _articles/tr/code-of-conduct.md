@@ -37,12 +37,12 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 
 ## Davranış kurallarınızı nasıl uygulayacağınıza karar verme
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
   <p markdown="1" class="pquote-credit">
 — [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
 
@@ -72,12 +72,12 @@ Söz konusu topluluk üyesi, sürekli olarak başkalarını rahatsız hissetmesi
 
 Cevap vermeden önce, neler olduğunu anlamak için biraz zaman harcayın. Kim olduklarını ve neden böyle davrandıklarını daha iyi anlamak için, kişi ya da kişilerin geçmiş yorumlarını ve konuşmalarını okuyun. Bu kişi ve davranışları hakkındaki kendi görüşleriniz dışında başka bakış açıları da toplamaya çalışın.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Bir tartışmaya girmeyin. Eldeki konuyla ilgilenmeyi bitirmeden önce başkasının davranışlarıyla başa çıkmayın. İhtiyacınız olana odaklanın.
   <p markdown="1" class="pquote-credit">
 - Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Uygun işlemi yapın
 

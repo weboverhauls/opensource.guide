@@ -37,12 +37,12 @@ Ubica un archivo CODIGO_DE_CONDUCTA en el directorio ra&iacute;z de tu proyecto,
 
 ## Decidiendo de qu&eacute; manera vas a aplicar tu c&oacute;digo de conducta
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Un c&oacute;digo de conducta que no es (o no puede) ser aplicado, es incluso peor que no tener un c&oacute;digo de conducta: Esto demostrar&iacute;a que los valores en el c&oacute;digo de conducta no son importantes o no son respetados en tu comunidad.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Deber&iacute;as explicar de qu&eacute; manera tu c&oacute;digo de conducta va a ser aplicado **_antes_** de que una violaci&oacute;n ocurra. Hay varios motivos para ello:
 
@@ -72,12 +72,12 @@ El miembro de la comunidad puede ser un reincidente quien constantemente hace se
 
 Antes de que respondas, t&oacute;mate tu tiempo para entender lo que sucedi&oacute;. Lee los comentarios y conversaciones pasados de la persona para entender mejor quienes son y por qu&eacute; podr&iacute;an haber actuado de tal manera. Intenta recolectar perspectivas de otros acerca de dicha persona y su comportamiento.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   No entres en discusiones. No te desv&iacute;es a tratar con el comportamiento de otra persona antes de que haya terminado de tratar con el asunto en cuesti&oacute;n. Enf&oacute;cate en lo que necesitas.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Toma acciones apropiadas
 

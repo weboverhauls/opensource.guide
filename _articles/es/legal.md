@@ -44,14 +44,14 @@ Tienes suerte, porque hoy, las licencias de c&oacute;digo abierto est&aacute;n e
 
 Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
 A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## ¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?
 
@@ -95,13 +95,13 @@ Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia d
 
 Tambi&eacute;n, al a&ntilde;adir "papeleo" que algunos consideran innecesario, dif&iacute;cil de entender, o injusto (cuando el beneficiario del acuerdo obtiene m&aacute;s derechos que los colaboradores o el p&uacute;blico a trav&eacute;s de la licencia de c&oacute;digo abierto del proyecto), un acuerdo adicional de colaboradores puede ser percibido poco amigable a la comunidad del proyecto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Hemos eliminado la CLA para Node.js. Esto, reduce la barrera de entrada para colaboradores de Node.js, ampliando as&iacute; la base de contribuyentes.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Algunas situaciones en las cuales deber&iacute;as considerar un acuerdo adicional de colaboradores pueden ser:
 
@@ -141,24 +141,24 @@ A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a
 
 * **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
      </p>
-</aside>
+</div>
 
 * **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
 
 * **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Patentes:** Es posible que su empresa desee unirse a la [Red de Invenci&oacute;n Abierta](http://www.openinventionnetwork.com/), Un conjunto de patentes defensivas compartido para proteger el uso de los miembros de los principales proyectos de c&oacute;digo abierto, o explorar otras [licencias de patentes alternativas](https://www.eff.org/document/hacking-patent-system-2016).
 

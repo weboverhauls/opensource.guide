@@ -31,12 +31,12 @@ redirect_from: /zh-cn/finding-users/
 
 ## 帮助用户发现并关注你的项目
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   你最好有一个唯一的官方"主页"链接用来宣传，引导人们关注你的项目。你不需要找炫酷的模板或者域名，但是你的项目确实需要一个入口。
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 通过引导他们到一个唯一的官方地址来帮助人们发现和记住你的项目。
 
@@ -44,13 +44,13 @@ redirect_from: /zh-cn/finding-users/
 
 如果你目前还不想给你的项目搞这么多乱七八糟的东西，只想在合适的时候再宣传你的 Twitter 账户和 GitHub 账户即可。举个例子，当你在某次讨论或者活动上发言时，你可以在简介或者幻灯片上写上这些信息。这样人们就会了解你或者关注你的项目。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   我之前的一个失误就是没给项目开一个 Twitter 账户。Twitter 是一个让人们了解项目进展的好渠道，也可以让人们持续地接触你的项目。
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **考虑给你的项目做个网站**一个网站可以让你的项目更加友好，也更加容易浏览，更重要的是附上清晰的文档和教程。这也证明你的项目是活跃的，会让你的用户更放心地使用项目。可以用一些例子告诉人们如何使用你的项目。
 
@@ -68,13 +68,13 @@ redirect_from: /zh-cn/finding-users/
 
 利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可以在 [Stack Overflow](https://stackoverflow.com/)、[reddit](https://www.reddit.com)、[Hacker News](https://news.ycombinator.com/) 或 [Quora](https://www.quora.com/) 找到可能从你的项目中受益或者感兴趣的话题。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   每个程序都会有一些方法是只有一部分人才用得到的，所以不打扰到所有人，把你的关注点放在可能会从你项目受益的话题就好。
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 看看下面的这些方法，获取在宣传你的项目时用得着。
 
@@ -94,35 +94,35 @@ redirect_from: /zh-cn/finding-users/
 
 如果你还是个[公开演讲的新手](https://speaking.io/)，找一个你项目使用的语言或者生态系统相关的线下聚会去尝试吧。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   我去 PyCon 的时候非常紧张。我要发表一次演讲，在那儿我只认识几个人，还是在那儿呆了整整一周。其实我不应该焦虑的。PyCon 真是太棒了！每个人都是非常友好热情，以至于我也非常愿意和大家讨论。
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 如果你从来没在公共场合演讲过，感到紧张是很正常的！记住你的听众和你在一起，他们都是真正想听你介绍你的项目。
 
 当你在写你演讲稿的时候，把重点放在你的听众会感兴趣而且有价值的事情上。保证你的语言要友好且亲切。笑一笑，深呼吸，幽默一点儿。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   你写演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更好。
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 等你准备好了，考虑在某个会议上发言的时候宣传你的项目讨论可以帮助你接触更多人，可能会是来自世界各地的人。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   我非常认真地给 JSConf 的人写了一封信，然后请求他们给我一点时间在 JSConf 上展示我的项目。同时我也会担心，这个项目我做了六个月，如果大家不认可怎么办。那时候我就一直在想，我的天，我在这里都干些什么事啊？
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## 建立声誉
 
@@ -132,13 +132,13 @@ redirect_from: /zh-cn/finding-users/
 
 有时候，这些关系还会进一步发展成更宽泛的生态中的官方合作伙伴（意思是你有可能成为那些知名社区的成员）
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   urllib3 现在成为最流行的 Python 第三方库的唯一原因就是大家都需要它。
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 种一棵树最好是在十年前，也是现在。所以任何时候开始建立你的声誉都不晚。即使是你是在很久以前建立的项目，也需要继续维护它并找办法帮助别人。
 

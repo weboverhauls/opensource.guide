@@ -38,13 +38,13 @@ A tiszta, jól dokumentált elképzelés segít fókuszálni és elkerülni azt,
 
 Például @lord észrevette, hogy a projekt vízió segített neki abban, hogy eldöntse, hogy melyik kéréssel töltse az idejét. Új karbantartóként sajnálta, hogy nem ragaszkodott a projektjének hatóköréhez, amikor megkapta az első, funkcióra irányuló kérést a [Slate-hez](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   TODO: Ódzkodtam tőle. Nem törekedtem arra, hogy mindenre megoldás szülessen. Egy fél megoldás helyett inkább azt mondtam volna, hogy: "Erre most nincs elég időm, de hozzá fogom adni a hosszú távú jó-lenne-majd listához."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tippek nyílt forrású projektek karbantartóinak"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Kommunikáld az elvárásaid
 
@@ -95,13 +95,13 @@ Az indoktól függetlenül lehetséges tapintatosan kezelni azokat a hozzájáru
 
 Ha olyan hozzájárulást kapsz, amelyet nem akarsz elfogadni, akkor az első reakciód lehet hogy az, hogy figyelmen kívül hagyod, vagy úgy teszel, mintha nem látnád. Ha így teszel, akkor a másik személy érzéseit megsértheted, vagy akár más, lehetséges hozzájárulók kedvét is elveszed a részvételtől.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   A nagyszabású, nyílt forráskódú projektek támogatásának fenntartásának a kulcsa az issue-k mozgásának folyamatos fenntartása. El kell kerülni, hogy az issue-k sokáig érintetlenül  álljanak. Ha iOS fejlesztő vagy, akkor tudod, milyen bosszantó lehet egy iOS bug bejelentése. Lehet, hogy 2 évvel később hallasz csak róla, és azt mondják majd, hogy próbáld újra az iOS legújabb verziójával.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Nyílt forráskódú közösségek méretezése"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Ne hagyj nyitva nem kívánt hozzájárulást, csak azért, mert bűntudatot éreznél attól, hogy lezárod. Az idő múlásával a megválaszolatlan kérdések és a nem kívánt beolvasztási kérelmek sokkal stresszesebbé és elrettentőbbé teszik a projekttel való munkát.
 
@@ -141,13 +141,13 @@ Ha nem követik a szabályokat, akkor azonnal zárd le a jelzést és hivatkozd 
 
 Noha ez a megközelítés kezdetben kellemetlennek tűnik, a pro-aktív fellépés mindkét fél számára jó. Csökkenti annak az esélyét, hogy valaki sok elpazarolt órát fordítson egy beolvasztási kérelemre, amelyet nem fogsz elfogadni. Emellett a Te munkaterhelésed is könnyebben kezelhetővé válik.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Ideális az, ha elmagyarázod egy CONTRIBUTING.md fájlban, hogy miként kaphatnak jobb képet arról, hogy a jövőben mit fogadnál el vagy mit nem fogadnál el, még mielőtt a munkát elkezdenék.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Udvariasan lezárt beolvasztási kérelmek"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Időnként, amikor nemet mondsz, a potenciális közreműködőt felháboríthatja a döntés vagy kritizálhatja azt. Ha a viselkedése ellenségessé válik, akkor [tegyél lépéseket a helyzet enyhítésére](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) vagy akár el is távolíthatod a közösségből a személyt, ha meg sem próbál konstruktívan együttműködni.
 
@@ -171,13 +171,13 @@ Amikor azt látod, hogy az új résztvevők rendszeresen hozzájárulnak a proje
 
 Ösztönözz másokat arra, hogy [részt vegyenek a projekt irányításában](../building-community/#a-projekt-tulajdonjogának-megosztása) ezzel jelentősen csökkented a saját terhelésed, mint ahogy @lmccart észrevette ezt a saját projektjénél, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Azt mondtam: "Igen, bárki jöhet, nem kell sok tapasztalattal rendelkeznie a kódolás területén [...]." Az emberek feliratkoztak, hogy eljöjjenek [a rendezvényre], és nagyon kíváncsi voltam rá, hogy valóban jó-e az, amit mondtam? 40 ember megjelent, és nem úgy tűnt hogy mindenkivel, egyenként le tudok ülni beszélni... De az emberek összeálltak, és egyszerűen csak elkezdett minden jól működni. Amint egy ember megértette a dolgot, elkezdte a többieket tanítani.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["Mit jelent még az "Nyílt Forrás"? p5.js Kiadás"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Ha a projektet magára kell hagynod rövid vagy akár hosszabb időre, akkor nincs semmi szégyelleni való abban, ha megkérsz mást, hogy vegye át a helyed.
 
@@ -193,13 +193,13 @@ Ha egy potenciális közreműködő eltérő véleményen van arról, hogy mit k
 
 A projekt forkolása (elágaztatása) nem jelent rossz dolgot. A projekt lemásolása és módosítása a legjobb része a nyílt forráskódnak. A közösség tagjainak ösztönzése arra, hogy saját forkon dolgozzanak alkalmas arra, hogy saját kreativitásukat kiélhessék anélkül, hogy ez ütközne a projekted eredeti víziójával.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Én garantáltan lefedem a használati esetek 80%-át. Ha te egyike vagy az Unikornisoknak [szakmai guru], akkor kérlek, forkold el a munkám. Nem veszem sértésnek! A publikus projektjeim szinte kivétel nélkül a leggyakoribb problémákra nyújtanak megoldást; én csupán csak megpróbálom megkönnyíteni azt, hogy Te elmélyedhess a problémákban akár a munkám forkolásával vagy annak kiterjesztésével.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Miért zárok le beolvasztási kérelmeket?"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 Ugyanez a megoldás jó akkor is, ha valaki komolyan akarna egy megoldást a projektben valamire, de erre neked már nincs kapacitásod. API-k és testre szabható hook-ok biztosítása lehetővé teszi mások számára, hogy anélkül elégítsék ki a szükségleteiket, hogy a projektet módosítani kellene közvetlenül. @orta [szerint](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) a CocoaPods plugin megjelenése vezetett "néhány nagyon érdekes ötlethez":
 
@@ -219,13 +219,13 @@ A tesztek segítenek a közreműködőknek, hogy biztosak legyenek abban, hogy s
 
 Ha teszteket adsz hozzá, akkor bizonyosodj meg arról, hogy elmagyaráztad azt a CONTRIBUTING.md fájlban, hogy hogyan működnek.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Úgy gondolom, hogy tesztek szükségesek minden olyan kódhoz, amelyen az emberek dolgoznak. Ha a kód teljesen és tökéletesen helyes volt, akkor nem lenne szükség változtatásokra - csak akkor írunk kódot, ha valami nincs rendben, legyen az összeomlás vagy hiányzó funkció. És függetlenül attól, hogy milyen változtatásokat hajtunk végre, a tesztek elengedhetetlenek a véletlenszerűen bevezetett regressziós hibák kivédésében.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["A Rust közösségi automatizálása"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Használj eszközöket az alapvető karbantartási feladatok automatizálásához
 
@@ -261,13 +261,13 @@ Magától értetődik, hogy szükség van pihenésre! Nem szabad elodázni a pih
 
 Mint minden más munka esetén a rendszeres pihenők tartása felfrissít, boldogabbá teszt és fokozza a munkád iránti vágyadat.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   A WP-CLI fenntartása során felfedeztem, hogy előbb boldoggá kell tennem magam, és egyértelmű határokat kell meghúznom. A legjobb egyensúlyt számomra a hetente 2-5 óra biztosította, a normál munkám részeként. Ez megőrzi a szenvedélyemet és nem érzem azt, hogy túl sokat dolgoztam volna. Mivel priorizálom a munkákat amelyeken dolgozom, így normálisan haladok a véleményem szerint legfontosabb dolgokkal.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Fogadd részvétem, mert Te most egy népszerű, nyílt forráskódú projekt karbantartója lettél"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Gyakran úgy érzed nehéz pihenőt tartani, mert mindenki téged akar. Vannak akik bűntudatot éreznek, ha pihenni mennek.
 

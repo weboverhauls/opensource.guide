@@ -96,13 +96,13 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
 
 * **Nombre d'issue _opened_ et de pull request _opened_ :** Les issues ouvertes signifient que quelqu'un se soucie suffisamment de votre projet pour ouvrir une issue. Si ce nombre augmente avec le temps, cela suggère que les gens s'intéressent à votre projet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   L'open source, c'est plus que du code. Les projets Open Source qui réussissent comprennent des contributions au code et à la documentation ainsi que des conversations sur ces changements.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Activit&eacute; de responsable
 
