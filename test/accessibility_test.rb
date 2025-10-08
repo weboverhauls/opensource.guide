@@ -14,8 +14,10 @@ class AccessibilityTest < Minitest::Test
       article_files.each do |file|
         content = File.read(file)
         
-        # Check for <aside> tags with pquote class (with or without spaces around =)
-        if content.match?(/<aside[^>]*class\s*=\s*["']pquote["']/)
+        # Check for <aside> tags with pquote class
+        # Pattern matches 'pquote' as a word boundary within the class attribute
+        # Handles cases with or without spaces around = and multiple classes
+        if content.match?(/<aside[^>]*class\s*=\s*["'][^"']*\bpquote\b[^"']*["']/)
           violations << file
         end
       end
