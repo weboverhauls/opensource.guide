@@ -221,7 +221,7 @@ related:
 **திறந்த மூலத்தின் வரையறைகளை சந்திக்கிறது**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   அதற்கு ஒரு உரிமம் உள்ளதா? பொதுவாக, இது LICENSE எனப்படும் கோப்பு களஞ்சியத்தின் வேரில் உள்ளது.
   </label>
@@ -232,21 +232,21 @@ related:
 master கிளையில் ஒப்படைப்பு செயல்களை பாருங்கள். கிட்ஹப்பில், இந்த தகவலை ஒரு களஞ்சியத்தின் முகப்புப்பக்கத்தில் காணலாம்.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   சமீபத்திய ஒப்படைப்பு செயல் எப்போது?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   திட்டத்தில் எத்தனை பங்களிப்பாளர்கள் உள்ளனர்?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   எத்தனை முறை மக்கள் ஒப்படைப்பு செய்கின்றனர்? (கிட்ஹப் மீது, நீங்கள் மேல் பட்டியில் "ஒப்படைப்புகள்" என்பதை கிளிக் செய்வதன் மூலம் இதை கண்டுபிடிக்க முடியும்.)
   </label>
@@ -255,35 +255,35 @@ master கிளையில் ஒப்படைப்பு செயல்�
 அடுத்து, திட்டத்தின் சிக்கல்களை பாருங்கள்.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     எத்தனை திறந்த சிக்கல்களை உள்ளன?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     பராமரிப்பாளர்கள் சிக்கல்கள் திறந்திருக்கும் போது எவ்வளவு விரைவாக பதிலளிக்கிறார்கள்?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     சிக்கல்கள் குறித்து இயக்கத்திலுள்ள விவாதம் இருக்கிறதா?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     சிக்கல்கள் சமீபத்தியவையா?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     சிக்கல்கள் மூடப்பட்டுவிட்டனவா? (கிட்ஹப்பில், மூடப்பட்ட சிக்கல்களைக் காண, சிக்கல் பக்கத்தின் மீது "மூடப்பட்ட" தாவலைக் கிளிக் செய்யவும்.)
   </label>
@@ -292,35 +292,35 @@ master கிளையில் ஒப்படைப்பு செயல்�
 இப்போது இதையே திட்டத்தின் இழு கோரிக்கைகளுக்கு செய்யுங்கள்.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     எத்தனை திறந்த இழு கோரிக்கைகள் உள்ளன?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     பராமரிப்பாளர்கள் இழு கோரிக்கைகள் திறந்திருக்கும் போது எவ்வளவு விரைவாக பதிலளிக்கிறார்கள்?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     இழு கோரிக்கைகள் குறித்து இயக்கத்திலுள்ள விவாதம் இருக்கிறதா?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     இழு கோரிக்கைகள் சமீபத்தியவையா?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     சமீபத்தில் ஏதேனும் இழு கோரிக்கைகள் இணைக்கப்பட்டனவா? (கிட்ஹப்பில், மூடிய PRs ஐ பார்க்க இழு கோரிக்கைகள் பக்கத்தில் "மூடிய" தாவலை கிளிக் செய்யவும்.)
   </label>
@@ -331,28 +331,28 @@ master கிளையில் ஒப்படைப்பு செயல்�
 நட்பு மற்றும் வரவேற்பு சமிக்ஞைகள் உள்ள ஒரு திட்டம், புதிய பங்களிப்பாளர்களுக்கு வரவேற்கும் பண்புடையதாகும்.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     சிக்கல்கள் குறித்த கேள்விகளுக்கு பராமரிப்பாளர்களுக்கு உதவுகிறார்களா?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     சிக்கல்கள், கலந்துரையாடல் மன்றம் மற்றும் அரட்டை (உதாரணமாக, IRC அல்லது Slack) இல் மக்கள் நட்புடன் உள்ளனரா?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     இழு கோரிக்கைகளை மீளாய்வு செய்யப்படுகின்றதா?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     பராமரிப்பாளர்கள் பங்களிப்புக்காக மக்களுக்கு நன்றி தெரிவிக்கிறார்களா?
   </label>

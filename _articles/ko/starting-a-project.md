@@ -267,28 +267,28 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 **문서**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     프로젝트에 오픈소스 라이선스가 적힌 LICENSE 파일이 있다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     프로젝트가 README, CONTRIBUTING, CODE_OF_CONDUCT 등 기본적인 문서를 갖추고 있다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     이름은 기억하기 쉽고, 프로젝트가 하는 일에 대한 아이디어를 제공하며, 기존 프로젝트와 충돌하거나 상표를 침해하지 않는다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     이슈 대기열이 최신 상태이며, 이슈는 깔끔하게 분류되고 라벨이 지정되어 있다.
   </label>
@@ -297,21 +297,21 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 **코드**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     프로젝트가 일관된 코드 규칙을 사용하고 명확한 함수/메소드/변수 이름을 사용한다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     코드에 의도와 특수 상황을 담은 명확한 주석이 달려 있다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     커밋 내역, 이슈, PR에 암호나 비공개 정보 등의 민감한 자료가 없다.
   </label>
@@ -322,7 +322,7 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 여러분이 개인이라면 아래를 확인하세요.
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   (회사 직원인 경우) 법무 부서와 상담하고 회사의 IP 및 오픈소스 정책을 이해했다.
   </label>
@@ -331,28 +331,28 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 여러분이 회사나 조직이라면 아래를 확인하세요.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     법무 부서와 상담했다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     프로젝트 발표 및 홍보를 위한 마케팅 계획을 마련했다.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     이슈에 답변하고 PR을 리뷰 및 병합하는 등 커뮤니티 상호 작용을 관리할 담당자가 있다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     최소 두 명 이상이 프로젝트 관리 권한을 갖는다.
   </label>

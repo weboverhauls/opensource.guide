@@ -267,28 +267,28 @@ Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untu
 **Dokumentasi**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Project memiliki dokumen LICENSE dengan lisensi open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Project memiliki dokumentasi dasar (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Nama proyek mudah diingat, memberikan ide tentang proyek, dan tidak konflik dengan proyek yang sudah ada atau melanggar merek dagang
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Daftar masalah senantiasa baru, dengan masalah terorganisasi dengan baik dan dilabeli
   </label>
@@ -297,21 +297,21 @@ Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untu
 **Kode**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Project menggunakan konvensi kode yang konsisten dan nama fungsi/metode/variabel yang jelas
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Kode memiliki komentar yang lengkap, mendokumentasikan harapan dan kasus khusus
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Tidak ada informasi sensitif pada sejarah revisi, laporan masalah, atau pull requests (misalnya kata sandi atau informasi pribadi lainnya)
   </label>
@@ -322,7 +322,7 @@ Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untu
 Jika Anda perseorangan:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika Anda merupakan karyawan pada sebuah perusahaan)
   </label>
@@ -331,28 +331,28 @@ Jika Anda perseorangan:
 Jika Anda merupakan perusahaan atau organisasi:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Anda telah berbicara dengan divisi hukum Anda
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Anda memiliki perencanaan pemasaran untuk mengumumkan dan mempromosikan proyek
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Seseorang memiliki minat untuk mengelola interaksi komunitas (merespon terhadap laporan masalah, melakukan review, dan menggabungkan pull request)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Minimal terdapat dua orang yang memiliki akses administratif pada proyek
   </label>

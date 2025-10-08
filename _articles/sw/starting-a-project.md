@@ -267,28 +267,28 @@ Je, uko tayari kuweka mradi wako open source? Hapa kuna orodha ya ukaguzi ili ku
 **Nyaraka**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Mradi una faili ya LESENI yenye leseni ya open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Mradi una nyaraka za msingi (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Jina ni rahisi kukumbuka, linatoa wazo fulani kuhusu kile mradi unafanya, na haligongani na mradi uliopo au kukiuka alama za biashara
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Orodha ya masuala iko katika hali ya juu, na masuala yameandaliwa na kuwekwa alama wazi
   </label>
@@ -297,21 +297,21 @@ Je, uko tayari kuweka mradi wako open source? Hapa kuna orodha ya ukaguzi ili ku
 **Msimbo**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Mradi unatumia kanuni za msimbo zinazofanana na wazi ya function/method/variable names
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Msimbo umeandikwa kwa uwazi, ukielezea nia na hali za ukomo
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Hakuna vifaa nyeti katika historia ya marekebisho, masuala, au ombi la kuvuta (kwa mfano, nywila au taarifa nyingine zisizo za umma)
   </label>
@@ -322,7 +322,7 @@ Je, uko tayari kuweka mradi wako open source? Hapa kuna orodha ya ukaguzi ili ku
 Ikiwa wewe ni mtu binafsi:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Umezungumza na idara ya kisheria na/au kuelewa sera za IP na open source za kampuni yako (ikiwa wewe ni mfanyakazi mahali fulani)
   </label>
@@ -331,28 +331,28 @@ Ikiwa wewe ni mtu binafsi:
 Ikiwa wewe ni kampuni au shirika:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Umezungumza na idara yako ya kisheria
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Una mpango wa masoko wa kutangaza na kukuza mradi
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Mtu mmoja amejiandikisha kusimamia mwingiliano wa jamii (kujibu masuala, kupitia na kuunganisha ombi la kuvuta)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Angalau watu wawili wana ufikiaji wa utunzaji wa mradi
   </label>

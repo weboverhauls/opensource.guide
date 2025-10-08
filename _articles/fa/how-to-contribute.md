@@ -227,7 +227,7 @@ related:
 **پروژه با تعریف پروژه‌ی متن باز مطابقت داشته باشد**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   پروژه‌ای که می‌خواهید در آن مشارکت کنید، لایسنس دارد؟ در هر پروژه‌ی متن باز معمولاً فایلی با نام <span dir="rtl">LICENSE</span> در روت ریپاستوری (مخزن) آن وجود دارد
   </label>
@@ -238,21 +238,21 @@ related:
 نگاهی به کامیت های اخیر در شاخه اصلی بیاندازید. در گیت‌هاب این این مورد در صفحه اصلی مخزن دیده می‌شود.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   آخرین کامیت چه زمانی بود؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   چه تعداد مشارکت‌کننده در پروژه حضور دارند؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   افراد چند بار کامیت می‌کنند؟ (در <span dir="rtl">GitHub</span> ، با کلیک روی <span dir="rtl">«commits»</span> روی بالای بار می‌توانید آن را متوجه شوید.)
   </label>
@@ -261,35 +261,35 @@ related:
 در قدم بعدی به مسائل پروژه <span dir="rtl">(issue)</span> نگاهی بیندازید.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     چه تعداد مسائل حل‌نشده و باز در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     آیا نگهدارندگان به موقع به مسائلی که مطرح می‌شوند واکنش نشان می‌دهند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     آیا بحث‌ها و گفتگوهای فعالی جهت حل مسائل وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     آیا اخیراً مسائلی گزارش شده است؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     مسائل پروژه‌ی متن باز برطرف شدند؟ (می‌توانید به صفحه‌ی <span dir="rtl">Issues</span> در <span dir="rtl">GitHub</span> و تب <span dir="rtl">«closed»</span> مراجعه کنید تا مسائل حل‌شده را ببینید.)
   </label>
@@ -298,35 +298,35 @@ related:
 حالا، تمام این مراحل را برای درخواست ادغام یا <span dir="rtl">Pull Request</span> پروژه هم در نظر بگیرید.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     چه تعداد درخواست ادغام یا <span dir="rtl">Pull Request</span> در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     آیا زمان دریافت درخواست‌های ادغام، مسئول‌نگهداری به سرعت به آن‌ها جواب می‌دهد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     آیا بحث‌های فعالی برای درخواست‌های ادغام وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     آیا درخواست‌های ادغام جدیدی در پروژه وجود دارد؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     جدیدترین درخواست‌هایی که ادغام شدن چه بودند؟ (می‌توانید در صفحه‌ی <span dir="rtl">Pull Request</span> و تب <span dir="rtl">«closed»</span> در سایت <span dir="rtl">GitHub</span> بروید تا درخواست‌های ادغام انجام شده را ببینید
   </label>
@@ -337,28 +337,28 @@ related:
 زمانی که یک پروژه‌ی متن باز پذیرای مشارکت‌کننده‌های جدید باشد، سیگنال‌های دوستانه‌ای برای مشارکت‌کننده‌ها می‌فرستد.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     آیا مسئول ‌نگهداری جواب مفیدی به سوالات در بخش مسائل <span dir="rtl">(Issues)</span> می‌دهد؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     آیا افراد در صفحه‌ی issue، تالارهای گفتگو، و صفحات چت مانند <span dir="rtl">IRC</span> یا <span dir="rtl">Slack</span> به طور دوستانه‌ای رفتار می‌کنند؟
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     آیا درخواست‌های ادغام بررسی می‌شوند؟
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     آیا مسئول ‌نگهداری از افراد به خاطر مشارکت‌شان تشکر می‌کند؟
   </label>
