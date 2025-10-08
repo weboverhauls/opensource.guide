@@ -32,13 +32,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 人们为什么把他们的作品开源？
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
 我从开源使用和协作中获得的最有价值的经验之一，就是在我面临许多与其他开发人员相同问题的过程中所建立的联系。
   <p markdown="1" class="pquote-credit">
     — @kentcdodds, ["参与开源对我来说太棒了"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 个人或组织为何想要开源一个项目，[有各种各样的的原因](https://ben.balter.com/2015/11/23/why-open-source/)，例如：
 
@@ -76,13 +76,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 如果你唯一的目标是炫耀你的工作，你甚至可能不需要他人的贡献，甚至在你的 README 中说明这点。但另一方面，如果你需要贡献者，你会投入时间来使文档清晰，好让新的参与者感到欢迎。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
 在某些时候，我创建了一个自己正在使用的自定义 UIAlertView，我决定将它开源。所以我修改它使其更有活力，并把它上传到了 GitHub。我还写了我的第一个文档，解释给其他开发人员如何在他们的项目中使用它。很可能没有人会去使用它，因为它是一个简单的项目，但我的贡献让我感觉很好。
   <p markdown="1" class="pquote-credit">
 — @mavris, ["自学的软件开发者：为什么开源对我们那么重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 随着你的项目增长，你的社区可能不仅需要你的代码。回应问题，审查代码和传播你的项目都会成为开源项目中的重要任务。
 
@@ -92,13 +92,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 如果你需要专门的预算或人员来促进，操作和维护项目，请尽早提出。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
 当你开始开源一个项目时，确保您的管理流程考虑到您项目周围社区的贡献和能力很重要。不要害怕让那些没有在你的企业中受雇的贡献者参与项目的关键部分 - 尤其如果他们是频繁的贡献者的话。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["所以你想开源一个项目，是吗？"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### 加入其他项目
 
@@ -150,13 +150,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 您可以使用自己的 README 回答其他问题，例如处理贡献，项目的目标以及许可证和归属信息。 如果您不想接受他人的贡献，或者您的项目尚未准备好作为产品提供使用，请将这些信息写下来。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
 更好的文档意味着更多的用户，更少的求助和更多的贡献者，等等。要记住你的读者不是你自己。来到项目中的每个人可能有着截然不同的经历。
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["这样写给他人看（视频）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 有时，人们会因为觉得项目未完成而不愿意撰写 README，或者他们不希望做出贡献。这些都是写一个 README 的很好的理由。
 
@@ -196,13 +196,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 ### 建立行为规范
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   我们都有过这样的关于重复劳动的经验，无论是维护者试着解释为什么某些事物必须通过某种明确的方式执行，或者是用户...提出一个简单的问题。行为规范成为一个便利的参考和可链接的文档标明你的团队会认真对待具有建设性的讨论。
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["让开源成为一个有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 最后，行为准则有助于为项目参与者的行为设定基本规则。这在你为社区或者项目推出一个开源项目的时候尤为有价值。一份行为帮助你促进健康，有建设性的社区行为，这也会减轻你作为维护者的压力。
 
@@ -247,13 +247,13 @@ redirect_from: /zh-cn/starting-a-project/
 
 是否是官方文档或者一封普通的邮件，你的书写风格都是你项目品牌的一部分。考虑你可能会拥有粉丝，以及这是你想传达的声音。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   我尝试处理每一个细节，包括：处理邮件，展示示例，友好待人，认真处理大家的issues以及试图帮助到大家。经过一段时间后，大家可能不再是只问问题，还会帮助我解决其他人的疑问以及给我喜悦，他们模仿我的风格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 使用热情，通俗易懂的语言（如"他们"，即使是指一个人）能够让新来的贡献者感觉项目非常欢迎他们。使用简单的语言，因为你的读者可能英语不是很好。
 

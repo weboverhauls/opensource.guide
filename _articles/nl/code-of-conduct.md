@@ -37,14 +37,14 @@ Place a CODE_OF_CONDUCT file in your project's root directory, and make it visib
 
 ## Beslissen hoe u uw gedragscode handhaaft
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Een gedragscode die niet (of niet) kan worden afgedwongen, is erger dan helemaal geen gedragscode: het geeft de boodschap af dat de waarden in de gedragscode niet echt belangrijk of gerespecteerd worden in uw gemeenschap.
   
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 U moet uitleggen hoe uw gedragscode wordt gehandhaafd **_voordat_** een overtreding plaatsvindt. Er zijn verschillende redenen om dit te doen:
 
@@ -76,13 +76,13 @@ Het gemeenschapslid in kwestie kan een recidiverende overtreder zijn die anderen
 
 Geef uzelf de tijd om te begrijpen wat er is gebeurd voordat u reageert. Lees de eerdere opmerkingen en gesprekken van de persoon door om beter te begrijpen wie ze zijn en waarom ze zich misschien op zo'n manier hebben gedragen. Probeer andere dan de uwe perspectieven te verzamelen over deze persoon en zijn gedrag.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Laat je niet verleiden tot ruzie. Laat u niet op een zijspoor zetten om met het gedrag van iemand anders om te gaan voordat u klaar bent met het afhandelen van de kwestie. Concentreer u op wat u nodig heeft.
   
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["Dus je hebt een beleid. Wat nu?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Onderneem passende maatregelen
 

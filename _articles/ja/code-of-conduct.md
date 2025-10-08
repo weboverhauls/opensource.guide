@@ -37,12 +37,12 @@ CODE_OF_CONDUCT ファイルをプロジェクトのルートディレクトリ�
 
 ## どのように行動規範を遵守してもらうかを決めよう
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   遵守されていない行動規範は、全く行動指針がない状態よりも悪い状態です： 行動規範が遵守されていない状態は、行動規範に記載されている価値観が実際は重要でないか尊重されていないというメッセージをコミュニティの人々に与えてしまうからです。
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 行動規範の違反が発生する **前に** どのように行動規範を遵守してもらうかを説明するべきです。そうするべき理由はいくつかあります：
 
@@ -72,12 +72,12 @@ CODE_OF_CONDUCT ファイルをプロジェクトのルートディレクトリ�
 
 行動を起こす前に、時間を取って何が起きたのか理解しましょう。その人の過去のコメントや会話に目を通して、彼らがどういった人物でなぜそういった行動に出たのかを良く理解しましょう。その人自体やその人の行動に関して、あなたの観点よりも他の人の観点をより集めましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   論争に巻き込まれないようにしましょう。眼前の問題を解決し終える前に他の人の振る舞いを対処することに意識が逸れないようにしましょう。必要なことに集中するのです。
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### 適切な行動を取ろう
 

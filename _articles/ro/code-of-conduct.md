@@ -37,7 +37,7 @@ Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului
 
 ## Decizând cum îți vei impune codul de conduită
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <p>
     Un cod de conduită care nu este (sau nu poate fi) impus este mai rău decât absența unui cod de conduită: el trimite mesajul că valorile din codul de conduită nu sunt de fapt importante sau respectate în comunitatea ta.
   </p>
@@ -49,7 +49,7 @@ Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Ar trebui să explici cum codul tău de conduită va fi impus **_înainte_** ca o încălcare să aibă loc. Sunt câteva motive pentru a face astfel:
 
@@ -81,7 +81,7 @@ Membrul în cauză al comunității poate fi un recidivist care îi face în mod
 
 Înainte de a răspunde, dă-ți timp să înțelegi ce s-a întâmplat. Citește prin comentariile și conversațiile trecute ale acestei persoane pentru a înțelege mai bine cine este și de ce a acționat într-un asemenea mod. Încearcă să culegi perspective, altele decât propria ta perspectivă despre această persoană și comportamentul ei.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <p>
     Nu te lăsa tras într-o ceartă. Nu te lăsa distras de a te ocupa cu comportamentul altcuiva înainte de a termina cu problema la îndemână. Concentrează-te pe ce ai nevoie.
   </p>
@@ -93,7 +93,7 @@ Membrul în cauză al comunității poate fi un recidivist care îi face în mod
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Ia măsurile corespunzătoare
 

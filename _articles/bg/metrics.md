@@ -96,13 +96,13 @@ related:
 
 * **Видове приноси:** Например ангажименти, коригиране на правописни грешки или грешки или коментиране на проблем.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Отвореният код е нещо повече от код. Успешните проекти с отворен код включват принос на код и документация заедно с разговори за тези промени.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["Формата на отворения код"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Поддържаща дейност
 

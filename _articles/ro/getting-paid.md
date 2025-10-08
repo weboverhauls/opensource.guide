@@ -14,7 +14,7 @@ related:
 
 O mare parte din munca open source este voluntară. De exemplu, cineva ar putea da peste un bug într-un proiect pe care îl folosește și să trimită o reparație rapidă, sau ar putea să se bucure să meșterească pe un proiect cu sursă deschisă în timpul său liber.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Căutam un proiect de programare ca „hobby” care să mă țină ocupat în săptămâna din jurul Crăciunului. (...) Aveam un calculator acasă, și nu mai mult în mâinile mele. Am decis să scriu un interpretor pentru noul limbaj de scripting la care mă gândeam în ultimul timp. (...) Am ales Python ca un titlu de lucru.
@@ -27,7 +27,7 @@ O mare parte din munca open source este voluntară. De exemplu, cineva ar putea 
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Există multe motive pentru care o persoană nu ar dori să fie plătită pentru munca ei open source.
 
@@ -35,7 +35,7 @@ Există multe motive pentru care o persoană nu ar dori să fie plătită pentru
 * **Ea se bucură de a gândi la open source ca la un hobby** sau ca despre o evadare creativă și nu vrea să se simtă obligată financiar să lucreze pe proiectele sale.
 * **Ea obține alte beneficii de la contribuirea pe open source,** cum ar fi construirea reputației sau a portofoliului său, învățarea de noi abilități, sau se simte mai aproape de comunitate.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Donațiile financiare adaugă un sentiment de resposabilitate, pentru unii. (...) Este important pentru noi, în lumea global conectată, rapidă în care trăim, să putem spune „nu acum, simt că îmi doresc să fac ceva complet diferit”.
@@ -48,13 +48,13 @@ Există multe motive pentru care o persoană nu ar dori să fie plătită pentru
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Pentru alții, în special când contribuțiile sunt în curs de desfășurare sau necesită timp semnificativ, a fi plătiți să contribuie la open source este singura cale în care ei pot participa, fie fiindcă proiectul cere asta, fie din motive personale.
 
 Întreținerea de proiecte populare poate fi o responsabilitate semnificativă, luând până la 10 sau 20 de ore pe săptămână în loc de câteva ore pe lună.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Întreabă oricare întreținător de proiect cu sursă deschisă, și el îți va spune de realitatea cantității de muncă ce merge în gestionarea unui proiect. Ai clienți. Rezolvi probleme pentru ei. Creezi noi facilități. Aceasta devine o reală cerere din timpul tău.
@@ -67,11 +67,11 @@ Pentru alții, în special când contribuțiile sunt în curs de desfășurare s
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Munca plătită de asemenea dă șanse oamenilor cu diferite moduri de viață să facă contribuții semnificative. Unii oameni nu-și pot permite să petreacă timp neplătit pe proiecte cu sursă deschisă, bazat pe poziția lor financiară curentă, datorii, sau familie sau alte obligații de îngrijire. Aceasta înseamnă că lumea nu ajunge niciodată să vadă contribuții de la oameni talentați care nu-și pot permite să facă voluntariat cu timpul lor. Aceasta are implicații etice, după cum @ashedryden [a descris](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), fiindcă munca făcută este părtinitoare în favoarea acelora care deja au avantaje în viață, care apoi obțin avantaje în plus bazate pe contribuțiile lor voluntare, în timp ce alții care nu sunt capabili să facă voluntariat apoi nu mai primesc oportunitați mai încolo, ceea ce consolidează lipsa de diversitate din prezent în comunitatea open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
   <p>
     OSS oferă beneficii masive industriei tehnologice, care, în schimb, înseamnă beneficii pentru toate industriile. (...) Totuși, dacă singurii oameni care se pot concentra pe ea sunt norocoșii și obsedații, atunci există un potențial gigantic neexploatat.
@@ -84,7 +84,7 @@ Munca plătită de asemenea dă șanse oamenilor cu diferite moduri de viață s
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Dacă ești în căutare de sprijin financiar, există două căi pe care să le consideri. Îți poți finanța propriul timp în calitate de contributor, sau poți găsi finanțare organizațională pentru proiect.
 
@@ -106,7 +106,7 @@ Multe companii dezvoltă programe open source pentru a-și construi marca și a 
 
 Dacă compania ta coboară pe acest traseu, este important să păstrezi granițele între comunitate și activitatea corporativă clare. În fine, open source se susține pe sine prin contribuții de la oameni din întreaga lume, și aceasta este mai mare decât oricare companie sau locație.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   <p>
     A fi plătit să lucrezi pe open source este o oportunitate rară și minunată, dar nu ar trebui să fie necesar să renunți la pasiunea ta în proces. Pasiunea ta ar trebui să fie motivul pentru care companiile vor să te plătească.
@@ -119,7 +119,7 @@ Dacă compania ta coboară pe acest traseu, este important să păstrezi graniț
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Dacă nu îți poți convinge angajatorul curent să acorde prioritate muncii open source, consideră să găsești un nou angajator care încurajează contribuțiile angajaților la open source. Caută companii care își fac dedicarea la munca open source în mod explicit. De exemplu:
 
@@ -202,7 +202,7 @@ Ce, mai exact, vei reuși cu finanțarea propusă? Concentrează-te pe etapele d
 
 Are finanțatorul vreo cerință în legătură cu plata? De exemplu, ar putea să fie necesar să fii o organizație nonprofit sau să ai un sponsor fiscal nonprofit. Sau poate fondurile trebuie date unui contractant individual în loc de o organizație. Aceste cerințe variază între finanțatori, deci asigură-te că îți faci cercetarea în prealabil.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   <p>
     De ani de zile, am fost resursa principală a pictogramelor prietenoase pentru site-uri web, cu o comunitate de peste 20 de milioane de oameni și am fost recomandați pe mai mult de 70 de milioane de site-uri web, inclusiv Whitehouse.gov. (...) Versiunea 4 a fost acum 3 ani. Tehnologiile web s-au schimbat mult de atunci, și sincer, Font Awesome a devenit puțin învechit. (...) De aceea introducem Font Awesome 5. Modernizăm și rescriem CSS-ul și reproiectăm fiecare pictogramă de la cap la coadă. Vorbim de aspect mai bun, consistență mai bună, și lizibilitate mai bună.
@@ -215,7 +215,7 @@ Are finanțatorul vreo cerință în legătură cu plata? De exemplu, ar putea s
   <p markdown="1" class="pquote-credit">
 — @davegandy, [video-ul Kickstarter al Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Experimentează și nu renunța
 

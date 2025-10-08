@@ -30,12 +30,12 @@ Pour plus d'information concernant la messagerie, consultez l'exercice de Mozill
 
 ## Aidez les gens à trouver et à suivre votre projet
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Dans l'idéal, vous avez besoin d'une seule URL "d'accueil" que vous pouvez promouvoir et diriger vers des personnes en relation avec votre projet. Vous n'avez pas besoin de vous dépenser sur un modèle fantaisie ou même un nom de domaine, mais votre projet a besoin d'un point focal.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Aidez les internautes à trouver et à retenir votre projet en les pointant vers un espace de nom unique.
 
@@ -43,13 +43,13 @@ Aidez les internautes à trouver et à retenir votre projet en les pointant vers
 
 Si vous ne souhaitez pas encore créer de points de vente pour votre projet, faites la promotion de votre propre compte Twitter ou GitHub dans tout ce que vous faites. La promotion de votre compte Twitter ou GitHub permettra aux gens de savoir comment vous contacter ou suivre votre travail. Si vous parlez lors d'une rencontre ou d'un événement, assurez-vous que vos coordonnées sont incluses dans votre bio ou vos diapositives.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Une erreur que j'ai commise à mes débuts (...) a été de ne pas créer de compte Twitter pour le projet. Twitter est un excellent moyen de tenir les gens au courant d'un projet et d'exposer constamment les gens au projet.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Envisagez de créer un site Web pour votre projet.** Un site Web rend votre projet plus convivial et plus facile à parcourir, surtout lorsqu'il est associé à une documentation et à des tutoriels clairs. Avoir un site Web suggère également que votre projet est actif, ce qui rendra votre auditoire plus à l'aise pour l'utiliser. Donnez des exemples pour donner aux gens des idées sur la façon d'utiliser votre projet.
 
@@ -67,13 +67,13 @@ La sensibilisation en ligne est un excellent moyen de partager et de répandre l
 
 Tirez parti des communautés et des plateformes en ligne existantes pour atteindre votre public. Si votre projet open source est un projet logiciel, vous pouvez probablement trouver votre public sur [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), ou [Quora](https://www.quora.com/). Trouvez les canaux dont vous pensez que les gens vont le plus tirer profit ou seront le plus enthousiasmés par votre travail.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Chaque programme a des fonctions très spécifiques que seule une fraction des utilisateurs trouveront utiles. Ne spammez pas toutes les personnes possible. Ciblez plutôt vos efforts sur les communautés qui trouveront un bénéfice à connaître votre projet.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Voyez si vous pouvez trouver des moyens de partager votre projet de manière pertinente :
 
@@ -93,37 +93,37 @@ Les événements hors ligne sont un moyen populaire de promouvoir de nouveaux pr
 
 Si vous êtes [nouveau sur la prise de parole en public](https://speaking.io/), commencez par trouver une rencontre locale liée à la langue ou à l'écosystème de votre projet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   J'étais plutôt nerveux d'aller à PyCon. Je donnais une conférence, je n'allais connaître que quelques personnes, j'y allais pendant une semaine entière. (...) Je n'aurais pas dû m'inquiéter, cependant. PyCon était phénoménalement génial ! (...) Tout le monde était incroyablement amical et extraverti, tellement que j'ai rarement trouvé le temps de ne pas parler aux gens !
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Si vous n'avez jamais parlé à un événement auparavant, il est tout à fait normal de vous sentir nerveux ! Rappelez-vous que votre auditoire est là parce qu'il veut vraiment entendre parler de votre travail.
 
 Au fur et à mesure que vous écrivez votre exposé, concentrez-vous sur ce que votre auditoire trouvera intéressant et dont vous tirerez profit. Gardez votre ton amical et accessible. Souriez, respirez et amusez-vous.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Lorsque vous commencez à écrire votre discours, quel que soit votre sujet, cela peut aider si vous voyez votre conversation comme une histoire que vous racontez.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Lorsque vous êtes prêt, envisagez de prendre la parole lors d'une conférence pour promouvoir votre projet. Les conférences peuvent vous aider à atteindre plus de gens, parfois de partout dans le monde.
 
 Recherchez des conférences spécifiques à votre langue ou à votre écosystème. Avant de soumettre votre exposé, faites des recherches sur la conférence pour adapter votre discours aux participants et augmenter vos chances d'être accepté pour prendre la parole à la conférence. Vous pouvez souvent avoir une idée de votre auditoire en regardant les conférenciers d'une conférence.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   J'ai écrit très gentiment aux gens de JSConf et je les ai suppliés de me donner un emplacement où je pourrais le présenter à JSConf EU. (...) J'avais très peur de présenter cette chose sur laquelle je travaillais depuis six mois. (...) Tout le temps je pensais juste, oh mon Dieu. Qu'est ce que je fais ici ?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Construire une r&eacute;putation
 
@@ -131,13 +131,13 @@ En plus des stratégies décrites ci-dessus, la meilleure façon d'inviter les g
 
 Aider les nouveaux arrivants, partager des ressources et apporter une contribution réfléchie aux projets des autres vous aidera à vous bâtir une réputation positive. Être un membre actif dans la communauté open source aidera les gens à avoir un contexte pour votre travail et sera plus susceptible de prêter attention et de partager votre projet. Développer des relations avec d'autres projets open source peut même conduire à des partenariats officiels.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   La seule raison pour laquelle urllib3 est la bibliothèque Python tierce la plus populaire aujourd'hui est parce qu'elle fait partie des requêtes.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Il n'est jamais trop tôt ou trop tard pour commencer à bâtir votre réputation. Même si vous avez déjà lancé votre propre projet, continuez de chercher des moyens d'aider les autres.
 

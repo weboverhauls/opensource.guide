@@ -37,12 +37,12 @@ The [Django आचार संहिता](https://www.djangoproject.com/condu
 
 ## यह निर्णय लेना कि आप अपनी आचार संहिता को कैसे लागू करेंगे
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   एक आचार संहिता जिसे लागू नहीं किया जाता (या नहीं किया जा सकता) वह किसी भी आचार संहिता के न होने से भी बदतर है: यह संदेश भेजती है कि आचार संहिता में मौजूद मूल्य वास्तव में आपके समुदाय में महत्वपूर्ण या सम्मानित नहीं हैं।
   <p markdown="1" class="pquote-credit">
 — [Ada पहल](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 उल्लंघन होने से **_पहले_** आपको स्पष्ट करना चाहिए कि आपकी आचार संहिता कैसे लागू की जाएगी। ऐसा करने के कई कारण हैं:
 
@@ -72,12 +72,12 @@ The [Django आचार संहिता](https://www.djangoproject.com/condu
 
 प्रतिक्रिया देने से पहले, स्वयं को यह समझने का समय दें कि क्या हुआ था। यह बेहतर ढंग से समझने के लिए कि वे कौन हैं और उन्होंने ऐसा व्यवहार क्यों किया होगा, उस व्यक्ति की पिछली टिप्पणियों और बातचीत को पढ़ें। इस व्यक्ति और उनके व्यवहार के बारे में अपने अलावा अन्य दृष्टिकोण इकट्ठा करने का प्रयास करें।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   किसी बहस में न पड़ें. इससे पहले कि आप मौजूदा मामले से निपट लें, किसी और के व्यवहार से निपटने में पीछे न हटें। आपको जो चाहिए उस पर ध्यान दें.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["तो आपके पास अपने लिए एक पॉलिसी है। अब क्या?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### उचित कार्रवाई करें
 
