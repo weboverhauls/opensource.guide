@@ -12,13 +12,13 @@ related:
 
 ## Açık kaynağa neden katkıda bulunmalıyım?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> 
   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
   <p markdown="1" class="pquote-credit">
 - @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Açık kaynağa katkıda bulunmak, hayal edebileceğiniz herhangi bir konuyu öğrenmek, öğretmek ve deneyim geliştirmek için faydalı bir yol olabilir.
 
@@ -62,13 +62,13 @@ Endişe etmeyin! Açık kaynak kodlu bir projeye dahil olmanın çok farklı yol
 
 Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak katkıda bulunmanız gerektiğidir. Aslında, genellikle [en çok ihmal edilen veya göz ardı edilen](https://github.com/blog/2195-the-shape-of-open-source) projenin diğer kısımlarıdır. Bu tür katkılara katılmayı teklif ederek projeye _büyük bir_ iyilik yapacaksınız!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.
   <p markdown="1" class="pquote-credit">
 - @orta, ["Varsayılan olarak OSS’ye taşıma"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve diğer topluluk üyeleriyle tanışmak için harika bir yoldur. Bu ilişkileri kurmak size projenin diğer bölümlerinde de çalışma fırsatı verecektir.
 
@@ -93,13 +93,13 @@ Kod yazmayı sevseniz bile, diğer katkı türleri de bir projeye katılmak ve d
 * [PyPA'nın katılımcılarının yaptığı gibi](https://packaging.python.org/) proje için dersler yazın
 * Projenin dokümantasyonu için çeviri yapın
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Cidden, \[belgeleme\] çok önemlidir. Şu ana kadarki belgeler mükemmeldi ve Babil'in keskin bir özelliği oldu. Bazı özellikleri kesinlikle kullanabilecek bölümler var, hatta burada bir paragrafın eklenmesi bile çok beğeni topluyor.
   <p markdown="1" class="pquote-credit">
 - @kittens, ["Katkıda bulunanlar için çağrı"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Organize etmeyi sever misiniz?
 
@@ -140,13 +140,13 @@ Bir yazılım geliştiricisi olsanız bile, bir dokümantasyon projesi üzerinde
 
 ## Kendinizi yeni bir projeye yönlendirmek
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Bir sorun listesine giderseniz ve işler kafa karıştırıcı görünür, yalnız değilsiniz. Bu araçlar çok fazla bilgi gerektirir, ancak insanlar size yardımcı olabilir ve onlara sorular sorabilirsiniz.
   <p markdown="1" class="pquote-credit">
 - @shaunagm, ["Açık Kaynağa Nasıl Katkıda Bulunulur"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/) 
   </p>
-</aside>
+</div>
 
 Bir yazım hatasının düzeltilmesinden daha fazla olarak, açık kaynağa katkıda bulunmak, partideki bir grup yabancıyla konuşmaya çalışmak gibidir. Lamalar hakkında konuşmaya başlarsanız, akvaryum balığı ile ilgili derin bir tartışma yapıyorlarsa, muhtemelen size biraz garip bakarlar.
 
@@ -363,13 +363,13 @@ Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olac
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir.
   <p markdown="1" class="pquote-credit">
 - @kfogel, [_OPS_ üretiliyor](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Nasıl katkı yapılır?
 
@@ -379,13 +379,13 @@ Hoşunuza giden bir proje buldunuz ve katkıda bulunmaya hazırsınız. En sonun
 
 İster bir kerelik bir katkı yapan, ister bir topluluğa katılmaya çalışan biri olun, başkalarıyla çalışmak açık kaynak dünyasında geliştireceğiniz en önemli becerilerden biridir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Yeni bir katılımcı olarak \] ben bir sorunu çözmek istediğimde hemen soru sormam gerektiğini fark ettim. Kod tabanında dolaştım. Bir konunun ne olduğunu anladığıma dair bir şeyler hissettiğimde, daha fazla yardım istemiştim. Ve voilà! İhtiyacım olan tüm detayları aldıktan sonra sorunu çözebildim.
   <p markdown="1" class="pquote-credit">
 - @shubheksha, [Yeni Başlayanlar İçin Açık Kaynak Dünyasında İnişli Çıkışlı Yolculuk](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Bir sorunu açmadan veya bir PR oluşturmadan ya da sohbette bir soru sormadan önce, fikirlerinizi etkili bir şekilde ortaya çıkarmak için bu noktaları aklınızda bulundurun.
 
@@ -441,13 +441,13 @@ Bir sorun açmadan veya talepte bulunmadan önce, belirli bir şey eklemeniz ger
 
 Önemli bir katkı yapmak istiyorsanız, üzerinde çalışmadan önce sormanız gereken bir sorun açın. Projeyi bir süre izlemeniz yararlı olacaktır (GitHub'da, tüm konuşmalar size bildirilmek için ["İzle"yi tıklayabilirsiniz](https://help.github.com/articles/watching-repositories/)) ve kabul edilmeyebilecek bir işe başlamadan önce topluluk üyelerini tanıyın.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Aktif olarak kullandığınız bir projeyi seçmek, GitHub'da “izlemek” ve her konuyu ve PR'ı okumaktan <em>çok şey</em> öğreneceksiniz.
   <p markdown="1" class="pquote-credit">
 - @gaearon [birleştirme projelerinde](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Bir istek/sorun açmak
 

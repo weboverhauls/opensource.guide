@@ -44,7 +44,7 @@ Masz szczęście, ponieważ dziś licencje open source są ustandaryzowane i ła
 
 Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   <i>
   A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code.
@@ -52,7 +52,7 @@ Kiedy tworzysz nowy projekt w GitHub, zostaniesz [poproszony o dodanie licencji]
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Która licencja typu open source jest odpowiednia dla mojego projektu?
 
@@ -96,7 +96,7 @@ Dodatkowa umowa współtwórcy - często zwana umową licencyjną współtwórcy
 
 Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niepotrzebną, trudną do zrozumienia lub niesprawiedliwą (gdy odbiorca umowy otrzymuje więcej praw niż współautorzy lub odbiorcy publiczni dzięki licencji open source projektu), dodatkową umowę wnoszącą wkład można uznać za nieprzyjazną dla społeczności projektu.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   <i>
     We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base.
@@ -104,7 +104,7 @@ Ponadto poprzez dodanie „dokumentacji”, którą niektórzy uważają za niep
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Niektóre sytuacje, w których warto rozważyć zawarcie dodatkowej umowy wnoszącej wkład dla twojego projektu, obejmują:
 
@@ -140,7 +140,7 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
 
 * **Zasady dotyczące składek pracowniczych:** Rozważ opracowanie zasad korporacyjnych, które określają, w jaki sposób pracownicy przyczyniają się do projektów typu open source. Jasna polityka zmniejszy zamieszanie wśród pracowników i pomoże im przyczyniać się do projektów typu open source w najlepszym interesie firmy, zarówno w ramach pracy, jak i czasu wolnego. Dobrym przykładem jest [Model IP i Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention.
@@ -148,17 +148,17 @@ W dłuższej perspektywie Twój zespół prawny może zrobić więcej, aby pomó
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Co wydać:** [(Prawie) wszystko?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Jeśli Twój zespół prawny rozumie i jest zaangażowany w strategię otwartego oprogramowania firmy, najlepiej będzie Ci w stanie pomóc, a nie utrudnić wysiłki.
 * **Zgodność:** Nawet jeśli Twoja firma nie wydaje żadnych projektów typu open source, korzysta z oprogramowania innego typu. [Świadomość i proces](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) może zapobiegać bólom głowy, opóźnieniom produktowym, i procesom sądowym.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Patenty:** Twoja firma może dołączyć do [Open Invention Network](https://www.openinventionnetwork.com/), wspólnej puli patentów obronnych, aby chronić korzystanie przez członków z dużych projektów open source lub odkryć inne [alternatywne licencjonowanie patentów](https://www.eff.org/document/hacking-patent-system-2016).
 * **Zarządzanie:** Zwłaszcza jeśli i kiedy sensowne jest przeniesienie projektu do [podmiotu prawnego spoza firmy](../leadership-and-governance/#czy-potrzebuję-osobowości-prawnej-do-obsługi-mojego-projektu).

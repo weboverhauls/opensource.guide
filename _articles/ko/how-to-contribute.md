@@ -12,13 +12,13 @@ related:
 
 ## 왜 오픈소스에 기여할까요?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software”](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 오픈소스에 기여하는 것은 여러분이 상상할 수 있는 모든 기술을 배우고, 가르치고, 구현하는 보람찬 방법이 될 수 있습니다.
 
@@ -58,13 +58,13 @@ related:
 
 오픈소스에 기여하는 것에 대한 일반적인 오해는 코드를 작성해야 한다는 것입니다. 사실, 프로젝트의 다른 부분이 [무시되거나 간과되는 경우](https://github.com/blog/2195-the-shape-of-open-source)가 더 많습니다. 이러한 유형의 기여에 동참하겠다고 제안하면 프로젝트에 큰 도움이 될 것입니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default”](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 코드를 작성하는 것을 좋아해도, 다른 유형의 기여는 프로젝트에 참여하고 다른 커뮤니티 구성원을 만날 수 있는 좋은 방법입니다. 이러한 관계를 구축하면 프로젝트의 다른 부분에서 작업할 기회를 얻을 수 있습니다.
 
@@ -89,13 +89,13 @@ related:
 * [PyPA의 기여처럼](https://packaging.python.org/), 프로젝트 튜토리얼 작성하기
 * 프로젝트 문서 번역 작성하기
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors”](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### 조직하는 것을 좋아하세요?
 
@@ -136,13 +136,13 @@ related:
 
 ## 새 프로젝트로 향하기
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source”](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 오타를 수정하는 것 이상으로 오픈소스에 기여하는 것은 파티에서 낯선 사람들에게 다가가는 것과 같습니다. 사람들이 금붕어에 대한 깊은 토론에 빠져 있을 때 라마에 대해 이야기한다면 그들은 아마 여러분을 약간 이상하게 볼 겁니다.
 
@@ -359,13 +359,13 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](http://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## 기여하는 방법
 
@@ -375,13 +375,13 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 
 하나의 기여를 하든 커뮤니티에 참여하려고 하든, 관계없이 다른 사람들과 협력하는 것은 오픈소스에서 개발할 가장 중요한 기술 중 하나입니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner’s Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 이슈나 PR을 열거나 채팅에서 질문을 하기 전에 아이디어를 효과적으로 전달할 수 있도록 아래와 같은 사항을 명심하세요.
 
@@ -437,13 +437,13 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 
 실질적인 기여를 하고 싶다면, 작업하기 전에 이슈를 열고 물어보세요. 승인되지 않을 수도 있는 작업을 하기 전에(깃허브에서는, ["Watch"를 클릭](https://help.github.com/articles/watching-repositories/)해서 토론을 알림 받을 수 있습니다), 커뮤니티 구성원들을 알게 되면 도움이 됩니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### 이슈 열기
 

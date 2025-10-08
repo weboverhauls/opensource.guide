@@ -36,7 +36,7 @@ Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea
 * **Deschide-ți mintea în legătură cu tipurile de contribuții pe care le vei accepta.** Mulți contributori încep cu un raport de bug sau o corectare mică. Există [multe căi de a contribui](../how-to-contribute/#ce-înseamnă-să-contribui) la un proiect. Lasă-i pe oameni să ajute cum vor ei să ajute.
 * **Dacă există o contribuție cu care nu ești de acord,** mulțumește-i pentru ideea sa și [explică de ce](../best-practices/#învățând-să-spui-nu) nu se încadrează în domeniul proiectului, legând către documentație relevantă dacă ai una.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   <p>
     A contribui la open source este mai ușor pentru unii decât pentru alții. Există multă frică de a se țipa pentru că nu s-a făcut ceva corect sau pur și simplu pentru că nu se potrivește. (...) Dând contributorilor un loc unde să contribuie cu competențe tehnice foarte scăzute (documentație, conținut web markdown, etc) poți reduce aceste probleme foarte mult.
@@ -49,7 +49,7 @@ Pe măsură ce îți construiești comunitatea, consideră cum cineva din partea
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali”: oameni care contribuie la un proiect doar ocazional. Un contributor ocazional ar putea să nu aibă timp să ajungă la maximă viteză cu proiectul tău, deci sarcina ta este să faci să fie ușor să contribuie.
 
@@ -57,7 +57,7 @@ Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali�
 
 ### Documentează totul
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Ai fost vreodată la un eveniment (despre tehnologie) unde nu ai știut pe nimeni, dar toți ceilalți păreau că stau în grupuri și conversează ca prieteni vechi? (...) Acum imaginează-ți că vrei să contribui la un proiect cu sursă deschisă, dar nu vezi de ce sau cum are loc asta.
@@ -70,7 +70,7 @@ Majoritatea contributorilor la sursă deschisă sunt „contributori ocazionali�
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Când începi un proiect nou, poate să se simtă natural să-ți păstrezi munca privată. Dar proiectele cu sursă deschisă prosperă când tu documentezi procesul tău în public.
 
@@ -128,7 +128,7 @@ Oricare proiect popular va atrage inevitabil oameni care rănesc, în loc de a a
 
 Fă tot ce poți pentru a adopta o politică de toleranță zero față de aceste tipuri de oameni. Dacă rămân neverificați, oamenii negativi vor face alți oameni în comunitatea ta incomozi. Ei ar putea chiar să plece.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Adevărul este că a avea o comunitate susținătoare este cheia. Niciodată nu aș putea face această muncă fără ajutorul colegilor mei, străinilor prietenoși de pe Internet, și canale flecare IRC. (...) Nu te mulțumi cu mai puțin. Nu te mulțumi cu nenorociți.
@@ -141,7 +141,7 @@ Fă tot ce poți pentru a adopta o politică de toleranță zero față de acest
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Dezbateri obișnuite asupra unor aspecte triviale ale proiectului tău îi distrag pe alții, inclusiv pe tine, de la concentrarea pe sarcinile importante. Noi oameni care ajung la proiectul tău ar putea vedea aceste conversații și să nu dorească să participe.
 
@@ -169,7 +169,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
 
 ### Împarte proprietatea proiectului tău
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Liderii voștri vor avea păreri diferite, așa cum ar trebui să aibă toate comunitățile sănătoase! Totuși, trebuie să faceți niște pași să asigurați că cea mai tare voce nu învinge întotdeauna obosind oamenii, și că vocile mai puțin proeminente și cele minoritare sunt auzite.
@@ -182,7 +182,7 @@ De exemplu, iată cum [Rubinius](https://github.com/rubinius/rubinius/) începe 
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Oamenii sunt stârniți să contribuie la proiecte când au un sens al proprietății. Aceasta nu înseamnă că trebuie să întorci viziunea proiectului tău sau să accepți contribuții pe care nu le vrei. Dar cu cât dai mai mult credit altora, cu atât vor sta prin preajmă mai mult.
 
@@ -204,7 +204,7 @@ Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprint
 
 În timp ce poate tu nu găsești întotdeauna pe cineva să răspundă la apel, punând un semnal acolo crește șansele ca alți oameni să intre pe teren. Și cu cât începi mai devreme, cu atât mai devreme oamenii pot ajuta.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   <p>
     [Este al tău] cel mai mare interes de a recruta contributori care se bucură și care sunt capabili de a face lucrurile de care tu nu ești capabil. Te încântă programarea, dar nu răspunderea la probleme? Atunci identifică pe acei indivizi din comunitatea ta pe care îi încântă și lasă-le să fie ale lor.
@@ -217,7 +217,7 @@ Realitatea este că [cele mai multe proiecte au doar](https://peerj.com/preprint
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Rezolvarea conflictelor
 
@@ -233,7 +233,7 @@ Când comunitatea ta se luptă cu o problemă dificilă, mânia poate crește. O
 
 Slujba ta în calitate de întreținător este să ferești aceste situații de la escaladare. Chiar dacă ai o părere solidă cu privire la subiect, încearcă să iei poziția de moderator sau facilitator, în loc să sari în luptă și să-ți împingi părerile. Dacă cineva este aspru sau monopolizează conversația, [acționează imediat](../building-community/#nu-tolera-actori-răi) pentru a menține discuțiile politicoase și productive.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   <p>
     În calitate de întreținător de proiect, este extrem de important să fii respectuos față de contributorii tăi. Ei deseori iau ce spui foarte personal.
@@ -246,7 +246,7 @@ Slujba ta în calitate de întreținător este să ferești aceste situații de 
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Alți oameni vă caută pentru îndrumare. Stabilește un exemplu bun. Încă poți exprima dezamăgire, nefericire, sau îngrijorare, dar fă aceasta cu calm.
 
@@ -266,7 +266,7 @@ Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accen
 
 În cadrul unui proces de căutare a consensului, membrii comunității discută îngrijorările majore până când se simt că au fost auziți în mod adecvat. Când doar îngrijorări minore rămân, comunitatea merge înainte. „Căutarea consensului” recunoaște că o comunitate ar putea să nu fie capabilă să ajungă la un răspuns perfect. În schimb, ea prioritizează ascultarea și discuția.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   <p>
     O parte din motivele pentru care un sistem de votare nu există pentru Problemele Atom este fiindcă echipa Atom nu va urma un sistem de votare în toate cazurile. Uneori trebuie să alegem ceea ce simțim că este corect chiar dacă este nepopular. (...) Ce pot oferi și la ce mă angajez să fac...e că este slujba mea să ascult comunitatea.
@@ -279,7 +279,7 @@ Uneori, votarea este o departajare necesară. Totuși, cât de mult poți, accen
   <p markdown="1" class="pquote-credit">
 — @lee-dohm privind procesul de luare a deciziilor al Atom
   </p>
-</aside>
+</div>
 
 Chiar dacă nu adopți de fapt un proces de căutare a consensului, în calitate de întreținător de proiect, este important ca oamenii să știe că asculți. A face alți oameni să se simtă auziți, și a te angaja să le rezolvi îngrijorările, merge mult spre a împrăștia situațiile sensibile. Apoi, urmează-ți cuvintele cu acțiuni.
 
@@ -299,7 +299,7 @@ Dacă conversația începe să se dezvăluie, întreabă grupul, _„Care sunt p
 
 Dacă o conversație în mod clar nu merge nicăieri, nu sunt măsuri clare de luat, sau măsura potrivită a fost deja luată, închide problema și explică de ce ai închis-o.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Îndrumarea unui fir de discuție către utilitate fără a fi insistent/ă este o artă. Nu va funcționa pur și simplu să mustrați oamenii să se oprească din a-și pierde timpul, sau să le ceri să nu mai posteze decât dacă au ceva constructiv de spus. (...) În schimb, trebuie să sugerezi condiții pentru progres mai departe: dă oamenilor o rută, o cale de urmat care duce la rezultatele pe care le vrei, totuși fără a suna ca și cum ești o conduită dictatoare.
@@ -312,7 +312,7 @@ Dacă o conversație în mod clar nu merge nicăieri, nu sunt măsuri clare de l
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Alege-ți bătăliile cu înțelepciune
 

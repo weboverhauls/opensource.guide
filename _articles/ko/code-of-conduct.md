@@ -37,12 +37,12 @@ related:
 
 ## 행동강령을 어떻게 시행할 것인지 결정하기
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
   <p markdown="1" class="pquote-credit">
 — [Ada 발의](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 위반이 발생하기 **_전에_** 귀하의 행동강령이 어떻게 시행되는지 설명해야합니다. 이렇게해야 할 몇 가지 이유가 있습니다:
 
@@ -72,12 +72,12 @@ related:
 
 응답하기 전에, 일어난 일을 이해할 시간을 주십시오. 그 사람의 과거 의견과 대화를 통해 그들이 누구인지 이해하고 그런 행동을 한 이유에 대해 알아보십시오. 이 사람과 그들의 행동에 관해 자신의 관점 이외의 관점을 모아보십시오.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["그래서 당신은 스스로 정책을 가졌습니까. 지금?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### 적절한 행동을 취하기
 

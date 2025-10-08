@@ -44,13 +44,13 @@ Uko bahati, kwa sababu leo, leseni za open source zimekuwa za kawaida na rahisi 
 
 Unapounda mradi mpya kwenye GitHub, utaulizwa kuongeza leseni [hapa](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Leseni iliyokuwa ya kawaida inatumika kama mbadala kwa wale wasio na mafunzo ya kisheria kujua kwa usahihi kile wanachoweza na hawawezi kufanya na programu. Isipokuwa inahitajika kabisa, epuka masharti ya kawaida, yaliyobadilishwa, au yasiyo ya kawaida, ambayo yatakuwa kizuizi kwa matumizi ya chini ya msimbo wa wakala.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Kila kitu ambacho wakili wa serikali anahitaji kujua kuhusu leseni ya programu ya open source"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Leseni ipi ya open source inafaa kwa mradi wangu?
 
@@ -96,13 +96,13 @@ Makubaliano ya ziada ya wachangiaji -- mara nyingi huitwa Contributor License Ag
 
 Pia, kwa kuongeza "karatasi" ambayo wengine wanaweza kuamini kuwa si ya lazima, ngumu kueleweka, au isiyo ya haki (wakati mpokeaji wa makubaliano anapata haki zaidi kuliko wachangiaji au umma kupitia leseni ya open source ya mradi), makubaliano ya ziada ya wachangiaji yanaweza kuonekana kama yasiyo ya kirafiki kwa jamii ya mradi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Tumefuta CLA kwa Node.js. Kufanya hivyo kunapunguza kizuizi cha kuingia kwa wachangiaji wa Node.js hivyo kupanua msingi wa wachangiaji.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Kupanua Michango ya Node.js"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Baadhi ya hali ambapo huenda ukataka kuzingatia makubaliano ya ziada ya wachangiaji kwa mradi wako ni pamoja na:
 
@@ -138,23 +138,23 @@ Kwa muda mrefu, timu yako ya kisheria inaweza kufanya zaidi kusaidia kampuni kup
 
 * **Sera za mchango wa wafanyakazi:** Fikiria kuunda sera ya kampuni inayobainisha jinsi wafanyakazi wako wanavyoshiriki katika miradi ya open source. Sera wazi itapunguza mkanganyiko kati ya wafanyakazi wako na kuwasaidia kuchangia katika miradi ya open source kwa maslahi bora ya kampuni, iwe kama sehemu ya kazi zao au katika wakati wao wa ziada. Mfano mzuri ni [Sera ya Mfano ya IP na Mchango wa open source ya Rackspace](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Kuachilia IP inayohusiana na patch kunajenga msingi wa maarifa na sifa ya mfanyakazi. Inadhihirisha kwamba kampuni imewekeza katika maendeleo ya mfanyakazi huyo na inaunda hisia ya uwezeshaji na uhuru. Faida zote hizi pia zinapelekea morali ya juu na uhifadhi bora wa wafanyakazi.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["Mfano wa Sera ya IP na Mchango wa open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Nini cha kutoa:** [(Karibu) kila kitu?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Ikiwa timu yako ya kisheria inaelewa na inajihusisha na mkakati wa open source wa kampuni yako, watakuwa bora zaidi kusaidia badala ya kuzuia juhudi zako.
 * **Uzingatiaji:** Hata kama kampuni yako haitoi miradi yoyote ya open source, inatumia programu za open source za wengine. [Uelewa na mchakato](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) kunaweza kuzuia maumivu ya kichwa, ucheleweshaji wa bidhaa, na mashtaka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Mashirika yanapaswa kuwa na mkakati wa leseni na uzingatiaji ambao unafaa kwa [kategoria "za ruhusa" na "copyleft"]. Hii inaanza na kuweka rekodi ya masharti ya leseni yanayohusiana na programu ya open source unayotumia — ikiwa ni pamoja na sehemu ndogo na utegemezi.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Programu ya Open Source: Msingi wa Uzingatiaji na Mbinu Bora"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Patenti:** Kampuni yako inaweza kutaka kujiunga na [Mtandao wa Uvumbuzi wa Wazi](https://www.openinventionnetwork.com/), mkataba wa pamoja wa ulinzi wa patent ili kulinda matumizi ya wanachama wa miradi mikubwa ya open source, au kuchunguza [leseni mbadala za patent](https://www.eff.org/document/hacking-patent-system-2016).
 * **Utawala:** Haswa ikiwa na wakati inafaa kuhamasisha mradi kwa [entiti ya kisheria nje ya kampuni](../leadership-and-governance/#je-nahitaji-nyaraka-za-utawala-ninapozindua-mradi-wangu).

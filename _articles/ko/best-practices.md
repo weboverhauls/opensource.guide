@@ -38,13 +38,13 @@ related:
 
 예를 들어 @lord는 프로젝트 비전을 가지면 어떤 요구에 시간을 투자해야 하는지 파악하는 데 도움이 된다는 사실을 깨달았습니다. 새로운 관리자로서의 그는 [Slate](https://github.com/lord/slate)의 첫 기능 요청을 받았을 때 프로젝트의 본 목적에 집중하지 않았던 것을 아쉽게 생각했습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers”](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### 기대하는 바를 전달하세요
 
@@ -95,13 +95,13 @@ related:
 
 적용하고 싶지 않은 기여를 받았을 때, 여러분의 첫 반응은 그 기여를 무시하거나 못 본 척하는 것일지도 모릅니다. 그렇게 하면 기여자의 기분을 상하게 하는 것은 물론, 커뮤니티의 다른 잠재적 기여자들이 동기를 잃게 만들 수도 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities”](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 죄책감을 느끼고 싶지 않거나 친절함을 유지하고 싶다고 해서 원치 않는 기여를 내버려 두지 마세요. 시간이 흐르면서 그렇게 남겨진 이슈와 풀 리퀘스트가 여러분이 그 프로젝트에서 하는 작업을 더 성가시고 답답하게 만들 것입니다.
 
@@ -141,13 +141,13 @@ related:
 
 이런 접근 방식이 처음에는 불친절하게 느껴질 수도 있지만, 사전에 대비하는 태도는 양쪽 모두에게 좋습니다. 이는 여러분이 어차피 받아들이지 않을 풀 리퀘스트에 누군가 많은 시간을 낭비하는 사태를 방지합니다. 그리고 여러분의 작업 목록을 관리하기 쉽게 만들어 줍니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests”](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 가끔 잠재적 기여자가 여러분의 거부 의사를 기분 나빠하거나 비판할 수 있습니다. 그들의 행동이 적대적으로 변한다면 [상황을 완화시키기 위한 조치](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)를 취하거나, 그들이 건설적으로 협조하려 하지 않는다면 커뮤니티에서 배제하세요.
 
@@ -169,13 +169,13 @@ related:
 
 @lmccart가 프로젝트 [p5.js](https://github.com/processing/p5.js)에서 발견한 대로 사람들이 [프로젝트의 소유감을 나눌 수 있도록](../building-community/#프로젝트를-공동으로-소유하세요) 독려하면 여러분이 맡는 일의 양을 현저히 줄일 수 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   I’d been saying, "Yeah, anyone can be involved, you don’t have to have a lot of coding expertise [...]." We had people sign up to come [to an event] and that’s when I was really wondering: is this true, what I’ve been saying? There are gonna be 40 people who show up, and it’s not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does “Open Source” Even Mean? p5.js Edition”](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 잠깐이든 영원히든 여러분의 프로젝트를 떠나야 한다면 누군가에게 여러분의 역할을 대신해 달라고 부탁하는 것을 부끄럽게 생각하지 마세요.
 
@@ -191,13 +191,13 @@ related:
 
 프로젝트를 포크하는 것은 나쁜 일이 아닙니다. 온갖 프로젝트를 복사하고 수정할 수 있다는 것은 오픈소스의 최고 장점 중 하나입니다. 커뮤니티 구성원들이 포크해서 작업할 수 있게 권장하면 프로젝트 비전과 충돌하는 일 없이 그들의 상상력을 표출할 곳을 마련해줄 수 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs”](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 여러분의 대역폭이 닿지 않는 기능을 간절히 원하는 사용자가 있을 때도 같은 방법이 적용됩니다. API와 사용자 정의 후크를 제공하면 사용자들이 소스를 직접 수정하지 않고서도 필요한 것을 구현하는 데 도움이 됩니다. @orta는 CocoaPods에서 플러그인 제작을 권장한 덕분에 몇몇 흥미로운 아이디어를 [얻기도 했습니다](https://artsy.github.io/blog/2016/07/03/handling-big-projects/).
 
@@ -217,13 +217,13 @@ related:
 
 테스트를 추가할 때는 반드시 CONTRIBUTING 파일에 어떻게 테스트가 동작하는지 설명하세요.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust’s Community Automation”](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### 기본적인 유지보수에는 툴을 이용하세요
 
@@ -257,13 +257,13 @@ GitHub에서는 버그 제보나 기타 평범한 기여에 사용할 [이슈 �
 
 다른 일들이 그렇듯, 정기적으로 휴식을 취하면 상쾌함과 행복감을 유지할 수 있고 여러분의 업무가 즐거울 것입니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you’re now the maintainer of a popular open source project”](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 가끔, 모두가 여러분을 필요로 하는 것처럼 느껴져 쉬기 곤란할 때가 있습니다. 심지어 사람들이 여러분이 업무를 멈추지 못하게 하려고 부담을 줄 수도 있습니다.
 

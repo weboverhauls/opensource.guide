@@ -15,13 +15,13 @@ redirect_from: /zh-tw/getting-paid/
 
 很多開源工作都來自志願者的辛勤付出。例如，有人在使用的過程中遇到了臭蟲，就自己著手修正；也有些人單純利用自己的閒暇時間享受維護開源專案所帶來的樂趣。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/2894642?v=3&s=460" class="pquote-avatar" alt="avatar">
 我當時試著尋找一個，單純作為興趣使然的的程式專案，讓我在耶誕假期間有些事情做。（...）我有一台家用電腦，手上沒甚麼其他的資源。在思考了一陣子之後，我決定為一個新的手稿語言撰寫直譯器，這主意我一直放在心上（...）後來我將這門語言叫做 Python。
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["撰寫 Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 有些人為開源貢獻，卻不求報酬，可能的原因有：
 
@@ -29,35 +29,35 @@ redirect_from: /zh-tw/getting-paid/
 * **他們熱衷於沉浸在開源的思考中**，或是純粹享受創作的過程，不想因為有收錢而有要負責的壓力。
 * **他們能夠從開源的貢獻中獲得其它好處**，比如獲得名聲、當作自己的作品集或是藉此學習新的技能，又或者是能跟社群互動。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/2320?v=3&s=460" class="pquote-avatar" alt="avatar">
   贊助會增加一種需要負責任的感覺，（...）這點對於我們來說很重要，尤其是一個全球性的社群，我們生活在一個快節奏的世界，不接受捐款代表一種想法就是「我覺得我現在更想要的是做一些不一樣的事情。」
   <p markdown="1" class="pquote-credit">
 — @alloy, ["爲什麼我們不接受捐贈"](http://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 但是對其他人來說，尤其是正在進行的或者是需要花費大量時間的付出時，能夠取得報酬是人們積極參與開源的唯一理由，無論是專案的需要還是個人原因。
 
 維護熱門的專案是一項很重要的責任，每週需要花上 10～20 小時，而不是每個月花上幾個小時就能搞定。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/381411?v=3&s=460" class="pquote-avatar" alt="avatar">
   詢問任何一位開源專案的維護者，他們都會告訴你管理一個專案需要投入大量時間。你有使用者、替他們修正錯誤、撰寫新的功能。這些都需要花你的時間去完成。
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["無償勞動的道德哲學與開源軟體社群"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 有償工作也能使各行各業的人創造有意義的貢獻。有些人需要贊助才願意參與開源專案，可能是因為他當前的財務收入不足、身上有債務、或者需要照顧家庭、撫養他人。有能力但在經濟上沒辦法無償貢獻自己時間的人，依然能當個貢獻者。這涉及道德倫理，正如 @ashedryden 在 [無償勞動的倫理和開源軟體社群](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) 一文中所描述的，人們經常誤以為，專案成果都是由那些在事業上已經有成就的人們完成的，這些人得以透過無償貢獻獲得更多的成果，而其他無法負擔無償貢獻的人就會錯失了這樣的機會，不斷負向循環下去，會使得開源社群越來越缺乏多樣性。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/9287?v=3&s=460" class="pquote-avatar" alt="avatar">
    開源軟體爲科技業貢獻了巨大的好處，因此也助益了所有的行業。(...) 如果只有運氣好或有執念的人參與開源，那就還有許多潛藏的人才有待發掘。
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["金錢與開源"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
   </p>
-</aside>
+</div>
 
 如果正在尋找經濟上的支持，有兩個方法可以參考。透過群眾募資，或是找一能夠爲專案提供資金的組織。
 
@@ -77,13 +77,13 @@ redirect_from: /zh-tw/getting-paid/
 
 如果你所在的公司不贊同這麼做，沒關係，重要的是保持社群和企業活動之間的界限清晰。你要告訴老闆，開源的維持是由全球各地的人所貢獻，要比任何一個公司或某一地域都大的多。老闆會自己作出權衡的。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1445228?v=3&s=460" class="pquote-avatar" alt="avatar">
   獲得開源的工作是一個難得的機會，而你不應該放棄對這個過程的熱情。公司應該爲你的激情付相應的報酬。
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 如果你實在無法在當前的僱主下開展相關開源的工作，那麼是該考慮換老闆的時候，應到找個支持想開源作貢獻的老闆！尋找那些致力於開源工作的公司。比如：
 
@@ -142,13 +142,13 @@ redirect_from: /zh-tw/getting-paid/
 
 資助者是否有關於宣傳的額外需求？例如，你可能需要您可能需要成爲非盈利組織或擁有非營利性財政贊助商。又或者是資助者必須給到個人而不是一個組織。這些不同的需求會因爲不同的資助者而異，所以請事先做好準備。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1076721?v=3&s=460" class="pquote-avatar" alt="avatar">
   多年以來，我們一直都是網站友好圖標資源的領先者，社群超過2千萬人，併爲7千萬網站提供資源，其中包括 Whitehouse.gov。 (...) 3年前我們發佈了Font Awesome 的第4個版本。Web技術從那時起改變了更多事情，而且坦率的說Font Awesome 都有點過時。 (...) 這也是我們剛剛發佈 FontAwesome 5的原因之一，我們模塊化和重寫了 CSS，並從上到下重新設計了每一個圖標。我們積極的探討更好的設計、更好的一致性、以及更好的可讀性。
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter 群眾募資影片](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## 嘗試，不要放棄
 

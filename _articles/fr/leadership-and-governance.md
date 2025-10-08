@@ -30,25 +30,25 @@ Un responsable ne doit pas nécessairement être quelqu'un qui écrit du code po
 
 **Un contributeur peut être n'importe quel personne** qui commente un problème ou une demande d'extraction, les personnes qui ajoutent de la valeur au projet (qu'il s'agisse de problèmes de triage, d'écriture de code ou d'organisation d'événements) ou toute personne ayant une pull request mergée (sans doute la définition la plus proche d'un contributeur).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Pour Node.js,\] chaque personne qui se présente pour commenter une issue ou soumettre du code est membre de la communauté d'un projet. Le simple fait de pouvoir les voir signifie qu'ils ont franchi la ligne d'un utilisateur à un contributeur.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **Le terme "committeur"** pourrait être utilisé pour distinguer le droit de commit, qui est un type spécifique de responsabilité, des autres formes de contribution.
 
 Alors que vous pouvez définir vos rôles de projet comme vous le souhaitez, [pensez à utiliser des définitions plus larges](../how-to-contribute/#que-signifie-contribuer) pour encourager plus de formes de contribution. Vous pouvez utiliser des rôles de leadership pour reconnaître formellement les personnes qui ont apporté des contributions exceptionnelles à votre projet, indépendamment de leurs compétences techniques.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Vous me connaissez peut-être comme "l'inventeur" de Django ... mais en fait je suis le gars qui a été embauché pour travailler sur une chose un an après qu'elle a été déjà fait. (...) Les gens soupçonnent que j'ai réussi grâce à ma compétence en programmation... mais je suis au mieux un programmeur moyen.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Comment formaliser ces r&ocirc;les de leadership
 
@@ -60,12 +60,12 @@ Pour un plus grand projet, si vous avez un site web, créez une page d'équipe o
 
 Si votre projet a une communauté de contributeurs très active, vous pouvez former une équipe de responsables, ou même des sous-comités de personnes qui s'approprient différents domaines (par exemple, la sécurité, le tri des problèmes ou la conduite de la communauté). Laissez les gens s'organiser et faire du bénévolat pour les rôles qui les intéressent le plus, plutôt que de les assigner.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[Nous\] complétons l'équipe de base avec plusieurs "sous-équipes". Chaque sous-équipe est concentrée sur une zone spécifique, par exemple, la conception de langage ou les bibliothèques. (...) Pour assurer une coordination globale et une vision forte et cohérente pour le projet dans son ensemble, chaque sous-équipe est dirigée par un membre de l'équipe de base.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Les équipes de direction peuvent vouloir créer une chaîne désignée (comme sur IRC) ou se rencontrer régulièrement pour discuter du projet (comme sur Gitter ou Google Hangout). Vous pouvez même rendre ces réunions publiques afin que les autres puissent les écouter. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), par exemple, [héberge des heures de bureau chaque semaine](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ D'un autre côté, en particulier pour les projets plus volumineux et plus compl
 
 Si votre projet est sur GitHub, vous pouvez utiliser des [branches protégées](https://help.github.com/articles/about-protected-branches/) pour gérer qui peut pousser vers une branche particulière, et dans quelles circonstances.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Chaque fois que quelqu'un vous envoie une pull request, donnez-leur le droit de commit sur votre projet. Bien que cela puisse sembler incroyablement stupide au début, l'utilisation de cette stratégie vous permettra de libérer le vrai pouvoir de GitHub. (...) Une fois que les gens ont un accès de validation, ils ne craignent plus que leur patch ne soit pas mergé... les obligeant à y mettre beaucoup plus de travail.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Quelles sont les structures de gouvernance communes pour les projets open source
 
@@ -115,13 +115,13 @@ Certaines documentations préliminaires contribueront inévitablement à la gouv
 
 Si vous faites partie d'une entreprise qui lance un projet open source, cela vaut la peine d'avoir une discussion interne avant le lancement sur la manière dont votre entreprise prévoit de maintenir et de prendre des décisions concernant le projet. Vous pouvez également expliquer publiquement quelque chose de particulier à la façon dont votre entreprise sera (ou ne sera pas !) impliquée dans le projet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Nous affectons de petites équipes pour gérer des projets sur GitHub qui travaillent sur ces projets sur Facebook. Par exemple, React est géré par un ingénieur React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Que se passe-t-il si les employ&eacute;s de l'entreprise commencent &agrave; soumettre des contributions
 
@@ -145,12 +145,12 @@ Si vous souhaitez accepter des dons pour votre projet open source, vous pouvez c
 
 Beaucoup de projets ne souhaitent pas se lancer dans la création d'un but non lucratif, ils trouvent donc un sponsor fiscal à but non lucratif. Un sponsor fiscal accepte les dons en votre nom, généralement en échange d'un pourcentage du don. [Software Freedom Conservancy](https://sfconservancy.org/), [Fondation Apache](https://www.apache.org/), [Fondation Eclipse](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) et [Open Collective](https://opencollective.com/opensource) sont des exemples d'organisations qui servent de sponsors fiscaux pour des projets open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Notre objectif est de fournir une infrastructure que les communautés peuvent utiliser pour être autosuffisante, créant ainsi un environnement dans lequel tout le monde - contributeurs, bailleurs de fonds, sponsors - en tire des bénéfices concrets.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Si votre projet est étroitement associé à une langue ou à un écosystème donné, il peut également exister une base de logiciel connexe avec laquelle vous pouvez travailler. Par exemple, [Python Software Foundation](https://www.python.org/psf/) prend en charge [PyPI](https://pypi.org/), le gestionnaire de paquets Python et la [Fondation Node.js](https://foundation.nodejs.org/) aide à prendre en charge [Express.js](https://expressjs.com/), un framework basé sur Node.

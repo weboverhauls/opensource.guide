@@ -36,13 +36,13 @@ Una buena documentaci&oacute;n invita a las personas a interactuar con tu proyec
 * **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos colaboradores comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#qué-significa-contribuir) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
 * **Si existe alguna contribuci&oacute;n con la que est&aacute;s en desacuerdo,** agrad&eacute;cele por su idea y [expl&iacute;cale porqu&eacute;](../best-practices/#aprendiendo-a-decir-no) no encaja en la incumbencia del proyecto, enlazando con documentaci&oacute;n relevante si la tienes.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contribuir con c&oacute;digo abierto es m&aacute;s f&aacute;cil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los colaboradores un lugar para contribuir con aspectos de muy baja competencia t&eacute;cnica (documentaci&oacute;n, reducci&oacute;n del contenido web, etc) puedes ayudar a reducir esas preocupaciones significativamente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 La mayor&iacute;a de los colaboradores con el c&oacute;digo abierto son "colaboradores casuales": personas que contribuyen con un proyecto solo ocasionalmente. Un colaborador casual probablemente no disponga del tiempo para dedicarse a tiempo completo a tu proyecto, por lo que tu trabajo es el de hacer que sea m&aacute;s sencillo para ellos contribuir.
 
@@ -50,13 +50,13 @@ Animar a otros colaboradores es tambi&eacute;n invertir en t&iacute; mismo . Cua
 
 ### Documenta todo
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   ¿Alguna vez viste un evento (t&eacute;cnico) en donde no conozcas a nadie, pero todos los dem&aacute;s parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imag&iacute;nate queriendo contribuir con un proyecto de c&oacute;digo abierto, pero no distingues porqu&eacute; o c&oacute;mo esto est&aacute; sucediendo.
   <p markdown="1" class="pquote-credit">
 — @janl, ["C&oacute;digo abierto sostenible"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Cuando comienzas un proyecto, mantener tu trabajo en privado puede sentirse natural. Pero los proyectos de c&oacute;digo abierto avanzan mucho m&aacute;s cuando procesas tu documento en p&uacute;blico.
 
@@ -112,13 +112,13 @@ Cualquier proyecto popular inevitablemente atraer&aacute; a personas que perjudi
 
 Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas har&aacute;n que otras personas de tu comunidad se sientan inc&oacute;modas. Incluso pueden irse.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, incluy&eacute;ndote tambi&eacute;n a t&iacute;, de enfocarte en tareas importantes. Las nuevas personas que llegan a tu proyecto pueden ver estas conversaciones y pueden o no querer participar.
 
@@ -144,14 +144,14 @@ Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/
 
 ### Comparte la propiedad de tu proyecto
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
  Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
 
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Las personas se entusiasman por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visi&oacute;n de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto m&aacute;s cr&eacute;dito les des a los otros, m&aacute;s se quedar&aacute;n.
 
@@ -174,14 +174,14 @@ La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peer
 
 Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras m&aacute;s temprano comiences, m&aacute;s pronto las personas podr&aacute;n ayudar.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Est&aacute; entre\] tus mayores intereses se encuentra reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir c&oacute;digo, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
 
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Resolviendo conflictos
 
@@ -197,13 +197,13 @@ Cuando tu comunidad se encuentre lidiando con una cuesti&oacute;n dif&iacute;cil
 
 Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opini&oacute;n sobre un tema, trata de mantener una posici&oacute;n de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si alguien est&aacute; comport&aacute;ndose de manera poco educada o monopolizando la conversaci&oacute;n, [act&uacute;a inmediatamente](../building-community/#no-toleres-a-los-malos-actores) para mantener una discusi&oacute;n civilizada y productiva.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Como responsable de un proyecto, es extremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Otras personas te mirar&aacute;n como un gu&iacute;a. Da un buen ejemplo. Todav&iacute;a puedes expresar desacuerdo, tristeza o preocupaci&oacute;n, pero de manera calmada.
 
@@ -223,13 +223,13 @@ Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. La mayoría 
 
 Bajo un proceso de b&uacute;squeda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "B&uacute;squeda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusi&oacute;n.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votaci&oacute;n en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo que puedo ofrecer y prometo hacer... es escuchar a la comunidad.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's decision making process
   </p>
-</aside>
+</div>
 
 Incluso si no adopta un proceso de b&uacute;squeda de consenso, como responsable del proyecto, es importante que las personas sepan que est&aacute;s escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, facilita gran parte del camino para resolver situaciones delicadas. Luego, contin&uacute;a tus palabras con acciones.
 
@@ -249,13 +249,13 @@ Si la conversaci&oacute;n comienza a desenredarse, pregunta al grupo, _"¿Qu&eac
 
 Si la conversaci&oacute;n claramente no va a ning&uacute;n lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqu&eacute; lo cerraste.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiar un t&oacute;pico hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: brinda a las personas una ruta, un camino a seguir que los lleve al resultado que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Elige tus batallas sabiamente
 

@@ -30,12 +30,12 @@ Untuk mengetahui lebih mendalam mengenai pemesejan, periksa Mozilla["Personas an
 
 ## Bantu orang mencari dan mengikuti projek anda
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Anda semestinya memerlukan satu URL "home" yang boleh anda promosikan dan arahkan orang berkaitan dengan projek anda. Anda tidak perlu memaparkan templat mewah atau bahkan nama domain, tetapi projek anda memerlukan titik fokus.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Bantu orang mencari dan mengingati projek anda dengan menunjukkan mereka ke satu ruang nama.
 
@@ -43,13 +43,13 @@ Bantu orang mencari dan mengingati projek anda dengan menunjukkan mereka ke satu
 
 Sekiranya anda belum mahu menyediakan kedai untuk projek anda, promosikan pegangan Twitter atau GitHub anda sendiri dalam semua yang anda lakukan. Mempromosikan pegangan Twitter atau GitHub anda akan memberi tahu orang bagaimana menghubungi anda atau mengikuti kerja anda. Sekiranya anda bercakap di perjumpaan atau acara, pastikan maklumat hubungan anda disertakan dalam bio atau slaid anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Kesalahan yang saya buat pada hari-hari awal (...) tidak memulakan akaun Twitter untuk projek tersebut. Twitter adalah kaedah terbaik untuk membuat orang sentiasa mengetahui tentang sesuatu projek dan juga sentiasa memberi pendedahan kepada orang tentang projek tersebut.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Pertimbangkan untuk membuat laman web untuk projek anda.** Laman web menjadikan projek anda lebih mesra dan lebih mudah dilayari, terutama jika dipasangkan dengan dokumentasi dan tutorial yang jelas. Mempunyai laman web juga menunjukkan bahawa projek anda aktif yang akan membuatkan penonton anda merasa lebih selesa menggunakannya. Berikan contoh untuk memberi idea kepada orang ramai tentang cara menggunakan projek anda.
 
@@ -67,13 +67,13 @@ Jangkauan dalam talian adalah kaedah terbaik untuk berkongsi dan menyebarkan ber
 
 Manfaatkan komuniti dan platform dalam talian yang ada untuk menjangkau khalayak anda. Sekiranya projek sumber terbuka anda adalah projek perisian, anda mungkin dapat mencari khalayak anda [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/).Cari saluran di mana anda fikir orang akan mendapat banyak faedah atau teruja dengan kerja anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
  Setiap program mempunyai fungsi yang sangat spesifik yang hanya berguna bagi sebahagian pengguna. Jangan spam sebanyak mungkin orang. Sebaliknya, sasarkan usaha anda kepada komuniti yang akan mendapat manfaat daripada mengetahui tentang projek anda.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Lihat apakah anda dapat mencari cara untuk berkongsi projek anda dengan cara yang relevan:
 
@@ -93,37 +93,37 @@ Acara luar talian adalah kaedah popular untuk mempromosikan projek baru kepada k
 
 Jika anda [new to public speaking](https://speaking.io/), mulakan dengan mencari pertemuan tempatan yang berkaitan dengan bahasa atau ekosistem projek anda.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Saya agak gementar pergi ke PyCon. Saya memberi ceramah, saya hanya akan mengetahui beberapa orang di sana, saya akan pergi selama seminggu. (...) Saya tidak seharusnya risau. PyCon sangat hebat! (...) Semua orang sangat ramah dan ramah, sehinggakan saya jarang mendapat masa untuk tidak bercakap dengan orang!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Sekiranya anda tidak pernah bercakap di acara sebelumnya, adalah normal untuk merasa gementar! Ingatlah bahawa khalayak anda hadir kerana mereka benar-benar ingin mendengar tentang karya anda.
 
 Semasa anda menulis ceramah anda, tumpukan perhatian kepada perkara yang menarik dan menarik perhatian penonton anda. Pastikan bahasa anda mesra dan mudah didekati. Senyum, bernafas, dan bersenang-senang.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Apabila anda mula menulis ceramah anda, tidak kira apa topik anda, ia dapat membantu sekiranya anda melihat perbincangan anda sebagai cerita yang anda sampaikan kepada orang lain.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Apabila anda merasa bersedia, pertimbangkan untuk bercakap di persidangan untuk mempromosikan projek anda. Persidangan dapat membantu anda menjangkau lebih banyak orang, kadang-kadang dari seluruh dunia.
 
 Cari persidangan yang khusus untuk bahasa atau ekosistem anda. Sebelum anda menyampaikan ceramah anda, selidiki persidangan untuk menyesuaikan ceramah anda untuk hadirin dan tingkatkan peluang anda untuk diterima untuk bercakap di persidangan. Anda sering dapat mengetahui penonton anda dengan melihat penceramah persidangan.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Saya menulis dengan sangat baik kepada orang-orang JSConf dan meminta mereka memberi saya slot di mana saya dapat membentangkannya di JSConf EU. (...) Saya sangat takut, menunjukkan perkara ini yang telah saya kerjakan selama enam bulan. (...) Sepanjang masa saya hanya berfikir, ya Tuhan. Apa yang saya buat di sini?
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Membangun reputasi
 
@@ -131,13 +131,13 @@ Sebagai tambahan kepada strategi yang dinyatakan di atas, cara terbaik untuk men
 
 Membantu pendatang baru, berkongsi sumber, dan memberikan sumbangan yang teliti untuk projek orang lain akan membantu anda membina reputasi positif. Menjadi ahli yang aktif dalam komuniti sumber terbuka akan membantu orang mempunyai konteks untuk pekerjaan anda dan lebih cenderung untuk memberi perhatian dan berkongsi projek anda. Membangun hubungan dengan projek sumber terbuka yang lain malah boleh menjalin kerjasama rasmi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   Satu-satunya sebab urllib3 adalah perpustakaan Python pihak ketiga yang paling popular hari ini adalah kerana ia adalah sebahagian daripada permintaan.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Tidak terlalu awal, atau terlambat, untuk mula membina reputasi anda Walaupun anda sudah melancarkan projek anda sendiri, teruskan mencari cara untuk menolong orang lain.
 

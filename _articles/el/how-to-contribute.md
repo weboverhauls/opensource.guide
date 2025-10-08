@@ -12,13 +12,13 @@ related:
 
 ## Γιατί να συνεισφέρετε στον ανοιχτό κώδικα;
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Η εργασία στο \[freenode\] με βοήθησε να αποκτήσω πολλές από τις δεξιότητες που χρησιμοποίησα αργότερα για τις σπουδές μου στο πανεπιστήμιο και την πραγματική μου δουλειά. Νομίζω ότι η εργασία σε έργα ανοιχτού κώδικα βοηθάει εμένα όσο βοηθάει και το έργο!
   <p markdown="1" class="pquote-credit">
 - @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Η συνεισφορά σε λογισμικό ανοικτού κώδικα μπορεί να είναι ένας ικανοποιητικός τρόπος για να μάθετε, να διδάξετε και να αποκτήσετε εμπειρία σε σχεδόν οποιαδήποτε δεξιότητα μπορείτε να φανταστείτε.
 
@@ -62,13 +62,13 @@ related:
 
 Μια κοινή παρανόηση σχετικά με τη συνεισφορά σε έργα ανοικτού κώδικα είναι ότι πρέπει να συνεισφέρετε κώδικα. Στην πραγματικότητα, είναι συχνά τα άλλα μέρη ενός έργου που [παραμελούνται ή παραβλέπονται περισσότερο](https://github.com/blog/2195-the-shape-of-open-source). Θα κάνετε στο έργο μια _τεράστια_ χάρη προσφέροντας να συνεισφέρετε με τέτοιου είδους συνεισφορές!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Έχω γίνει γνωστός για τη δουλειά μου στο CocoaPods, αλλά οι περισσότεροι άνθρωποι δεν γνωρίζουν ότι στην πραγματικότητα δεν κάνω καμία πραγματική δουλειά στο ίδιο το εργαλείο CocoaPods. Ο χρόνος μου για το έργο αναλώνεται κυρίως σε πράγματα όπως η τεκμηρίωση και η εργασία πάνω στο branding.
   <p markdown="1" class="pquote-credit">
 - @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 ### Σας αρέσει να προγραμματίζετε εκδηλώσεις;
 
@@ -91,13 +91,13 @@ related:
 * Γράφετε εκπαιδευτικά προγράμματα για το έργο, [όπως έκαναν οι συντελεστές του PyPA](https://packaging.python.org/)
 * Γράψτε μια μετάφραση για την τεκμηρίωση του έργου
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Σοβαρά, το \[documentation\] είναι μέγα-σημαντικό. Η τεκμηρίωση μέχρι στιγμής είναι εξαιρετική και είναι ένα φονικό χαρακτηριστικό της Babel. Υπάρχουν τμήματα που σίγουρα χρειάζονται λίγη δουλειά και ακόμα και η προσθήκη μιας παραγράφου εδώ ή εκεί είναι εξαιρετικά ευπρόσδεκτη.
   <p markdown="1" class="pquote-credit">
 - @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Σας αρέσει η οργάνωση;
 
@@ -138,13 +138,13 @@ related:
 
 ## Προσανατολισμός σε ένα νέο έργο
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Αν πηγαίνετε σε έναν ανιχνευτή ζητημάτων και τα πράγματα φαίνονται συγκεχυμένα, δεν φταίτε μόνο εσείς. Αυτά τα εργαλεία απαιτούν πολλές σιωπηρές γνώσεις, αλλά οι άνθρωποι μπορούν να σας βοηθήσουν να περιηγηθείτε σε αυτά και μπορείτε να τους κάνετε ερωτήσεις.
   <p markdown="1" class="pquote-credit">
 - @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Για οτιδήποτε περισσότερο από μια διόρθωση τυπογραφικού λάθους, η συνεισφορά στον ανοιχτό κώδικα είναι σαν να πηγαίνεις σε μια ομάδα αγνώστων σε ένα πάρτι. Αν αρχίσετε να μιλάτε για λάμα, ενώ αυτοί ήταν βαθιά χωμένοι σε μια συζήτηση για χρυσόψαρα, μάλλον θα σας κοιτάξουν λίγο περίεργα.
 
@@ -361,13 +361,13 @@ related:
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
    Κάθε φορά που βλέπετε ένα μακρύ νήμα, ελέγξτε επιτόπου τις απαντήσεις από τους προγραμματιστές του πυρήνα που έρχονται αργά στο νήμα. Συνοψίζουν εποικοδομητικά και λαμβάνουν μέτρα για να οδηγήσουν το νήμα σε μια απόφαση παραμένοντας ευγενικοί; Αν βλέπετε να γίνονται πολλοί πόλεμοι φλογών, αυτό είναι συχνά σημάδι ότι η ενέργεια πηγαίνει σε επιχειρήματα αντί για την ανάπτυξη.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Πώς να υποβάλετε μια συνεισφορά
 
@@ -377,13 +377,13 @@ related:
 
 Είτε συνεισφέρετε μια φορά είτε προσπαθείτε να ενταχθείτε σε μια κοινότητα, η συνεργασία με άλλους είναι μια από τις σημαντικότερες δεξιότητες που θα αναπτύξετε στον ανοιχτό κώδικα.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Ως νέος συνεισφέρων,\] γρήγορα συνειδητοποίησα ότι έπρεπε να κάνω ερωτήσεις αν ήθελα να μπορέσω να κλείσω το θέμα. Ξεφύλλισα τη βάση κώδικα. Μόλις κατάλαβα τι συνέβαινε, ζήτησα περισσότερες οδηγίες. Και ιδού! Μπόρεσα να λύσω το ζήτημα αφού πήρα όλες τις σχετικές λεπτομέρειες που χρειαζόμουν.
   <p markdown="1" class="pquote-credit">
 - @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Προτού ανοίξετε ένα θέμα ή ένα pull request ή κάνετε μια ερώτηση στη συνομιλία, έχετε υπόψη σας αυτά τα σημεία για να βοηθήσετε τις ιδέες σας να περάσουν αποτελεσματικά.
 
@@ -439,13 +439,13 @@ related:
 
 Αν θέλετε να κάνετε μια ουσιαστική συνεισφορά, ανοίξτε ένα θέμα για να ρωτήσετε πριν εργαστείτε πάνω σε αυτό. Είναι χρήσιμο να παρακολουθείτε το έργο για λίγο (στο GitHub, [μπορείτε να κάνετε κλικ στο "Watch"](https://help.github.com/articles/watching-repositories/) για να ενημερώνεστε για όλες τις συζητήσεις), και να γνωρίσετε τα μέλη της κοινότητας, πριν κάνετε εργασία που μπορεί να μην γίνει αποδεκτή.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Άνοιγμα ενός θέματος
 

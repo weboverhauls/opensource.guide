@@ -96,13 +96,13 @@ Examples of community metrics that you may want to regularly track include:
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Maintainer activity
 

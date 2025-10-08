@@ -38,7 +38,7 @@ Door een duidelijke, gedocumenteerde visie te hebben, blijft u gefocust en kunt 
 
 @Lord ontdekte bijvoorbeeld dat het hebben van een projectvisie hem hielp uitzoeken aan welke verzoeken hij tijd moest besteden. Als nieuwe open source-onderhouder had hij er spijt van dat hij zich niet aan de reikwijdte van zijn project had gehouden toen hij zijn eerste functieverzoek kreeg voor [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
 Ik heb het gerommeld. Ik heb niet de moeite genomen om met een complete oplossing te komen. In plaats van een halfslachtige oplossing, zou ik willen dat ik had gezegd: "Ik heb hier momenteel geen tijd voor, maar ik zal het toevoegen aan de lange termijn lijst met leuke dingen."
 
@@ -47,7 +47,7 @@ _I fumbled it. I didn't put in the effort to come up with a complete solution. I
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Communiceer uw verwachtingen
 
@@ -98,7 +98,7 @@ Ongeacht de reden is het mogelijk om tactvol om te gaan met bijdragen die niet v
 
 Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie misschien dat u deze negeert of doet alsof u deze niet hebt gezien. Dit kan de gevoelens van de ander schaden en zelfs andere potentiële bijdragers in uw gemeenschap demotiveren.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   De sleutel tot het afhandelen van ondersteuning voor grootschalige open source-projecten is om problemen in beweging te houden. Probeer te voorkomen dat problemen vastlopen. Als je een iOS-ontwikkelaar bent, weet je hoe frustrerend het kan zijn om radars in te dienen. Mogelijk hoort u 2 jaar later terug en wordt u verteld het opnieuw te proberen met de nieuwste versie van iOS.
 
@@ -107,7 +107,7 @@ Als u een bijdrage ontvangt die u niet wilt accepteren, is uw eerste reactie mis
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Laat geen ongewenste bijdrage openstaan omdat je een schuldgevoel hebt of aardig wilt zijn. Na verloop van tijd zullen uw onbeantwoorde problemen en PR's het werken aan uw project veel stressvoller en intimiderend maken.
 
@@ -147,7 +147,7 @@ Als ze uw regels niet volgen, sluit u het probleem onmiddellijk af en verwijst u
 
 Hoewel deze aanpak in het begin misschien onaardig aanvoelt, is proactief zijn eigenlijk goed voor beide partijen. Het verkleint de kans dat iemand veel verspilde uren werk in een pull-verzoek stopt dat u niet zult accepteren. En het maakt uw werklast gemakkelijker te beheren.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Leg ze idealiter en in een CONTRIBUTING.md-bestand uit hoe ze in de toekomst een betere indicatie kunnen krijgen van wat wel of niet geaccepteerd zou worden voordat ze met het werk beginnen.
 
@@ -156,7 +156,7 @@ Hoewel deze aanpak in het begin misschien onaardig aanvoelt, is proactief zijn e
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Soms, als u nee zegt, kan uw potentiële bijdrager van streek raken of uw beslissing bekritiseren. Als hun gedrag vijandig wordt, [neem deze maatregelen om het positief te houden](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) of verwijder ze zelfs uit uw gemeenschap, als ze niet bereid zijn constructief samen te werken.
 
@@ -180,14 +180,14 @@ Als je ziet dat nieuwe bijdragers herhaaldelijk bijdragen leveren, erken dan hun
 
 Anderen aanmoedigen om [aandeelhouderschap van het project](../building-community/#deel-het-eigendom-van-uw-project) te nemen, kan je werklast verlagen, zoals @lmccart ondekte op haar project, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Ik had gezegd: "Ja, iedereen kan erbij betrokken zijn, je hoeft niet veel codeerkennis te hebben [...]." Er waren mensen die zich hadden aangemeld om [naar een evenement] te komen en toen vroeg ik me echt af: is dit waar, wat ik heb gezegd? Er zullen 40 mensen komen opdagen, en het is niet alsof ik bij elk van hen kan zitten... Maar mensen kwamen samen, en het werkte gewoon. Zodra een persoon het kreeg, konden ze het hun buurman leren.
 
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["Wat betekent "open source"? P5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Als u afstand moet nemen van uw project, hetzij op pauze, hetzij permanent, is het geen schande om iemand anders te vragen om het voor u over te nemen.
 
@@ -203,7 +203,7 @@ Als een potentiële bijdrager een andere mening heeft over wat uw project zou mo
 
 Een project forceren hoeft geen slechte zaak te zijn. Projecten kunnen kopiëren en wijzigen is een van de beste dingen van open source. Door uw gemeenschapsleden aan te moedigen om aan hun eigen fork te werken, kan dit de creatieve uitlaatklep zijn die ze nodig hebben, zonder in strijd te zijn met de visie van uw project.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Ik speel in op de use case van 80%. Als je een van de eenhoorns bent, fork mijn werk dan alsjeblieft. Ik zal niet beledigd worden! Mijn openbare projecten zijn bijna altijd bedoeld om de meest voorkomende problemen op te lossen; Ik probeer het gemakkelijk te maken om dieper te gaan door mijn werk te forceren of uit te breiden.
 
@@ -212,7 +212,7 @@ Een project forceren hoeft geen slechte zaak te zijn. Projecten kunnen kopiëren
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 The same applies to a user who really wants a solution that you simply don't have the bandwidth to build. Offering APIs and customization hooks can help others meet their own needs, without having to modify the source directly. @orta [found that](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) encouraging plugins for CocoaPods led to "some of the most interesting ideas":
 
@@ -232,7 +232,7 @@ Stel automatische tests in die op alle inkomende bijdragen worden uitgevoerd en 
 
 Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Ik geloof dat tests nodig zijn voor alle code waar mensen aan werken. Als de code volledig en perfect correct was, zou het geen wijzigingen nodig hebben - we schrijven alleen code als er iets mis is, of dat nu "Het crasht" of "Het mist zo-en-zo-functie". En ongeacht de wijzigingen die u aanbrengt, zijn tests essentieel om eventuele regressies op te sporen die u per ongeluk zou kunnen introduceren.
 
@@ -241,7 +241,7 @@ Als u tests toevoegt, leg dan uit hoe ze werken in uw CONTRIBUTING-bestand.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's gemeenschapsautomatisering"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Gebruik tools om eenvoudige onderhoudstaken te automatiseren
 
@@ -279,7 +279,7 @@ Hoewel het vanzelfsprekend zou moeten zijn, neem een pauze! U hoeft niet te wach
 
 Net als bij elk ander soort werk, zal het nemen van regelmatige pauzes je verfrist, blij en enthousiast over je werk houden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Bij het onderhouden van WP-CLI heb ik ontdekt dat ik mezelf eerst gelukkig moet maken en duidelijke grenzen moet stellen aan mijn betrokkenheid. De beste balans die ik heb gevonden, is 2-5 uur per week, als onderdeel van mijn normale werkschema. Dit zorgt ervoor dat mijn betrokkenheid een passie blijft, en dat ik me niet te veel als werk voel. Omdat ik prioriteit geef aan de problemen waaraan ik werk, kan ik regelmatig vooruitgang boeken op wat ik denk dat het belangrijkst is.
 
@@ -288,7 +288,7 @@ Net als bij elk ander soort werk, zal het nemen van regelmatige pauzes je verfri
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Mijn condoleances, u bent nu de onderhouder (_maintainer_) van een populair open source-project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Soms kan het moeilijk zijn om een pauze in te lassen van open source-werk als het voelt alsof iedereen je nodig heeft. Mensen kunnen zelfs proberen je een schuldgevoel te geven omdat je weggaat.
 

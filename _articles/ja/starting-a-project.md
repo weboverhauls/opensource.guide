@@ -24,13 +24,13 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 ### なぜ人々は彼らの成果をオープンソースにするのか？
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   オープンソースを使ったりコラボレーションすることからくる最もやりがいのある経験の一つは、私と同じ問題に遭遇している他の開発者と作り上げる関係から来ています。
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 人々や組織がオープンソースプロジェクトを始めるには[様々な理由があります](https://ben.balter.com/2015/11/23/why-open-source/)。いくつか例を挙げてみましょう：
 
@@ -68,13 +68,13 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 もしあなたのゴールがあなたの作品を見せびらかすことだけなのであれば、コントリビュートは望まないでしょうし、 README で表明すべきです。その一方で、コントリビューターを望むであれば、明確なドキュメントと新しく来た人が歓迎されていると感じるように時間を投資するでしょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   ある時点で、私は自分で使っていたカスタムの UIAlertView を作りました…そして、オープンソースにすることを決めたのです。そこで私はそれをより機能的になるように修正し、 GitHub にアップロードしました。また、他の開発者が彼らのプロジェクトでどのように使うかを説明するはじめてのドキュメントも書きました。おそらく、非常にシンプルなプロジェクトだったので誰もこれまでに使っていないでしょうが、自分のコントリビュートに対して良い気分でした。
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
-</aside>
+</div>
 
 あなたのプロジェクトが成長するにつれて、コミュニティがあなたに求めるものはコードを書くことだけではなくなるでしょう。イシューに返答したり、コードをレビューしたり、あなたのプロジェクトがオープンソースプロジェクトにとってとても重要なタスクなのであると説いて回るといったことです。
 
@@ -84,13 +84,13 @@ _フリーソフトウェア_ という言葉も _オープンソース_ と同�
 
 プロジェクトの推進と運営、メンテナンスに予算と人員が必要なのであれば、その会話は早めに始めましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   オープンソースプロジェクトを始める時に、あなたの管理プロセスにおいてコントリビュートやそのプロジェクトのコミュニティの能力が考慮されているかどうかを確かめておくのは大事なことです。プロジェクトの大事な部分であなたの企業に雇われていないコントリビューターを巻き込むことを恐れてはいけません - 特に彼らが頻繁にコントリビュートをしてくれるのであれば。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### 他のプロジェクトにコントリビュートする
 
@@ -142,13 +142,13 @@ README には、下記の質問に答えるようにしましょう：
 
 README では、コントリビュートをどのように扱うか、プロジェクトのゴールはなにか、ライセンスや帰属についての情報などといった他の疑問に答えるのに使うこともできる。もしコントリビュートを受け入れたくなかったり、あなたのプロジェクトは運用に乗せる準備が整っていなかったりする場合は、その情報も書きましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   良いドキュメントを書くことで、ユーザーが増え、サポートのリクエストが減り、コントリビューターが増えることを意味します。（…）読者はあなたとは違うということを忘れないで下さい。完全に異なる経験を持った人がプロジェクトに来るかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 時々、プロジェクトが未完了であったりコントリビュートを求めていないといった理由で README を書くのを避ける人が居ます。これらも README に書いておくと良いでしょう。
 
@@ -188,13 +188,13 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
 
 ### 行動規範を定める
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   私達は皆、違反だと思われるような場面に遭遇したことがあります。ときにはメンテナーとしてなぜそういったやり方でやるべきなのかを説明しようとしたり、時にはユーザーとして単純な質問をしたり。行動規範は、あなたのチームが生産的な議論を非常に真剣に捉えていることを示すために参照してリンクするためのドキュメントとして使うことができます。
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
-</aside>
+</div>
 
 最後に、行動規範はあなたのプロジェクトの参加者の行動に対する基本原則を設定する助けになります。これは特にあなたがコミュニティや会社のためのオープンソースを立ち上げる時に役に立ちます。行動規範は健康的で生産的なコミュニティの振る舞いを促進する助けになります。そして、あなたのメンテナーとしてのストレスを減らしてくれるでしょう。
 
@@ -239,13 +239,13 @@ README に CONTRIBUTING ファイルへのリンクをすることで、より�
 
 公式のドキュメントであれ、カジュアルなメールであれ、あなたの文書のスタイルはプロジェクトのブランドの一部になります。見る人にどのようにして伝わるかや、あなたが伝えたいトーンかどうかを検討しましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   メーリングリストのすべてのスレッドに関わるようにしましたし、模範的な行動を示し、人々に親切にし、イシューを真剣に捉え、何より助けになるようにしました。しばらくすると、人々は質問をするだけでなく、質問に答えたり、何よりも嬉しいことに私のスタイルを真似してくれたのです。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 暖かく、排他的でない言葉遣い（一人の人を指すときであっても「彼ら」を使う、といったような）をすることで、あなたのプロジェクトで新しいコントリビューターが歓迎されていると感じてもらうことに繋がります。シンプルな言葉遣いをすることにこだわりましょう。あなたのプロジェクトを見る人の多くは英語のネイティブスピーカーではないかもしれません。
 

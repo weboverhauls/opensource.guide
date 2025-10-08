@@ -14,13 +14,13 @@ To gain insights into the experiences of maintainers and their strategies for fi
 
 So, what is personal ecology? As <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">described by the Rockwood Leadership Institute</a>, it involves "<strong>maintaining balance, pacing, and efficiency to sustain our energy over a lifetime</strong>." This framed our conversations, helping maintainers recognize their actions and contributions as parts of a larger ecosystem that evolves over time. Burnout, a syndrome resulting from chronic workplace stress as [defined by the WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), is not uncommon among maintainers. This often leads to a loss of motivation, an inability to focus, and a lack of empathy for the contributors and community you work with.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   I was unable to focus or start on a task. I had a lack of empathy for users.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
   </p>
-</aside>
+</div>
 
 By embracing the concept of personal ecology, maintainers can proactively avoid burnout, prioritize self-care, and uphold a sense of balance to do their best work.
 
@@ -36,51 +36,51 @@ It's important to understand what causes us to get burned out. Here are a few co
 
 * **Lack of positive feedback:** Users are far more likely to reach out when they have a complaint. If everything works great, they tend to stay silent. It can be discouraging to see a growing list of issues without the positive feedback showing how your contributions are making a difference.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
   </p>
-</aside>
+</div>
 
 * **Not saying 'no':** It can be easy to take on more responsibilities than you should on an open source project. Whether it's from users, contributors, or other maintainers – we can't always live up to their expectations.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
   </p>
-</aside>
+</div>
 
 * **Working alone:** Being a maintainer can be incredibly lonely. Even if you work with a group of maintainers, the past few years have been difficult for convening distributed teams in-person.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
  Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
   </p>
-</aside>
+</div>
 
 * **Not enough time or resources:** This is especially true for volunteer maintainers who have to sacrifice their free time to work on a project.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 * **Conflicting demands:** Open source is full of groups with different motivations, which can be difficult to navigate. If you're paid to do open source, your employer's interests can sometimes be at odds with the community.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   With paid open source, conflict between employer's focus and what's best for the community
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 ### Watch out for signs of burnout
 
@@ -88,12 +88,12 @@ Can you keep up your pace for 10 weeks? 10 months? 10 years?
 
 There are tools like the [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) from [@shaunagm](https://github.com/shaunagm) that can help you reflect on your current pace and see if there are any adjustments you can make. Some maintainers also use wearable technology to track metrics like sleep quality and heart rate variability (both linked to stress).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 ### What would you need to continue sustaining yourself and your community?
 
@@ -105,62 +105,62 @@ This will look different for each maintainer, and will change depending on your 
 
 * **Explore funding:** Whether you're looking for some pizza money, or trying to go full time open source, there are many resources to help! As a first step, consider turning on [GitHub Sponsors](https://github.com/sponsors) to allow others to sponsor your open source work. If you're thinking about making the jump to full-time, apply for the next round of [GitHub Accelerator](http://accelerator.github.com/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
  I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
   </p>
-</aside>
+</div>
 
 * **Use tools:** Explore tools like [GitHub Copilot](https://github.com/features/copilot/) and [GitHub Actions](https://github.com/features/actions) to automate mundane tasks and free up your time for more meaningful contributions.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 * **Rest and recharge:** Make time for your hobbies and interests outside of open source. Take weekends off to unwind and rejuvenate–and set your [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) to reflect your availability! A good night's sleep can make a big difference in your ability to sustain your efforts long-term.
 
   If you find certain aspects of your project particularly enjoyable, try to structure your work so you can experience it throughout your day.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
  I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
   </p>
-</aside>
+</div>
 
 * **Set boundaries:** You can't say yes to every request. This can be as simple as saying, "I can't get to that right now and I do not have plans to in the future," or listing out what you're interested in doing and not doing in the README. For instance, you could say: "I only merge PRs which have clearly listed reasons why they were made," or, "I only review issues on alternate Thursdays from 6 -7 pm.”This sets expectations for others, and gives you something to point to at other times to help de-escalate demands from contributors or users on your time.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
-</aside>
+</div>
 
 Learn to be firm in shutting down toxic behavior and negative interactions. It's okay to not give energy to things you don't care about.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 My software is gratis, but my time and attention is not.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
-</aside>
+</div>
 
 Remember, personal ecology is an ongoing practice that will evolve as you progress in your open source journey. By prioritizing self-care and maintaining a sense of balance, you can contribute to the open source community effectively and sustainably, ensuring both your well-being and the success of your projects for the long run.
 

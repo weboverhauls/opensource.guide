@@ -96,7 +96,7 @@ Przykłady wskaźników społeczności, które warto regularnie śledzić, obejm
 
 * **Rodzaje wkładów:** Na przykład zatwierdza, naprawia literówki lub błędy lub komentuje problem.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
@@ -104,7 +104,7 @@ Przykłady wskaźników społeczności, które warto regularnie śledzić, obejm
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Działalność maintainera
 

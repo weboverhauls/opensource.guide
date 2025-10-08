@@ -31,25 +31,25 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 **作为 "贡献者" 可以是任何人** ，只要Ta提出issue或PR 就叫做贡献者，那些为项目作出有价值的都算（无论是分类问题，编写代码还是组织会议），又或者是将他们的PR合并进主干的（或许这个定义是最接近所谓的贡献者的）。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[对于 Node.js 来说\] 无论是在issue中提交评论，还是提交代码，任何人都是项目社区的成员。只要能够看到他们，就意味着他们已经实现了跨越，从路人成为一个用户，成为一个贡献者。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["开源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **术语 "修订者"** 可能用于区分其他形式的贡献的提交访问，这是一种特定类型的责任。
 
 其实你可以根据自己喜欢的方式来定义项目的角色，[考虑使用更广泛的定义](../how-to-contribute/#贡献意味着什么) 来鼓励更多的形式的贡献。无论技术技能如何，您都可以使用领导角色来正式识别为您的项目做出突出贡献的人员。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   你们或许知道我是 Django 的"创始人"...其实真相是在有人雇佣了我之后一年才真正的做出来。(...) 人们猜测我的成功是因为我的编程技能够牛...但事实上我的编程水平只是一般般而已。
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (视频)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## 如何形成这些领导力角色的？
 
@@ -61,12 +61,12 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 如果你的项目拥有非常活跃的贡献者社区，你或许会专门建立一个维护者的"核心团队"，甚至是根据不同的话题所有者成立子的委员会（例如，安全，问题筛选，或者是社区准则）。让人们自行组织、且能够让志愿者自行找到自己喜欢的角色，而不是去分配他们。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[我们\] 为核心团队设立多个"子团队"。每个子团队都会专门的聚焦于某个特定的领域，举例来说，语言设计或程序库(...) 为了确保全局的协调和健壮，会将整体的项目设置为同一个愿景，每个子团队是由核心团队的一员。
   <p markdown="1" class="pquote-credit">
 — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 领导者团队或许要创建一个指定的频道（如IRC），又或者是参与项目的日常讨论（如Gitter或Google Hangout）。你需要将这些会议可以公开访问，以便让人们方便倾听。举例来说，
  [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就会[每周开一次会议，每次持续几小时](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
@@ -86,13 +86,13 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 假如项目是托管在GitHub上，可以使用[受保护的分支](https://help.github.com/articles/about-protected-branches/)来管理那些可以提交特定的分支情况。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   无论什么时候，都会有人向你发送pull request，所以将你的项目开放提交访问。这看起来是有些不够明智，使用此策略能让你释放GitHub的真正威力。(...)一旦人们拥有了提交访问权,他们不再担心他们的补丁可能不会被合并.....这会让他们做的更多。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## 开源项目的常见治理架构？
 
@@ -118,13 +118,13 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 如果你要开源公司的项目，那么在发布之前，有必要进行内部讨论，了解你的公司希望如何维护并做出有关项目进展的决策。你可能还想公开解释贵公司将如何（或不会！）参与项目的具体内容。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   我们在GitHub上赋予一些小的团队来管理项目，实际上这些人都是在Facebook工作的，比如，React就是由React的工程师来掌管运行的。
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Facebook内部员工如何看待开源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## 企业员工如何开启项目提交贡献之旅？
 
@@ -148,12 +148,12 @@ redirect_from: /zh-cn/leadership-and-governance/
 
 很多项目都不愿意成立非盈利组织那么麻烦，所以他们会以赞助商的身份寻找一个非营利性组织。财政资助代表你接受捐款,通常以换取一定比例的捐赠。针对开源项目接受财政资助的非营利性组织有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金会](https://www.apache.org/), [Eclipse 基金会](https://eclipse.org/org/), [Linux 基金会](https://www.linuxfoundation.org/projects) 以及 [Open Collective](https://opencollective.com/opensource) 等。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   我们的目标是提供基础设施，让社区能够自我持续发展下去，每个人——贡献者、支持者、赞助商———所共同营造的环境，也让每个人得到实实在在的利益。
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 如果你的项目是和某特定的语言或生态系统紧密相连的，那么你可以直接在相关的软件基金会下工作。例如，[Python 软件基金会](https://www.python.org/psf/) 就帮衬着项目 [PyPI](https://pypi.org/)，一款优秀的Python包管理器；又比如[Node.js 基金会](https://foundation.nodejs.org/) 支持着 [Express.js](https://expressjs.com/)，一款基于Node的框架。

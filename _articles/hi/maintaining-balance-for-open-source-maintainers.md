@@ -14,13 +14,13 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 तो, व्यक्तिगत पारिस्थितिकी क्या है? जैसा <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance% 2सी%20पेसिंग%20और%20दक्षता%20टू%20सस्टेन%20योर%20एनर्जी%20ओवर%20ए%20लाइफटाइम%20ऑफ%20एक्टिविज्म">रॉकवुड लीडरशिप इंस्टीट्यूट द्वारा वर्णित</a>, इसमें "<strong>संतुलन बनाए रखना, गति बनाए रखना और शामिल है जीवन भर हमारी ऊर्जा को बनाए रखने की दक्षता</strong>।" इसने हमारी बातचीत को तैयार किया, जिससे अनुरक्षकों को समय के साथ विकसित होने वाले एक बड़े पारिस्थितिकी तंत्र के हिस्से के रूप में अपने कार्यों और योगदान को पहचानने में मदद मिली। बर्नआउट, क्रोनिक कार्यस्थल तनाव से उत्पन्न एक सिंड्रोम जैसा कि [डब्ल्यूएचओ द्वारा परिभाषित](https://icd.who.int/browse/2025-01/foundation/en#129180281), अनुरक्षकों के बीच असामान्य नहीं है। इससे अक्सर प्रेरणा की हानि, ध्यान केंद्रित करने में असमर्थता और उन योगदानकर्ताओं और समुदाय के लिए सहानुभूति की कमी हो जाती है जिनके साथ आप काम करते हैं।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   मैं किसी कार्य पर ध्यान केंद्रित करने या शुरू करने में असमर्थ था। मेरे अंदर उपयोगकर्ताओं के प्रति सहानुभूति की कमी थी।
   <p markdown="1" class="pquote-credit">
 — <a href='https://github.com/gabek'>@gabek</a>, ओनकास्ट लाइव स्ट्रीमिंग सर्वर के अनुरक्षक, अपने ओपन सोर्स कार्य पर बर्नआउट के प्रभाव पर
   </p>
-</aside>
+</div>
 
 व्यक्तिगत पारिस्थितिकी की अवधारणा को अपनाकर, अनुरक्षक सक्रिय रूप से बर्नआउट से बच सकते हैं, आत्म-देखभाल को प्राथमिकता दे सकते हैं और अपना सर्वश्रेष्ठ कार्य करने के लिए संतुलन की भावना बनाए रख सकते हैं।
 
@@ -36,51 +36,51 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 * **सकारात्मक प्रतिक्रिया का अभाव:** उपयोगकर्ताओं के पास शिकायत होने पर संपर्क करने की बहुत अधिक संभावना होती है। यदि सब कुछ बढ़िया चलता है, तो वे चुप रहना पसंद करते हैं। सकारात्मक प्रतिक्रिया के बिना मुद्दों की बढ़ती सूची को देखना हतोत्साहित करने वाला हो सकता है, जिसमें दिखाया गया हो कि आपके योगदान से कैसे फर्क पड़ रहा है।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   कभी-कभी ऐसा महसूस होता है जैसे शून्य में चिल्लाना और मुझे लगता है कि प्रतिक्रिया वास्तव में मुझे ऊर्जावान बनाती है। हमारे पास बहुत सारे खुश लेकिन शांत उपयोगकर्ता हैं।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, अपाचे एरो का अनुरक्षक
   </p>
-</aside>
+</div>
 
 * **'नहीं' नहीं कहना:** किसी ओपन सोर्स प्रोजेक्ट पर अपनी अपेक्षा से अधिक ज़िम्मेदारियाँ लेना आसान हो सकता है। चाहे यह उपयोगकर्ताओं, योगदानकर्ताओं, या अन्य अनुरक्षकों से हो - हम हमेशा उनकी अपेक्षाओं पर खरे नहीं उतर सकते।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   मैंने पाया कि मैं एक से अधिक काम ले रहा था और मुझे कई लोगों का काम करना पड़ रहा था, जैसा कि आम तौर पर FOSS में किया जाता है।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, टर्मक्स के अनुरक्षक, उनके काम में बर्नआउट का कारण क्या है
   </p>
-</aside>
+</div>
 
 * **अकेले काम करना:** एक अनुरक्षक बनना अविश्वसनीय रूप से अकेला हो सकता है। भले ही आप अनुरक्षकों के एक समूह के साथ काम करते हैं, पिछले कुछ वर्षों में वितरित टीमों को व्यक्तिगत रूप से बुलाना कठिन रहा है।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
 विशेष रूप से चूंकि कोविड और घर से काम करने के कारण कभी किसी को नहीं देखना या किसी से बात करना कठिन हो गया है।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, ओनकास्ट लाइव स्ट्रीमिंग सर्वर के अनुरक्षक, अपने ओपन सोर्स कार्य पर बर्नआउट के प्रभाव पर
   </p>
-</aside>
+</div>
 
 * **पर्याप्त समय या संसाधन नहीं:** यह स्वयंसेवक अनुरक्षकों के लिए विशेष रूप से सच है, जिन्हें किसी परियोजना पर काम करने के लिए अपने खाली समय का त्याग करना पड़ता है।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [मैं चाहूंगा] अधिक वित्तीय सहायता, ताकि मैं अपनी बचत खर्च किए बिना ओपन सोर्स कार्य पर ध्यान केंद्रित कर सकूं और यह जान सकूं कि बाद में इसकी भरपाई के लिए मुझे बहुत सारे अनुबंध करने होंगे।
   <p markdown="1" class="pquote-credit">
 — ओपन सोर्स अनुरक्षक
   </p>
-</aside>
+</div>
 
 * **परस्पर विरोधी मांगें:** खुला स्रोत विभिन्न प्रेरणाओं वाले समूहों से भरा है, जिन्हें नेविगेट करना मुश्किल हो सकता है। यदि आपको ओपन सोर्स करने के लिए भुगतान किया जाता है, तो आपके नियोक्ता के हित कभी-कभी समुदाय के विपरीत हो सकते हैं।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   सशुल्क ओपन सोर्स के साथ, नियोक्ता के फोकस और समुदाय के लिए सबसे अच्छा क्या है के बीच संघर्ष होता है
   <p markdown="1" class="pquote-credit">
 — ओपन सोर्स अनुरक्षक
   </p>
-</aside>
+</div>
 
 ### बर्नआउट के लक्षणों से सावधान रहें
 
@@ -88,12 +88,12 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 उपकरण जैसे [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) [@shaunagm](https://github.com/shaunagm) से और मोज़िला का इससे आपको अपनी वर्तमान गति पर विचार करने और यह देखने में मदद मिल सकती है कि क्या आप कोई समायोजन कर सकते हैं। कुछ अनुरक्षक नींद की गुणवत्ता और हृदय गति परिवर्तनशीलता (दोनों तनाव से जुड़े हुए हैं) जैसे मेट्रिक्स को ट्रैक करने के लिए पहनने योग्य तकनीक का भी उपयोग करते हैं।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  मैं अच्छे पहनने योग्य वस्तुओं में बड़ा विश्वास रखता हूँ। इसके पीछे के विज्ञान से, आप समझ सकते हैं कि आप कैसे बेहतर कर सकते थे और आप जो करना चाहते हैं उसकी इष्टतम स्थिति कैसे प्राप्त करें।
   <p markdown="1" class="pquote-credit">
 — ओपन सोर्स अनुरक्षक
   </p>
-</aside>
+</div>
 
 ### आपको अपना और अपने समुदाय का भरण-पोषण जारी रखने के लिए क्या चाहिए होगा?
 
@@ -105,62 +105,62 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 * **फंडिंग का अन्वेषण करें:** चाहे आप कुछ पिज़्ज़ा मनी की तलाश में हों, या पूर्णकालिक ओपन सोर्स पर जाने की कोशिश कर रहे हों, मदद के लिए कई संसाधन मौजूद हैं! पहले कदम के रूप में, दूसरों को आपके ओपन सोर्स कार्य को प्रायोजित करने की अनुमति देने के लिए [GitHub प्रायोजक](https://github.com/sponsors) को चालू करने पर विचार करें। यदि आप पूर्णकालिक बनने के बारे में सोच रहे हैं, तो [GitHub Accelerator](http://accelerator.github.com/) के अगले दौर के लिए आवेदन करें।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
 मैं कुछ समय पहले पॉडकास्ट पर था और हम ओपन सोर्स रखरखाव और स्थिरता के बारे में बातचीत कर रहे थे। मैंने पाया कि GitHub पर मेरे काम का समर्थन करने वाले बहुत कम लोगों ने भी मुझे गेम के सामने नहीं बैठने, बल्कि ओपन सोर्स के साथ एक छोटा सा काम करने का त्वरित निर्णय लेने में मदद की।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, EmberJS के अनुरक्षक
   </p>
-</aside>
+</div>
 
 * **टूल्स का उपयोग करें:** सांसारिक कार्यों को स्वचालित करने के लिए [GitHub Copilot](https://github.com/features/copilot/) और [GitHub Actions](https://github.com/features/actions) जैसे टूल खोजें कार्य करें और अधिक सार्थक योगदान के लिए अपना समय खाली करें।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  उबाऊ चीज़ों के लिए [कोपायलट](https://github.com/features/copilot/) का उपयोग करें - मज़ेदार चीज़ें करें
   <p markdown="1" class="pquote-credit">
 — ओपन सोर्स अनुरक्षक
   </p>
-</aside>
+</div>
 
 * **आराम करें और रिचार्ज करें:** ओपन सोर्स के बाहर अपने शौक और रुचियों के लिए समय निकालें। आराम करने और तरोताजा होने के लिए सप्ताहांत की छुट्टी लें-और अपना काम शुरू करें [GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) आपकी उपलब्धता दर्शाने के लिए! एक अच्छी रात की नींद आपके प्रयासों को लंबे समय तक जारी रखने की आपकी क्षमता में बड़ा अंतर ला सकती है।
 
   यदि आपको अपने प्रोजेक्ट के कुछ पहलू विशेष रूप से आनंददायक लगते हैं, तो अपने काम को इस प्रकार व्यवस्थित करने का प्रयास करें ताकि आप इसे पूरे दिन अनुभव कर सकें।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
 मुझे शाम को स्विच ऑफ करने की बजाय दिन के मध्य में 'रचनात्मकता के क्षण' बिखेरने का अधिक अवसर मिल रहा है।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, Nuxt का अनुरक्षक
   </p>
-</aside>
+</div>
 
 * **सीमाएँ निर्धारित करें:** आप हर अनुरोध के लिए हाँ नहीं कह सकते। यह कहने जितना सरल हो सकता है, "मैं अभी उस तक नहीं पहुंच सकता और भविष्य में मेरी कोई योजना नहीं है," या README में यह सूचीबद्ध करना कि आप क्या करने में रुचि रखते हैं और क्या नहीं करने में। उदाहरण के लिए, आप कह सकते हैं: "मैं केवल उन पीआर का विलय करता हूं जिनमें स्पष्ट रूप से उन कारणों को सूचीबद्ध किया गया है कि उन्हें क्यों बनाया गया है," या, "मैं केवल वैकल्पिक गुरुवार को शाम 6 से 7 बजे तक मुद्दों की समीक्षा करता हूं।" यह दूसरों के लिए अपेक्षाएं निर्धारित करता है, और आपको कुछ देता है अपने समय पर योगदानकर्ताओं या उपयोगकर्ताओं की मांगों को कम करने में मदद करने के लिए अन्य समय पर इंगित करना।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 इन अक्षों पर दूसरों पर सार्थक रूप से भरोसा करने के लिए, आप ऐसा व्यक्ति नहीं बन सकते जो हर अनुरोध के लिए हाँ कहता है। ऐसा करने पर, आप पेशेवर या व्यक्तिगत रूप से कोई सीमा नहीं बनाए रखते हैं, और एक विश्वसनीय सहकर्मी नहीं होंगे।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, होमब्रू के अनुरक्षक [इंकार करना](https://mikemcquaid.com/saying-no/)
   </p>
-</aside>
+</div>
 
   विषाक्त व्यवहार और नकारात्मक बातचीत को बंद करने में दृढ़ रहना सीखें। उन चीज़ों को ऊर्जा न देना ठीक है जिनकी आपको परवाह नहीं है।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 मेरा सॉफ्टवेयर मुफ़्त है, लेकिन मेरा समय और ध्यान मुफ़्त नहीं है।
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, पत्रक का अनुरक्षक
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 यह कोई रहस्य नहीं है कि ओपन सोर्स रखरखाव के अपने अंधेरे पक्ष हैं, और इनमें से एक कभी-कभी काफी कृतघ्न, हकदार या पूरी तरह से विषाक्त लोगों के साथ बातचीत करना है। जैसे-जैसे किसी प्रोजेक्ट की लोकप्रियता बढ़ती है, वैसे-वैसे इस तरह की बातचीत की आवृत्ति भी बढ़ती है, जिससे अनुरक्षकों पर बोझ बढ़ जाता है और संभवतः अनुरक्षक बर्नआउट के लिए एक महत्वपूर्ण जोखिम कारक बन जाता है। 
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, ऑक्टोप्रिंट का अनुरक्षक [जहरीले लोगों से कैसे निपटें](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
-</aside>
+</div>
 
 याद रखें, व्यक्तिगत पारिस्थितिकी एक सतत अभ्यास है जो आपकी ओपन सोर्स यात्रा में प्रगति के साथ विकसित होगी। आत्म-देखभाल को प्राथमिकता देकर और संतुलन की भावना बनाए रखकर, आप प्रभावी ढंग से और स्थायी रूप से ओपन सोर्स समुदाय में योगदान कर सकते हैं, जिससे आपकी भलाई और लंबे समय तक आपकी परियोजनाओं की सफलता दोनों सुनिश्चित हो सकती है।
 

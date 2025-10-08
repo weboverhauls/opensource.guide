@@ -14,7 +14,7 @@ related:
 
 Veel van het open source-werk wordt op vrijwillige basis aangeboden. Iemand kan bijvoorbeeld een bug tegenkomen in een project dat ze gebruiken en een snelle oplossing indienen, of ze kunnen in hun vrije tijd graag aan een open source-project sleutelen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
   Ik was op zoek naar een "hobby" programmeerproject dat me doordeweeks rond Kerstmis bezig zou houden. (...) Ik had een homecomputer, en verder niet veel. Ik besloot een tolk te schrijven voor de nieuwe scripttaal waar ik de laatste tijd aan had gedacht. (...) Ik koos Python als werktitel.
 
@@ -23,7 +23,7 @@ Veel van het open source-werk wordt op vrijwillige basis aangeboden. Iemand kan 
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Python programmeren"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Er zijn veel redenen waarom iemand niet zou willen worden betaald voor zijn open source-werk.
 
@@ -31,7 +31,7 @@ Er zijn veel redenen waarom iemand niet zou willen worden betaald voor zijn open
 * **Ze vinden open source graag een hobby** of een creatieve ontsnapping en willen zich niet financieel verplicht voelen om aan hun projecten te werken.
 * **Ze profiteren van andere voordelen door bij te dragen aan open source,** zoals het opbouwen van hun reputatie of portfolio, het leren van een nieuwe vaardigheid of het gevoel dichter bij een gemeenschap te zijn.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Financiële donaties voegen voor sommigen een gevoel van verantwoordelijkheid toe. (...) Het is belangrijk voor ons, in de wereldwijd verbonden, snelle wereld waarin we leven, om te kunnen zeggen "niet nu, ik heb zin om iets heel anders te doen".
 
@@ -40,13 +40,13 @@ Er zijn veel redenen waarom iemand niet zou willen worden betaald voor zijn open
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Waarom we geen donaties accepteren"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Voor anderen, vooral wanneer bijdragen doorlopend zijn of veel tijd vergen, is betaald krijgen om bij te dragen aan open source de enige manier waarop ze kunnen deelnemen, hetzij omdat het project dit vereist, hetzij om persoonlijke redenen.
 
 Het onderhouden van populaire projecten kan een aanzienlijke verantwoordelijkheid zijn, die 10 of 20 uur per week in beslag neemt in plaats van een paar uur per maand.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Vraag het aan een willekeurige open source projectbeheerder, en zij zullen u vertellen over de realiteit van de hoeveelheid werk die nodig is om een project te beheren. Je hebt klanten. U lost problemen voor hen op. U creëert nieuwe functies. Dit wordt een echte tijdrovende bezigheid.
 
@@ -55,11 +55,11 @@ Het onderhouden van populaire projecten kan een aanzienlijke verantwoordelijkhei
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["De ethiek van onbetaalde arbeid en de OSS-gemeenschap"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Betaald werk stelt mensen uit verschillende rangen en standen ook in staat om een zinvolle bijdrage te leveren. Sommige mensen kunnen het zich niet veroorloven om onbetaalde tijd aan open source-projecten te besteden, op basis van hun huidige financiële positie, schulden, familie- of andere zorgverplichtingen. Dat betekent dat de wereld nooit bijdragen ziet van getalenteerde mensen die het zich niet kunnen veroorloven om vrijwilligerswerk te doen. Dit heeft ethische implicaties, zoals @ashedryden [heeft beschreven](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), aangezien werk dat wordt gedaan, bevooroordeeld ten gunste van degenen die al voordelen in het leven hebben, die vervolgens extra voordelen krijgen op basis van hun vrijwilligersbijdragen, terwijl anderen die niet in staat zijn om vrijwilligerswerk te doen, later geen kansen krijgen, wat het huidige gebrek aan diversiteit in de open source versterkt gemeenschap.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
   OSS levert enorme voordelen op voor de technologische industrie, wat op zijn beurt voordelen betekent voor alle industrieën. (...) Als de enige mensen die zich erop kunnen concentreren de gelukkigen en geobsedeerd zijn, dan is er een enorm onbenut potentieel.
 
@@ -68,7 +68,7 @@ Betaald werk stelt mensen uit verschillende rangen en standen ook in staat om ee
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Geld en Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Als u op zoek bent naar financiële ondersteuning, zijn er twee manieren om te overwegen. U kunt uw eigen tijd als donateur financieren, of u kunt organisatorische financiering voor het project vinden.
 
@@ -88,7 +88,7 @@ Veel bedrijven ontwikkelen open source-programma's om hun merk op te bouwen en t
 
 Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeenschap en bedrijfsactiviteiten duidelijk te houden. Uiteindelijk houdt open source zichzelf in stand door bijdragen van mensen over de hele wereld, en dat is groter dan welk bedrijf of locatie dan ook.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Betaald worden om aan open source te werken is een zeldzame en geweldige kans, maar je zou je passie in het proces niet moeten opgeven. Uw passie zou moeten zijn waarom bedrijven u willen betalen.
 
@@ -97,7 +97,7 @@ Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeensc
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Wazige lijnen"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Als u uw huidige werkgever niet kunt overtuigen om prioriteit te geven aan open source-werk, overweeg dan om een nieuwe werkgever te zoeken die werknemersbijdragen aan open source aanmoedigt. Zoek naar bedrijven die hun toewijding aan open source-werk expliciet maken. Bijvoorbeeld:
 
@@ -179,7 +179,7 @@ Wat gaat u precies bereiken met de voorgestelde financiering? Concentreer u op m
 
 Heeft de financier enige vereisten met betrekking tot uitbetaling? U moet bijvoorbeeld een non-profitorganisatie zijn of een fiscale sponsor hebben. Of misschien moet het geld aan een individuele aannemer worden gegeven in plaats van aan een organisatie. Deze vereisten variëren tussen financiers, dus zorg ervoor dat u van tevoren uw onderzoek doet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   We zijn al jaren de toonaangevende bron van websitevriendelijke pictogrammen, met een community van meer dan 20 miljoen mensen en zijn te zien op meer dan 70 miljoen websites, waaronder Whitehouse.gov. (...) Versie 4 bestond drie jaar geleden. Webtechnologie is sindsdien veel veranderd, en eerlijk gezegd is Font Awesome een beetje muf geworden. (...) Daarom introduceren we Font Awesome 5. We moderniseren en herschrijven de CSS en herontwerpen elk pictogram van boven naar beneden. We hebben het over een beter ontwerp, betere consistentie en betere leesbaarheid.
 
@@ -188,7 +188,7 @@ Heeft de financier enige vereisten met betrekking tot uitbetaling? U moet bijvoo
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Experimenteer en geef niet op
 

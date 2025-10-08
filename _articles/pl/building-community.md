@@ -37,7 +37,7 @@ Zacznij od dokumentacji:
 * **Miej otwarty umysł na typy wkładów, które akceptujesz.** Wielu autorów zaczyna od zgłoszenia błędu lub drobnej poprawki. Istnieje [wiele sposobów na wniesienie wkładu](../how-to-contribute/#co-to-znaczy-przyczynić-się) do projektu. Pozwól ludziom pomóc, jak chcą pomóc.
 * **Jeśli masz wkład, z którym się nie zgadzasz,** podziękuj im za pomysł i [wyjaśnij dlaczego](../best-practices/#naucz-się-mówić-nie) to nie pasuje do zakresu projektu, zawierając link do odpowiedniej dokumentacji.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
@@ -45,7 +45,7 @@ Zacznij od dokumentacji:
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 Większość współpracowników open source to „przypadkowi współpracownicy”: ludzie, którzy przyczyniają się do projektu tylko sporadycznie. Przypadkowy współpracownik może nie mieć czasu, aby w pełni przyspieszyć Twój projekt, więc Twoim zadaniem jest ułatwienie im wnoszenia wkładu.
 
@@ -53,7 +53,7 @@ Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożl
 
 ### Wszystko dokumentuj
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
@@ -61,7 +61,7 @@ Zachęcanie innych współpracowników to także inwestycja w ciebie. Gdy umożl
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Kiedy zaczynasz nowy projekt, naturalne może być zachowanie prywatności w pracy. Ale projekty open source kwitną, gdy dokumentujesz proces publicznie.
 
@@ -117,7 +117,7 @@ Każdy popularny projekt nieuchronnie przyciągnie ludzi, którzy bardziej szkod
 
 Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśli takie zachowanie pozostanie niezauważone, negatywni ludzie sprawią, że inni ludzie w Twojej społeczności będą czuć się niekomfortowo. Mogą nawet odejść.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   <i>
   The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
@@ -125,7 +125,7 @@ Staraj się przyjąć politykę zerowej tolerancji dla tego rodzaju ludzi. Jeśl
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Regularne debaty na temat trywialnych aspektów projektu odwracają uwagę innych, w tym ciebie, od koncentrowania się na ważnych zadaniach. Nowe osoby, które przybędą do Twojego projektu, mogą zobaczyć te rozmowy i nie chcą brać w nich udziału.
 
@@ -151,7 +151,7 @@ Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [
 
 ### Udostępnij własność swojego projektu
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
@@ -159,7 +159,7 @@ Na przykład oto jak [Rubinius](https://github.com/rubinius/rubinius/) zaczyna [
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Ludzie są podekscytowani, że mogą uczestniczyć w projektach, kiedy mają poczucie własności. Nie oznacza to, że musisz zmienić wizję swojego projektu lub zaakceptować wkład, którego nie chcesz. Ale im więcej dajesz uznania innym, tym bardziej będą się trzymać.
 
@@ -181,7 +181,7 @@ Rzeczywistość jest taka, że [większość projektów ma tylko](https://peerj.
 
 Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłanie sygnału zwiększa szanse na pojawienie się innych osób. Im wcześniej zaczniesz, tym szybciej ludzie mogą pomóc.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   <i>
   \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
@@ -189,7 +189,7 @@ Chociaż nie zawsze możesz znaleźć kogoś, kto odbierze połączenie, wysłan
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Rozwiązywanie konfliktów
 
@@ -205,7 +205,7 @@ Gdy Twoja społeczność zmaga się z trudnym problemem, temperament może wzros
 
 Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet jeśli masz silną opinię na ten temat, spróbuj zająć stanowisko moderatora lub facylitatora, zamiast wskakiwać do walki i forsować swoje poglądy. Jeśli ktoś jest nieuprzejmy lub monopolizuje rozmowę, [działaj natychmiast](https://github.com/mbiesiad/opensource.guide/blob/pl/_articles/building-community.md/#dont-tolerate-bad-actors) aby dyskusje były spokojne i owocne.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   <i>
   As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
@@ -213,7 +213,7 @@ Twoim zadaniem jako opiekuna jest zapobieganie eskalacji tych sytuacji. Nawet je
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Inne osoby szukają u ciebie wskazówek. Stanów dobry przykład. Nadal możesz wyrażać rozczarowanie, nieszczęście lub troskę, ale rób to spokojnie.
 
@@ -233,7 +233,7 @@ Czasami głosowanie jest niezbędnym czynnikiem rozstrzygającym. Jednak w miar�
 
 W ramach procesu poszukiwania konsensusu członkowie społeczności omawiają główne obawy, dopóki nie poczują, że zostali odpowiednio wysłuchani. Gdy pozostaną tylko drobne obawy, społeczność idzie naprzód. „Poszukiwanie konsensusu” potwierdza, że społeczność może nie być w stanie znaleźć idealnej odpowiedzi. Zamiast tego priorytetem jest słuchanie i dyskusja.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
@@ -241,7 +241,7 @@ W ramach procesu poszukiwania konsensusu członkowie społeczności omawiają g�
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's decision making process
   </p>
-</aside>
+</div>
 
 Nawet jeśli tak naprawdę nie przyjmujesz procesu poszukiwania konsensusu, jako opiekun projektu ważne jest, aby ludzie wiedzieli, że słuchasz. Sprawienie, by inni poczuli się wysłuchani i zobowiązanie się do rozwiązania ich obaw, znacznie przyczynia się do rozproszenia wrażliwych sytuacji. Następnie postępuj zgodnie ze swoimi słowami za pomocą działań.
 
@@ -261,7 +261,7 @@ Jeśli rozmowa zaczyna się rozwiązywać, zapytaj grupę: _"Jakie kroki powinni
 
 Jeśli rozmowa najwyraźniej nigdzie się nie kończy, nie ma wyraźnych działań do wykonania lub podjęto już odpowiednie działanie, zamknij problem i wyjaśnij, dlaczego go zamknąłeś.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
@@ -269,7 +269,7 @@ Jeśli rozmowa najwyraźniej nigdzie się nie kończy, nie ma wyraźnych działa
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Mądrze wybieraj swoje bitwy
 

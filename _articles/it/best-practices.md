@@ -37,13 +37,13 @@ Avere una visione chiara e documentata ti mantiene concentrato e aiuta a evitare
 Per esempio:
 @lord ha scoperto che avere una visione del progetto lo ha aiutato a capire a quali richieste dare priorità. Essendo un sostenitore del codice alle prime armi, si è lamentato di non essere fedele allo scopo del progetto quando ha ricevuto la tua prima richiesta di funzionalità [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   Ho provato. Non ho fatto lo sforzo necessario per trovare una soluzione completa. Invece di una soluzione a metà, vorrei aver detto "Non ho tempo per questo adesso, ma aggiungerò la funzionalità al backlog che verrà sviluppato in futuro".
   <p markdown="1" class="pquote-credit">
 — @lord, ["Suggerimenti per i sostenitori dell'Open Source"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Comunica le tue aspettative
 
@@ -94,13 +94,13 @@ Indipendentemente dal motivo, puoi gestire con tatto i contributi che non soddis
 
 Se ricevi un messaggio che non vuoi accettare, la tua prima reazione potrebbe essere quella di ignorarlo o di far finta di non averlo visto. Ciò può ferire i sentimenti dell'altra persona e persino scoraggiare altri potenziali contributori nella tua comunità.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   La chiave per gestire il supporto per progetti open source su larga scala è mantenere i problemi in movimento. Cerca di evitare ulteriori problemi. Se sei uno sviluppatore iOS, sai quanto può essere frustrante l'invio di radar. Potresti ricevere alcune notizie due anni dopo e ti verrà chiesto di confermarle. Riprova con l'ultima versione di iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scalare le comunità open source"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Non lasciare aperto un contributo non richiesto perché ti senti in colpa o vuoi essere gentile. Nel corso del tempo, le tue domande senza risposta e le tue PR diventeranno ridondanti. Ciò renderà il lavoro sul tuo progetto molto più stressante e imbarazzante.
 
@@ -140,13 +140,13 @@ Se non seguono le tue regole, chiudi immediatamente il problema e indirizzali al
 
 Sebbene questo approccio possa sembrare inizialmente imbarazzante, essere proattivi è in realtà positivo per entrambe le parti. Riduci la possibilità che qualcuno investa molte ore di lavoro sprecato su una richiesta pull che non accetti. E semplifica la gestione del carico.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Idealmente, spiegare in un file CONTRIBUTING.md come possono ottenere in futuro un'indicazione migliore di cosa verrebbe o non verrebbe accettato prima di iniziare il lavoro.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Si prega di chiudere le richieste pull"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 A volte, quando dici di no, il tuo potenziale collaboratore potrebbe arrabbiarsi o criticare la tua decisione. Se il tuo comportamento diventa ostile, [prendi provvedimenti per disinnescare la situazione](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) o addirittura rimuoverli dalla tua comunità se non sono disposti a collaborare in modo costruttivo.
 
@@ -168,13 +168,13 @@ Quando vedi nuovi contributori che contribuiscono ripetutamente, dovresti ricono
 
 Incoraggiare gli altri a [condividere la proprietà del progetto](../building-community/#condividi-la-proprietà-del-tuo-progetto) può ridurre significativamente il carico di lavoro, come ha trovato @lmccart nel suo progetto, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
  Dicevo: "Sì, può partecipare chiunque, non è necessario avere molta esperienza di programmazione [...]." Abbiamo persone iscritte [agli eventi] ed eccoci qui. Allora mi sono chiesto: è vero quello che dico? Ci saranno 40 persone che si presenteranno e non è che posso sedermi con ognuna di loro... Ma le persone si sono riunite e ha funzionato. Una volta che una persona l’ha capito, può insegnarlo ai suoi vicini.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["Dopo tutto, cosa significa "Open Source"?"? p5.js La modifica"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Se hai bisogno di allontanarti dal tuo progetto, temporaneamente o permanentemente, non c'è vergogna nel chiedere a qualcun altro di subentrare al tuo posto.
 
@@ -190,13 +190,13 @@ Se un potenziale collaboratore ha un'opinione diversa su ciò che dovrebbe fare 
 
 Biforcare un progetto non è necessariamente una cosa negativa. Essere in grado di copiare e modificare progetti è una delle cose migliori dell'open source. Incoraggiare i membri della tua comunità a lavorare sul proprio fork può fornire lo sbocco creativo di cui hanno bisogno senza entrare in conflitto con la visione del tuo progetto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Gestisco l'80% dei casi d'uso. Se sei uno degli unicorni, per favore sgancia il mio lavoro. Non mi offenderò! I miei progetti comunitari sono quasi sempre finalizzati alla risoluzione dei problemi più comuni; Cerco di rendere più semplice andare oltre ramificando il mio lavoro o espandendolo.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Perchè sto chiudendo PR"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 Lo stesso vale per un utente che desidera davvero una soluzione che semplicemente non hai la capacità di creare. Offrire API e hook personalizzati può aiutare gli altri a soddisfare le proprie esigenze senza dover modificare direttamente la fonte.
 @orta [ha trovato che](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) incoraggiando i plugin CocoaPods ad "alcune delle idee più interessanti":
@@ -218,13 +218,13 @@ Imposta test automatizzati per eseguire tutti i contributi in arrivo e garantire
 
 Se aggiungi test, assicurati di spiegare come funzionano nel tuo file CONTRIBUTING.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Penso che i test siano necessari per tutto il codice su cui le persone lavorano. Se il codice fosse completamente e perfettamente corretto, non ci sarebbe bisogno di modifiche: scriviamo il codice solo quando qualcosa è corretto. sbagliato, oppure "Si blocca", oppure "Manca questa o quella funzione". Qualunque sia la modifica apportata, il test è essenziale per individuare eventuali regressioni che potresti introdurre accidentalmente.
   <p markdown="1" class="pquote-credit">
 — @edunham, [Automazione comunitaria di Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Utilizza strumenti per automatizzare le attività di manutenzione di base
 
@@ -256,13 +256,13 @@ Anche se dovrebbe essere ovvio, prenditi una pausa! Non devi aspettare finché n
 
 Come qualsiasi altro tipo di lavoro, fare delle pause regolari ti manterrà motivato. freschi, felici ed entusiasti del loro lavoro.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Pur mantenendo WP-CLI, ho scoperto che dovevo preoccuparmi prima della mia felicità e stabilire limiti chiari al mio coinvolgimento. Il miglior equilibrio che ho trovato è 2-5 ore settimanali come parte del mio normale orario di lavoro. Mantiene il mio coinvolgimento come passione e non sembra troppo un lavoro. Poiché do la priorità alle questioni su cui sto lavorando, posso fare regolarmente progressi su ciò che ritengo più importante.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Le mie condoglianze, ora sei il manutentore di un popolare progetto open source"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 A volte può essere difficile prendersi una pausa dal lavoro open source quando ritieni che il mondo intero abbia bisogno di te. Le persone potrebbero anche provare a farti sentire in colpa per esserti allontanato.
 

@@ -96,13 +96,13 @@ Esempi di parametri della community che potresti voler monitorare regolarmente i
 
 * **Tipi di contributi:** Ad esempio, commit, correzione di errori di battitura o di commento o commento su un problema.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   L'open source è più del semplice codice. I progetti open source di successo includono il contributo di codice e documentazione insieme a conversazioni su tali modifiche.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["Il formato open source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Attività di supporto
 

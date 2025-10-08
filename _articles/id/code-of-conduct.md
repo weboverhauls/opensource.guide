@@ -37,12 +37,12 @@ Tempatkan dokumen CODE_OF_CONDUCT pada induk direktori proyek Anda, dan hubungka
 
 ## Menentukan bagaimana Anda akan menerapkan kode etik
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Kode etik yang tidak (bisa) diterapkan jauh lebih jelek dibandingkan tanpa kode etik sama sekali: hal ini mengirimkan pesan bahwa nilai dari kode etik tidaklah penting atau dihargai pada komunitas Anda.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Anda harus menjelaskan bagaimana kode etik Anda akan diterapkan **_sebelum_** pelanggaran terjadi. Terdapat beberapa alasan:
 
@@ -72,12 +72,12 @@ Anggota komunitas yang melanggar mungkin orang yang melakukannya berulang-ulang 
 
 Sebelum Anda merespon, berikan Anda waktu untuk memahami apa yang terjadi. Baca komentar dan percakapan orang tersebut di masa lampau untuk memahami siapa mereka dan mengapa mereka bertindak seperti itu. Cobalah untuk mendapatkan perspektif diluar perspektif Anda sendiri tentang orang ini dan perilaku mereka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Jangan terbawa pada argumentasi. Jangan terpengaruh dengan perilaku orang lain sebelum Anda menyelesaikan satu masalah. Fokus pada apa yang Anda perlukan.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Mengambil tindakan yang sesuai
 
