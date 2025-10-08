@@ -222,7 +222,7 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 **오픈소스의 정의를 충족시킬 것**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   라이선스가 있나요? 대부분, 저장소의 최상단에 있는 LICENSE라 불리는 파일입니다.
   </label>
@@ -233,21 +233,21 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 마스터 브랜치에서 커밋 활동을 살펴보세요. GitHub에서는 이 정보를 저장소의 홈페이지에서 볼 수 있습니다.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   마지막 커밋은 언제였나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   몇 명의 기여자가 프로젝트에 참여했나요?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   사람들이 얼마나 자주 커밋하나요? (GitHub에서는 상단 바에 있는 "Commits"를 클릭하면 볼 수 있습니다.)
   </label>
@@ -256,35 +256,35 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 다음으로, 프로젝트의 이슈를 보세요.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     얼마나 많은 열린 이슈가 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     관리자가 열린 이슈에 신속하게 대응하나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     이슈에 대한 활발한 토론이 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     최근에 이슈가 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     이슈가 닫히고 있나요? (GitHub에서는, Issues 페이지에서 닫힌 이슈를 "closed" 탭을 눌러 볼 수 있습니다.)
   </label>
@@ -293,35 +293,35 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 이번엔 프로젝트의 풀 리퀘스트(PR)를 확인하세요.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     얼마나 많은 PR이 열려 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     관리자가 열린 PR에 신속하게 대응하나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     PR에서 활발한 토론이 진행되나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     최근에 PR이 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     최근에 PR이 병합된 건 언제인가요? (GitHub에서는, Pull requests 페이지에서 "closed" 탭을 눌러 닫힌 PR을 볼 수 있습니다.)
   </label>
@@ -332,28 +332,28 @@ README를 스캔하여 깨진 링크나 오타를 찾을 수 있습니다. 또�
 친근하고 환영하는 분위기의 프로젝트는 새로운 기여자를 기꺼이 맞이합니다.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     관리자가 이슈의 질문에 도움이 되는 답변을 주나요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     이슈, 토론 포럼 및 채팅(IRC 혹은 Slack 등)에 있는 사람들이 친절한가요?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     PR이 리뷰를 받고 있나요?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     관리자가 기여자들에게 감사를 표하고 있나요?
   </label>

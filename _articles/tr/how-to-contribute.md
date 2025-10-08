@@ -226,7 +226,7 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 **Açık kaynak tanımını karşılar**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
   </label>
@@ -237,21 +237,21 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüphanenin ana sayfasında görebilirsiniz.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     En son kod değişikliği ne zaman yapılmış?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Projenin kaç katılımcısı var?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
   </label>
@@ -260,35 +260,35 @@ Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüpha
 Ardından, projenin sorun listesine bakın.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Kaç tane açık sorun var?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Sorunların altında aktif tartışma var mı?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Sorunlar yeni mi?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
   </label>
@@ -297,35 +297,35 @@ Ardından, projenin sorun listesine bakın.
 Şimdi aynısını projenin PR listesi için yapın.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Kaç tane açık PR var?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     PR'lar üzerinde aktif tartışma var mı?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     PR yeni mi gelmiş?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine tıklayın.)
   </label>
@@ -336,28 +336,28 @@ Ardından, projenin sorun listesine bakın.
 Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olacağını belirtir.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     PR'lar inceleniyor mu?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?
   </label>
