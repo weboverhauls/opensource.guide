@@ -101,7 +101,7 @@ blockquote {
   max-width: 700px;
 
   // Ensure links are distinguishable without relying on color alone (WCAG 2.1)
-  a {
+  a:not(.anchorjs-link) {
     text-decoration: underline;
   }
 
