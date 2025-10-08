@@ -15,14 +15,14 @@ describe "accessibility test" do
           
           # If there are multiple nav elements, they should have aria-labels for uniqueness
           if nav_elements.length > 1
-            aria_labels = nav_elements.map { |nav| nav['aria-label'] }.compact
+            aria_labels = nav_elements.map { |nav| nav['aria-label'] }
             
             # All nav elements should have aria-labels when there are multiple
-            assert_equal nav_elements.length, aria_labels.length,
-              "All nav elements should have aria-labels when there are multiple nav landmarks. Found #{nav_elements.length} nav elements but only #{aria_labels.length} aria-labels in #{html_path}"
+            assert_equal nav_elements.length, aria_labels.compact.length,
+              "All nav elements should have aria-labels when there are multiple nav landmarks. Found #{nav_elements.length} nav elements but only #{aria_labels.compact.length} aria-labels in #{html_path}"
             
             # All aria-labels should be non-empty
-            assert aria_labels.all? { |label| !label.nil? && !label.empty? },
+            assert aria_labels.all? { |label| label && !label.empty? },
               "All nav elements should have non-empty aria-labels in #{html_path}"
           end
         end
