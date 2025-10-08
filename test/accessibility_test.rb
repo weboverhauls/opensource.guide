@@ -3,7 +3,8 @@ require_relative "./helper"
 describe "accessibility test" do
   describe "article body links" do
     it "should have text-decoration underline for accessibility" do
-      css_file = File.read("assets/css/custom.scss")
+      css_file_path = File.join(source, "assets", "css", "custom.scss")
+      css_file = File.read(css_file_path)
       
       # Check that article body contains link styling with text-decoration
       assert css_file.match?(/\.article-body.*?a\s*\{.*?text-decoration:\s*underline/m),
