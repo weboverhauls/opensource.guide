@@ -1,8 +1,10 @@
 tr:
   locale_name: Türkçe
   nav:
-    about: Hakkında 
-    contribute: Katkıda Bulun 
+    about: Hakkında
+    contribute: Katkıda Bulun
+    main_navigation: Ana gezinme
+    table_of_contents: İçindekiler gezinmesi
   index:
     lead: Açık kaynak yazılımlar, tıpkı sizin gibi insanlar tarafından geliştiriliyor. Nasıl proje başlatıp büyüteceğinizi öğrenin. 
     opensourcefriday: Bugün cuma! Kullandığınız ve sevdiğiniz yazılıma katkıda bulunmak için birkaç saat ayırın

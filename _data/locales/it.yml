@@ -3,6 +3,8 @@ it:
   nav:
     about: Chi siamo
     contribute: Contribuire
+    main_navigation: Navigazione principale
+    table_of_contents: Navigazione dell'indice
   index:
     lead: Il software open source è creato da persone come te. Scopri come avviare e sviluppare il tuo progetto.
     opensourcefriday: È venerdì! Investi qualche ora contribuendo al software che usi e ami
