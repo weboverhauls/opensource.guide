@@ -3,11 +3,13 @@ sw:
   nav:
     about: Kuhusu
     contribute: Changia
+    main_label: Urambazaji mkuu
   index:
     lead: Programu huria ya software hutengenezwa na watu kama wewe. Jifunze jinsi ya kuzindua na kukuza mradi wako.
     opensourcefriday: Ni Ijumaa! Wekeza saa chache kuchangia programu unayotumia na kupenda
   article:
     table_of_contents: Jedwali la Yaliyomo
+    table_of_contents_label: Yaliyomo
     back_to_all_guides: Rudi kwa miongozo yote
     related_guides: Miongozo inayohusiana
   footer:
