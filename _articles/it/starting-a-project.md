@@ -259,28 +259,28 @@ Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Sel
 **Documentazione**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Il progetto ha un file LICENSE di licenza open source
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Il progetto ha la documentazione di base (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Името е лесно за запомняне, дава известна представа какво прави проектът и не е в конфликт със съществуващ проект или нарушава търговски марки
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     La coda dei problemi è aggiornata, con problemi chiaramente organizzati ed etichettati
   </label>
@@ -289,21 +289,21 @@ Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Sel
 **Код**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Il progetto utilizza convenzioni di codifica coerenti e nomi chiari di funzioni/metodi/variabili
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Il codice è chiaramente commentato, documentando intenti e casi limite
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Nessun materiale sensibile nella cronologia delle modifiche, nei problemi o nelle richieste pull (ad esempio password o altre informazioni non pubbliche)
   </label>
@@ -314,7 +314,7 @@ Pronto per aprire il tuo progetto? Ecco una lista di controllo per aiutarti. Sel
 Se sei un privato:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Hai parlato con l'ufficio legale e/o hai compreso le politiche open source e IP della tua azienda (se sei un dipendente da qualche parte)
   </label>
@@ -323,28 +323,28 @@ Se sei un privato:
 Se sei un'azienda o un ente:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Hai parlato con il tuo dipartimento legale
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Hai un piano di marketing per annunciare e promuovere il progetto
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Qualcuno è impegnato a gestire le interazioni della comunità (rispondere ai problemi, rivedere e unire le richieste pull)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Almeno due persone hanno accesso amministrativo al progetto
   </label>

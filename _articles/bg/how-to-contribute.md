@@ -234,7 +234,7 @@ related:
 **Отговаря на определението за отворен код**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   Има ли лиценз? Обикновено в корена на хранилището има файл, наречен ЛИЦЕНЗ.
   </label>
@@ -245,21 +245,21 @@ related:
 Погледнете активността на комит в главния клон. В GitHub можете да видите тази информация в раздела Insights на началната страница на хранилище, като например [Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   Кога беше последният ангажимент?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   Колко сътрудници има проектът?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   Колко често хората се ангажират? (В GitHub можете да намерите това, като щракнете върху "Комити" в горната лента.)
   </label>
@@ -268,35 +268,35 @@ related:
 След това разгледайте проблемите на проекта.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Колко отворени въпроси има?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Поддържащите реагират ли бързо на проблеми, когато те бъдат отворени?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Има ли активна дискусия по проблемите?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Проблемите скорошни ли са?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Приключват ли се проблемите? (В GitHub щракнете върху раздела "затворен" на страницата с проблеми, за да видите затворени проблеми.)
   </label>
@@ -305,35 +305,35 @@ related:
 Сега направете същото за заявките за изтегляне на проекта.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Колко отворени заявки за изтегляне има?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     Поддържащите реагират ли бързо на заявки за изтегляне, когато бъдат отворени?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Има ли активно обсъждане на заявките за изтегляне?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Скорошни ли са заявките за изтегляне?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     Колко наскоро бяха обединени всички заявки за изтегляне? (В GitHub щракнете върху раздела "затворено" на страницата "Заявки за изтегляне", за да видите затворени PR-и.)
   </label>
@@ -344,28 +344,28 @@ related:
 Проект, който е приятелски настроен и гостоприемен, сигнализира, че те ще бъдат възприемчиви към нови сътрудници.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     Поддържащите отговарят ли услужливо на въпроси в проблеми?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     Хората дружелюбни ли са в проблемите, дискусионния форум и чата (например IRC или Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     Преглеждат ли се заявките за изтегляне?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     Поддържащите благодарят ли на хората за техния принос?
   </label>

@@ -222,7 +222,7 @@ Itt egy lista, aminek segítségével kiértékelheted, hogy a projekt alkalmas-
 **Megfelel a nyílt forráskód definíciójának**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   Van nyílt forráskódú licence? Gyakran ez a LICENSE nevű állomány a projekt főkönyvtárában.
   </label>
@@ -233,21 +233,21 @@ Itt egy lista, aminek segítségével kiértékelheted, hogy a projekt alkalmas-
 Nézd meg a közösség aktivitását a _master_ ágon. A GitHub-on ezeket az információkat a projekt főoldalán eléred.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   Mikor volt az utolsó kód változás (commit)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   Hány résztvevője van a projektnek?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre klikkentve ezt eléred.
   </label>
@@ -256,35 +256,35 @@ Nézd meg a közösség aktivitását a _master_ ágon. A GitHub-on ezeket az in
 Nézd meg a projekt hibakezelőjét.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Mennyi nyitott hibajegy van?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     A projekt karbantartói gyorsan reagálnak egy új hibajelzésekre?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Van párbeszéd a hibákról, észrevételekről?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Frissek a hibakezelőben szereplő hibák vagy észrevételek?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     A hibák, észrevételek megoldásra kerülnek? A GitHub-on, az _Issues_ fül kiválasztása után a szürke _closed_ linkre klikkentve látod a lezárt hibákat.
   </label>
@@ -293,35 +293,35 @@ Nézd meg a projekt hibakezelőjét.
 Most csináljuk meg ugyanezt a projekt kódbeolvasztási kéréseire (_pull request_).
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Mennyi nyitott kódbeolvasztási kérés van?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     A karbantartók gyorsan reagálnak egy új kódbeolvasztási kérésre?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Van-e aktív párbeszéd a kódbeolvasztási kérésekről?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Frissek a kód beolvasztási kérések?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     Mennyire régen vezettek át kódbeolvasztási kérést a kódon? A GitHub-on, a _Pull Requests_ fülön klikkents a szürke _closed_ linkre hogy lásd, mennyi beolvasztási kérés került lezárásra.
   </label>
@@ -332,28 +332,28 @@ Most csináljuk meg ugyanezt a projekt kódbeolvasztási kéréseire (_pull requ
 Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket szívesen várják.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     A karbantartók segítőkészen válaszolnak a problémákkal kapcsolatos kérdésekre?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     A résztvevők barátságosak a problémákról szóló párbeszédekben, a fórumokon és csevegésekben?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     A beolvasztási kéréseket áttekintik, felülvizsgálják?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     A karbantartók megköszönik a hozzájárulásokat?
   </label>

@@ -244,7 +244,7 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 **Erfüllt die Definition von Open Source**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
 
   Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
@@ -259,7 +259,7 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
 
   Wann gab es den letzten Commit?
@@ -270,7 +270,7 @@ Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können 
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
 
   Wie viele Mitwirkende hat das Projekt?
@@ -281,7 +281,7 @@ Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können 
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
 
   Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "Commits" klicken.)
@@ -294,7 +294,7 @@ Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können 
 Schauen Sie sich als nächstes die Issues des Projekts an.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
 
     Wie viele Issues sind offen?
@@ -305,7 +305,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
 
     Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
@@ -316,7 +316,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
 
     Werden Issues aktiv diskutiert?
@@ -327,7 +327,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
 
     Sind die Issues aktuell?
@@ -338,7 +338,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
 
     Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
@@ -351,7 +351,7 @@ Schauen Sie sich als nächstes die Issues des Projekts an.
 Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
 
     Wie viele Pull Requests gibt es?
@@ -362,7 +362,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
 
     Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
@@ -373,7 +373,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
 
     Werden Pull Requests aktiv diskutiert?
@@ -384,7 +384,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
 
     Sind die Pull Requests aktuell?
@@ -395,7 +395,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
 
     Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um geschlossene PRs zu sehen).
@@ -410,7 +410,7 @@ Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber neuen Mitwirkenden.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
 
     Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
@@ -421,7 +421,7 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
 
     Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
@@ -432,7 +432,7 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
 
     Werden Pull Requests begutachtet?
@@ -443,7 +443,7 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
 
     Danken die Maintainer\*innen den Beitragenden?
