@@ -224,7 +224,7 @@ related:
 **Meets the definition of open source**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Έχει άδεια; Συνήθως, υπάρχει ένα αρχείο που ονομάζεται LICENSE στη ρίζα του αποθετηρίου.
   </label>
@@ -235,21 +235,21 @@ related:
 Κοιτάξτε τη δραστηριότητα των δεσμεύσεων στον κύριο κλάδο. Στο GitHub, μπορείτε να δείτε αυτές τις πληροφορίες στην αρχική σελίδα ενός αποθετηρίου.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   Πότε έγινε το τελευταίο commit;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   Πόσους συνεισφέροντες έχει το πρότζεκτ;
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   Πόσο συχνά κάνει commit ο κόσμος; (Στο GitHub, μπορείτε να βρείτε αυτή την πληροφορία κάνοντας κλίκ στο "Commits" στην επάνω μπάρα.)
   </label>
@@ -258,35 +258,35 @@ related:
 Στη συνέχεια, εξετάστε τα ζητήματα του πρότζεκτ.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Πόσα ζητήματα υπάρχουν;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Ανταποκρίνονται οι συντηρητές γρήγορα στα θέματα που ανοίγουν;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
      Υπάρχει ενεργή συζήτηση επί των θεμάτων;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Είναι τα θέματα πρόσφατα;
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
      Κλείνουν τα θέματα; (Στο GitHub, κάντε κλικ στην καρτέλα "closed" στη σελίδα Issues για να δείτε τα κλειστά ζητήματα.
   </label>
@@ -295,35 +295,35 @@ related:
 Τώρα κάντε το ίδιο για τις αιτήσεις έλξης του έργου.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
      Πόσες ανοιχτές αιτήσεις έλξης υπάρχουν;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
      Οι συντηρητές ανταποκρίνονται γρήγορα στις αιτήσεις έλξης όταν ανοίγουν;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
       Υπάρχει ενεργή συζήτηση σχετικά με τα pull requests;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
      Είναι πρόσφατες οι αιτήσεις έλξης;
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
      Πόσο πρόσφατα συγχωνεύτηκαν κάποια pull requests; (Στο GitHub, κάντε κλικ στην καρτέλα "closed" στη σελίδα Pull Requests για να δείτε τα κλειστά PRs.)
   </label>
@@ -334,28 +334,28 @@ related:
 Ένα έργο που είναι φιλικό και φιλόξενο σηματοδοτεί ότι θα είναι δεκτικό σε νέους συνεισφέροντες.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
      Ανταποκρίνονται οι συντηρητές βοηθητικά στις ερωτήσεις στα θέματα;
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
      Είναι οι άνθρωποι φιλικοί στα θέματα, στο φόρουμ συζητήσεων και στη συνομιλία (για παράδειγμα, στο IRC ή στο Slack);
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
      Επανεξετάζονται τα pull requests;
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
      Οι συντηρητές ευχαριστούν τους ανθρώπους για τις συνεισφορές τους;
   </label>

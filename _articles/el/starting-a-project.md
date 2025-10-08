@@ -260,28 +260,28 @@ related:
 **Έγγραφα**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Το πρότζεκτ έχει ένα αρχείο LICENSE με άδεια χρήσης ανοικτού κώδικα
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Το πρότζεκτ έχει βασική τεκμηρίωση (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Το όνομα είναι εύκολο να το θυμάται κανείς, δίνει μια ιδέα για το τι κάνει το πρότζεκτ και δεν έρχεται σε σύγκρουση με ένα υπάρχον πρότζεκτ ή παραβιάζει εμπορικά σήματα.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Η ουρά θεμάτων είναι ενημερωμένη, με τα θέματα σαφώς οργανωμένα και επισημασμένα.
   </label>
@@ -290,21 +290,21 @@ related:
 **Κώδικας**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Το πρότζεκτ χρησιμοποιεί συνεπείς συμβάσεις κώδικα και σαφή ονόματα συναρτήσεων/μεθόδων/μεταβλητών
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Ο κώδικας είναι σαφώς σχολιασμένος, τεκμηριώνοντας τις προθέσεις και τις ακραίες περιπτώσεις
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Δεν υπάρχει ευαίσθητο υλικό στο ιστορικό αναθεωρήσεων, στα ζητήματα ή στα αιτήματα έλξης (για παράδειγμα, κωδικοί πρόσβασης ή άλλες μη δημόσιες πληροφορίες).
   </label>
@@ -315,7 +315,7 @@ related:
 Αν είστε άτομο:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Έχετε μιλήσει με το νομικό τμήμα ή/και έχετε κατανοήσει τις πολιτικές IP και ανοιχτού κώδικα της εταιρείας σας (αν είστε υπάλληλος κάπου)
   </label>
@@ -324,28 +324,28 @@ related:
 Εάν είστε εταιρεία ή οργανισμός:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Μιλήσατε με το νομικό σας τμήμα
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Έχετε σχέδιο μάρκετινγκ για την ανακοίνωση και την προώθηση του έργου
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Κάποιος που έχει δεσμευτεί να διαχειρίζεται τις αλληλεπιδράσεις της κοινότητας (απάντηση σε θέματα, εξέταση και συγχώνευση αιτημάτων έλξης)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Τουλάχιστον δύο άτομα έχουν διοικητική πρόσβαση στο πρότζεκτ
   </label>
