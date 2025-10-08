@@ -13,7 +13,6 @@ tr:
     related_guides: İlgili Kılavuzlar 
   footer:
     contribute:
-    language_selector: Select language
       heading: Katkıda Bulun
       description: Bir öneride bulunmak ister misiniz? Bu içerik de açık kaynak. Geliştirmemize yardımcı olun. 
       button: Katkıda Bulun 

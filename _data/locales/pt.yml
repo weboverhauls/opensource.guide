@@ -13,7 +13,6 @@ pt:
     related_guides: Guias relacionados
   footer:
     contribute:
-    language_selector: Select language
       heading: Contribua
       description: "Quer fazer um sugestão? Este conteúdo é open source. Ajude-nos a melhorá-lo."
       button: Contribua

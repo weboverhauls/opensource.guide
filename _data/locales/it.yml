@@ -13,7 +13,6 @@ it:
     related_guides: Guide correlate
   footer:
     contribute:
-    language_selector: Select language
       heading: Contribuire
       description: Vuoi dare un suggerimento? Questo contenuto è open source. Aiutaci a migliorarlo.
       button: Contribuire

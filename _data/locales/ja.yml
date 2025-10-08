@@ -13,7 +13,6 @@ ja:
     related_guides: 関連するガイド
   footer:
     contribute:
-    language_selector: Select language
       heading: 貢献する
       description: 提案したいことがありますか？このコンテンツはオープンソースです。改善にご協力ください。
       button: 貢献する

@@ -13,7 +13,6 @@ bg:
     related_guides: Свързани ръководства
   footer:
     contribute:
-    language_selector: Select language
       heading: Допринеси
       description: Искате ли да направите предложение? Това съдържание е с отворен код. Помогнете ни да го подобрим.
       button: Допринеси

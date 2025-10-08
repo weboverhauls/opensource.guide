@@ -13,7 +13,6 @@ el:
     related_guides: Σχετικοί Οδηγοί
   footer:
     contribute:
-    language_selector: Select language
       heading: Συνεισφορά
       description: Θέλετε να κάνετε μια πρόταση; Αυτό το περιεχόμενο είναι ανοιχτού κώδικα. Βοηθήστε μας να το βελτιώσουμε.
       button: Συνεισφορά

@@ -13,7 +13,6 @@ pl:
     related_guides: Powiązane przewodniki
   footer:
     contribute:
-    language_selector: Select language
       heading: Współpracuj
       description: Chcesz coś zasugerować? Ta zawartość jest open source. Pomóż nam to poprawić.
       button: Współpracuj

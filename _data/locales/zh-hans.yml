@@ -13,7 +13,6 @@ zh-hans:
     related_guides: 相关指南
   footer:
     contribute:
-    language_selector: Select language
       heading: 贡献
       description: 想提个建议吗？此内容是开源的。帮助我们改进它吧！
       button: 贡献

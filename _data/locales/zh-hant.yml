@@ -13,7 +13,6 @@ zh-hant:
     related_guides: 相關指南
   footer:
     contribute:
-    language_selector: Select language
       heading: 貢獻
       description: 想提出建議嗎？本站是開放原始碼，協助我們更加完善。
       button: 貢獻
