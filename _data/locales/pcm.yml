@@ -3,11 +3,13 @@ pcm:
   nav:
     about: About
     contribute: Put hand
+    main_label: Main navigation
   index:
     lead: Open source software na people wey dey like you epp build am. Learn how to start and make your project big.
     opensourcefriday: Na Friday! Spend few hours to contribute to the software wey you dey use and love.
   article:
     table_of_contents: Table of Contents
+    table_of_contents_label: Table of contents
     back_to_all_guides: Abeg, make I run go back to all those guides
     related_guides: Related Guides
     footer:

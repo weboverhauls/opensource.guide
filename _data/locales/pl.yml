@@ -3,11 +3,13 @@ pl:
   nav:
     about: O projekcie
     contribute: Współpracuj
+    main_label: Główna nawigacja
   index:
     lead: Oprogramowanie typu open source jest tworzone przez ludzi takich jak Ty. Dowiedz się, jak uruchomić i rozwijać swój projekt.
     opensourcefriday: Jest piątek! Zainwestuj kilka godzin, przyczyniając się do oprogramowania, którego używasz i które kochasz
   article:
     table_of_contents: Spis treści
+    table_of_contents_label: Spis treści
     back_to_all_guides: Powrót do wszystkich przewodników
     related_guides: Powiązane przewodniki
   footer:

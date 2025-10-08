@@ -3,11 +3,13 @@ bg:
   nav:
     about: Относно нас
     contribute: Допринеси
+    main_label: Основна навигация
   index:
     lead: Софтуерът с отворен код е създаден от хора точно като теб. Научи как да стартираш и развиеш своя проект.
     opensourcefriday: Петък е! Инвестирай няколко часа, като допринесеш за софтуера, който използвате и обичате
   article:
     table_of_contents: Съдържание
+    table_of_contents_label: Съдържание
     back_to_all_guides: Назад към всички ръководства
     related_guides: Свързани ръководства
   footer:
