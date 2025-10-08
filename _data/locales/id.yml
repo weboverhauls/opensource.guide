@@ -3,11 +3,13 @@ id:
   nav:
     about: Tentang
     contribute: Kontribusi
+    main_label: Navigasi utama
   index:
     lead: Perangkat lunak open source dihasilkan oleh orang-orang seperti Anda. Pelajari bagaimana merilis dan mengembangkan proyek Anda.
     opensourcefriday: Hari Jumat! Investasikan beberapa jam untuk berkontribusi pada perangkat lunak yang Anda gunakan dan cintai
   article:
     table_of_contents: Daftar Isi
+    table_of_contents_label: Navigasi daftar isi
     back_to_all_guides: Kembali ke semua panduan
     related_guides: Panduan yang relevan
   footer:

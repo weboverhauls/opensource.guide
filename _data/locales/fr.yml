@@ -3,11 +3,13 @@ fr:
   nav:
     about: A propos
     contribute: Contribuer
+    main_label: Navigation principale
   index:
     lead: Les logiciels libres sont faits par des gens exactement comme vous. Apprennez comment lancer et développer votre projet.
     opensourcefriday: C'est vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
   article:
     table_of_contents: Table des matières
+    table_of_contents_label: Navigation de la table des matières
     back_to_all_guides: Retour à tous les guides
     related_guides: Guides liés
   footer:
