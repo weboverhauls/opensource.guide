@@ -9,7 +9,7 @@ Reference: https://dequeuniversity.com/rules/axe/4.10/landmark-complementary-is-
 All `<aside markdown="1" class="pquote">` and `<aside markdown = "1" class = "pquote">` elements across all article files were replaced with `<div>` tags:
 
 - `<aside markdown="1" class="pquote">` → `<div markdown="1" class="pquote">`
-- `<aside markdown = "1" class = "pquote">` → `<div markdown = "1" class = "pquote">` (Russian files)
+- `<aside markdown = "1" class = "pquote">` → `<div markdown = "1" class = "pquote">` (some files use spaces around `=`)
 - `</aside>` → `</div>`
 
 This maintains the same visual styling (via the `.pquote` CSS class) while fixing the semantic HTML structure.
@@ -31,7 +31,7 @@ Manual verification:
 - All existing tests pass
 
 To verify the fix in the future, check that no pquote blocks use aside tags:
-```bash
+```shell
 # Should return 0
 grep -r '<aside.*class.*pquote' _articles/ | wc -l
 
