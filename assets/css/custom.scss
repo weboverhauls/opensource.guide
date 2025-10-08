@@ -110,6 +110,15 @@ blockquote {
     font-family: $font-mktg
   }
 
+  // Ensure links are distinguishable without relying on color (WCAG 2.1)
+  a {
+    text-decoration: underline;
+
+    &:hover {
+      text-decoration: none;
+    }
+  }
+
   h1 { @include h0-mktg }
 
   h3 {
