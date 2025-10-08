@@ -234,7 +234,7 @@ Hapa kuna orodha ya ukaguzi ya kutathmini ikiwa mradi ni mzuri kwa wachangiaji w
 **Inakidhi ufafanuzi wa Open Source**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   Je, ina leseni? Kawaida, kuna faili inayoitwa LICENSE katika mizizi ya hazina.
   </label>
@@ -245,21 +245,21 @@ Hapa kuna orodha ya ukaguzi ya kutathmini ikiwa mradi ni mzuri kwa wachangiaji w
 Angalia shughuli za kujitolea kwenye tawi kuu. Kwenye GitHub, unaweza kuona habari hii katika tab ya Insights ya ukurasa wa nyumbani wa hazina, kama [Virtual-Coffee](https://github.com/Virtual-Coffee/virtualcoffee.io/pulse)
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   Ni lini kujitolea kwa mwisho kulifanyika?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   Mradi una wachangiaji wangapi?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   Watu wanajitolea mara ngapi? (Kwenye GitHub, unaweza kupata hii kwa kubofya "Commits" kwenye bar ya juu.)
   </label>
@@ -268,35 +268,35 @@ Angalia shughuli za kujitolea kwenye tawi kuu. Kwenye GitHub, unaweza kuona haba
 Sasa, angalia masuala ya mradi.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Ni masuala mangapi yaliyofunguliwa?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Je, watunzaji wanajibu haraka kwa masuala yanapofunguliwa?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Je, kuna majadiliano ya shughuli kwenye masuala?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Je, masuala ni ya hivi karibuni?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Je, masuala yanapata kufungwa? (Kwenye GitHub, bonyeza tab "closed" kwenye ukurasa wa Masuala ili kuona masuala yaliyofungwa.)
   </label>
@@ -305,35 +305,35 @@ Sasa, angalia masuala ya mradi.
 Sasa fanya vivyo hivyo kwa maombi ya kuvuta ya mradi.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Ni maombi mangapi ya kuvuta yaliyofunguliwa?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     Je, watunzaji wanajibu haraka kwa maombi ya kuvuta yanapofunguliwa?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Je, kuna majadiliano ya hivi karibuni kwenye maombi ya kuvuta?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Je, maombi ya kuvuta ni ya hivi karibuni?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     Ni lini maombi yoyote ya kuvuta yalifungwa? (Kwenye GitHub, bonyeza tab "closed" kwenye ukurasa wa Maombi ya Kuvuta ili kuona PRs zilizofungwa.)
   </label>
@@ -344,28 +344,28 @@ Sasa fanya vivyo hivyo kwa maombi ya kuvuta ya mradi.
 Mradi ambao ni rafiki na unakaribisha unamaanisha kuwa watakuwa tayari kupokea wachangiaji wapya.
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     Je, watunzaji wanajibu kwa msaada kwa maswali katika masuala?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     Je, watu ni rafiki katika masuala, jukwaa la majadiliano, na mazungumzo (kwa mfano, IRC au Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     Je, maombi ya kuvuta yanapitiwa?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     Je, watunzaji wanawashukuru watu kwa michango yao?
   </label>
