@@ -3,6 +3,7 @@ ja:
   nav:
     about: このサイトについて
     contribute: 貢献する
+    language_selector: Select language
   index:
     lead: オープンソースソフトウェアはちょうどあなたのような人々によって作られています。プロジェクトを立ち上げて成長させていく方法を学んでいきましょう。
     opensourcefriday: 今日は金曜日です！あなたが使用し愛着を持っているソフトウェアへの貢献に数時間を投資しましょう。
@@ -12,6 +13,7 @@ ja:
     related_guides: 関連するガイド
   footer:
     contribute:
+    language_selector: Select language
       heading: 貢献する
       description: 提案したいことがありますか？このコンテンツはオープンソースです。改善にご協力ください。
       button: 貢献する

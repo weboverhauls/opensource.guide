@@ -3,6 +3,7 @@ fr:
   nav:
     about: A propos
     contribute: Contribuer
+    language_selector: Select language
   index:
     lead: Les logiciels libres sont faits par des gens exactement comme vous. Apprennez comment lancer et développer votre projet.
     opensourcefriday: C'est vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
@@ -12,6 +13,7 @@ fr:
     related_guides: Guides liés
   footer:
     contribute:
+    language_selector: Select language
       heading: Contribuer
       description: Vous souhaitez faire une suggestion ? Ce contenu est libre. Aidez-nous à l'améliorer.
       button: Contribuer

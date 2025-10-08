@@ -3,6 +3,7 @@ id:
   nav:
     about: Tentang
     contribute: Kontribusi
+    language_selector: Select language
   index:
     lead: Perangkat lunak open source dihasilkan oleh orang-orang seperti Anda. Pelajari bagaimana merilis dan mengembangkan proyek Anda.
     opensourcefriday: Hari Jumat! Investasikan beberapa jam untuk berkontribusi pada perangkat lunak yang Anda gunakan dan cintai
@@ -12,6 +13,7 @@ id:
     related_guides: Panduan yang relevan
   footer:
     contribute:
+    language_selector: Select language
       heading: Kontribusi
       description: Ingin memberikan masukan? Konten halaman ini bersifat terbuka. Bantu kami untuk melakukan penyempurnaan.
       button: Kontribusi

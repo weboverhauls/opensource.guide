@@ -3,6 +3,7 @@ ms:
   nav:
     about: Mengenai
     contribute: Menyumbang
+    language_selector: Select language
   index:
     lead: Perisian sumber terbuka dibuat oleh orang seperti anda. Ketahui cara melancarkan dan mengembangkan projek anda.
     opensourcefriday: Hari Jumaat! Melabur beberapa jam dengan menyumbang kepada perisian yang anda gunakan dan sukai
@@ -12,6 +13,7 @@ ms:
     related_guides: Panduan Berkaitan
   footer:
     contribute:
+    language_selector: Select language
       heading: Menyumbang
       description: Ingin membuat cadangan? Kandungan ini adalah sumber terbuka. Bantu kami memperbaikinya.
       button: Menyumbang

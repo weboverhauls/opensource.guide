@@ -3,6 +3,7 @@ es:
   nav:
     about: Acerca de
     contribute: Contribuir
+    language_selector: Select language
   index:
     lead: El software de código abierto es desarrollado por personas como tú, aprende cómo crear y hacer que tu proyecto crezca.
     opensourcefriday: ¡Es viernes! Invierte unas cuántas horas para contribuir al software que usas y amas
@@ -12,6 +13,7 @@ es:
     related_guides: Guías relacionadas
   footer:
     contribute:
+    language_selector: Select language
       heading: Contribuir
       description: ¿Tienes alguna sugerencia? Este contenido es de código abierto. Ayúdanos a mejorarlo.
       button: Contribuir

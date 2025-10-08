@@ -3,6 +3,7 @@ sw:
   nav:
     about: Kuhusu
     contribute: Changia
+    language_selector: Select language
   index:
     lead: Programu huria ya software hutengenezwa na watu kama wewe. Jifunze jinsi ya kuzindua na kukuza mradi wako.
     opensourcefriday: Ni Ijumaa! Wekeza saa chache kuchangia programu unayotumia na kupenda
@@ -12,6 +13,7 @@ sw:
     related_guides: Miongozo inayohusiana
   footer:
     contribute:
+    language_selector: Select language
       heading: Changia
       description: Je, ungependa kutoa pendekezo? Maudhui haya ni open source. Tusaidie kuiboresha.
       button: Changia

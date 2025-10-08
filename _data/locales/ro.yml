@@ -3,6 +3,7 @@ ro:
   nav:
     about: Despre
     contribute: Contribuie
+    language_selector: Select language
   index:
     lead: Software-ul cu sursă deschisă este făcut de oameni exact ca tine. Învață cum să îți lansezi și să îți crești proiectul.
     opensourcefriday: Este vineri! Investește câteva ore contribuind la software-ul pe care îl folosești și îl iubești
@@ -12,6 +13,7 @@ ro:
     related_guides: Ghiduri relevante
   footer:
     contribute:
+    language_selector: Select language
       heading: Contribuie
       description: Dorești să sugerezi ceva? Acest conținut este cu sursă deschisă. Ajută-ne să-l îmbunătățim.
       button: Contribuie

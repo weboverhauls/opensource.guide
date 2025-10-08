@@ -3,6 +3,7 @@ pcm:
   nav:
     about: About
     contribute: Put hand
+    language_selector: Select language
   index:
     lead: Open source software na people wey dey like you epp build am. Learn how to start and make your project big.
     opensourcefriday: Na Friday! Spend few hours to contribute to the software wey you dey use and love.
@@ -12,6 +13,7 @@ pcm:
     related_guides: Related Guides
     footer:
     contribute:
+    language_selector: Select language
       heading: Put hand
       description: You wan yan something? This mata wey dey here, e fit be your own. Abeg, helep us make e better.
       button: Put hand

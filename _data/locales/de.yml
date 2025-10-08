@@ -3,6 +3,7 @@ de:
   nav:
     about: Über
     contribute: Mitarbeiten
+    language_selector: Select language
   index:
     lead: Open-Source-Software wird von Menschen wie Ihnen gemacht. Lernen Sie, wie Sie Ihr Projekt anfangen und ausbauen können.
     opensourcefriday: Es ist Freitag! Investieren Sie ein paar Stunden in die Software, die Sie verwenden und lieben
@@ -12,6 +13,7 @@ de:
     related_guides: Verwandte Anleitungen
   footer:
     contribute:
+    language_selector: Select language
       heading: Mitmachen
       description: Möchten Sie etwas vorschlagen? Unsere Anleitungen sind quelloffen. Helfen Sie uns, sie zu verbessern.
       button: Mitmachen
