@@ -3,6 +3,8 @@ ko:
   nav:
     about: 소개
     contribute: 기여
+    main_label: Main navigation
+    toc_label: Table of contents
   index:
     lead: 오픈소스 소프트웨어는 여러분 같은 사람들이 모여 만듭니다. 프로젝트를 시작하고 성장시키는 방법에 대해 배워보세요.
     opensourcefriday: 금요일입니다! 애용하는 소프트웨어에 기여하는 데 몇 시간 투자해 보는 건 어떨까요?
