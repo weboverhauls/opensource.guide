@@ -3,8 +3,8 @@ zh-hant:
   nav:
     about: 關於
     contribute: 貢獻
-    main_label: Main navigation
-    toc_label: Table of contents
+    main_label: 主要導航
+    toc_label: 目錄
   index:
     lead: 開放原始碼就是由你這樣的人所打造，學習如何發起、經營你的開源專案！ 
     opensourcefriday: 今天是星期五！ 花一些時間去貢獻你使用過、喜愛的軟體吧！
