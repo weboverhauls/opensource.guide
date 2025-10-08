@@ -260,28 +260,28 @@ READMEs आपके प्रोजेक्ट का उपयोग कै�
 **दस्तावेज़ीकरण**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     प्रोजेक्ट में ओपन सोर्स लाइसेंस के साथ LICENSE फ़ाइल है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     प्रोजेक्ट में बुनियादी दस्तावेज़ हैं (README, CONTRIBUTING, Code_OF_CONDUCT)।
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     नाम याद रखना आसान है, प्रोजेक्ट क्या करता है इसका कुछ अंदाजा देता है, और किसी मौजूदा प्रोजेक्ट के साथ टकराव नहीं करता है या ट्रेडमार्क का उल्लंघन नहीं करता है।
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     समस्या कतार अद्यतन है, जिसमें मुद्दे स्पष्ट रूप से व्यवस्थित और लेबल किए गए हैं।
   </label>
@@ -290,21 +290,21 @@ READMEs आपके प्रोजेक्ट का उपयोग कै�
 **Code**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     प्रोजेक्ट सुसंगत कोड सम्मेलनों और स्पष्ट फ़ंक्शन/विधि/चर नामों का उपयोग करता है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     इरादों और किनारे के मामलों का दस्तावेजीकरण करते हुए कोड पर स्पष्ट रूप से टिप्पणी की गई है।
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     पुनरीक्षण इतिहास, मुद्दों या पुल अनुरोधों में कोई संवेदनशील सामग्री नहीं है (उदाहरण के लिए, पासवर्ड या अन्य गैर-सार्वजनिक जानकारी)।
   </label>
@@ -315,7 +315,7 @@ READMEs आपके प्रोजेक्ट का उपयोग कै�
 यदि आप एक व्यक्ति हैं:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   आपने कानूनी विभाग से बात की है और/या अपनी कंपनी की आईपी और ओपन सोर्स नीतियों को समझा है (यदि आप कहीं कर्मचारी हैं)।
   </label>
@@ -324,28 +324,28 @@ READMEs आपके प्रोजेक्ट का उपयोग कै�
 यदि आप एक कंपनी या संगठन हैं:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     आपने अपने कानूनी विभाग से बात की है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     आपके पास परियोजना की घोषणा और प्रचार के लिए एक मार्केटिंग योजना है।
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     कोई व्यक्ति सामुदायिक अंतःक्रियाओं के प्रबंधन के लिए प्रतिबद्ध है (issues का जवाब देना, reviewing और merging pull requests)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     कम से कम दो लोगों के पास परियोजना तक प्रशासनिक पहुंच है।
   </label>

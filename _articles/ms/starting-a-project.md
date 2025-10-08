@@ -260,28 +260,28 @@ Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk me
 **Dokumentasi**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Projek mempunyai fail LICENSE dengan lesen sumber terbuka
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Projek mempunyai dokumentasi asas (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Nama itu mudah diingat, memberikan beberapa idea tentang apa yang dilakukan oleh projek itu, dan tidak bertentangan dengan projek yang ada atau melanggar tanda dagang
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Antrean masalah terkini, dengan isu yang teratur dan dilabel dengan jelas
   </label>
@@ -290,21 +290,21 @@ Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk me
 **Code**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Projek menggunakan konvensyen kod yang konsisten dan fungsi / kaedah / nama pemboleh ubah yang jelas
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Kod tersebut dikomentari dengan jelas, mendokumentasikan niat dan kes-kes kelebihan
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Tidak ada bahan sensitif dalam sejarah semakan, masalah, atau permintaan tarik (misalnya, kata laluan atau maklumat bukan umum lain)
   </label>
@@ -315,7 +315,7 @@ Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk me
 Sekiranya anda seorang individu:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Anda telah berbincang dengan jabatan undang-undang dan / atau memahami dasar IP dan sumber terbuka syarikat anda (jika anda seorang pekerja di suatu tempat)
   </label>
@@ -324,28 +324,28 @@ Sekiranya anda seorang individu:
 Sekiranya anda syarikat atau organisasi:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Anda telah bercakap dengan jabatan undang-undang anda
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Anda mempunyai rancangan pemasaran untuk mengumumkan dan mempromosikan projek tersebut
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Seseorang komited untuk mengurus interaksi masyarakat (menanggapi masalah, mengkaji dan menggabungkan permintaan tarik)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Sekurang-kurangnya dua orang mempunyai akses pentadbiran ke projek ini
   </label>

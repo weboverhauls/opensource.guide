@@ -260,28 +260,28 @@ _نرم‌افزارهای رایگان_ همچنین به پروژه‌های �
 **مستندات**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     پروژه حاوی فایل (LICENSE)  لایسنس متن باز است
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     پروژه حاوی اسناد پایه اعم از (فایل README، CONTRIBUTING و فایل CODE_OF_CONDUCT) است
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     نام پروژه ساده است، می‌توان آن را به راحتی به خاطر سپرد، نام پروژه این ایده را به مخاطب می‌دهد که پروژه چه کارهایی انجام می‌دهد و نام پروژه با هیچ پروژه موجودی منافات ندارد یا هیچ برند تجاری را نقض نمی‌کند.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     صف مشکلات و مسائل گزارش شده با زدن برچسب های مناسب سازماندهی شده و بروز است.
   </label>
@@ -290,21 +290,21 @@ _نرم‌افزارهای رایگان_ همچنین به پروژه‌های �
 **کد**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     پروژه از توافق‌های از پیش تعیین شده در خصوص نام‌های متغیر/متدها و توابع استفاده می‌کند
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
 	کد به خوبی کامنت‌گذاری شده و تو رفتگی‌ها و کوچکی و بزرگی حروف در جای لازم رعایت شده است.    
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
 	اطلاعات حساسی مثل کلمه های عبور یا کلیدهای خصوصی از طریق Pull Request یا گزارش مشکل و... برای عموم آشکار نشود
@@ -316,7 +316,7 @@ _نرم‌افزارهای رایگان_ همچنین به پروژه‌های �
 اگر شما شخص حقیقی هستید:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   (اگر در جایی کارمند هستید)، با دپارتمان / بخش حقوقی خود صحبت کرده‌اید، IP و شرایط و قوانین متن باز شرکت را متوجه شده‌اید.
   </label>
@@ -325,28 +325,28 @@ _نرم‌افزارهای رایگان_ همچنین به پروژه‌های �
 اگر شخص حقوقی هستید و در یک سازمان یا یک شرکت فعالیت می‌کنید:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     با دپارتمان / بخش حقوقی صحبت کرده‌اید.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     برای اطلاع رسانی و ترویج پروژه‌ام برنامه‌ی بازاریابی دارم.
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
 	یک شخص برای مدیریت تعاملات اجتماعی (پاسخ به مشکلات، بررسی و درخواست ادغام) که متعهد باشد حضور دارد.
     </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     حداقل دو نفر دسترسی مدیریتی (Admin) به پروژه داشته باشند
   </label>

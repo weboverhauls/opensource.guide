@@ -267,28 +267,28 @@ README கள் உங்கள் திட்டத்தை எவ்வா�
 **ஆவணப்படுத்தல்**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     திட்டமானது திறந்த மூல உரிமத்துடன் LICENSE கோப்பை கொண்டுள்ளது
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     திட்டப்பணி அடிப்படை ஆவணங்கள் (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     நினைவில் வைக்க எளிய பெயர், திட்டம் என்ன செய்கின்றது என சில யோசனைகள் தெரிவிக்கின்றன, ஏற்கனவே இருக்கும் திட்டத்துடன் முரண்படவில்லை அல்லது வர்த்தக முத்திரைகளை மீறவில்லை
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     தெளிவாக ஒழுங்கமைக்கப்பட்ட மற்றும் பெயரிடப்பட்ட சிக்கல்களால், சிக்கல் வரிசை புதுப்பித்த நிலையில் உள்ளது
   </label>
@@ -297,21 +297,21 @@ README கள் உங்கள் திட்டத்தை எவ்வா�
 **Code**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     திட்டம் நிலையான குறியீடு மரபுகள் மற்றும் தெளிவான செயல்பாடு/முறை/மாறி பெயர்களை பயன்படுத்துகிறது
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     தெளிவான விளக்கக் குறிப்பு கொண்ட குறியீடு, எண்ணங்கள் மற்றும் விளிம்பு வழக்குகளை ஆவணப்படுத்துதல்
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     மீள்பார்வை வரலாறு, சிக்கல்கள் அல்லது இழு கோரிக்கைகளில் நுண்உணர் பொருட்கள் இல்லை (எடுத்துக்காட்டாக, கடவுச்சொற்கள் அல்லது பிற அல்லாத பொது தகவல்கள்)
   </label>
@@ -322,7 +322,7 @@ README கள் உங்கள் திட்டத்தை எவ்வா�
 நீங்கள் ஒரு தனிநபர் என்றால்:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   நீங்கள் சட்ட துறையுடன் பேசினீர்கள் மற்றும் / அல்லது உங்கள் நிறுவனத்தின் ஐபி மற்றும் திறந்த மூலக் கொள்கைகள் அறிந்து கொண்டீர்கள் (நீங்கள் எங்காவது ஒரு ஊழியராக இருந்தால்)
   </label>
@@ -331,28 +331,28 @@ README கள் உங்கள் திட்டத்தை எவ்வா�
 நீங்கள் ஒரு நிறுவனம் அல்லது அமைப்பாக இருந்தால்:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     உங்கள் சட்ட துறையுடன் நீங்கள் பேசினீர்கள்
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     திட்டத்தை அறிவித்து, ஊக்குவிப்பதற்கான சந்தைப்படுத்தலுக்கான திட்டம் உங்களிடம் உள்ளது
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     சமுதாய இடைசெயல்களை நிர்வகிப்பதில் யாரோ கடமைப்பட்டுள்ளனர் (சிக்கல்களுக்கு பதிலளிப்பது, மறுபரிசீலனை செய்தல் மற்றும் இழு கோரிக்கைகள் இணைத்தல்)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     குறைந்தபட்சம் இரண்டு பேர் இந்த திட்டத்திற்கு நிர்வாக அணுகலைக் கொண்டுள்ளனர்
   </label>
