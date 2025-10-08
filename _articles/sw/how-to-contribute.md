@@ -12,13 +12,13 @@ related:
 
 ## Kwa nini uchangie katika open source?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Kufanya kazi kwa \[freenode]\ kulinisaidia kupata ujuzi mwingi nilioutumia baadaye kwa masomo yangu katika chuo kikuu na kazi yangu halisi. Nadhani kufanya kazi kwenye miradi ya Open Source hunisaidia kadiri inavyosaidia mradi!
   <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Sababu yangu kupenda kuchangia programu za Open Source"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Kuchangia kwenye Open Source kunaweza kuwa njia ya kuridhisha ya kujifunza, kufundisha na kujenga uzoefu katika takriban ujuzi wowote unaoweza kufikiria.
 
@@ -62,13 +62,13 @@ Usiwe na wasiwasi! Kuna kila aina ya njia za kujihusisha na mradi wa Open Source
 
 Dhana potofu ya kawaida kuhusu kuchangia Open Source ni kwamba unahitaji kuchangia msimbo. Kwa kweli, mara nyingi ni sehemu zingine za mradi ambazo [hupuuzwa zaidi au kutopewa umakini](https://github.com/blog/2195-the-shape-of-open-source). Utaufanyia mradi upendeleo _mkubwa_ kwa kujitolea kushiriki na aina hizi za michango!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Nimekuwa maarufu kwa kazi yangu kwenye CocoaPods, lakini watu wengi hawajui kuwa sifanyi kazi yoyote halisi kwenye zana ya CocoaPods yenyewe. Wakati wangu kwenye mradi huo hutumiwa sana kufanya vitu kama nyaraka na kufanya kazi kwenye chapa.
   <p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Kujiingiza kwa OSS kwa chaguo-msingi"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Hata kama ungependa kuandika msimbo, aina nyingine za michango ni njia nzuri ya kujihusisha na mradi na kukutana na wanajamii wengine. Kujenga mahusiano hayo kutakupa fursa za kufanya kazi kwenye sehemu nyingine za mradi.
 
@@ -93,13 +93,13 @@ Hata kama ungependa kuandika msimbo, aina nyingine za michango ni njia nzuri ya 
 * Andika mafunzo kwa mradi, [kama wachangiaji wa PyPA walivyofanya](https://packaging.python.org/)
 * Andika tafsiri ya nyaraka za mradi, [kama @frontendwizard alivyofanya kwa maelekezo ya changamoto ya CSS Flexbox ya freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Kwa kweli, \[nyaraka\] ni muhimu sana. Nyaraka zilizopo zimekuwa nzuri na zimekuwa sifa kubwa ya Babel. Kuna sehemu ambazo zinaweza kuhitaji kazi na hata kuongeza aya hapa na pale kunathaminiwa sana.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Wito kwa wachangiaji"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Je, unapenda kupanga?
 
@@ -140,13 +140,13 @@ Hata kama wewe ni msanidi programu, kufanya kazi kwenye mradi wa nyaraka kunawez
 
 ## Kujielekeza kwenye mradi mpya
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Ukienda kwenye kifuatiliaji cha masuala na vitu vinaonekana kuchanganya, sio kwako pekee. Zana hizi zinahitaji maarifa mengi yasiyoelezwa wazi, lakini watu wanaweza kukusaidia kuzielewa na unaweza kuwauliza maswali.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["Jinsi ya Kuchangia kwenye Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Kwa kitu chochote zaidi ya kurekebisha makosa madogo, kuchangia kwenye Open Source ni kama kusogelea kikundi cha watu usiowajua kwenye sherehe. Ikiwa utaanza kuzungumza kuhusu llama, wakati walikuwa kwenye majadiliano ya kina kuhusu samaki wa dhahabu, watakutazama kwa namna ya ajabu.
 
@@ -191,13 +191,13 @@ Sasa kwamba umeelewa jinsi miradi ya Open Source inavyofanya kazi, ni wakati wa 
 
 Ikiwa hujawahi kuchangia kwenye Open Source hapo awali, chukua ushauri kutoka kwa Rais wa Marekani John F. Kennedy, ambaye aliwahi kusema: _"Usiulizie kile nchi yako inaweza kukufanyia - ulizia kile unaweza kufanya kwa nchi yako."_
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Usiulizie kile nchi yako inaweza kukufanyia - ulizia kile unaweza kufanya kwa nchi yako.
   <p markdown="1" class="pquote-credit">
 — [_Maktaba ya John F. Kennedy_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
-</aside>
+</div>
 
 Kuchangia kwenye Open Source kunatokea katika ngazi zote, kupitia miradi mbalimbali. Huhitaji kufikiria sana kuhusu nini hasa mchango wako wa kwanza utakuwa, au itakavyokuwa.
 
@@ -371,13 +371,13 @@ Mradi ambao ni rafiki na unakaribisha unamaanisha kuwa watakuwa tayari kupokea w
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Kila wakati unapoona mjadala mrefu, angalia majibu kutoka kwa waendelezaji wa msingi wanaokuja mwishoni mwa mjadala. Je, wanatoa muhtasari kwa njia ya kujenga, na kuchukua hatua za kuleta mjadala kwenye uamuzi huku wakidhinisha adabu? Ikiwa unaona vita vingi vya maneno, hiyo mara nyingi ni ishara kwamba nguvu inaelekezwa kwenye mabishano badala ya maendeleo.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Jinsi ya kuwasilisha mchango
 
@@ -387,13 +387,13 @@ Umefinda mradi unayopenda, na uko tayari kufanya mchango. Hatimaye! Hapa kuna ji
 
 Iwe wewe ni mchango wa mara moja au unajaribu kujiunga na jamii, kufanya kazi na wengine ni moja ya ujuzi muhimu zaidi utakaopata katika Open Source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Kama mchangiaji mpya,\] niligundua haraka nilihitaji kuuliza maswali ikiwa nilitaka kufunga suala hilo. Nilipitia msingi wa msimbo. Mara nilipokuwa na hisia ya kile kilichokuwa kikifanyika, nilitaka kuelekezwa zaidi. Na voilà! Niliweza kutatua suala hilo baada ya kupata maelezo muhimu yote niliyohitaji.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [Safari ya Kwanza ya Mchango Katika Ulimwengu wa Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Kabla ya kufungua suala au ombi la kuvuta, au kuuliza swali katika mazungumzo, zingatia mambo haya ili kusaidia mawazo yako kuwasilishwa kwa ufanisi.
 
@@ -449,13 +449,13 @@ Kabla ya kufungua suala au ombi la kuvuta, angalia nyaraka za kuchangia za mradi
 
 Ikiwa unataka kutoa mchango mkubwa, fungua suala ili kuuliza kabla ya kufanya kazi juu yake. Ni muhimu kufuatilia mradi kwa muda (katika GitHub, [unaweza kubofya "Watch"](https://help.github.com/articles/watching-repositories/) ili kupokea taarifa za mazungumzo yote), na kujifunza kuhusu wanajamii, kabla ya kufanya kazi ambayo huenda isikubaliwe.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Utajifunza <em>mengi</em> kwa kuchukua mradi mmoja unautumia, "kuangalia" kwenye GitHub na kusoma kila suala na PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [kuhusu kujiunga na miradi](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Kufungua suala
 

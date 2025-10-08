@@ -37,12 +37,12 @@ Weka faili ya CODE_OF_CONDUCT katika saraka ya mzizi ya mradi wako, na uifanye i
 
 ## Kuamua jinsi utatekeleza kanuni zako za maadili
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Kanuni za maadili ambazo hazitekelezwi (au haziwezi kutekelezwa) ni mbaya zaidi kuliko kutokuwa na kanuni za maadili kabisa: inatuma ujumbe kwamba maadili katika kanuni za maadili si muhimu au kuheshimiwa katika jamii yako.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Unapaswa kueleza jinsi kanuni zako za maadili zitakavyotekelezwa **_kabla_** ya ukiukwaji kutokea. Kuna sababu kadhaa za kufanya hivyo:
 
@@ -72,12 +72,12 @@ Mwanajamii anayehusika anaweza kuwa mhalifu wa mara kwa mara ambaye mara kwa mar
 
 Kabla ya kujibu, jipe muda wa kuelewa kilichotokea. Soma kupitia maoni ya mtu huyo ya zamani na mazungumzo ili kuelewa vizuri ni nani na kwa nini wanaweza kuwa wamefanya hivyo. Jaribu kukusanya mitazamo zaidi ya yako kuhusu mtu huyu na tabia zao.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Usijishughulishe katika mabishano. Usijikite katika kushughulikia tabia ya mtu mwingine kabla hujaisha kushughulikia suala lililoko. Zingatia kile unachohitaji.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["Basi Umepata Sera. Sasa Nini?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Chukua hatua inayofaa
 

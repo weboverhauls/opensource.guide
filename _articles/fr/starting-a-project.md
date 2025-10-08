@@ -31,13 +31,13 @@ Par comparaison, un processus de source fermée serait de se rendre dans un rest
 
 ### Pourquoi les gens ouvrent-ils leur travail ?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   L'une des expériences les plus enrichissantes que je retire de l'utilisation et de la collaboration sur l'open source vient des relations que je construis avec d'autres développeurs confrontés aux mêmes problèmes que moi.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [Il y a de nombreuses raisons](https://ben.balter.com/2015/11/23/why-open-source/) pour une personne ou une organisation de vouloir ouvrir un projet. Parmi celles-ci :
 
@@ -75,13 +75,13 @@ Il n'y a pas de bonne réponse à cette question. Vous pouvez avoir plusieurs ob
 
 Si votre seul objectif est de montrer votre travail, vous ne voulez peut-être même pas de contributions, et vous pouvez alors même le dire dans votre fichier README. D'un autre côté, si vous voulez des contributeurs, vous allez investir du temps dans une documentation claire et faire en sorte que les nouveaux arrivants se sentent les bienvenus.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   A un certain moment, j'ai créé un UIAlertView personnalisé que j'utilisais... et j'ai décidé de le rendre open source. Je l'ai donc modifié pour être plus dynamique et l'ai mis à disposition sur GitHub. J'ai également écrit ma première documentation expliquant aux autres développeurs comment l'utiliser dans leurs projets. Probablement personne ne l'a jamais utilisé parce que c'était un projet simple mais je me sentais satisfait de ma contribution.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 Au fur et à mesure que votre projet grandit, votre communauté peut commencer à avoir besoin de plus que du code. Gardez bien à l'esprit que répondre aux problèmes, réviser le code et promouvoir votre projet sont des tâches importantes dans un projet open source.
 
@@ -91,13 +91,13 @@ Bien que le temps que vous consacrez à des tâches sans code dépende de la tai
 
 Si vous avez besoin d'un budget ou d'un personnel dédié pour la promotion, les opérations et la maintenance du projet, commencez ces discussions au sein de votre entreprise aussi tôt que possible.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Lorsque vous commencez à ouvrir le projet, il est important de vous assurer que vos processus de gestion prennent en compte les contributions et les capacités de la communauté autour de votre projet. N'ayez pas peur d'impliquer des contributeurs qui ne sont pas employés dans votre entreprise dans les aspects clés du projet — surtout s'ils sont des contributeurs réguliers.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### Contribuer à d'autres projets
 
@@ -149,13 +149,13 @@ Dans votre fichier README, essayez de répondre aux questions suivantes :
 
 Vous pouvez utiliser votre fichier README pour répondre à d'autres questions, telles que la manière dont vous gérez les contributions, les objectifs du projet et les informations sur les licences et l'attribution. Si vous ne souhaitez pas accepter de contributions ou si votre projet n'est pas encore prêt pour la production, écrivez ces informations.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Une meilleure documentation signifie plus d'utilisateurs, moins de demandes de support et plus de contributeurs. (...) Rappelez-vous que vos lecteurs ne sont pas vous. Il y a des gens avec des expériences complètement différentes qui pourraient participer à votre projet.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 Parfois, les gens évitent d'écrire un fichier README parce qu'ils ont l'impression que le projet n'est pas terminé ou qu'ils ne veulent pas de contributions. En fait ce sont toutes de très bonnes raisons d'en écrire un.
 
@@ -195,13 +195,13 @@ Ajoutez un lien vers votre fichier CONTRIBUTING dans votre fichier README, afin 
 
 ### Établir un code de conduite
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Nous avons tous eu des expériences où nous avons fait face à ce qui était probablement un abus soit en tant que responsable essayant d'expliquer pourquoi quelque chose devait être d'une certaine manière, ou en tant qu'utilisateur... posant une simple question. (...) Un code de conduite devient un document facilement référencé et lisible qui indique que votre équipe prend un discours constructif très au sérieux.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 Enfin, un code de conduite permet de définir des règles de base pour le comportement des participants de votre projet. Ceci est particulièrement utile si vous lancez un projet open source pour une communauté ou une entreprise. Un code de conduite vous permet de faciliter un comportement communautaire sain et constructif, ce qui réduira votre stress en tant que responsable.
 
@@ -246,13 +246,13 @@ Tout au long de la vie de votre projet, vous allez beaucoup écrire : des fichie
 
 Qu'il s'agisse d'une documentation officielle ou d'un courriel occasionnel, votre style d'écriture fait partie de la marque de votre projet. Réfléchissez à comment vous pourriez rencontrer votre public et au ton que vous souhaitez utiliser pour communiquer avec eux.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   J'ai essayé de m'impliquer dans tous les sujets de la liste de diffusion, de montrer un comportement exemplaire, d'être gentil avec les gens, de prendre leurs problèmes au sérieux et d'essayer d'être utile dans l'ensemble. Au bout d'un moment, les gens sont restés non seulement à poser des questions, mais aussi à répondre aux questions, et pour mon plus grand plaisir, ils ont imité mon style.
   <p markdown="1" class="pquote-credit">
 — @janl sur [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 L'utilisation d'un langage chaleureux et inclusif (tel que l'utilisation de «eux», même en faisant référence à la personne seule) peut faire beaucoup pour rendre votre projet accueillant pour les nouveaux contributeurs. Tenez-vous-en à un langage simple, car bon nombre de vos lecteurs ne sont peut-être pas francophones.
 

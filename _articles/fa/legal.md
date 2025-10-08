@@ -42,13 +42,13 @@ related:
 
 وقتی پروژۀ جدیدی را در «GitHub» ایجاد می‌کنید، [از شما خواسته می‌شود مجوزی را انتخاب کرده و به پروژه اضافه کنید](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   یک مجوز استاندارد به عنوان جایگزینی برای کسانی که اطلاعات کافی از مسائل حقوقی ندارند و نمی‌دانند چه کارهایی می‌توانند با این نرم‌افزار انجام دهند، عمل می‌کند. تا جایی که می‌توانید از شرایط و ضوابط دستکاری شده، اصلاح شده یا غیراستاندارد اجتناب کنید، چونکه آن‌ها در آینده به صورت مانعی در استفاده و دریافت کدها عمل می‌کنند.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## چه مجوز متن بازی برای پروژۀ من مناسب است؟
 
@@ -94,13 +94,13 @@ related:
 
 همچنین، با افزودن «تشریفات اداری» که به عقیدۀ برخی غیرضروری می‌باشد و فهم آن سخت یا ناعادلانه است (وقتی که ذی‌نفعان توافق‌نامه حقوق و مزایای بیشتری از مشارکت‌کنندگان یا عموم مردمی که کارهایی در پروژه‌ی متن باز انجام می‌دهند، به دست می‌آورند)؛ به همین خاطر ممکن است یک توافق‌نامه‌ی همکاری اضافی غیرمنصفانه نسبت به انجمن پروژه تلقی شود.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     ما «توافق‌نامه مجوز مشارکت‌کننده» را برای «Node.js» حذف کردیم. انجام این کار موانع ورود مشارکت‌کنندگان به Node.js را کاهش می‌دهد و در نتیجه میزان مشارکت‌کنندگان را گسترش می‌دهد.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 برخی از شرایطی که ممکن است بخواهید یک توافق‌نامه‌ی همکاری اضافی را برای پروژۀ خود در نظر بگیرید، شامل این موارد می‌شود:
 
@@ -138,24 +138,24 @@ related:
 
 * **سیاست های مربوط به مشارکت کارمندان:** سیاست‌هایی را تدوین کنید که مشخص سازد کارمندان شما در پروژه‌های متن باز چه نوع مشارکتی داشته باشند. داشتن سیاست‌های مشخص و واضح باعث کاهش سردرگمی در بین کارمندان و کمک به آن‌ها در مشارکت هرچه بهتر در پروژه‌های متن باز شرکت می‌شود؛ چه به عنوان بخشی از شغل آنها و چه به صورت فعالیت در اوقات فراغت‌شان. یک مثال خوب، [مدل‌های استاندارد و سیاست‌های همکاری در پروژه‌های متن باز](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) «Rackspace» است.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   منتشر کردن شناسه همراه با مشخصات سازندۀ پَچ، باعث ایجاد اعتبار و شناخته شدن کارمند می‌شود. این کار نشان می‌دهد که شرکت در توسعۀ کارمندان سرمایه‌گذاری کرده و باعث به وجود آمدن حس اختیار و استقلال کارمندان می‌شود. تمامی این منفعت‌ها، منجر به روحیۀ بالاتر و حفظ بهتر کارمندان می‌شود.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **چه چیزهایی را منتشر کنیم:** [(تقریبا) همه چیز؟](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) اگر تیم حقوقی شما استراتژی متن باز شرکت شما را درک کرده و در آن سرمایه‌گذاری کرده باشد، به جای جلوگیری از تلاش‌هایتان، به بهترین وجه به شما کمک می‌کند.
 
 * **سازگاری:** حتی اگر شرکت شما هیچ پروژۀ متن بازی را منتشر نکند، از دیگر نرم‌افزارهای متن باز استفاده می‌کند. [داشتن آگاهی از روند کار](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) می‌تواند از بروز مشکلات بی‌جا، تأخیر در محصول و شکایات جلوگیری کند.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  شرکت‌ها باید دارای مجوزها و استراتژی‌های انطباقی باشند که متناسب با هر دو دستۀ [«اختیاری» و «کپی‌لفت»] باشد. این کار با ثبت سوابق مجوزهایی که برای نرم‌افزارهای متن باز مورد استفاده شما اعمال می‌شود - از جمله مؤلفه‌های فرعی و وابستگی‌ها - آغاز می‌شود.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **امتیاز ثبت اختراع:** ممکن است شرکت شما مایل باشد به شبکۀ [Open Invention Network](https://www.openinventionnetwork.com/)، که یک مجموعۀ ثبت اختراع مشترک برای محافظت از اعضا و استفادۀ آن‌ها از پروژه‌های بزرگ متن باز یا جستجوی سایر [مجوزهای اختراع ثبت جایگزین](https://www.eff.org/document/hacking-patent-system-2016) است، بپیوندد.
 

@@ -37,13 +37,13 @@ redirect_from: /zh-tw/best-practices/
 
 比如，@lord 發現專案有一個明確的願景能夠幫助他決定哪個 PR 值得花時間。作爲一個維護者的新手，他甚至還後悔當他接到第一個關於[slate](https://github.com/lord/slate)PR的時候沒有堅持專案本身的原則。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   我一直都在摸索。我沒有努力尋求一個完整的解決方案。與其採用那種半吊子辦法，我真希望曾經對某些Issue的提出者說："我暫時沒有時間幹這個，但是我會把他放到我的待辦事項中"。
   <p markdown="1" class="pquote-credit">
 — @lord, ["開源專案維護者新手的幾點技巧"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### 和大家交流你自己對專案的期望
 
@@ -92,13 +92,13 @@ redirect_from: /zh-tw/best-practices/
 
 如果你收到了你不想接受的貢獻，你的第一反應可能是忽略或者假裝沒看到。但是這麼做會嚴重傷害到別人而且可能會讓你社群裡的其他貢獻者失去動力。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   管理大型開源專案的關鍵就是保證issue活躍。儘量避免讓issue停滯不前。如果你是一個iOS開發者，你會知道<abbr title="提交問題到 Apple 的 Radar bug 跟蹤系統">提交雷達</abbr>是多麼讓人沮喪。你可能過了兩年收到回覆，並被告知要再次使用最新版本的iOS。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["開源社群黑客增長"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 別因爲自己感到內疚或者想做一個好人就把你不想接受的貢獻繼續保留。隨著時間的流逝，這些你沒有回答的issue和PR會讓你覺得很不爽。
 
@@ -137,13 +137,13 @@ redirect_from: /zh-tw/best-practices/
 
 當然啦，這麼搞一開始是不太舒服，但是你主動一點確實對雙方都好。它減少了某個人花了太多時間到一個你不想要的 PR 上的可能性。而且讓你管理起來更輕鬆。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   理論上，在 CONTRIBUTING.md 文件裡面告訴別人在他們開始幹活之前如何更清楚的知道的幹完之後會不會被接受。
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["優雅的關閉 PR "](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 有時候，當你說不的時候，你潛在的貢獻者會感到對你的沮喪或者不爽。如果他們開始找你撕逼了，[採取必要的措施以應對局勢](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)或者乾脆把他們從你的社群開除，如果他們不打算和你保持建設性的合作關係的話。
 
@@ -165,13 +165,13 @@ redirect_from: /zh-tw/best-practices/
 
 鼓勵別人來[一起管理專案](../building-community/#分享專案的所有權)能很大程度上減輕你的工作量，就像 [@lmccart](https://github.com/lmccart) 在他的專案上做的那樣，[p5.js](https://github.com/processing/p5.js)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   我曾經說過，"對，每個人都可以參與進來，你不需要有很多編程的經驗。"當有申請來參加我們的活動的時候，我就在想，這是真的嗎，我說了啥？有將近40個人來了，我雖然不可能和每個人都單獨交談，但是大家一起來了，這說明我說的沒錯。只要有人知道怎麼做了，他們就能教他們的鄰居。
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["開源" 意味著什麼? p5.js 版](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 如果你需要暫時或者永久的離開的專案，請找人來代替你，這並沒有什麼不好意思。
 
@@ -187,13 +187,13 @@ redirect_from: /zh-tw/best-practices/
 
 fork一個專案不什麼壞事情。能複製並且修改別人的程式是開源專案最大的好處之一。鼓勵你的社群成員在他自己fork的倉庫上繼續工作，這是在不和你的專案衝突的基礎上，給實現他們的想法最好的出口。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   我迎合80%的用戶需求。但是如果你是那20%中的一個，那麼fork我的專案吧。我不會介意的！我的公開的專案是用來解決那些最常見的問題的。我嘗試著讓別人fork我的專案然後在上面拓展得更加簡單。
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["爲何我關閉了 PR"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 這對於那些強烈的需要某個你沒時間實現的解決方案的用戶來說也是一樣的。提供API或者自定義的鉤子幫助他們更好的實現自己的需求而不需要改動源碼。[@orta](https://github.com/orta)[發現](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)鼓勵在CocoaPods上使用插件導致了很多有趣的想法的誕生。
 
@@ -213,13 +213,13 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
 
 如果你添加了測試，確保在 CONTRIBUTING 文件裡面解釋他們是怎麼工作的。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   我相信測試對所有的程式都是需要的。如果程式被完整的覆蓋了測試，以後就不需要改了。我們只需要在程式崩潰或者需要某個功能的添加程式。不管你在修改什麼，測試對於檢查那些你可能不小心製造的問題都是必須的。
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust 社群的自動化"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### 用工具來自動化日常的維護工作
 
@@ -251,13 +251,13 @@ fork一個專案不什麼壞事情。能複製並且修改別人的程式是開�
 
 就像其他工作一樣，有規律的休息會讓你對工作保持舒適愉快的心情。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   我是WP-CLI的維護者，我發現我需要首先讓自己開心，在開源專案和其他事情之間設定清楚的界限。我發現最好的平衡點就是每週在日常的工作安排中花2-5小時在這上面。這會讓我從感覺太累到保持持續的激情。因爲我給我需要解決的issue表上了優先級，從而我能夠在我認爲重要的事情上有所進展。
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["我的悼文，你現在是一個非常流行的專案的維護者"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 有時候，當你感覺大家都離不開你的時候，請假去休息是一件蠻困難的事情。甚至你自己會因爲離開而感到愧疚。
 

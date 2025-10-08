@@ -37,13 +37,13 @@ Kezd a dokumentációkkal:
 * **Légy nyitott gondolkodású az új hozzájárulások elfogadásakor!** Sok hozzájáruló hibák jelzésével vagy apró javításokkal kezdi. [Számos módja van a hozzájárulásoknak](../how-to-contribute/#mit-jelent-a-hozzájárulás) a projekthez. Hagy segítsenek az emberek úgy, ahogy ők szeretnének.
 * **Ha van olyan hozzájárulás, amivel nem értesz egyet,** akkor köszönd meg az ötletet, és [magyarázd el miért](../best-practices/#meg-kell-tanulni-nemet-mondani) nem felel meg a projekt víziónak, és csatold a hivatkozásokat a dokumentációra.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   A nyílt forrásban való részvétel valaki számára könnyebb, valakinek nehezebb. Attól tarthat valaki, hogy pellengérre állítják, ha nem tesz valamit helyesen, vagy ha nem illeszkedik be. (...) Azáltal, hogy a nagyon alacsony műszaki jártassággal rendelkező közreműködőknek is megadjuk a lehetőséget a hozzájárulásra (dokumentáció, tartalom, stb.), nagymértékben csökkenthetjük ezt az aggodalmat.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Közreműködői bázis bővítése a modern nyílt forráskódban"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 A nyílt forráskódú közreműködők többsége "alkalmi közreműködő": olyan emberek, akik csak alkalmanként járulnak hozzá a projekthez. Előfordulhat, hogy egy alkalmi közreműködőnek nincs ideje teljes mértékben felkészülni a projektre, ezért az a feladatod, hogy megkönnyítsd számukra a hozzájárulást ilyen esetekben is.
 
@@ -51,13 +51,13 @@ Más közreműködők ösztönzése számodra is hasznos befektetés. Ha támoga
 
 ### Dokumentálj mindent
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Voltál már valaha olyan (tech-) rendezvényen, ahol nem ismertél senkit, de úgy tűnt számodra, hogy mindenki más csoportokban áll és beszélget, mint a régi jó barátok? (...) Most képzeld el, hogy hozzá szeretnél járulni egy nyílt forráskódú projekthez, de nem tudod, miként, és hogyan lehetséges ez.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Fenntartható Nyílt Forráskód"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Amikor új projektet indítasz, először természetesnek tűnhet, hogy a munkádat nem publikálod. De a nyílt forráskódú projektek akkor sikeresek, ha a folyamatait is nyilvánosan dokumentálod.
 
@@ -113,13 +113,13 @@ Bármely népszerű projekt elkerülhetetlenül vonzza azokat az embereket, akik
 
 Tegyél meg mindent, hogy zéró toleranciát tanúsíts az ilyen típusú emberekkel szemben. Ha figyelmen kívül hagyod ezt, akkor a negatív emberek kellemetlenné teszik a közösség többi tagjának részvételét a projektben, akik akár emiatt még távozhatnak is.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Az igazság az, hogy kulcsfontosságú a támogató közösség. Soha nem tudnám ezt a munkát elvégezni kollégáim, barátságos internetes idegenek, és az IRC-csatornáim nélkül. (...) Ne elégedj meg kevesebbel. Ne tűrd meg a seggfejeket.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["Hogyan működik a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 A projekt alapvető céljairól folytatott rendszeres vita zavarhat másokat, köztük téged is, és elvonja a figyelmet a fontos feladatokról. A projektbe érkező új emberek láthatják ezeket a beszélgetéseket, és emiatt lehet nem akarnak részt venni majd benne.
 
@@ -145,13 +145,13 @@ Itt egy példa, hogy hogyan kezdj a [Rubinius](https://github.com/rubinius/rubin
 
 ### A projekt tulajdonjogának megosztása
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   A vezetőid eltérő véleményekkel rendelkezhetnek, ahogy általában minden egészséges közösségnek! Oda kell figyelned azonban annak biztosítására, hogy ne mindig a leghangosabb hang nyerjen az emberek kifárasztásával, és hogy kevésbé prominens személyek és a kisebbségi hangok is hallatszódjanak.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Mitől jó egy közösség?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Az emberek örömmel járulnak hozzá a projektekhez, ha maguknak érzik azt. Ez nem azt jelenti, hogy át kell szabni a projekt víziódat, vagy el kell fogadni a nem kívánt hozzájárulásokat. De minél többet adsz ebből másoknak, annál jobban magukénak fogják érezni.
 
@@ -173,13 +173,13 @@ A valóságban [a legtöbb projektnek](https://peerj.com/preprints/1233/) csak e
 
 Bár nem mindig válaszolnak a felhívásodra, de egy jelzés kiküldése növeli az esélyét, hogy valaki reagál majd rá. És minél előbb megteszed ezt, annál hamarabb segíthetnek az emberek.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   A te érdeked az, hogy olyan munkatársakat toborozz, akik élvezik és képesek megtenni azokat a dolgokat, amelyeket te nem. Szereted a kódolást, de nem válaszolsz a kérdésekre? Keresd meg azokat a személyeket a közösségben, akik ezt megteszik, és hagyd őket dolgozni.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Befogadó közösségek"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Konfliktusok megoldása
 
@@ -195,13 +195,13 @@ Ha a közösség egy nehéz kérdéssel kerül szembe, akkor emelkedetté válha
 
 Mint karbantartó az a feladatod, hogy ezt a szituációt ne engedd eszkalálódni. Még ha határozott véleményed is van az adott témában, próbáld felvenni a moderátor és az egyeztető szerepet inkább ahelyett, hogy fejest ugranál a csatározásba, és a nézetedet erőltetnéd. Ha valaki barátságtalan, vagy kisajátítja a beszélgetést, akkor [azonnal cselekedj](../building-community/#ne-tűrd-el-a-helytelen-viselkedést), hogy a beszélgetés udvarias és produktív maradjon.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Karbantartóként rendkívül fontos, hogy tiszteld a közreműködőket. Gyakran megfogadják azt, amit személyesen nekik mondasz.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Mások útmutatást kérnek tőled, mutass jó példát. Bátran kifejezheted a csalódottságod, szomorúságod vagy aggodalmadat, de ezt mindig nyugodtan tedd.
 
@@ -221,13 +221,13 @@ Időnként a szavazással történik a szükséges döntéshozás. Mindazonálta
 
 Konszenzuskeresési folyamat keretében a közösség tagjai megbeszélik a legfontosabb problémákat, amíg úgy nem érzik, hogy mindenkit meg nem hallgattak. Amikor csak apró észrevételek maradnak már csak, akkor a közösség tovább haladhat. A "konszenzuskeresés" elismeri azt, hogy a közösség nem biztos, hogy képes megtalálni a tökéletes választ. Ehelyett egymás meghallgatását, és a beszélgetést részesíti előnyben.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Az egyik ok, amiért nem létezik szavazási rendszer az Atom Issues számára az, hogy az Atom csapata nem minden esetben követi a szavazás módszerét. Időnként azt kell választanunk, hogy mit érzünk helyesnek, még akkor is, ha az nem éppen népszerű. (...) Amit felajánlhatok és vállalhatok az, hogy a közösség meghallgatása az én dolgom.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm az Atom döntési folyamata
   </p>
-</aside>
+</div>
 
 Ha karbantartóként nem használod a konszenzuskeresési folyamatot, akkor is fontos, hogy az emberek tudják, hogy figyelsz rájuk. Érezzék, hogy meghallgatod őket, és elkötelezed magad a problémáik megoldása mellett, ez a tartós módja annak, hogy elkerüld a komolyabb, kiterjedt problémákat. A szavak után lépj a tettek mezejére.
 
@@ -247,13 +247,13 @@ Ha a beszélgetés kezd letisztulni, akkor kérdezd meg a csoportot: _"Mi legyen
 
 Ha egy beszélgetés nyilvánvalóan nem vezet sehova, vagy nincs egyértelmű intézkedés amit végre kell hajtani, vagy az már meg is megtörtént, akkor zárd le a problémát, és indokold meg, miért zártad le.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   A beszélgetés szálának irányítása a hasznosság felé, anélkül hogy feszültség keletkezne, művészet. Nem működik egyszerűen az emberek figyelmeztetése arra, hogy hagyják abba az idő pazarlását, vagy arra, hogy ne küldjenek több felesleges üzenetet, hacsak nincs valami konstruktív mondanivalójuk. (...) Ehelyett javasolnod kell a továbbhaladás lehetőségeket: mutass az embereknek egy utat, amely a kívánt eredményekhez vezethet, mégpedig anélkül, hogy ez úgy tűnne, hogy parancsolgatsz nekik.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS létrehozása_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Válassz okosan csatát
 

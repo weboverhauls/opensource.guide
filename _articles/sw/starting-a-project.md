@@ -25,13 +25,13 @@ _Free_ na _libre_ zinarejelea uhuru, [sio bei](#je-open-source-inamaanisha-bila-
 
 ### Kwa nini watu wanafungua chanzo cha kazi zao?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   Moja ya uzoefu wa kuridhisha zaidi ninapata kutokana na kutumia na kushirikiana kwenye open source inatokana na uhusiano ninayounda na wabunifu wengine wanaokabiliwa na matatizo mengi kama mimi.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["Jinsi ya kuingia kwenye Open Source imekuwa nzuri kwangu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [Kuna sababu nyingi](https://ben.balter.com/2015/11/23/why-open-source/) kwa nini mtu au shirika lingetaka kufungua chanzo cha mradi. Baadhi ya mifano ni pamoja na:
 
@@ -69,13 +69,13 @@ Hakuna jibu moja sahihi kwa swali hili. Unaweza kuwa na malengo mengi kwa mradi 
 
 Ikiwa lengo lako pekee ni kuonyesha kazi yako, huenda usitake hata michango, na hata kusema hivyo katika README yako. Kwa upande mwingine, ikiwa unataka wachangiaji, utawekeza muda katika nyaraka wazi na kuwafanya wapya wajisikie kukaribishwa.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   Katika hatua fulani nilitengeneza UIAlertView maalum ambayo nilikuwa nikitumia...na nikaamua kuifanya open source. Hivyo, niliifanyia marakebisho na kuiweka kwenye GitHub. Pia nilandika nyaraka zangu za kwanza zikielezea kwa waendelezaji wengine jinsi ya kuitumia kwenye miradi yao. Huenda hakuna mtu aliyewahi kuitumia kwa sababu ilikuwa mradi mdogo lakini nilihisi vizuri kuhusu mchango wangu.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Wanaendelezaji wa Programu Wanaojifunza: Kwa Nini Open Source ni muhimu kwetu"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 Kadri mradi wako unavyokua, jamii yako inaweza kuhitaji zaidi ya msimbo kutoka kwako. Kujibu masuala, kupitia msimbo, na kuhamasisha mradi wako ni kazi muhimu katika mradi wa open source.
 
@@ -85,13 +85,13 @@ Wakati kiasi cha muda unachotumia kwenye kazi zisizo za kuandika kitategemea uku
 
 Ikiwa unahitaji bajeti maalum au wafanyakazi kwa ajili ya matangazo, operesheni na kutunza mradi, anza mazungumzo hayo mapema.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   Unapokuwa unafungua mradi, ni muhimu kuhakikisha kwamba michakato yako ya utunzaji inazingatia michango na uwezo wa jamii inayozunguka mradi wako. Usijali kuhusisha wachangiaji ambao hawana ajira katika biashara yako katika nyanja muhimu za mradi - hasa ikiwa ni wachangiaji wa mara kwa mara.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["Hivyo unataka kufungua mradi, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### Kuchangia miradi mingine
 
@@ -143,13 +143,13 @@ Katika README yako, jaribu kujibu maswali yafuatayo:
 
 Unaweza kutumia README yako kujibu maswali mengine, kama vile jinsi unavyoshughulikia michango, ni malengo gani ya mradi, na taarifa kuhusu leseni na kutambua. Ikiwa hutaki kukubali michango, au mradi wako haujawa tayari kwa uzalishaji, andika taarifa hii chini.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   Nyaraka bora zinamaanisha watumiaji wengi, maombi machache ya msaada, na wachangiaji wengi. (...) Kumbuka kwamba wasomaji wako si wewe. Kuna watu ambao wanaweza kuja kwenye mradi ambao wana uzoefu tofauti kabisa.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Kuandika Ili Maneno Yako Yasomwe (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 Wakati mwingine, watu wanakwepa kuandika README kwa sababu wanahisi mradi haujakamilika, au hawataki michango. Hizi ni sababu nzuri za kuandika moja.
 
@@ -195,13 +195,13 @@ Linki kwa faili yako ya CONTRIBUTING kutoka kwenye README yako, ili watu wengi z
 
 ### Kuanzisha kanuni ya tabia
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   Tumekuwa na uzoefu ambapo tulikabiliwa na kile ambacho labda kilikuwa unyanyasaji ama kama mtunza mradi akijaribu kueleza kwa nini kitu kinapaswa kuwa njia fulani, au kama mtumiaji...akiuliza swali rahisi. (...) Kanuni ya tabia inakuwa hati inayoweza kurejelea na kuunganishwa ambayo inaonyesha kwamba timu yako inachukulia mazungumzo ya kujenga kwa uzito.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Kufanya Open Source Kuwa Mahali Pazuri"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 Hatimaye, kanuni ya tabia husaidia kuweka sheria za msingi za tabia kwa washiriki wa mradi wako. Hii ni muhimu hasa ikiwa unazindua mradi wa open source kwa jamii au kampuni. Kanuni ya tabia inakupa uwezo wa kuwezesha tabia nzuri na ya kujenga katika jamii, ambayo itapunguza msongo wako kama mtunza mradi.
 
@@ -246,13 +246,13 @@ Katika maisha ya mradi wako, utakuwa na maandiko mengi: READMEs, mafunzo, nyarak
 
 Iwe ni nyaraka rasmi au barua ya kawaida, mtindo wako wa uandishi ni sehemu ya chapa ya mradi wako. Fikiria jinsi unavyoweza kuonekana kwa hadhira yako na ikiwa hiyo ndiyo sauti unayotaka kuwasilisha.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Nilijaribu kujihusisha na kila mjadala kwenye orodha ya barua, na kuonyesha tabia bora, kuwa na wema kwa watu, kuchukua masuala yao kwa uzito na kujaribu kuwa msaada kwa ujumla. Baada ya muda, watu walibaki si tu kuuliza maswali, bali pia kusaidia na majibu, na kwa furaha yangu kamili, walinakili mtindo wangu.
   <p markdown="1" class="pquote-credit">
 — @janl kwenye [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Kutumia lugha ya kukaribisha (kama "them", hata wakati ukirejelea mtu mmoja) kunaweza kusaidia sana katika kufanya mradi wako ujisikie unakaribisha kwa wachangiaji wapya. Kaa na lugha rahisi, kwani wengi wa wasomaji wako huenda si wazawa wa lugha ya Kiingereza.
 

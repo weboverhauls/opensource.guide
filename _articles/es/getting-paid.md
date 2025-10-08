@@ -14,13 +14,13 @@ related:
 
 La mayor parte del trabajo realizado en proyectos de c&oacute;digo abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una correcci&oacute;n r&aacute;pida, o simplemente les puede gustar corregir proyectos de c&oacute;digo abierto en su tiempo libre.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Estaba buscando un proyecto de programaci&oacute;n para tenerlo como "hobby" y que me mantuviese ocupado en la semana de Navidad. (...) Ten&iacute;a un ordenador personal y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pagaran por su trabajo en c&oacute;digo abierto.
 
@@ -28,35 +28,35 @@ Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pag
 * **Les gusta contribuir a los proyectos de c&oacute;digo abierto como un hobby** o escape creativo y no quieren sentirse financieramente obligados a trabajar.
 * **Reciben otros beneficios al contribuir al c&oacute;digo abierto,** como construir su portfolio de reputaci&oacute;n, obtener nuevas habilidades, o sentirse cercanos a una comunidad.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en el mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Para otros, especialmente cuando las contribuciones est&aacute;n en proceso o requieren tiempo significativo, recibir dinero al contribuir al c&oacute;digo abierto es la &uacute;nica manera en la que pueden participar. Porque el proyecto lo requiera o por razones personales.
 
 Mantener proyectos populares puede ser una responsabilidad significativa, tomando de 10 a 20 horas por semana en vez de un par de horas por mes.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Preg&uacute;ntale a cualquier responsable de proyecto de c&oacute;digo abierto, y te informar&aacute; sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacute;n de un proyecto. Tienes clientes. Est&aacute;s arreglando los problemas para ellos. Est&aacute;s creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar significativamente. Algunas no pueden afrontar un trabajo ad-honorem (trabajo gratis) en proyectos de c&oacute;digo abierto, ya sea por su posici&oacute;n financiera, deudas, familia u otras responsabilidades. Eso significa que el mundo nunca ve contribuciones de personas talentosas que no pueden donar horas de trabajo. Estas implicaciones &eacute;ticas como @ashedryden [ha descrito](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), desde que el trabajo hecho es parcialmente en favor de las personas que tienen ventajas en su vida, quienes de vuelta ganan ventajas adicionales basadas en sus contribuciones voluntarias, mientras que otros que no pueden ofrecerse voluntariamente no obtiene nuevas oportunidades, lo cual refuerza la actual falta de diversidad en la comunidad de c&oacute;digo abierto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Si tu est&aacute;s buscando apoyo financiero, hay dos posibles caminos a seguir: puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.
 
@@ -76,13 +76,13 @@ Muchas empresas est&aacute;n desarrollando programas de c&oacute;digo abierto pa
 
 Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n entre la comunidad y la actividad corporativa. &uacute;ltimamente, el c&oacute;digo abierto se mantiene a s&iacute; mismo a trav&eacute;s de contribuciones de personas de todo el mundo, y eso es m&aacute;s importante que la empresa o la ubicaci&oacute;n de la misma.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Recibir dinero por trabajar en proyectos de c&oacute;digo abierto es una rara y hermosa oportunidad, pero no tienes que dejar de lado tu pasi&oacute;n en el proceso. Tu pasi&oacute;n deber&iacute;a ser el porqu&eacute; las empresas te pagar&iacute;an a t&iacute;.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 
@@ -159,7 +159,7 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
 
 ¿El financiador tiene algun requisito de como recibir&aacute;s el dinero? Por ejemplo, puede que necesites ser un sponsor o tener un sponsor fiscal sin fines de lucro. O tal vez la financiaci&oacute;n debe ser entregada a un contratador individual en vez de a una organizaci&oacute;n. Estos requisitos var&iacute;an entre los financiadores, as&iacute; que asegurate de hacer averiguaciones de antemano.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
 
   Durante a&ntilde;os, hemos sido el principal recurso de iconos amigables de sitios web, con una comunidad de m&aacute;s de 20 millones de personas y hemos destacado en m&aacute;s de 70 millones de sitios web, incluyendo Whitehouse.gov. (...) La versi&oacute;n 4 fue hace tres a&ntilde;os. La tecnolog&iacute;a web ha cambiado mucho desde entonces, y, francamente, Font Awesome se ha vuelto un poco obsoleto. (...) Es por eso que estamos introduciendo Font Awesome 5. Estamos modernizando y reescribiendo el CSS y redise&ntilde;ando cada icono de arriba hacia abajo. Estamos hablando de mejor dise&ntilde;o, mejor consistencia y mejor legibilidad.
@@ -167,7 +167,7 @@ Los financiadores, sin importar si tu empleador o tu fundaci&oacute;n generadora
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Experimenta y no te rindas
 

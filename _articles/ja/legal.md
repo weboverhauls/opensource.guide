@@ -44,13 +44,13 @@ GitHub 上で[新しいプロジェクトを作る](https://help.github.com/arti
 
 GitHub で新しいプロジェクトを作るときには、[ライセンスを追加するよう聞かれます](https://help.github.com/articles/open-source-licensing/)。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   標準化されたライセンスは、ソフトウェアに対して他の人は何ができて何ができないのかを正確に把握していない人にとっては、代理人として機能します。どうしても必要な場合を除いて、カスタムしたり、修正したり、標準的でない条項は使わないようにしましょう。そういったものは、政府機関のコードから使う際の障壁となります。
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## 私のプロジェクトに適切なオープンソースライセンスはどれでしょう？
 
@@ -94,13 +94,13 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 加えて、「書類作業」が必要になることによって、中にはその作業が不必要、理解しがたい、公正ではない（プロジェクトのオープンソースライセンスによって、同意を受ける人や一般の人がコントリビューターより多くの権利を得る場合）と感じる人が出てくるかもしれません。このような状況では、追加のコントリビューターアグリーメントはプロジェクトのコミュニティからは友好的でないと受け取られるかもしれません。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   Node.js では CLA を廃止しました。こうすることによって、 Node.js のコントリビューターになる敷居が下がり、コントリビューターの層を広げる事ができます。
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 追加のコントリビューターアグリーメントがプロジェクトに必要になってくるケースにはこういったものがあります：
 
@@ -136,23 +136,23 @@ GitHub 上で新しいプロジェクトを作ると、ライセンスの選択�
 
 * **従業員のコントリビュートポリシー：** 従業員がどのようにオープンソースにコントリビュートするかを定めた社内規約を作ることを検討しましょう。明確な規約を作ることで従業員同士の混乱も減りますし、従業員に対して企業が最も関心のあるオープンソースプロジェクトに業務の一環であれ空き時間でコントリビュートする手助けにもなります。 Rackspace の [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) が良い例です。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   パッチに関連した知的財産を手放すことで従業員の知識ベースと名声を築く事ができます。そうすることで、その企業は従業員の能力を高め、自律的に働くことに投資していることを示すことができます。こういったメリットは、士気の向上や従業員の維持にも繋がります。
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **何をリリースすべきですか？：** [(ほぼ)すべて？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) もし法務部門が企業のオープンソース戦略を理解し、それに投資している場合は、あなたの努力を妨害するよりもむしろ助けとなってくれるでしょう。
 * **コンプライアンス：** たとえあなたの企業が 1 つもオープンソースプロジェクトをリリースしていないとしても、他の人のオープンソースソフトウェアを使っているはずです。 [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) can prevent headaches, product delays, and lawsuits.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 組織は、\[「寛容」と「コピーレフト」\]の両方のカテゴリにフィットするライセンス戦略、コンプライアンス戦略を確立しなければなりません。まずは使っているオープンソースソフトウェアとそのサブコンポーネント、依存関係に適用されているライセンス条項の記録を保持する所から始めましょう。
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **特許：** あなたの企業は [Open Invention Network](https://www.openinventionnetwork.com/) に参加したいと望むかもしれません。これはメンバーが有名なオープンソースプロジェクトを使うための共有の防御的パテントプールです。もしくは[代替となる特許ライセンス](https://www.eff.org/document/hacking-patent-system-2016)を調査してみましょう。
 * **組織運営：** [社外の法人](../leadership-and-governance/#プロジェクトを運営するのに法人は必要ですか)にプロジェクトを移すことが理にかなっているときは特に必要です。

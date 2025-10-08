@@ -44,7 +44,7 @@ Ai noroc, deoarece astăzi, licențele de sursă deschisă sunt standardizate ș
 
 Când creezi un nou proiect pe GitHub, ți se va [cere să adaugi o licență](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   <p>
     O licență standardizată servește ca un împuternicit pentru aceia fără pregătire juridică să știe exact ce pot ei și ce nu pot face cu software-ul. Dacă nu sunt absolut necesari, evită termeni personalizați, modificați, sau non-standard, care vor servi ca o barieră pentru utilizarea în aval a codului agentului.
@@ -57,7 +57,7 @@ Când creezi un nou proiect pe GitHub, ți se va [cere să adaugi o licență](h
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Ce licență open source este potrivită pentru proiectul meu?
 
@@ -101,7 +101,7 @@ Un acord de contributor în plus -- deseori numit un Contributor License Agreeme
 
 De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, greu de înțeles, sau nedrepte (când beneficiarul acordului primește mai multe drepturi decât contributorii sau public prin licența open source a proiectului), un acord în plus de contributor poate fi perceput ca neprietenos pentru comunitatea proiectului.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Am eliminat CLA-ul pentru Node.js. A face acest lucru coboară bariera de intrare pentru contributori Node.js astfel lărgind baza de contributori.
@@ -114,7 +114,7 @@ De asemenea, prin adăugarea de „hârtii” pe care unii le cred nenecesare, g
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Unele situații în care ai putea dori să consideri un acord suplimentar de contributor pentru proiectul tău includ:
 
@@ -149,7 +149,7 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
 
 * **Politici de contribuție a angajaților:** Consideră dezvoltarea unei politici corporative care specifică felul în care angajații dumneavoastră contribuie la proiecte cu sursă deschisă. O politică clară va reduce confuzia în rândul angajaților dumneavoastră și îi va ajuta să contribuie la proiecte cu sursă deschisă în interesul companiei, fie ca parte a locurilor lor de muncă sau în timpul lor liber. Un exemplu este [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) al Rackspace.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Excluderea proprietății intelectuale asociate cu un patch construiește baza de cunoaștere și reputația angajatului. Aceasta arată că compania este investită în dezvoltarea acelui angajat și creează un sentiment de împuternicire și autonomie. Toate aceste beneficii de asemenea conduc la moral mai ridicat și la o mai bună menținere a angajaților.
@@ -162,12 +162,12 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Ce să lansezi:** [(Aproape) totul?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Dacă echipa voastră juridică înțelege și este investită în strategia open source a companiei voastre, ei vor fi cel mai bine capabili să te ajute în loc să împiedice eforturile tale.
 * **Conformare:** Chiar dacă compania ta nu lansează niciun proiect cu sursă deschisă, ea folosește software open source al altora. [Conștientizarea și procesul](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) pot preveni dureri de cap, întârzieri de produs, și procese.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <p>
     Organizațiile trebuie să aibă o strategie de licență și de conformare în loc care se potrivește atât categoriei [„permisiv” cât și „copyleft”]. Aceasta începe cu păstrarea unei înregistrări a termenilor de licențiere care se aplică software-ului cu sursă deschisă pe care îl folosiți — incluzând subcomponente și dependențe.
   </p>
@@ -179,7 +179,7 @@ Pe termen lung, echipa voastră juridică poate face mai mult pentru a ajuta com
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Brevete:** Compania ta ar putea dori să se alăture la [Open Invention Network](https://www.openinventionnetwork.com/), un grup comun defensiv de brevete cu scopul de a proteja a membrilor utilizare de proiecte open source majore, sau explorează alte [licențieri alternative de brevete](https://www.eff.org/document/hacking-patent-system-2016).
 * **Guvernare:** În special dacă și când are sens să treci proiectul la o [entitate juridică din afara companiei](../leadership-and-governance/#am-nevoie-de-o-entitate-juridică-pentru-a-mi-susține-proiectul).

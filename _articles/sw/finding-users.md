@@ -30,12 +30,12 @@ Kwa maelezo zaidi kuhusu ujumbe, angalia mazoezi ya Mozilla ya ["Personas and Pa
 
 ## Saidia watu wapate na kufuata mradi wako
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Unahitaji URL moja "nyumbani" ambayo unaweza kutangaza na kuelekeza watu kuhusiana na mradi wako. Huhitaji kutumia pesa nyingi kwenye template ya kifahari au hata jina la kikoa, lakini mradi wako unahitaji kuwa na kitovu.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["Jinsi ya Kueneza Neno Kuhusu Msimbo Wako"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Saidia watu wapate na kukumbuka mradi wako kwa kuwaelekeza kwenye namespace moja.
 
@@ -43,13 +43,13 @@ Saidia watu wapate na kukumbuka mradi wako kwa kuwaelekeza kwenye namespace moja
 
 Ikiwa hutaki kuweka vitengo vya usambazaji katika mradi wako bado, tangaza Handle yako ya Twitter au GitHub katika kila kitu unachofanya. Kutangaza handle yako ya Twitter au GitHub kutawajulisha watu jinsi ya kukufikia au kufuata kazi yako. Ikiwa unazungumza katika mkutano au tukio, hakikisha kuwa taarifa zako za mawasiliano zimejumuishwa katika wasifu wako au slaidi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Makosa niliyofanya katika siku hizo za awali (...) ilikuwa kutokuanza akaunti ya Twitter kwa mradi. Twitter ni njia nzuri ya kuwajulisha watu kuhusu mradi na pia kuendelea kuwafahamisha watu kuhusu mradi.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Historia ya Apache Storm na Masomo Yaliyopatikana"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Fikiria kuunda tovuti kwa mradi wako.** Tovuti inafanya mradi wako kuwa rafiki zaidi na rahisi kuvinjari, hasa inapounganishwa na nyaraka wazi na mafunzo. Kuwa na tovuti pia kunamaanisha kwamba mradi wako unafanya kazi ambayo itawafanya watazamaji wako wajisikie vizuri zaidi kutumia. Toa mifano ili kuwapa watu mawazo ya jinsi ya kutumia mradi wako.
 
@@ -67,13 +67,13 @@ Kufikia mtandaoni ni njia nzuri ya kushiriki na kueneza neno haraka. Kwa kutumia
 
 Tumia jamii na majukwaa yaliyopo mtandaoni kufikia hadhira yako. Ikiwa mradi wako wa open source ni mradi wa programu ya software, unaweza kupata hadhira yako kwenye [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), au [Quora](https://www.quora.com/). Tafuta njia ambazo unafikiri watu watafaidika zaidi au kufurahishwa na kazi yako.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Kila programu ya software ina kazi maalum ambazo ni za manufaa kwa sehemu ndogo ya watumiaji. Usijaribu kuwasilisha kwa watu wengi kadri uwezavyo. Badala yake, elekeza juhudi zako kwa jamii ambazo zitafaidika na kujua kuhusu mradi wako.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Masoko kwa miradi ya open source"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Tafuta njia za kushiriki mradi wako kwa njia zinazofaa:
 
@@ -93,37 +93,37 @@ Matukio ya nje ya mtandao ni njia maarufu ya kutangaza miradi mipya kwa hadhira.
 
 Ikiwa wewe ni [mpya katika kuzungumza hadharani](https://speaking.io/), anza kwa kutafuta mkutano wa ndani unaohusiana na lugha au mfumo wa mradi wako.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Nilikuwa na wasiwasi sana kuhusu kwenda PyCon. Nilikuwa nikitoa hotuba, nilikuwa na watu wachache tu niliowajua huko, nilikuwa nikienda kwa wiki nzima. (...) Sikuwa na haja ya kuwa na wasiwasi, hata hivyo. PyCon ilikuwa nzuri sana! (...) Kila mtu alikuwa rafiki na mwenye kupenda, kiasi kwamba nilipata wakati mgumu kutokuwa na mazungumzo na watu!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["Jinsi Nilivyojifunza Kusahau Wasiwasi na Kupenda PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Ikiwa hujawahi kuzungumza katika tukio kabla, ni kawaida kabisa kuhisi wasiwasi! Kumbuka kwamba hadhira yako iko hapo kwa sababu wanataka kwa dhati kusikia kuhusu kazi yako.
 
 Unapoandika hotuba yako, zingatia kile hadhira yako itakachokiona kuwa cha kuvutia na kupata thamani. Hifadhi lugha yako kuwa rafiki na inayokaribisha. Tabasamu, pumua, na furahia.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Unapokuwa unaanza kuandika hotuba yako, bila kujali mada yako ni ipi, inaweza kusaidia ikiwa utaona hotuba yako kama hadithi unayowaambia watu.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["Jinsi ya Kuandaa na Kuandika Hotuba ya Mkutano wa Teknolojia"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Unapojisikia tayari, fikiria kuzungumza katika mkutano ili kutangaza mradi wako. Mikutano inaweza kukusaidia kufikia watu wengi zaidi, wakati mwingine kutoka sehemu mbalimbali za dunia.
 
 Tafuta mikutano ambayo ni maalum kwa lugha yako au mfumo. Kabla ya kuwasilisha hotuba yako, fanya utafiti kuhusu mkutano ili kubinafsisha hotuba yako kwa wahudhuriaji na kuongeza nafasi zako za kukubaliwa kuzungumza katika mkutano. Mara nyingi unaweza kupata hisia ya hadhira yako kwa kuangalia watoa hotuba wa mkutano.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Niliwaandikia kwa heshima watu wa JSConf na kuwaomba wanipe nafasi ya kuwasilisha katika JSConf EU. (...) Nilikuwa na hofu sana, nikitoa hii kitu ambacho nilikuwa nikifanya kwa miezi sita. (...) Wakati wote nilikuwa nikifikiria, oh Mungu wangu. Niko hapa kufanya nini?
   <p markdown="1" class="pquote-credit">
 — @ry, ["Historia ya Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Jenga sifa
 
@@ -131,13 +131,13 @@ Mbali na mikakati iliyoorodheshwa hapo juu, njia bora ya kuwakaribisha watu kush
 
 Kusaidia wanaojiunga kwa mara ya kwanza, kushiriki rasilimali, na kufanya michango ya busara kwa miradi ya wengine kutakusaidia kujenga sifa nzuri. Kuwa mwanachama mwenye shughuli katika jamii ya open source kutawasaidia watu kuwa na muktadha wa kazi yako na kuwa na uwezekano mkubwa wa kuipa kipaumbele na kushiriki na kusambaza mradi wako. Kuendeleza uhusiano na miradi mingine ya open source kunaweza hata kupelekea ushirikiano rasmi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   Sababu pekee ambayo urllib3 ni maktaba maarufu ya tatu ya Python leo ni kwa sababu ni sehemu ya maombi.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["Jinsi ya kufanya mradi wako wa open source ufanikiwe"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Kamwe si mapema, au kuchelewa, kuanza kujenga sifa yako. Hata kama umeshazindua mradi wako tayari,endelea kutafuta njia za kusaidia wengine.
 

@@ -44,13 +44,13 @@ related:
 
 Όταν δημιουργείτε ένα νέο πρότζεκτ στο GitHub, θα σας ζητηθεί [να προσθέσετε μια άδεια](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Μια τυποποιημένη άδεια χρησιμεύει ως πληρεξούσιο για όσους δεν έχουν νομική κατάρτιση, ώστε να γνωρίζουν ακριβώς τι μπορούν και τι δεν μπορούν να κάνουν με το λογισμικό. Εκτός αν είναι απολύτως απαραίτητο, αποφύγετε τους προσαρμοσμένους, τροποποιημένους ή μη τυποποιημένους όρους, οι οποίοι θα αποτελέσουν εμπόδιο για τη μεταγενέστερη χρήση του κώδικα του οργανισμού.
   <p markdown="1" class="pquote-credit">
 - @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Ποια άδεια ανοιχτού κώδικα είναι κατάλληλη για το πρότζεκτ μου;
 
@@ -94,13 +94,13 @@ related:
 
 Επίσης, προσθέτοντας "γραφειοκρατία" που κάποιοι θεωρούν περιττή, δυσνόητη ή άδικη (όταν ο παραλήπτης της συμφωνίας αποκτά περισσότερα δικαιώματα από ό,τι οι συνεισφέροντες ή το κοινό μέσω της άδειας χρήσης ανοικτού κώδικα του έργου), μια πρόσθετη συμφωνία συνεισφοράς μπορεί να θεωρηθεί μη φιλική προς την κοινότητα του έργου.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Εξαλείψαμε το CLA για το Node.js. Με αυτόν τον τρόπο μειώνουμε το εμπόδιο εισόδου για τους συνεισφέροντες του Node.js, διευρύνοντας έτσι τη βάση των συνεισφερόντων.
   <p markdown="1" class="pquote-credit">
 - @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Ορισμένες περιπτώσεις στις οποίες μπορεί να θέλετε να εξετάσετε το ενδεχόμενο σύναψης πρόσθετης συμφωνίας συνεισφοράς για το πρότζεκτ σας περιλαμβάνουν:
 
@@ -136,23 +136,23 @@ related:
 
 * **Πολιτικές συνεισφοράς των υπαλλήλων:** Εξετάστε το ενδεχόμενο να αναπτύξετε μια εταιρική πολιτική που να καθορίζει τον τρόπο με τον οποίο οι υπάλληλοί σας συνεισφέρουν σε πρότζεκτ ανοικτού κώδικα. Μια σαφής πολιτική θα μειώσει τη σύγχυση μεταξύ των υπαλλήλων σας και θα τους βοηθήσει να συνεισφέρουν σε πρότζεκτ ανοικτού κώδικα προς το συμφέρον της εταιρείας, είτε ως μέρος της εργασίας τους είτε στον ελεύθερο χρόνο τους. Ένα καλό παράδειγμα είναι η [Πρότυπη πολιτική IP και συνεισφοράς σε ανοικτό κώδικα](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/) της Rackspace.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Η εκμίσθωση της IP που σχετίζεται με μια επιδιόρθωση δημιουργεί τη βάση γνώσεων και τη φήμη του υπαλλήλου. Δείχνει ότι η εταιρεία επενδύει στην ανάπτυξη του συγκεκριμένου εργαζομένου και δημιουργεί μια αίσθηση ενδυνάμωσης και αυτονομίας. Όλα αυτά τα οφέλη οδηγούν επίσης σε υψηλότερο ηθικό και καλύτερη διατήρηση των εργαζομένων.
   <p markdown="1" class="pquote-credit">
 - @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Τι να δημοσιεύσετε:** [(Σχεδόν) τα πάντα;](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Εάν η νομική σας ομάδα κατανοεί και έχει επενδύσει στη στρατηγική ανοικτού κώδικα της εταιρείας σας, θα είναι σε θέση να βοηθήσει καλύτερα παρά να εμποδίσει τις προσπάθειές σας.
 * **Συμμόρφωση:** Ακόμα και αν η εταιρεία σας δεν εκδίδει πρότζεκτ ανοικτού κώδικα, χρησιμοποιεί λογισμικό ανοικτού κώδικα άλλων. Η [Ενημέρωση και διαδικασία](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) μπορεί να αποτρέψει πονοκεφάλους, καθυστερήσεις προϊόντων και αγωγές.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Οι οργανισμοί πρέπει να διαθέτουν μια στρατηγική αδειοδότησης και συμμόρφωσης που να ταιριάζει και στις δύο κατηγορίες \["επιτρεπτή" και "copyleft"\]. Αυτό ξεκινά με την τήρηση αρχείου των όρων αδειοδότησης που ισχύουν για το λογισμικό ανοικτού κώδικα που χρησιμοποιείτε - συμπεριλαμβανομένων των υποσυνιστωσών και των εξαρτήσεων.
   <p markdown="1" class="pquote-credit">
 - Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Διπλώματα ευρεσιτεχνίας:** Η εταιρεία σας μπορεί να επιθυμεί να ενταχθεί στο [Open Invention Network](https://www.openinventionnetwork.com/), μια κοινή αμυντική δεξαμενή διπλωμάτων ευρεσιτεχνίας για την προστασία της χρήσης μεγάλων πρότζεκτ ανοικτού κώδικα από τα μέλη, ή να διερευνήσει άλλες [εναλλακτικές αδειοδοτήσεις διπλωμάτων ευρεσιτεχνίας](https://www.eff.org/document/hacking-patent-system-2016).
 * **Διακυβέρνηση:** Ειδικά εάν και εφόσον έχει νόημα να μεταφερθεί ένα πρότζεκτ σε μια [νομική οντότητα εκτός της εταιρείας](../leadership-and-governance/#χρειάζομαι-μια-νομική-οντότητα-για-να-υποστηρίξω-το-πρότζεκτ-μου).

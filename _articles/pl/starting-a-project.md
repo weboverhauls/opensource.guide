@@ -24,7 +24,7 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 ### Dlaczego ludzie open source-ują swoją pracę?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   <i>
   One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
@@ -32,7 +32,7 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [Jest wiele powodów](https://ben.balter.com/2015/11/23/why-open-source/) dlaczego osoba lub organizacja chciałaby otworzyć projekt. Niektóre przykłady obejmują:
 
@@ -70,7 +70,7 @@ Nie ma jednej właściwej odpowiedzi na to pytanie. Możesz mieć wiele celów d
 
 Jeśli Twoim jedynym celem jest pochwalenie się swoją pracą, możesz nawet nie chcieć wkładów, a nawet powiedzieć to w swoim README. Z drugiej strony, jeśli chcesz współpracowników, zainwestujesz czas w przejrzystą dokumentację i sprawi, że nowicjusze będą mile widziani.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   <i>
   At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
@@ -78,7 +78,7 @@ Jeśli Twoim jedynym celem jest pochwalenie się swoją pracą, możesz nawet ni
   <p markdown="1" class="pquote-credit">
 — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 W miarę rozwoju projektu Twoja społeczność może potrzebować czegoś więcej niż tylko kodu. Odpowiadanie na problemy, przeglądanie kodu i ewangelizacja projektu to ważne zadania w projekcie typu open source.
 
@@ -88,7 +88,7 @@ Chociaż ilość czasu poświęcanego na zadania niekodujące będzie zależeć 
 
 Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i utrzymanie projektu, rozpocznij te rozmowy wcześniej.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   <i>
   As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
@@ -96,7 +96,7 @@ Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i 
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### Wkład w inne projekty
 
@@ -148,7 +148,7 @@ W README spróbuj odpowiedzieć na następujące pytania:
 
 Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak sposób obsługi wkładów, jakie są cele projektu oraz informacje na temat licencji i atrybucji. Jeśli nie chcesz przyjmować datków lub twój projekt nie jest jeszcze gotowy do produkcji, zapisz te informacje.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
@@ -156,7 +156,7 @@ Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak spos
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 Czasami ludzie unikają pisania pliku README, ponieważ uważają, że projekt jest niedokończony lub nie chcą wkładów. Są to bardzo dobre powody, aby napisać jeden.
 
@@ -196,7 +196,7 @@ Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Je
 
 ### Ustanowienie kodeksu postępowania
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   <i>
   We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
@@ -204,7 +204,7 @@ Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Je
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 Wreszcie kodeks postępowania pomaga ustalić podstawowe zasady postępowania dla uczestników projektu. Jest to szczególnie cenne, jeśli uruchamiasz projekt open source dla społeczności lub firmy. Kodeks postępowania umożliwia ci zdrowe, konstruktywne zachowanie społeczności, które zmniejszy stres jako opiekuna.
 
@@ -249,7 +249,7 @@ Przez cały czas trwania projektu będziesz dużo pisać: CZYTELNIKI, samouczki,
 
 Niezależnie od tego, czy jest to oficjalna dokumentacja, czy zwykły e-mail, styl pisania jest częścią marki Twojego projektu. Zastanów się, w jaki sposób możesz dotrzeć do odbiorców i czy to jest ton, który chcesz przekazać.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   <i>
   I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
@@ -257,7 +257,7 @@ Niezależnie od tego, czy jest to oficjalna dokumentacja, czy zwykły e-mail, st
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Używanie ciepłego, inkluzywnego języka (takiego jak „je”, nawet w odniesieniu do jednej osoby) może znacznie przyczynić się do tego, aby Twój projekt był przyjemny dla nowych współpracowników. Trzymaj się prostego języka, ponieważ wielu czytelników może nie być rodzimym językiem angielskim.
 

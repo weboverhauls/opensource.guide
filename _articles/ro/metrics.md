@@ -98,7 +98,7 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
 
 * **Tipuri de contribuții:** De exemplu, commit-uri, corectarea greșelilor de scriere sau rezolvarea de bug-uri, sau comentarea asupra unei probleme.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Open source este mai mult decât doar cod. Proiectele open source de succes includ contribuții de cod și documentație împreună cu conversații despre aceste schimbări.
@@ -111,7 +111,7 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Activitatea întreținătorilor
 
