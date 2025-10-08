@@ -8,6 +8,7 @@ pt:
     opensourcefriday: "É Sexta-feira! Invista algumas horas contribuindo para o software que você usa e ama"
   article:
     table_of_contents: "Índice"
+    toggle_icon_label: Alternar índice
     back_to_all_guides: Voltar para todos os guias
     related_guides: Guias relacionados
   footer:

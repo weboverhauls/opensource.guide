@@ -8,6 +8,7 @@ zh-hans:
     opensourcefriday: 又是星期五！投入几个小时为您使用和喜爱的软件做出贡献
   article:
     table_of_contents: 目录
+    toggle_icon_label: 切换目录
     back_to_all_guides: 返回所有指南
     related_guides: 相关指南
   footer:

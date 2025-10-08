@@ -8,6 +8,7 @@ ru:
     opensourcefriday: Сегодня пятница! Посвятите несколько часов программе, которую вы любите и используете
   article:
     table_of_contents: Содержание
+    toggle_icon_label: Переключить содержание
     back_to_all_guides: На главную
     related_guides: Связанные темы
   footer:

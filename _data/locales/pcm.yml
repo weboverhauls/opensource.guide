@@ -8,6 +8,7 @@ pcm:
     opensourcefriday: Na Friday! Spend few hours to contribute to the software wey you dey use and love.
   article:
     table_of_contents: Table of Contents
+    toggle_icon_label: Toggle table of contents
     back_to_all_guides: Abeg, make I run go back to all those guides
     related_guides: Related Guides
     footer:

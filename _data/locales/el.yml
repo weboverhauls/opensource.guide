@@ -8,6 +8,7 @@ el:
     opensourcefriday: Είναι Παρασκευή! Επενδύστε μερικές ώρες συνεισφέροντας στο λογισμικό που χρησιμοποιείτε και αγαπάτε
   article:
     table_of_contents: Πίνακας Περιεχομένων
+    toggle_icon_label: Εναλλαγή πίνακα περιεχομένων
     back_to_all_guides: Επιστροφή σε όλους τους οδηγούς
     related_guides: Σχετικοί Οδηγοί
   footer:

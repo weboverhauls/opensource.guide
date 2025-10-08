@@ -8,6 +8,7 @@ fa:
     opensourcefriday: امروز جمعه است! چند ساعت به پروژه ای که دوست دارید و استفاده می کنید، مشارکت کنید.
   article:
     table_of_contents: فهرست مطالب
+    toggle_icon_label: تغییر وضعیت فهرست مطالب
     back_to_all_guides: بازگشت به راهنمای اصلی
     related_guides: راهنما های مشابه
   footer:

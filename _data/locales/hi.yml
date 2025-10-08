@@ -8,6 +8,7 @@ hi:
     opensourcefriday: यह शुक्रवार है! कुछ घंटे निवेश करके उन सॉफ़्टवेयर में योगदान करें जिन्हें आप उपयोग करते हैं और पसंद करते हैं
   article:
     table_of_contents: सामग्री की सूची
+    toggle_icon_label: सामग्री की सूची टॉगल करें
     back_to_all_guides: सभी मार्गदर्शिकाओं पर वापस जाएं
     related_guides: संबंधित मार्गदर्शिकाएं
   footer:

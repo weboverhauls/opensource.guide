@@ -8,6 +8,7 @@ hu:
     opensourcefriday: Péntek van! Szánj pár órát a kedvenc szoftveredre amit használsz!
   article:
     table_of_contents: Tartalomjegyzék
+    toggle_icon_label: Tartalomjegyzék váltása
     back_to_all_guides: Vissza az Útmutatókra
     related_guides: Kapcsolódó Útmutató
   footer:

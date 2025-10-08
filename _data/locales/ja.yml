@@ -8,6 +8,7 @@ ja:
     opensourcefriday: 今日は金曜日です！あなたが使用し愛着を持っているソフトウェアへの貢献に数時間を投資しましょう。
   article:
     table_of_contents: 目次
+    toggle_icon_label: 目次の切り替え
     back_to_all_guides: すべてのガイドに戻る
     related_guides: 関連するガイド
   footer:

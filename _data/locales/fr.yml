@@ -8,6 +8,7 @@ fr:
     opensourcefriday: C'est vendredi ! Investissez quelques heures en contribuant aux logiciels que vous utilisez et aimez
   article:
     table_of_contents: Table des matières
+    toggle_icon_label: Basculer la table des matières
     back_to_all_guides: Retour à tous les guides
     related_guides: Guides liés
   footer:
