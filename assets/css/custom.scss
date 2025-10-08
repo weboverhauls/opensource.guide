@@ -100,6 +100,16 @@ blockquote {
   padding-top: 100px;
   max-width: 700px;
 
+  // Ensure links are distinguishable without relying on color alone
+  a {
+    text-decoration: underline;
+    
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+  }
+
   h1,
   h2,
   h3,
