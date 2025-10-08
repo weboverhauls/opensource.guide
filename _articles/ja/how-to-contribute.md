@@ -12,13 +12,13 @@ related:
 
 ## オープンソースにコントリビュートする理由は？
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[freenode\] で働くことで、その後の大学での勉強や実際の仕事をする上で役に立つたくさんのスキルを身につけることができました。オープンソースプロジェクトにコントリビュートすることは、プロジェクトを前進させると共に私自身への助けにもなりました！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 オープンソースにコントリビュートすることはやりがいがあり、あなたが思い描くどんなスキルに対しても、学習し、教え、経験を積むことができます。
 
@@ -58,13 +58,13 @@ related:
 
 オープンソースへのコントリビュートについてのよくある勘違いとしては、あなたはコードを書く必要があるというものです。実際、それはしばしばプロジェクトの中で最も[無視されるか見落とされている部分](https://github.com/blog/2195-the-shape-of-open-source)です。この種のコントリビュートを行うことによってプロジェクトに対して _非常に大きな_ 助けとなります。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   私は CocoaPods での仕事で有名になってきましたが、多くの人は私が CocoaPods 自体に対する仕事をほとんどしていないということを知らないのです。このプロジェクトでの私の時間はほとんどがドキュメントを書いたり、ブランディングのしごとをすることに費やされているのです。
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 たとえコードを書くことが好きであったとしても、他の種類のコントリビュートはプロジェクトに関わり、他のコミュニティメンバーに会う良いやり方です。このような関係を作ることはそのプロジェクトの他の部分に関わる人と仕事をする機会を与えてくれます。
 
@@ -89,13 +89,13 @@ related:
 * [PyPA のコントリビューターがやったように](https://packaging.python.org/)、プロジェクトのチュートリアルを書く
 * プロジェクトのドキュメントを翻訳する
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   真面目な話、\[ドキュメント\]は非常に大事です。これまでの所、 Babel のドキュメントは素晴らしく、 Babel の最高の機能になっています。ただ、まだ作業が必要でものによっては文章を追加したほうが良い節があり、それをやってもらえると非常にありがたいです。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### 整理するのが好きですか？
 
@@ -136,13 +136,13 @@ related:
 
 ## 新しいプロジェクトに順応しよう
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   もしあなたがイシュートラッカーを見て、ごちゃごちゃしていると感じるのであれば、そう感じているのはあなただけではないはずです。こういったツールは多くの暗黙的な知識を必要としますが、人々は助けてくれますし、あなたから質問をすることもできるのです。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 タイポの修正以上のものであればなんでも、オープンソースにコントリビュートするというのは知らない人たちのパーティに近づいていくようなものです。もしあなたがラマについて話し始めたとして、一方で彼らは金魚について深い議論をしていたら、おそらくあなたのことを少し奇妙な目で見るでしょう。
 
@@ -357,13 +357,13 @@ master ブランチのコミットアクティビティをみてみましょう�
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   長いスレッドを見つけたら常に、スレッドの中で遅れてやってくるコア開発者の返答を確認してみましょう。彼らは建設的にまとめて、丁寧な姿勢を保ちつつもスレッドを結論に仕向けるべく一歩を踏み出していますか？もし罵り合いが多くあるのであれば、それはエネルギーが開発に向けられる代わりに議論に使われている兆候です。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## コントリビュートする方法
 
@@ -373,13 +373,13 @@ master ブランチのコミットアクティビティをみてみましょう�
 
 あなたが一度きりのコントリビューターであろうとコミュニティに参加しようとしているのであろうと、他の人と働くことはオープンソースで獲得するスキルの中で最も大事なものの一つです。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[新しいコントリビューターとして、\] イシューをクローズできるようになりたいのであれば、質問をする必要があるということにすぐに気づきました。私はコードベースをざっと読んで、一旦何が行われているのか感覚を掴んだら、さらなる方向について質問をしました。そして、ほら！必要だった関連する詳細を全て手に入れて、イシューを解決することができました。
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 イシューやプルリクエストをオープンする前に、あなたのアイデアが効果的に扱われる助けのために、これらのことを心にとどめておきましょう。
 
@@ -435,13 +435,13 @@ master ブランチのコミットアクティビティをみてみましょう�
 
 もしあなたが大きなコントリビュートをしたいのであれば、その仕事に取り掛かる前にイシューをオープンしましょう。受け入れられないかもしれない仕事に取り掛かる前に、暫くの間そのプロジェクトをウォッチし（ GitHub では、 ["Watch" をクリックすることで](https://help.github.com/articles/watching-repositories/) 全ての会話の通知を受け取ることができます)、コミュニティメンバーを知ることは役に立つでしょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   あなたが活発に使っている一つのプロジェクトを選び、 GitHub 上で"ウォッチ"し、全てのイシューやプルリクエストに目を通すことで<em>多くのことを</em>学ぶでしょう。
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### イシューをオープンする
 

@@ -37,13 +37,13 @@ Start with your documentation:
 * **Open mind about the types of contributions wey you go accept.** Many contributors start with one bug report or one small fix. Many ways dey to contribute to one project. Make people fit help the way wey them wan help.
 * **If one person submit one contribution wey you no gree with,** thank them for their idea and [explain why](../best-practices/#sabi-to-say-no) e no follow your project scope, and you fit add link to the relevant documentation wey you get.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Contributing to open source na easier for some pass others. Many people dey fear say them go shout for am because them no do am well or them no dey fit in. By giving contributors one place to contribute wey no need plenty technical knowledge (documentation, web content markdown, etc) you fit greatly reduce those fears.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 Most open source contributors na "casual contributors": people wey only occasionally contribute to one project. One casual contributor fit no get time to sabi everything about your project, so your work na to make am easy for them to contribute.
 
@@ -51,13 +51,13 @@ Encouraging other contributors na one investment in yourself, too. When you empo
 
 ### Make you write everything for document
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   You don ever dey for one (tech) event wey you no sabi anybody, but all the other people dey form groups and dey yarn like old friends? (...) Now imagine say you wan contribute to one open source project, but you no dey see why or how this one dey happen.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 When you start one new project, e fit be like say e natural to dey keep your work private. But open source projects dey flourish when you document your process for public.
 
@@ -109,13 +109,13 @@ Any popular project go always attract people wey go dey do bad things instead of
 
 Do your best make you get zero-tolerance policy for these kind people. If you no fit control dem, these bad people fit dey make others for your community no dey comfortable. Dem fit even run.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Di true be say gettin' support from community na di koko. I for neva fit do dis work witout di help from my colleagues, friendly pipo wey dey internet, an' di people wey dey chatty for IRC channels. No settle for less. No settle for assholes.
    <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Regular debates on top small-small parts of your project dey distract others, and even you, from focusing on important work. New people wey show for your project fit see these arguments and no wan join.
 
@@ -139,13 +139,13 @@ You no go fit talk with most people wey go show for your project. Some people fi
 
 ### Share the person waeh get your project
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Una leaders go get different opinions, as all healthy communities should! The thing be say, you gas take steps to make sure the loudest voice no dey always win by tiring people out, and that small-small voices for our midst, we dey hear am.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Wetin makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 People dey ginger to yan-kick for projects when dem feel like dem get sense of ownership. E no mean say you go come give dem your project vision or gree accept contributions wey you no want. But as you dey respect and appreciate other people efforts, e go make dem dey yan-kick.
 
@@ -201,13 +201,13 @@ Sometimes, voting na necessary way to take settle wahala. But as much as you fit
 
 For one consensus seeking process, community members go yan about major concerns until them believe say their talk don dey enough. When only small-small concerns still dey, the community go dey go front. "Consensus seeking" no dey expect say the community go reach perfect answer. Instead, e dey focus on listening and discussion.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   One major reason why Atom Issues nor get voting system na because the Atom team nor go follow voting system for all cases. Sometimes, we go dey choose wetin we believe say dey right, even if e nor dey popular. (...) The thing wey I fit offer and promise to do... na say, e dey my work to dey hear the community.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's decision making process
   </p>
-</aside>
+</div>
 
 Even if you nor actually use consensus seeking process, as a project maintainer, e dey important make people know say you dey hear them. To show say you dey hear people and you dey ready to settle their wahala, e dey help to cool down tense situations. After that, follow your words with actions.
 
@@ -227,13 +227,13 @@ If the talk dey scatter, make you ask the group, _"Which steps we wan take next?
 
 If the talk clear nor dey waka, e nor get clear action to take, or the right action don already happen, close the issue and yan why you close am.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Choose your battles with sense
 

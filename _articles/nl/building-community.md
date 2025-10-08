@@ -36,7 +36,7 @@ Begin met uw documentatie:
 * **Sta open voor de soorten bijdragen die u accepteert.** Veel bijdragers beginnen met een bugrapport of een kleine oplossing. Er zijn [veel manieren om bij te dragen](../how-to-contribute/#waarom-bijdragen-aan-open-source) aan een project. Laat mensen helpen zoals ze willen helpen.
 * **Als er een bijdrage is waar u het niet mee eens bent,** bedank ze voor hun idee, en [vertel waarom](../best-practices/#nee-leren-zeggen) het niet past in de scope van het project en linkt naar relevante documentatie als je die hebt.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Bijdragen aan open source is voor sommigen gemakkelijker dan voor anderen. Er is veel angst om te worden uitgescholden omdat ze iets niet goed doen of gewoon niet passen. (...) Door bijdragers een plek te geven om bij te dragen met een zeer lage technische vaardigheid (documentatie, afwaardering van webinhoud, enz.), Kunt u aanzienlijk verminderen die zorgen.
 
@@ -45,7 +45,7 @@ Begin met uw documentatie:
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Een bijdrage leveren in moderne open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 De meeste open source-bijdragers zijn "casual bijdragers": mensen die slechts af en toe bijdragen aan een project. Een toevallige bijdrager heeft misschien geen tijd om volledig op de hoogte te zijn van uw project, dus het is uw taak om het hem gemakkelijk te maken om bij te dragen.
 
@@ -53,7 +53,7 @@ Andere bijdragers aanmoedigen is ook een investering in uzelf. Als u uw grootste
 
 ### Documenteer alles
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Ben je ooit naar een (tech-) evenement geweest waar je niemand kende, maar iedereen leek in groepen te staan en te chatten als oude vrienden? (...) Stel je nu voor dat je wilt bijdragen aan een open source-project, maar je begrijpt niet waarom of hoe dit gebeurt.
 
@@ -62,7 +62,7 @@ Andere bijdragers aanmoedigen is ook een investering in uzelf. Als u uw grootste
   <p markdown="1" class="pquote-credit">
 — @janl, ["Duurzame open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Wanneer u aan een nieuw project begint, kan het natuurlijk aanvoelen om uw werk privé te houden. Maar open source-projecten gedijen goed wanneer u uw proces openbaar documenteert.
 
@@ -118,7 +118,7 @@ Elk populair project zal onvermijdelijk mensen aantrekken die uw gemeenschap sch
 
 Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mensen. Als dit niet wordt aangevinkt, zullen negatieve mensen andere mensen in uw gemeenschap ongemakkelijk maken. Ze kunnen zelfs vertrekken.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   De waarheid is dat het hebben van een ondersteunende gemeenschap de sleutel is. Ik zou dit werk nooit kunnen doen zonder de hulp van mijn collega's, vriendelijke internetvreemdelingen en spraakzame IRC-kanalen. (...) Neem geen genoegen met minder. Neem geen genoegen met klootzakken.
 
@@ -127,7 +127,7 @@ Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mense
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Regelmatige debatten over triviale aspecten van uw project leiden anderen, waaronder u, af om zich op belangrijke taken te concentreren. Nieuwe mensen die naar uw project komen, kunnen deze gesprekken zien en willen niet deelnemen.
 
@@ -153,7 +153,7 @@ Hier is bijvoorbeeld hoe [Rubinius](https://github.com/rubinius/rubinius/) start
 
 ### Deel het eigendom van uw project
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Je leiders zullen verschillende meningen hebben, zoals alle gezonde gemeenschappen zouden moeten! U moet echter maatregelen nemen om ervoor te zorgen dat de luidste stem niet altijd wint door mensen uit te putten, en dat minder prominente stemmen en minderheidsstemmen worden gehoord.
 
@@ -162,7 +162,7 @@ Hier is bijvoorbeeld hoe [Rubinius](https://github.com/rubinius/rubinius/) start
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Wat maakt een goede gemeenschap?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Mensen zijn enthousiast om bij te dragen aan projecten als ze een gevoel van eigenaarschap voelen. Dat betekent niet dat u de visie van uw project moet overdragen of bijdragen moet accepteren die u niet wilt. Maar hoe meer je anderen erkent, hoe meer ze blijven hangen.
 
@@ -185,7 +185,7 @@ De realiteit is dat bij [de meeste projecten]
 
 Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergroot het geven van een signaal de kans dat andere mensen meedoen. En hoe eerder je begint, hoe eerder mensen kunnen helpen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Het is in uw belang\] om bijdragers te werven die plezier hebben en die in staat zijn om de dingen te doen die u niet bent. Houd je van coderen, maar beantwoord je geen problemen? Identificeer vervolgens die personen in uw gemeenschap die dat wel doen en laat ze het hebben.
 
@@ -194,7 +194,7 @@ Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergr
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Conflicten oplossen
 
@@ -210,7 +210,7 @@ Wanneer uw gemeenschap worstelt met een moeilijk probleem, kunnen de gemoederen 
 
 Het is jouw taak als onderhouder om te voorkomen dat deze situaties escaleren. Zelfs als je een uitgesproken mening over het onderwerp hebt, probeer dan de positie van moderator of facilitator in te nemen, in plaats van de strijd aan te gaan en je mening te benadrukken. Als iemand onaardig is of het gesprek monopoliseert, [reageer meteen](../building-community/#sta-geen-slechte-acteurs-toe) discussies netjes en productief houden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Als projectonderhouder is het uiterst belangrijk om respectvol te zijn voor uw bijdragers. Ze vatten wat je zegt vaak heel persoonlijk op.
 
@@ -219,7 +219,7 @@ Het is jouw taak als onderhouder om te voorkomen dat deze situaties escaleren. Z
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Wees hartelijk of ga op weg"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Andere mensen vragen je om advies. Geef een goed voorbeeld. U kunt nog steeds teleurstelling, ongeluk of bezorgdheid uiten, maar doe dit rustig.
 
@@ -239,7 +239,7 @@ Soms is stemmen een noodzakelijk kwaad. Zoveel als je kunt, leg echter de nadruk
 
 In het kader van een proces voor het zoeken naar consensus, bespreken leden van de gemeenschap belangrijke zorgen totdat ze vinden dat ze voldoende zijn gehoord. Als er nog maar kleine zorgen zijn, gaat de gemeenschap vooruit. "Consensus zoeken" erkent dat een gemeenschap misschien niet in staat zal zijn om tot een perfect antwoord te komen. In plaats daarvan geeft het prioriteit aan luisteren en discussiëren.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Een deel van de reden waarom er geen stemsysteem bestaat voor Atom Issues is dat het Atom-team niet in alle gevallen een stemsysteem gaat volgen. Soms moeten we kiezen wat we vinden dat juist is, zelfs als het niet populair is. (...) Wat ik kan bieden en beloven te doen ... is dat het mijn taak is om naar de gemeenschap te luisteren.
 
@@ -248,7 +248,7 @@ In het kader van een proces voor het zoeken naar consensus, bespreken leden van 
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's besluitvormingsproces
   </p>
-</aside>
+</div>
 
 Zelfs als u niet echt een consensuszoekproces toepast, is het als projectonderhouder belangrijk dat mensen weten dat u luistert. Door ervoor te zorgen dat andere mensen zich gehoord voelen en zich ertoe verbinden hun zorgen op te lossen, kunnen gevoelige situaties aanzienlijk worden verspreid. Volg vervolgens uw woorden met daden.
 
@@ -268,7 +268,7 @@ Als het gesprek begint te ontrafelen, vraag dan aan de groep: _"Welke stappen mo
 
 Als een gesprek duidelijk nergens heen gaat, er geen duidelijke acties kunnen worden ondernomen, of als de juiste actie al is ondernomen, sluit dan het probleem af en leg uit waarom je het hebt gesloten.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Een draad naar bruikbaarheid leiden zonder opdringerig te zijn, is een kunst. Het zal niet werken om mensen simpelweg te vermanen om te stoppen met het verspillen van hun tijd, of om hen te vragen niet te posten tenzij ze iets constructiefs te melden hebben. (...) In plaats daarvan moet je voorwaarden stellen voor verdere vooruitgang: geef mensen een route, een pad om te volgen dat leidt tot de resultaten die je wilt, maar zonder dat het lijkt alsof je gedrag dicteert.
 
@@ -277,7 +277,7 @@ Als een gesprek duidelijk nergens heen gaat, er geen duidelijke acties kunnen wo
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_OSS Produceren_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Kies je gevechten verstandig
 

@@ -37,12 +37,12 @@ Coloque um arquivo CODE_OF_CONDUCT no diretório raiz do seu projeto, e faça-o 
 
 ## Decidindo como você irá aplicar seu código de conduta
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Um código de conduta que não é (ou não pode ser) aplicado é pior do que não ter nenhum código de conduta: isso passa a mensagem de que os valores no código de conduta não são, na verdade, importantes ou respeitados em sua comunidade.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Você deve explicar como o seu código de conduta será aplicado **_antes_** que uma violação ocorra. Há inúmeras razões por trás disso:
 
@@ -72,12 +72,12 @@ O membro da comunidade em questão pode ser um infrator reincidente que, consist
 
 Antes de responder, tome algum tempo para entender o que aconteceu. Leia os comentários anteriores da pessoa e suas conversas, para entender melhor quem elas são e porque elas podem ter agido dessa forma. Tente coletar perspectivas de outros sobre esta pessoa e seu comportamento.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Não seja puxado para dentro de uma discussão. Não seja desviado para lidar com o comportamento de outra pessoa antes de ter terminado de lidar com o assunto em questão. Foque no que você precisa.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Tome a ação apropriada
 

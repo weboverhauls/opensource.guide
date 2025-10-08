@@ -96,13 +96,13 @@ related:
 
 * **انواع مشارکت‌ها:** به عنوان مثال، نوع تعهدها، رفع اشتباهات یا اشکالات یا اظهار نظر در مورد یک موضوع.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   پروژه‌های متن باز، چیزی فراتر از کد هستند. پروژه‌های متن باز موفق شامل مشارکت در کد و مستند سازی به همراه مکالماتی در مورد این تغییرات هستند.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## فعالیت‌های شخص نگهدارنده
 

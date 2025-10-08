@@ -14,13 +14,13 @@ Aby uzyskać zrozumienie doświadczeń opiekunów i ich strategii znajdowania r�
 
 Czym więc jest ekologia osobista? Zgodnie z <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">opisem Rockwood Leadership Institute</a>,obejmuje ona "<strong>utrzymywanie równowagi, tempa i wydajności, aby utrzymać naszą energię przez całe życie</strong>." To nadało ramy naszym rozmowom, pomagając opiekunom rozpoznać ich działania i wkład jako części większego ekosystemu, który ewoluuje w czasie.Wypalenie, syndrom wynikający z przewlekłego stresu w miejscu pracy, zgodnie z [definicja WHO](https://icd.who.int/browse/2025-01/foundation/en#129180281), nie jest niczym niezwykłym wśród opiekunów. Często prowadzi to do utraty motywacji, niemożności skupienia się i braku empatii dla współpracowników i społeczności, z którą pracujesz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   I was unable to focus or start on a task. I had a lack of empathy for users.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
   </p>
-</aside>
+</div>
 
 Przyjmując koncepcję osobistej ekologii, opiekunowie mogą aktywnie unikać wypalenia, traktować priorytetowo dbanie o siebie i utrzymywać poczucie równowagi, aby wykonywać swoją najlepszą pracę.
 
@@ -36,51 +36,51 @@ Ważne jest, aby zrozumieć, co powoduje nasze wypalenie. Oto kilka wspólnych t
 
 * **Brak pozytywnych opinii:** Użytkownicy są znacznie bardziej skłonni do zgłaszania swoich skarg. Jeśli wszystko działa świetnie, mają tendencję do milczenia. Może to być zniechęcające, gdy widzi się rosnącą listę problemów bez pozytywnych opinii pokazujących, w jaki sposób Twój wkład robi różnicę.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   Sometimes it feels a bit like shouting into the void and I find that feedback really energizes me. We have lots of happy but quiet users.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, maintainer of Apache Arrow
   </p>
-</aside>
+</div>
 
 * **Nie mówienie 'nie':** Łatwo jest wziąć na siebie więcej obowiązków niż jest to konieczne w projekcie open source. Niezależnie od tego, czy chodzi o użytkowników, współpracowników czy innych opiekunów - nie zawsze możemy spełnić ich oczekiwania.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   I found I was taking on more than one should and having to do the job of multiple people, like commonly done in FOSS.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, maintainer of Termux, on what causes burnout in their work
   </p>
-</aside>
+</div>
 
 * **Praca w samotności:** Bycie opiekunem może być niezwykle samotne. Nawet jeśli pracujesz z grupą opiekunów, ostatnie kilka lat było trudne dla osobistego zwoływania rozproszonych zespołów.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
  Especially since COVID and working from home it's harder to never see anybody or talk to anybody.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, maintainer of the Owncast live streaming server, on the impact of burnout on his open source work
   </p>
-</aside>
+</div>
 
 * **Niewystarczająca ilość czasu lub zasobów:** Jest to szczególnie prawdziwe w przypadku opiekunów-wolontariuszy, którzy muszą poświęcić swój wolny czas na pracę nad projektem.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [I would like to have] more financial support, so that I can focus on the open source work without burning through my savings and knowing I'll have to do a lot of contracting to make up for it later.
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 * **Sprzeczne oczekiwania:** Open source jest pełne grup o różnych motywacjach, co może być trudne w obsłudze. Jeśli płacą ci za pracę nad open source, interesy twojego pracodawcy mogą być czasami sprzeczne ze społecznością.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   With paid open source, conflict between employer's focus and what's best for the community
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 ### Zwróć uwagę na oznaki wypalenia
 
@@ -88,12 +88,12 @@ Czy jesteś w stanie utrzymać tempo przez 10 tygodni? 10 miesięcy? 10 lat?
 
 Istnieją narzędzia, takie jak [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) od [@shaunagm](https://github.com/shaunagm) które mogą pomóc ci zastanowić się nad twoim obecnym tempem i sprawdzić, czy są jakieś poprawki, które możesz wprowadzić. Niektórzy opiekunowie używają również technologii do monitorowania takich wskaźników jak jakość snu i zmienność tętna (oba powiązane ze stresem).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  I'm a big believer in good wearables. With the science behind it, you can understand how you could have done better and how to get to an optimal state of what you want to do.
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 ### Czego potrzebujesz, aby utrzymać siebie i swoją społeczność?
 
@@ -105,62 +105,62 @@ Będzie to wyglądać inaczej dla każdego opiekuna i będzie się zmieniać w z
 
 * **Znajdź finansowanie:** Niezależnie od tego, czy szukasz pieniędzy na pizzę, czy próbujesz przejść na pełny etat open source, istnieje wiele zasobów, które mogą Ci pomóc! Pierwszym krokiem jest włączenie opcji [Sponsorzy GitHub](https://github.com/sponsors), aby umożliwić innym sponsorowanie twojej pracy open source. Jeśli myślisz o przejściu na pełny etat, zgłoś się do następnej rundy [GitHub Accelerator](http://accelerator.github.com/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
  I was on a podcast a while ago and we were chatting about open source maintenance and sustainability. I found that even a small number of people supporting my work on GitHub helped me make a quick decision not to sit in front of a game but instead to do one little thing with open source.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, maintainer of EmberJS
   </p>
-</aside>
+</div>
 
 * **Korzystaj z narzędzi:** Poznaj narzędzia takie jak [GitHub Copilot](https://github.com/features/copilot/) i [GitHub Actions](https://github.com/features/actions), aby zautomatyzować proste zadania i uwolnić swój czas na bardziej znaczący wkład.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Use [Copilot](https://github.com/features/copilot/) for the boring stuff - do the fun stuff
   <p markdown="1" class="pquote-credit">
 — open source maintainer
   </p>
-</aside>
+</div>
 
 * **Odpoczynek i regeneracja:** Znajdź czas na swoje hobby i zainteresowania poza open source. Weź wolne weekendy, aby się zrelaksować i zregenerować - i ustaw swój [status GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status), aby odzwierciedlał twoją dostępność! Dobry sen może mieć duży wpływ na twoją zdolność do utrzymania wysiłków w dłuższej perspektywie.
 
   Jeśli pewne aspekty projektu sprawiają ci szczególną przyjemność, postaraj się tak zaplanować pracę, abyś mógł doświadczać ich w ciągu dnia.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
  I'm finding more opportunity to sprinkle ‘moments of creativity' in the middle of the day rather than trying to switch off in evening.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintainer of Nuxt
   </p>
-</aside>
+</div>
 
 * **Wyznacz granice:** Nie możesz zgodzić się na każdą prośbę. Może to być tak proste, jak powiedzenie: "Nie mogę się tym teraz zająć i nie planuję tego w przyszłości" lub wyszczególnienie tego, co chcesz zrobić, a czego nie, w pliku README. Na przykład, można powiedzieć: "Łączę tylko PR-y, które mają jasno wymienione powody, dla których zostały stworzone" lub "Przeglądam sprawy tylko we czwartki od 18:00 do 19:00". Określa to oczekiwania wobec innych i daje ci coś, na co możesz wskazać w innych momentach, aby pomóc zmniejszyć wymagania ze strony współpracowników lub użytkowników dotyczące twojego czasu.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 To meaningfully trust others on these axes, you cannot be someone who says yes to every request. In doing so, you maintain no boundaries, professionally or personally, and will not be a reliable coworker.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, maintainer of Homebrew on [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
-</aside>
+</div>
 
   Naucz się stanowczo odrzucać szkodliwe zachowania i negatywne interakcje. W dobrym tonie jest nie poświęcać energii rzeczom, na których ci nie zależy.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 My software is gratis, but my time and attention is not.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintainer of Leaflet
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 It's no secret that open source maintenance has its dark sides, and one of these is having to sometimes interact with quite ungrateful, entitled or outright toxic people. As a project's popularity increases, so does the frequency of this kind of interaction, adding to the burden shouldered by maintainers and possibly becoming a significant risk factor for maintainer burnout.  
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, maintainer of Octoprint on [How to deal with toxic people](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
-</aside>
+</div>
 
 Pamiętaj, że ekologia osobista to ciągła praktyka, która będzie ewoluować w miarę postępów w podróży open source. Traktując priorytetowo dbanie o siebie i utrzymywanie poczucia równowagi, możesz wnieść swój wkład w społeczność open source w sposób skuteczny i zrównoważony, zapewniając zarówno dobre samopoczucie, jak i sukces swoich projektów na dłuższą metę.
 

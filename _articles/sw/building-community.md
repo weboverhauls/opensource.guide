@@ -37,13 +37,13 @@ Anza na nyaraka zako:
 * **Kuwa na akili wazi kuhusu aina za michango utazokubali.** Wachangiaji wengi huanza na ripoti ya makosa au marekebisho madogo. Kuna [njia nyingi za kuchangia](../how-to-contribute/#nini-maana-ya-kuchangia) kwenye mradi. Wacha watu wasaidie jinsi wanavyotaka kusaidia.
 * **Ikiwa kuna mchango usiokubaliana nao,** mshukuru kwa wazo lao na [eleza kwa nini](../best-practices/#kujifunza-kusema-hapana) haifai katika upeo wa mradi, ukirejelea nyaraka husika ikiwa unayo.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Kuchangia kwenye open source ni rahisi kwa wengine kuliko wengine. Kuna hofu kubwa ya kupigiwa kelele kwa kutofanya kitu kwa usahihi au tu kutofaa. (...) Kwa kuwapa wachangiaji mahali pa kuchangia kwa ujuzi wa chini wa kiufundi (nyaraka, maudhui ya wavuti markdown, nk) unaweza kupunguza sana wasiwasi hao.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Kukuza msingi wa wachangiaji katika open source ya kisasa"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 Wengi wa wachangiaji wa open source ni "wachangiaji wa kawaida": watu wanaochangia kwenye mradi mara chache tu. Mchangiaji wa kawaida huenda hana muda wa kujifunza kwa undani kuhusu mradi wako, hivyo kazi yako ni kuwafanya iwe rahisi kwao kuchangia.
 
@@ -51,13 +51,13 @@ Kuhamasisha wachangiaji wengine ni uwekezaji kwako pia. Unapowapa mashabiki wako
 
 ### Andika kila kitu
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Je, umewahi kutembelea tukio (la teknolojia) ambapo hukujua mtu yeyote, lakini kila mtu mwingine alionekana kusimama katika makundi na kuzungumza kama marafiki wa zamani? (...) Sasa fikiria unataka kuchangia kwenye mradi wa open source, lakini huoni kwa nini au jinsi hii inavyotokea.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Open Source Endelevu"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Unapozindua mradi mpya, inaweza kuonekana kuwa ya asili kuweka kazi yako kuwa ya faragha. Lakini miradi ya open source inastawi unapokuwa na nyaraka za mchakato wako hadharani.
 
@@ -113,13 +113,13 @@ Mradi maarufu wowote bila shaka utavutia watu wanaoharibu, badala ya kusaidia, j
 
 Fanya bidii yako kupitisha sera ya kutovumilia watu hawa. Ikiwa utaacha bila kudhibiti, watu wabaya watafanya wengine katika jamii yako wajisikie wasumbufu. Wanaweza hata kuondoka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Ukweli ni kwamba kuwa na jamii inayoungana mkono ni muhimu. Singeweza kufanya kazi hii bila msaada wa wenzangu, wageni wa kirafiki mtandaoni, na chaneli za IRC zenye mazungumzo. (...) Usikubali chini ya kiwango. Usikubali wahusika wabaya.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["Jinsi ya Kuendesha Mradi wa FOSS"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Mijadala ya kawaida kuhusu vipengele vidogo vya mradi wako inawavuruga wengine, ikiwa ni pamoja na wewe, kutoka kwa kuzingatia kazi muhimu. Watu wapya wanaofika kwenye mradi wako wanaweza kuona mazungumzo haya na wasitake kushiriki.
 
@@ -145,13 +145,13 @@ Kwa mfano, hapa kuna jinsi [Rubinius](https://github.com/rubinius/rubinius/) ina
 
 ### Shiriki umiliki wa mradi wako
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Viongozi wako watakuwa na maoni tofauti, kama jamii zote zenye afya zinapaswa! Hata hivyo, unahitaji kuchukua hatua ili kuhakikisha kwamba sauti kubwa zaidi haishindwi kila mara kwa kuwachosha watu, na kwamba sauti zisizo maarufu na za watu wachache zinasikika.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["Nini kinachofanya jamii kuwa nzuri?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Watu wanashiriki kwa furaha katika miradi wanapojisikia kuwa na umiliki. Hiyo haimaanishi unahitaji kuhamasisha maono ya mradi wako au kukubali michango usiyotaka. Lakini kadri unavyowapa wengine sifa, ndivyo watakavyobaki karibu.
 
@@ -173,13 +173,13 @@ Ukweli ni kwamba [miradi mingi ina](https://peerj.com/preprints/1233/) watunzaji
 
 Ingawa huenda usipate mtu kila wakati wa kujibu wito, kuweka ishara huko nje kunaongeza uwezekano kwamba watu wengine wataingilia kati. Na kadri unavyoweza kuanza mapema, ndivyo watu wanaweza kusaidia.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Ni katika maslahi yako\] kuajiri wachangiaji wanaofurahia na wana uwezo wa kufanya mambo ambayo huwezi. Je, unafurahia kuandika msimbo, lakini si kujibu masuala? Basi tambua watu hao katika jamii yako ambao wanafanya hivyo na uwaachie.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Jamii za Kukaribisha"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Kutatua migogoro
 
@@ -195,13 +195,13 @@ Wakati jamii yako inakabiliwa na suala gumu, hasira zinaweza kuongezeka. Watu wa
 
 Kazi yako kama mtunza mradi ni kuzuia hali hizi zisipande. Hata kama una maoni thabiti kuhusu mada hiyo, jaribu kuchukua nafasi ya mtunzaji au mwezeshaji, badala ya kuingia kwenye ugumu na kusukuma maoni yako. Ikiwa mtu anakuwa mbaya au anachujikulia mazungumzo, [fanya haraka](../building-community/#usivumilie-wahusika-wabaya) kudumisha mazungumzo ya heshima na yenye tija.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   Kama mtunza mradi, ni muhimu sana kuwa heshimu kwa wachangiaji wako. Mara nyingi wanachukua unachosema kwa kibinafsi.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Kuwa na Heshima au Uondoke"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Watu wengine wanatazamia mwongozo kutoka kwako. Weka mfano mzuri. Unaweza bado kuonyesha kutoridhika, kutokuwa na furaha, au wasiwasi, lakini fanya hivyo kwa utulivu.
 
@@ -221,13 +221,13 @@ Wakati mwingine, kupiga kura ni mchujo wa mshindi inayohitajika. Kadri uwezavyo,
 
 Kwa mchakato wa kutafuta mwafaka, wanajamii hujadili masuala makubwa hadi wanapohisi kuwa wamesikilizwa vya kutosha. Wakati masuala madogo pekee yanaposalia, jamii huendelea mbele. "Kutafuta mwafaka" hutambua kuwa jamii huenda isiweze kufikia jibu kamilifu. Badala yake, inatoa kipaumbele kwa kusikiliza na kujadiliana.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Sehemu ya sababu kwa nini mfumo wa kupiga kura haupo kwa Masuala ya Atom ni kwa sababu timu ya Atom haitafuata mfumo wa kupiga kura katika hali zote. Wakati mwingine tunapaswa kuchagua kile tunachohisi ni sahihi hata kama ni kisiasa. (...) Ninachoweza kutoa na kuahidi kufanya...ni kwamba ni kazi yangu kusikiliza jamii.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm kwenye mchakato wa maamuzi wa Atom
   </p>
-</aside>
+</div>
 
 Hata kama huenda usifanye mchakato wa kutafuta makubaliano, kama mtunza mradi mzuri, ni muhimu watu wajue unawasikiliza. Kuwafanya watu wengine wajisikie kusikilizwa, na kujitolea kutatua wasiwasi wao, hunaenda mbali katika kupunguza hali nyeti. Kisha, fuata maneno yako kwa vitendo.
 
@@ -247,13 +247,13 @@ Ikiwa mazungumzo yanaanza kuharibika, waulize kikundi, _"Ni hatua zipi tunapaswa
 
 Ikiwa mazungumzo waziwazi hayana mahali pa kwenda, hakuna hatua wazi za kuchukuliwa, au hatua inayofaa tayari imechukuliwa, funga suala na eleza kwa nini umefunga.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Kuongoza uzi wa mazungumzo kuelekea manufaa bila kuwa na shinikizo ni sanaa. Haitafanya kazi tu kuwakumbusha watu wasipoteze muda wao, au kuwauliza wasichapishe isipokuwa wana kitu cha maana kusema. (...) Badala yake, unahitaji kupendekeza masharti ya maendeleo zaidi: wape watu njia, njia ya kufuata inayofikisha matokeo unayotaka, lakini bila kuonekana kama unadikteti tabia.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Chagua mapambano yako kwa busara
 

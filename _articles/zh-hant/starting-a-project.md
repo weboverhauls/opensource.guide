@@ -32,13 +32,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 ### 人們爲什麼把他們的作品開源？
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/1500684?v=3&s=460" class="pquote-avatar" alt="avatar">
 我從開源使用和協作中獲得的最有價值的經驗之一，就是在我面臨許多與其他開發人員相同問題的過程中所建立的聯繫。
   <p markdown="1" class="pquote-credit">
     — @kentcdodds, ["參與開源對我來說太棒了"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 個人或組織爲何想要開源一個專案，[有各種各樣的的原因](http://ben.balter.com/2015/11/23/why-open-source/)，例如：
 
@@ -76,13 +76,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 如果你唯一的目標是炫耀你的工作，你甚至可能不需要他人的貢獻，甚至在你的 README 中說明這點。但另一方面，如果你需要貢獻者，你會投入時間來使文檔清晰，好讓新的參與者感到歡迎。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
 在某些時候，我創建了一個自己正在使用的自定義 UIAlertView，我決定將它開源。所以我修改它使其更有活力，並把它上傳到了 GitHub。我還寫了我的第一個文檔，解釋給其他開發人員如何在他們的專案中使用它。很可能沒有人會去使用它，因爲它是一個簡單的專案，但我的貢獻讓我感覺很好。
   <p markdown="1" class="pquote-credit">
 — @mavris, ["自學的軟件開發者：爲什麼開源對我們那麼重要"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 隨着你的專案增長，你的社群可能不僅需要你的代碼。迴應問題，審查代碼和傳播你的專案都會成爲開源專案中的重要任務。
 
@@ -92,13 +92,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 如果你需要專門的預算或人員來促進，操作和維護專案，請儘早提出。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1857993?v=3&s=460" class="pquote-avatar" alt="avatar">
 當你開始開源一個專案時，確保您的管理流程考慮到您專案周圍社群的貢獻和能力很重要。不要害怕讓那些沒有在你的企業中受僱的貢獻者參與專案的關鍵部分 - 尤其如果他們是頻繁的貢獻者的話。
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["所以你想開源一個專案，是嗎？"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### 加入其他專案
 
@@ -150,13 +150,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 您可以使用自己的README回答其他問題，例如處理貢獻，專案的目標以及許可證和歸屬資訊。 如果您不想接受他人的貢獻，或者您的專案尚未準備好作爲產品提供使用，請將這些資訊寫下來。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
 更好的文檔意味着更多的用戶，更少的求助和更多的貢獻者，等等。要記住你的讀者不是你自己。來到專案中的每個人可能有着截然不同的經歷。
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["這樣寫給他人看（視頻）"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 有時，人們會因爲覺得專案未完成而不願意撰寫 README，或者他們不希望做出貢獻。這些都是寫一個 README 的很好的理由。
 
@@ -196,13 +196,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 ### 建立行爲規範
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/11214?v=3&s=460" class="pquote-avatar" alt="avatar">
   我們都有過這樣的關於重複勞動的經驗，無論是維護者試着解釋爲什麼某些事物必須通過某種明確的方式執行，或者是用戶...提出一個簡單的問題。行爲規範成爲一個便利的參考和可鏈接的文檔標明你的團隊會認真對待具有建設性的討論。
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["讓開源成爲一個有趣的地方"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
   </p>
-</aside>
+</div>
 
 最後，行爲規範有助於爲你專案的參與者車裏行爲規則。這在你爲社群或者專案推出一個開源專案的時候尤爲有價值。一份行爲幫助你促進健康，有建設性的社群行爲，這也會減輕你作爲維護者的壓力。
 
@@ -247,13 +247,13 @@ redirect_from: /zh-tw/starting-a-project/
 
 是否是官方文檔或者一封普通的郵件，你的書寫風格都是你專案品牌的一部分。考慮你可能會擁有粉絲，以及這是你想傳達的聲音。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/11321?v=3&s=460" class="pquote-avatar" alt="avatar">
   我嘗試處理每一個細節，包括：處理郵件，展示示例，友好待人，認真處理大家的issues以及試圖幫助到大家。經過一段時間後，大家可能不再是只問問題，還會幫助我解決其他人的疑問以及給我喜悅，他們模仿我的風格。
   <p markdown="1" class="pquote-credit">
 — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 使用熱情，通俗易懂的語言（如"他們"，即使是指一個人）能夠讓新來的貢獻者感覺專案非常歡迎他們。使用簡單的語言，因爲你的讀者可能英語不是很好。
 

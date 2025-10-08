@@ -30,25 +30,25 @@ related:
 
 **「コントリビューター」は誰でもなり得ます。** それは、イシューやプルリクエストにコメントを書いている人かもしれないし、プロジェクトに価値を与える（イシューを選別する、コードを書く、イベントを運営するなど）人かもしれないし、プルリクエストをマージしてもらった人（おそらくこれが最も狭義のコントリビューターの定義です）かもしれません。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Node.js では、\] イシューにコメントした人やコードを書いた人は皆コミュニティのメンバーなのです。彼らに会えたということは、ユーザーからコントリビューターへの一線を越えたということを意味しています。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **「コミッター」という言葉は** コミットアクセスという特定の種類の責務を、他の種類のコントリビュートと区別するために使われるでしょう。
 
 あなたの好きなようにプロジェクトの役割を定義できますが、より多くの種類のコントリビュートを奨励するためにより[広い定義を検討しましょう](../how-to-contribute/#コントリビュートするということが意味するもの)。プロジェクトに多大なコントリビュートをしている人に対しては、その人の技術スキルがどうであれ、その人のコントリビュートを公式に認めるために、リーダーの役割を使うことができます。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   皆さんは私のことをDjangoの「発明者」と認識しているかもしれません...しかし、実際は私は作られてから1年後に採用された人間なのです。 (...) 皆さんは私のプログラミングスキルのおかげで成功したと思うかもしれません...しかし、私はせいぜい平均的なプログラマーなのです。
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## どのようにしてリーダーシップの役割を明確にするか？
 
@@ -60,12 +60,12 @@ related:
 
 もしあなたのプロジェクトのコントリビューターが非常に活発なのであれば、メンテナーの「コアチーム」を作ったり、異なる問題領域ごと（例えば、セキュリティ、イシューの選別、コミュニティ運営）に責任を持つ分科会を持っているかもしれません。あなたが指名するのではなく、人々が自分の興味のある領域の役割に自律的にボランティアしてくれるように任せましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[私達は\] コアチームに対して、幾つかの「サブチーム」で支えています。各サブチームはそれぞれ特定の領域にフォーカスしています。例えば、言語設計やライブラリなどです。 (...) 世界をまたがるコラボレーションと、プロジェクト全体として協力で一貫したビジョンを維持するために、各サブチームはコアチームのメンバーによってリードされています。
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 リーダーシップチームは( IRC のような)専用のチャンネルを作りたいと思ったり、プロジェクトについて定期的に議論するために( Gitter 上や Google Hangout 上で)集まりたいと思うかもしれません。こういったミーティングでさえも公にする事で、他の人も議論を聞けるようにしましょう。例えば、 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) では、 [毎週オフィスアワーを設けています](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs)。
 
@@ -83,13 +83,13 @@ related:
 
 もしプロジェクトが GitHub 上にあるのであれば、 [protected branches](https://help.github.com/articles/about-protected-branches/) を使うことで、どういった状況で誰が特定のブランチに push できるのかを管理することができます。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   誰かがプルリクエストを送ってきたときはいつでも、その人にプロジェクトへのコミット権限を与えましょう。はじめはそれが馬鹿げているように聞こえるかもしれませんが、この戦略によって GitHub の真の力を解き放つことができるようになります。 (...) 一度コミット権限をもらえば、人々はもはや自分のパッチがマージされるかどうか心配せずにすみます。こうすることで、彼らはより多くの仕事を成し遂げてくれるようになるのです。
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## オープンソースプロジェクトによくある運営方法はどのようなものでしょうか？
 
@@ -115,13 +115,13 @@ related:
 
 もしあなたがオープンソースプロジェクトを立ち上げようとしている企業に所属しているのであれば、立ち上げの前にプロジェクトを進めるにあたって何をコミュニティに期待し、どのように意思決定するのかを内部で議論しておくことは価値のあることです。特に、あなたの企業がプロジェクトにどのように関わるか（もしくはかかわらないか）に関して公に説明しておきたいと思うかもしれません。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Facebook では、社内で実際にこのプロジェクトの仕事をしている小さなチームを GitHub 上のプロジェクトの運営担当としています。例えば、 React は React 開発者によって運営されています。
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## 企業の従業員がコントリビュートを提出したら何が起きますか？
 
@@ -145,12 +145,12 @@ related:
 
 多くのプロジェクトでは非営利団体を設立するという面倒を避けるために、代わりに非営利の財政スポンサーを見つけています。財政スポンサーは、寄付額の一定の割合を受け取ることと引き換えにあなたの代わりに寄付を受け取ります。 [Software Freedom Conservancy](https://sfconservancy.org/) や [Apache Foundation](https://www.apache.org/) 、 [Eclipse Foundation](https://www.eclipse.org/org/) 、 [Linux Foundation](https://www.linuxfoundation.org/projects) 、 [Open Collective](https://opencollective.com/opensource) は、オープンソースプロジェクトの財政スポンサーとして活動している団体の例です。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   私達のゴールは、コミュニティが自立して持続可能になるようなインフラを提供することで、コントリビューター、支援者、スポンサーの全員が利益を得ることができるような環境を作ることです。
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
   </p>
-</aside>
+</div>
 
 もしあなたのプロジェクトが特定の言語やエコシステムと密接に関係しているのであれば、連携できるソフトウェア財団もあるかもしれません。例えば、 [Python Software Foundation](https://www.python.org/psf/) は [PyPI](https://pypi.org/) という Python のパッケージマネジャーをサポートしていますし、 [Node.js Foundation](https://foundation.nodejs.org/) は [Express.js](https://expressjs.com/) という Node ベースのフレームワークをサポートしています。

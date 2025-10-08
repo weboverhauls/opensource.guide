@@ -30,7 +30,7 @@ Voor een diepere duik in berichten, bekijk Mozilla's ["Persona's en paden"](http
 
 ## Help mensen uw project te vinden en te volgen
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   U hebt idealiter een enkele "home"-URL nodig die u kunt promoten en waarnaar u mensen kunt verwijzen met betrekking tot uw project. U hoeft niet te spetteren op een mooie sjabloon of zelfs een domeinnaam, maar uw project heeft een centraal punt nodig.
 
   _You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point._
@@ -38,7 +38,7 @@ Voor een diepere duik in berichten, bekijk Mozilla's ["Persona's en paden"](http
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["Hoe u het woord over uw code kunt verspreiden"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Help mensen uw project te vinden en te onthouden door ze naar een enkele naamruimte te verwijzen.
 
@@ -46,7 +46,7 @@ Help mensen uw project te vinden en te onthouden door ze naar een enkele naamrui
 
 Als u nog geen verkooppunten voor uw project wilt opzetten, promoot dan uw eigen Twitter- of GitHub-account bij alles wat u doet. Door je Twitter- of GitHub-account te promoten, kunnen mensen weten hoe ze contact met je kunnen opnemen of je werk kunnen volgen. Als je op een bijeenkomst of evenement spreekt, zorg er dan voor dat je contactgegevens in je biografie of dia's staan.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Een fout die ik in die vroege dagen maakte (...) was dat ik geen Twitter-account voor het project startte. Twitter is een geweldige manier om mensen op de hoogte te houden van een project en om mensen constant aan het project bloot te stellen.
 
@@ -55,7 +55,7 @@ Als u nog geen verkooppunten voor uw project wilt opzetten, promoot dan uw eigen
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["Geschiedenis van Apache Storm en geleerde lessen"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Overweeg om een website voor uw project te maken.** Een website maakt uw project vriendelijker en gemakkelijker te navigeren, vooral als deze is gekoppeld aan duidelijke documentatie en tutorials. Het hebben van een website suggereert ook dat uw project actief is, waardoor uw publiek zich er prettiger bij voelt. Geef voorbeelden om mensen ideeën te geven voor het gebruik van uw project.
 
@@ -73,7 +73,7 @@ Online bereik is een geweldige manier om snel te delen en het woord te verspreid
 
 Profiteer van bestaande online communities en platforms om uw publiek te bereiken. Als uw open source-project een softwareproject is, kunt u uw publiek waarschijnlijk vinden op [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), of [Quora](https://www.quora.com/). Vind de kanalen waarvan u denkt dat mensen er het meeste baat bij hebben of enthousiast zijn over uw werk.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Elk programma heeft zeer specifieke functies die slechts een fractie van de gebruikers nuttig zullen vinden. Spam niet zoveel mogelijk mensen. Richt uw inspanningen in plaats daarvan op gemeenschappen die baat hebben bij kennis van uw project.
 
@@ -82,7 +82,7 @@ Profiteer van bestaande online communities en platforms om uw publiek te bereike
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing voor open source-projecten"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Kijk of u manieren kunt vinden om uw project op relevante manieren te delen:
 
@@ -102,7 +102,7 @@ Offline evenementen zijn een populaire manier om nieuwe projecten onder het publ
 
 Als je [nieuw bent bij spreken in het openbaar](https://speaking.io/), begin dan met het vinden van een lokale bijeenkomst die gerelateerd is aan de taal of het ecosysteem van je project.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   Ik was behoorlijk zenuwachtig om naar PyCon te gaan. Ik hield een lezing, ik zou daar maar een paar mensen leren kennen, ik ging een hele week. (...) Ik had me echter geen zorgen moeten maken. PyCon was fenomenaal geweldig! (...) Iedereen was ongelooflijk vriendelijk en extravert, zo erg dat ik zelden tijd vond om niet met mensen te praten!
 
@@ -111,13 +111,13 @@ Als je [nieuw bent bij spreken in het openbaar](https://speaking.io/), begin dan
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["Hoe ik heb geleerd om te stoppen met piekeren en van PyCon te houden"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Als je nog nooit op een evenement hebt gesproken, is het volkomen normaal om nerveus te zijn! Onthoud dat uw publiek er is omdat ze oprecht over uw werk willen horen.
 
 Concentreer u tijdens het schrijven van uw lezing op wat uw publiek interessant zal vinden en waar ze waarde uit kunnen halen. Houd uw taal vriendelijk en benaderbaar. Glimlach, adem en heb plezier.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Wanneer u begint met het schrijven van uw lezing, ongeacht wat uw onderwerp is, kan het helpen als u uw lezing ziet als een verhaal dat u aan mensen vertelt.
 
@@ -126,13 +126,13 @@ Concentreer u tijdens het schrijven van uw lezing op wat uw publiek interessant 
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["Hoe u een Tech Conferentie Lezing voorbereidt en schrijft"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Als u zich er klaar voor voelt, overweeg dan om op een conferentie te spreken om uw project te promoten. Conferenties kunnen u helpen meer mensen te bereiken, soms van over de hele wereld.
 
 Zoek naar conferenties die specifiek zijn voor uw taal of ecosysteem. Voordat u uw toespraak indient, moet u de conferentie onderzoeken om uw lezing af te stemmen op de aanwezigen en uw kansen te vergroten om geaccepteerd te worden op de conferentie. U kunt vaak een idee krijgen van uw publiek door naar de sprekers van een conferentie te kijken.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   Ik schreef heel vriendelijk naar de JSConf-mensen en smeekte hen om me een slot te geven waar ik het op JSConf EU kon presenteren. (...) Ik was enorm bang toen ik dit ding presenteerde waar ik al een half jaar aan werkte. (...) De hele tijd dacht ik alleen maar: oh mijn God. Wat doe ik hier?
 
@@ -141,7 +141,7 @@ Zoek naar conferenties die specifiek zijn voor uw taal of ecosysteem. Voordat u 
   <p markdown="1" class="pquote-credit">
 — @ry, ["Historie van Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Bouw een reputatie op
 
@@ -149,7 +149,7 @@ Naast de hierboven beschreven strategieën, is de beste manier om mensen uit te 
 
 Door nieuwkomers te helpen, middelen te delen en doordachte bijdragen te leveren aan de projecten van anderen, kunt u een positieve reputatie opbouwen. Door een actief lid te zijn van de open source-gemeenschap, zullen mensen context voor uw werk hebben en zullen ze eerder aandacht besteden aan en uw project delen. Het ontwikkelen van relaties met andere open source-projecten kan zelfs leiden tot officiële partnerschappen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   De enige reden waarom urllib3 tegenwoordig de populairste Python-bibliotheek van derden is, is omdat het deel uitmaakt van verzoeken.
 
@@ -158,7 +158,7 @@ Door nieuwkomers te helpen, middelen te delen en doordachte bijdragen te leveren
   <p markdown="1" class="pquote-credit">
 — @shazow, ["Hoe u uw open source-project kunt laten floreren"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Het is nooit te vroeg of te laat om uw reputatie op te bouwen. Zelfs als u uw eigen project al hebt gelanceerd, blijf zoeken naar manieren om anderen te helpen.
 

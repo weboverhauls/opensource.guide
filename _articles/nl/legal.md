@@ -44,7 +44,7 @@ Je hebt geluk, want tegenwoordig zijn open source-licenties gestandaardiseerd en
 
 Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie toe te voegen](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
     Een gestandaardiseerde licentie dient als een proxy voor degenen zonder juridische opleiding om precies te weten wat ze wel en niet kunnen doen met de software. Vermijd, tenzij absoluut vereist, aangepaste, gewijzigde of niet-standaard voorwaarden, die een belemmering zullen vormen voor het downstream-gebruik van de agentschapscode.
 
@@ -53,7 +53,7 @@ Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie t
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Alles wat een overheidsadvocaat moet weten over open source softwarelicenties"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Welke open source-licentie is geschikt voor mijn project?
 
@@ -97,7 +97,7 @@ Een aanvullende bijdragersovereenkomst -- vaak een bijdragerslicentieovereenkoms
 
 Door ook 'papierwerk' toe te voegen waarvan sommigen denken dat het onnodig, moeilijk te begrijpen of oneerlijk is (wanneer de ontvanger van de overeenkomst meer rechten krijgt dan bijdragers of het publiek via de open source-licentie van het project), kan een aanvullende overeenkomst voor bijdragers als onvriendelijk worden ervaren aan de gemeenschap van het project.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     We hebben de CLA voor Node.js. Door dit te doen, wordt de toegangsdrempel voor Node.js-bijdragers verlaagd, waardoor het aantal bijdragers wordt verbreed.
     
@@ -106,7 +106,7 @@ Door ook 'papierwerk' toe te voegen waarvan sommigen denken dat het onnodig, moe
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Node.js-bijdragen verbreden"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 Enkele situaties waarin u wellicht een aanvullende bijdrageovereenkomst voor uw project wilt overwegen, zijn onder meer:
 
 * Uw advocaten willen dat alle bijdragers uitdrukkelijk (_tekenen_, online of offline) contributievoorwaarden accepteren, misschien omdat ze vinden dat de open source-licentie zelf niet voldoende is (ook al is het dat wel!). Als dit de enige zorg is, zou een bijdragersovereenkomst moeten volstaan ​​die de open source-licentie van het project bevestigt. De [jQuery Individual Contributor License Agreement](https://web.archive.org/web/20161013062112/http://contribute.jquery.org/CLA/) is een goed voorbeeld van een lichtgewicht aanvullende overeenkomst voor bijdragers.
@@ -141,7 +141,7 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
 
 * **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Door de interlectuele eigenschap die aan een patch is gekoppeld, te verhuren, wordt de kennisbasis en de reputatie van de werknemer opgebouwd. Het laat zien dat het bedrijf investeert in de ontwikkeling van die medewerker en creëert een gevoel van empowerment en autonomie. Al deze voordelen leiden ook tot een hoger moreel en een beter behoud van werknemers.
   
@@ -150,12 +150,12 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
   <p markdown="1" class="pquote-credit">
 — @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Wat vrij te geven:** [(Bijna) alles?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Als uw juridische team het begrijpt en geïnvesteerd in de open source-strategie van uw bedrijf, zullen ze u het beste kunnen helpen in plaats van hinderen.
 * **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.
   
   _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies._
@@ -163,7 +163,7 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open source-software: basisprincipes van compliance en best practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Patenten:** Uw bedrijf wil wellicht lid worden van het [Open Invention Network](https://www.openinventionnetwork.com/), een gedeelde defensieve patentpool om het gebruik van grote open source-projecten door leden te beschermen, of andere [alternatieve patentlicenties](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Zeker als en wanneer het zinvol is om een project te verhuizen naar een [juridische entiteit buiten het bedrijf](../leadership-and-governance/#heb-ik-een-juridische-entiteit-nodig-om-mijn-project-te-ondersteunen).

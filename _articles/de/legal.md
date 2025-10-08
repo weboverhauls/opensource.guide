@@ -44,7 +44,7 @@ Sie haben Glück, denn Open-Source-Lizenzen sind heutzutage standardisiert und e
 
 Wenn Sie ein neues Projekt auf GitHub anlegen, wird Ihnen [die Nutzung einer Lizenz vorgeschlagen](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
 
   Eine Standardlizenz fasst für juristisch nicht vorgebildete Leute zusammen, was diese mit der Software tun können, und was nicht. Solange es nicht absolut nötig ist, sollten Sie eigene, modifizierte oder nicht standardisierte Klauseln vermeiden, denn diese behindern die Nachnutzung des Codes.
@@ -54,7 +54,7 @@ Wenn Sie ein neues Projekt auf GitHub anlegen, wird Ihnen [die Nutzung einer Liz
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Welche Open-Source-Lizenz passt zu meinem Projekt?
 
@@ -98,7 +98,7 @@ Eine zusätzliche Kontributionsvereinbarung - oft auch Contributor License Agree
 
 Durch das Hinzufügen von "Papierkram", den einige für unnötig, schwer verständlich oder ungerecht halten (wenn der/die Empfänger\*in der Vereinbarung mehr Rechte als die Mitwirkenden oder die Öffentlichkeit über die Open-Source-Lizenz des Projekts erhält), kann eine zusätzliche Kontributionsvereinbarung als unfreundlich für die Gemeinschaft des Projekts empfunden werden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
 
     Wir haben die Kontributionsvereinbarung für Node.js entfernt, was die Eintrittsbarriere für Node.js-Mitwirkende senkt und damit die Basis der Mitwirkenden verbreitert.
@@ -108,7 +108,7 @@ Durch das Hinzufügen von "Papierkram", den einige für unnötig, schwer verstä
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Einige Situationen, in denen Sie eine zusätzliche Kontributionsvereinbarung für Ihr Projekt in Betracht ziehen sollten, sind z.B:
 
@@ -144,7 +144,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 
 * **Richtlinie für Beiträge von Angestellten:** Erwägen Sie die Entwicklung einer Unternehmenspolitik, die festlegt, wie Ihre Mitarbeiter\*innen zu Open-Source-Projekten beitragen. Eine klare Richtlinie verringert die Verwirrung unter Ihren Mitarbeiter\*innen und hilft ihnen dabei, Open-Source-Projekte im besten Interesse des Unternehmens zu unterstützen, sei es als Teil ihrer Arbeit oder in ihrer Freizeit. Ein gutes Beispiel von Rackspace ist deren [Model IP und Open-Source Contribution Policy](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
 
   Die Herausgabe des mit einem Patch verbundenen Rechte baut die Wissensbasis und das Ansehen der Mitarbeiterin / des Mitarbeiters auf und zeigt, dass das Unternehmen in die Entwicklung seiner Angestellten investiert, sowie ein Gefühl von Eigenverantwortung und Autonomie schafft. All diese Vorteile führen auch zu höherer Moral und besserer Mitarbeiterbindung.
@@ -154,12 +154,12 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Was veröffentlichen?** [(Fast) alles?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html). Wenn Ihre Rechtsabteilung die Open-Source-Strategie Ihres Unternehmens versteht und in sie investiert, kann sie Ihnen am besten helfen, anstatt Ihre Bemühungen zu behindern.
 * **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 
   Organisationen müssen über eine Lizenz- und Compliance-Strategie verfügen, die sowohl in die Kategorien \["permissive" als auch "copyleft"\] passt, beginnend mit der Aufzeichnung der Lizenzbedingungen, die für die von Ihnen verwendete Open-Source-Software gelten - einschließlich Unterkomponenten und Abhängigkeiten.
 
@@ -168,7 +168,7 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Patente:** Ihr Unternehmen kann dem [Open Invention Network](https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen](https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
 * **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#brauche-ich-für-mein-projekt-eine-juristische-person) zu verlegen.
