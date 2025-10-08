@@ -3,6 +3,8 @@ pl:
   nav:
     about: O projekcie
     contribute: Współpracuj
+    main_navigation: Main navigation
+    table_of_contents: Table of contents navigation
   index:
     lead: Oprogramowanie typu open source jest tworzone przez ludzi takich jak Ty. Dowiedz się, jak uruchomić i rozwijać swój projekt.
     opensourcefriday: Jest piątek! Zainwestuj kilka godzin, przyczyniając się do oprogramowania, którego używasz i które kochasz
