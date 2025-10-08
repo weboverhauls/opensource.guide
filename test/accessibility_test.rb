@@ -1,11 +1,12 @@
 require_relative "./helper"
 require "nokogiri"
+require "yaml"
 
 describe "accessibility test" do
   describe "nav landmarks" do
     # Build the site once for all tests
     before do
-      config_test = YAML.load_file("test/_config.yml")
+      config_test = YAML.safe_load_file("test/_config.yml")
       @config_combined = config.merge(config_test)
       @site = Jekyll::Site.new(@config_combined)
       @site.reset
@@ -18,7 +19,7 @@ describe "accessibility test" do
     it "should have unique aria-labels for nav landmarks on article pages" do
       # Find an article page (not the index)
       article_pages = @site.collections["articles"].docs.select do |doc|
-        doc.data["layout"] == "article" rescue false
+        doc.data&.dig("layout") == "article"
       end
 
       refute_empty article_pages, "No article pages found to test"
@@ -32,13 +33,14 @@ describe "accessibility test" do
         html = Nokogiri::HTML(html_content)
         nav_elements = html.css("nav")
 
+        # All nav elements should have aria-labels for accessibility
+        nav_elements.each do |nav|
+          assert nav["aria-label"], "Nav element in #{doc.relative_path} is missing aria-label attribute"
+        end
+
         # If there are multiple nav elements, they should have unique aria-labels
         if nav_elements.length > 1
-          aria_labels = nav_elements.map { |nav| nav["aria-label"] }.compact
-          
-          # Check that aria-labels exist for all nav elements
-          assert_equal nav_elements.length, aria_labels.length,
-            "Not all nav elements in #{doc.relative_path} have aria-label attributes"
+          aria_labels = nav_elements.map { |nav| nav["aria-label"] }
           
           # Check that aria-labels are unique
           assert_equal aria_labels.uniq.length, aria_labels.length,
