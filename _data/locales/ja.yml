@@ -3,11 +3,13 @@ ja:
   nav:
     about: このサイトについて
     contribute: 貢献する
+    main_label: メインナビゲーション
   index:
     lead: オープンソースソフトウェアはちょうどあなたのような人々によって作られています。プロジェクトを立ち上げて成長させていく方法を学んでいきましょう。
     opensourcefriday: 今日は金曜日です！あなたが使用し愛着を持っているソフトウェアへの貢献に数時間を投資しましょう。
   article:
     table_of_contents: 目次
+    table_of_contents_label: 目次ナビゲーション
     back_to_all_guides: すべてのガイドに戻る
     related_guides: 関連するガイド
   footer:

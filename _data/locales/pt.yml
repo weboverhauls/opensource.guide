@@ -3,11 +3,13 @@ pt:
   nav:
     about: Sobre
     contribute: Contribua
+    main_label: Navegação principal
   index:
     lead: "Software open source é feito por pessoas assim como você. Aprenda como iniciar e expandir o seu projeto."
     opensourcefriday: "É Sexta-feira! Invista algumas horas contribuindo para o software que você usa e ama"
   article:
     table_of_contents: "Índice"
+    table_of_contents_label: Navegação do índice
     back_to_all_guides: Voltar para todos os guias
     related_guides: Guias relacionados
   footer:
