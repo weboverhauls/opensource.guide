@@ -3,11 +3,13 @@ fa:
   nav:
     about: درباره پروژه
     contribute: مشارکت
+    aria_label: ناوبری اصلی
   index:
     lead: نرم افزار های متن باز توسط افرادی نظیر شما ساخته شده است. یاد بگیرید چطور پروژه خود را رشد و راه اندازی کنید.
     opensourcefriday: امروز جمعه است! چند ساعت به پروژه ای که دوست دارید و استفاده می کنید، مشارکت کنید.
   article:
     table_of_contents: فهرست مطالب
+    toc_aria_label: فهرست مطالب
     back_to_all_guides: بازگشت به راهنمای اصلی
     related_guides: راهنما های مشابه
   footer:

@@ -3,11 +3,13 @@ en:
   nav:
     about: About
     contribute: Contribute
+    aria_label: Main navigation
   index:
     lead: Open source software is made by people just like you. Learn how to launch and grow your project.
     opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
   article:
     table_of_contents: Table of Contents
+    toc_aria_label: Table of contents
     back_to_all_guides: Back to all guides
     related_guides: Related Guides
   footer:

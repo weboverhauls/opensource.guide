@@ -3,11 +3,13 @@ nl:
   nav:
     about: Over
     contribute: Bijdragen
+    aria_label: Hoofdnavigatie
   index:
     lead: Open source software wordt gemaakt door mensen zoals jij. Leer hoe u uw project start en laat groeien.
     opensourcefriday: Het is vrijdag! Investeer een paar uur om bij te dragen aan de software die u gebruikt en waar u van houdt
   article:
     table_of_contents: Inhoudsopgave
+    toc_aria_label: Inhoudsopgave
     back_to_all_guides: Terug naar het overzicht
     related_guides: Gerelateerde gidsen
   footer:

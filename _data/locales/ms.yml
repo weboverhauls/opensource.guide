@@ -3,11 +3,13 @@ ms:
   nav:
     about: Mengenai
     contribute: Menyumbang
+    aria_label: Navigasi utama
   index:
     lead: Perisian sumber terbuka dibuat oleh orang seperti anda. Ketahui cara melancarkan dan mengembangkan projek anda.
     opensourcefriday: Hari Jumaat! Melabur beberapa jam dengan menyumbang kepada perisian yang anda gunakan dan sukai
   article:
     table_of_contents: Isi kandungan
+    toc_aria_label: Kandungan
     back_to_all_guides: Kembali ke semua panduan
     related_guides: Panduan Berkaitan
   footer:
