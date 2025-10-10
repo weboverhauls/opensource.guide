@@ -8,6 +8,7 @@ bn:
     opensourcefriday: আজকে শুক্রবার! আপনি যে সফটওয়্যার ব্যবহার করেন ও ভালোবাসেন সেটায় অবদান রাখার জন্য কয়েক ঘন্টা সময় বিনিয়োগ করুন
   article:
     table_of_contents: সূচিপত্র
+    toggle_icon_label: সূচিপত্র টগল করুন
     back_to_all_guides: সকল নির্দেশিকায় ফেরত যান
     related_guides: একই সম্পর্কিত নির্দেশিকা
   footer:

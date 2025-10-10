@@ -8,6 +8,7 @@ ro:
     opensourcefriday: Este vineri! Investește câteva ore contribuind la software-ul pe care îl folosești și îl iubești
   article:
     table_of_contents: Cuprins
+    toggle_icon_label: Comutare cuprins
     back_to_all_guides: Înapoi la toate ghidurile
     related_guides: Ghiduri relevante
   footer:

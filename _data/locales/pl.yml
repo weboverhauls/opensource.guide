@@ -8,6 +8,7 @@ pl:
     opensourcefriday: Jest piątek! Zainwestuj kilka godzin, przyczyniając się do oprogramowania, którego używasz i które kochasz
   article:
     table_of_contents: Spis treści
+    toggle_icon_label: Przełącz spis treści
     back_to_all_guides: Powrót do wszystkich przewodników
     related_guides: Powiązane przewodniki
   footer:

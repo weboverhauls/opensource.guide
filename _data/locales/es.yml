@@ -8,6 +8,7 @@ es:
     opensourcefriday: ¡Es viernes! Invierte unas cuántas horas para contribuir al software que usas y amas
   article:
     table_of_contents: Tabla de contenidos
+    toggle_icon_label: Alternar tabla de contenidos
     back_to_all_guides: Volver a todas las guías
     related_guides: Guías relacionadas
   footer:

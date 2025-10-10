@@ -8,6 +8,7 @@ it:
     opensourcefriday: È venerdì! Investi qualche ora contribuendo al software che usi e ami
   article:
     table_of_contents: Contenuto
+    toggle_icon_label: Attiva/disattiva sommario
     back_to_all_guides: Torna a tutte le guide
     related_guides: Guide correlate
   footer:

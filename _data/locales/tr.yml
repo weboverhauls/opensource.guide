@@ -8,6 +8,7 @@ tr:
     opensourcefriday: Bugün cuma! Kullandığınız ve sevdiğiniz yazılıma katkıda bulunmak için birkaç saat ayırın
   article:
     table_of_contents: İçindekiler
+    toggle_icon_label: İçindekiler tablosunu aç/kapat
     back_to_all_guides: Anasayfaya Geri Dön 
     related_guides: İlgili Kılavuzlar 
   footer:
