@@ -1,0 +1,33 @@
+name: Accessibility Scanner
+on:
+  workflow_dispatch: 
+  schedule:
+    # runs on first of month at 9AM UTC
+    # https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule
+    - cron: '00 09 01 * *'
+
+jobs:
+  accessibility_scanner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: github/accessibility-scanner@v2
+        with:
+          urls: | # Provide a newline-delimited list of URLs to scan; more information below.
+            https://opensource.guide/
+            https://opensource.guide/security-best-practices-for-your-project/
+            https://opensource.guide/maintaining-balance-for-open-source-maintainers/
+            https://opensource.guide/how-to-contribute/
+            https://opensource.guide/starting-a-project/
+            https://opensource.guide/finding-users/
+            https://opensource.guide/building-community/
+            https://opensource.guide/best-practices/
+            https://opensource.guide/leadership-and-governance/
+            https://opensource.guide/getting-paid/
+            https://opensource.guide/code-of-conduct/
+            https://opensource.guide/metrics/
+            https://opensource.guide/legal/
+            https://opensource.guide/notices/
+          repository: weboverhauls/opensource.guide # Provide a repository name-with-owner (in the format "primer/primer-docs"). This is where issues will be filed and where Copilot will open PRs; more information below.
+          token: ${{ secrets.GH_TOKEN_A11YSCAN_CLASSIC }} # This token must have write access to the repo above (contents, issues, and PRs); more information below. Note: GitHub Actions’ `GITHUB_TOKEN` (https://docs.github.com/en/actions/tutorials/authenticate-with-github_token) cannot be used here.
+          cache_key: cached_findings-opensource-guide
+          skip_copilot_assignment: false
