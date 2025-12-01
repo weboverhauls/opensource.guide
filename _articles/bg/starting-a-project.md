@@ -260,28 +260,28 @@ CONTRIBUTING файл казва на вашата публика как да у
 **Документация**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Проектът има файл LICENSE с лиценз с отворен код
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Проектът има основна документация (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Името е лесно за запомняне, дава известна представа какво прави проектът и не е в конфликт със съществуващ проект или нарушава търговски марки
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Опашката с проблеми е актуална, с ясно организирани и етикетирани проблеми
   </label>
@@ -290,21 +290,21 @@ CONTRIBUTING файл казва на вашата публика как да у
 **Код**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Проектът използва последователни кодови конвенции и ясни имена на функции/методи/променливи
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Кодът е ясно коментиран, документирайки намеренията и крайните случаи
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Няма чувствителни материали в хронологията на редакциите, проблеми или заявки за изтегляне (например пароли или друга непублична информация)
   </label>
@@ -315,7 +315,7 @@ CONTRIBUTING файл казва на вашата публика как да у
 Ако сте физическо лице:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
   Говорили сте с правния отдел и/или разбирате политиките за IP и отворен код на вашата компания (ако сте служител някъде)
   </label>
@@ -324,28 +324,28 @@ CONTRIBUTING файл казва на вашата публика как да у
 Ако сте компания или организация:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Говорили сте с правния си отдел
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Имате маркетингов план за анонсиране и популяризиране на проекта
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Някой се ангажира да управлява взаимодействията на общността (отговаряне на проблеми, преглед и обединяване на заявки за изтегляне)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     Най-малко двама души имат административен достъп до проекта
   </label>

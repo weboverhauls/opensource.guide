@@ -227,7 +227,7 @@ related:
 **ओपन सोर्स की परिभाषा को पूरा करता है**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
   क्या इसके पास लाइसेंस है? आमतौर पर, रिपॉजिटरी के रूट में LICENSE नामक एक फ़ाइल होती है।
    </label>
@@ -238,21 +238,21 @@ related:
 Main branch पर commit प्रतिबद्ध को देखें। GitHub पर, आप इस जानकारी को रिपॉजिटरी के होमपेज पर देख सकते हैं।
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
   नवीनतम प्रतिबद्धता कब थी?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
   परियोजना में कितने योगदानकर्ता हैं?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
   लोग कितनी बार प्रतिबद्ध होते हैं? (GitHub पर, आप इसे शीर्ष बार में "कमिट्स" पर क्लिक करके पा सकते हैं।)
   </label>
@@ -261,35 +261,35 @@ Main branch पर commit प्रतिबद्ध को देखें। 
 इसके बाद, परियोजना के मुद्दों को देखें।
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     कितने खुले मुद्दे हैं?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     क्या रखरखावकर्ता मुद्दों को खोले जाने पर तुरंत उन पर प्रतिक्रिया देते हैं?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     क्या मुद्दों पर सक्रिय चर्चा होती है?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     क्या मुद्दे ताज़ा हैं?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     क्या मुद्दे बंद हो रहे हैं? (GitHub पर, बंद मुद्दों को देखने के लिए मुद्दे पृष्ठ पर "closed" टैब पर क्लिक करें।)
   </label>
@@ -298,35 +298,35 @@ Main branch पर commit प्रतिबद्ध को देखें। 
 अब प्रोजेक्ट के पुल रीकवेस्ट के लिए भी ऐसा ही करें।
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     कितने खुले पुल रीकवेस्ट हैं?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2">
   <label for="cbox20" class="overflow-hidden d-block text-normal">
     क्या अनुरक्षक खुले पुल रीकवेस्ट जाने पर तुरंत प्रतिक्रिया देते हैं?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     क्या पुल रीकवेस्ट पर सक्रिय चर्चा है?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     क्या पुल रीकवेस्ट हाल ही में हुए हैं?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2">
   <label for="cbox13" class="overflow-hidden d-block text-normal">
     हाल ही में किसी पुल रीकवेस्ट का मर्ज किया गया था? (GitHub पर, बंद पीआर देखने के लिए पुल रीकवेस्ट पृष्ठ पर "closed" टैब पर क्लिक करें।)
   </label>
@@ -337,28 +337,28 @@ Main branch पर commit प्रतिबद्ध को देखें। 
 एक परियोजना जो मैत्रीपूर्ण और स्वागत योग्य है, यह संकेत देती है कि वे नए योगदानकर्ताओं के प्रति ग्रहणशील होंगे।
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2">
   <label for="cbox14" class="overflow-hidden d-block text-normal">
     क्या अनुरक्षक मुद्दों में सवालों का मददगार ढंग से जवाब देते हैं?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2">
   <label for="cbox15" class="overflow-hidden d-block text-normal">
     क्या लोग मुद्दों, चर्चा मंच और चैट में मित्रवत हैं (उदाहरण के लिए, IRS या Slack)?
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2">
   <label for="cbox16" class="overflow-hidden d-block text-normal">
     क्या पुल रीकवेस्ट की समीक्षा की जाती है?
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2">
   <label for="cbox17" class="overflow-hidden d-block text-normal">
     क्या अनुरक्षक लोगों को उनके योगदान के लिए धन्यवाद देते हैं?
   </label>

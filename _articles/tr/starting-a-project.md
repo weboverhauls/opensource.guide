@@ -260,28 +260,28 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 **Belgeler**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
     Projenin açık kaynak lisanslı LICENSE dosyası var
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
     Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
     Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari markaları ihlal etmez
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
     Sorun listesi, açıkça düzenlenmiş ve etiketlenmiş konularla birlikte güncel
   </label>
@@ -290,21 +290,21 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 **Kod**
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
     Proje tutarlı kod kuralları ve temiz işlev/yöntem/değişken adlarını kullanıyor
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
     Kod açıkça yorumlanmış, amaçları ve aykırı vakaları belgelemektedir.
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
     Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler) hassas bilgi yok
   </label>
@@ -315,7 +315,7 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 Bireyseniz:
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
     Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde çalışansanız).
   </label>
@@ -324,28 +324,28 @@ Bireyseniz:
 Bir şirket veya kuruluşsanız:
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
     Hukuk departmanınızla konuştunuz
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
     Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var
   </label>
 </div>
 
 <div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
     Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve birleştirme)
   </label>
 </div>
 
 <div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
+  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
     En az iki kişinin projeye yönetici erişimi var
   </label>
