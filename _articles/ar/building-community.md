@@ -39,13 +39,13 @@ related:
 * **كن منفتحًا على أنواع المساهمات التي ستقبلها.** كثير من المساهمين يبدأون بتقرير عن bug أو تعديل صغير. هناك [طرق عديدة للمساهمة (contribute) في المشروع](../how-to-contribute/#ما-معنى-المساهمة) في المشروع. دع الناس يساعدون بالطريقة التي يريدونها.
 * **إذا كانت هناك مساهمة لا توافق عليها،** اشكر صاحبها على الفكرة و[اشرح السبب](../best-practices/#تعلم-قول-لا) لعدم ملاءمتها لمجال المشروع، واربطها بالوثائق ذات الصلة إذا كانت موجودة.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   المساهمة في الـ open source أسهل للبعض من غيرهم. هناك خوف كبير من أن تُوبّخ على عدم القيام بشيء بشكل صحيح أو مجرد شعور بعدم الانتماء. (...) من خلال توفير مكان للمساهمين ليشاركوا حتى مع مهارات تقنية منخفضة جدًا (مثل documentation، محتوى الويب markdown، إلخ)، يمكنك تقليل هذه المخاوف بشكل كبير.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["بناء مجتمع مساهمين في الـ open source الحديث"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 الغالبية العظمى من المساهمين في الـ open source هم **"المساهمون غير المنتظمين"**: أشخاص يساهمون في المشروع بشكل متقطع فقط. قد لا يكون لدى المساهم العادي الوقت ليصبح على دراية كاملة بمشروعك، لذلك مهمتك هي جعل المساهمة سهلة بالنسبة لهم.
 
@@ -53,13 +53,13 @@ related:
 
 ### وثّق كل شيء
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   هل سبق أن حضرت حدثًا (تقنيًا) ولم تعرف أحدًا، بينما كان الجميع يبدو وكأنهم يقفون في مجموعات ويتحدثون كأصدقاء قدامى؟ (...) الآن تخيّل أنك تريد المساهمة في مشروع open source، لكنك لا ترى السبب أو الطريقة التي يحدث بها هذا.
   <p markdown="1" class="pquote-credit">
 — @janl, ["الـ Open Source المستدام"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 عندما تبدأ مشروعًا جديدًا، قد تشعر أن من الطبيعي الاحتفاظ بعملك خاصًا. لكن مشاريع الـ open source تزدهر عندما تقوم بتوثيق عمليتك بشكل علني.
 
@@ -115,13 +115,13 @@ related:
 
 ابذل قصارى جهدك لتطبيق سياسة zero-tolerance تجاه هذا النوع من الأشخاص. إذا تُركوا دون رقابة، سيجعل الأشخاص السلبيون الآخرين في مجتمعك غير مرتاحين، وقد يغادرون حتى. أعلى بكثير.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   الحقيقة هي أن وجود مجتمع داعم أمر أساسي. لم أكن لأتمكن من القيام بهذا العمل بدون مساعدة زملائي، الغرباء الودودين على الإنترنت، وقنوات IRC الممتعة للتحدث. (...) لا تقبل بأقل من ذلك. ولا تقبل بالأشخاص السلبيين (assholes).
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["كيفية إدارة مشروع FOSS"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 النقاشات المستمرة حول جوانب تافهة من مشروعك تشتت انتباه الآخرين، بما فيهم أنت، عن التركيز على المهام المهمة. الأشخاص الجدد الذين يصلون إلى مشروعك قد يرون هذه المحادثات ولا يرغبون في المشاركة.
 
@@ -147,13 +147,13 @@ related:
 
 ### شارك ملكية مشروعك {#شارك-ملكية-مشروعك}
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   سيحمل قادة مشروعك آراء مختلفة، كما يجب أن تفعل جميع المجتمعات الصحية! ومع ذلك، تحتاج إلى اتخاذ خطوات لضمان أن الصوت الأعلى لا ينتصر دائمًا بإرهاق الناس، وأن الأصوات الأقل بروزًا والأقليات يتم سماعها.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["ما الذي يجعل المجتمع جيدًا؟"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 يشعر الناس بالحماس للمساهمة في المشاريع عندما يشعرون بملكية فيها. هذا لا يعني أنه يجب عليك التخلي عن رؤية مشروعك أو قبول مساهمات لا تريدها. لكن كلما منحت الآخرين المزيد من التقدير ، زاد احتمال بقائهم ومشاركتهم.
 
@@ -175,13 +175,13 @@ related:
 
 حتى لو لم تجد دائمًا من يلبّي الدعوة، فإن إرسال إشارة يزيد من فرص مشاركة الآخرين. وكلما بدأت مبكرًا، كلما تمكن الناس من المساعدة مبكرًا.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   من مصلحتك جذب المساهمين الذين يستمتعون ويستطيعون القيام بالأشياء التي لا تستطيع القيام بها. هل تحب البرمجة لكن لا تحب الرد على issues؟ إذن حدد هؤلاء الأشخاص في مجتمعك ودعهم يتولون ذلك.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["المجتمعات الترحيبية"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## حل النزاعات
 
@@ -197,13 +197,13 @@ related:
 
 دورك ك maintainer هو منع تصعيد هذه المواقف. حتى لو كان لديك رأي قوي في الموضوع، حاول أن تتخذ موقفًا كمُنسق أو ميسر، بدلًا من الدخول في النزاع ودفع آرائك. إذا كان شخص ما غير لطيف أو يحتكر المحادثة، [تصرف فورًا](../building-community/#لا-تتسامح-مع-الأشخاص-السلبيين) للحفاظ على المناقشات مدنية ومنتجة.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   كمُشرف على المشروع، من المهم جدًا أن تكون محترمًا تجاه المساهمين. غالبًا ما يأخذون ما تقوله على نحو شخصي جدًا.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["كن ودودًا أو غادر"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 الآخرون ينظرون إليك للحصول على التوجيه. ضع مثالًا جيدًا. يمكنك التعبير عن خيبة أملك، أو عدم رضاك، أو قلقك، لكن افعل ذلك بهدوء.
 
@@ -223,13 +223,13 @@ related:
 
 في عملية consensus seeking، يناقش أعضاء المجتمع المخاوف الكبرى حتى يشعروا بأنهم قد تم الاستماع إليهم بشكل كافٍ. وعندما تبقى المخاوف طفيفة فقط، يمضي المجتمع قدمًا. "عملية consensus seeking أوالسعي للوصول إلى توافق" يعترف بأن المجتمع قد لا يتمكن من الوصول إلى إجابة مثالية، بل يعطي أولوية للاستماع والنقاش.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   جزء من سبب عدم وجود نظام تصويت لـ Atom Issues هو أن فريق Atom لن يتبع نظام التصويت في جميع الحالات. أحيانًا علينا اختيار ما نراه صحيحًا حتى لو كان غير شعبي. (...) ما يمكنني تقديمه والتعهد به... هو أن وظيفتي هي الاستماع إلى المجتمع.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm عن عملية اتخاذ القرار في Atom
   </p>
-</aside>
+</div>
 
 حتى لو لم تعتمد فعليًا عملية consensus seeking، كمُشرف على المشروع ، من المهم أن يعلم الناس أنك تستمع إليهم. جعل الآخرين يشعرون بأنهم مسموعون والالتزام بحل مخاوفهم يساعد كثيرًا في تهدئة المواقف الحساسة. ثم تابع كلماتك بأفعال.
 
@@ -249,13 +249,13 @@ related:
 
 إذا كان واضحًا أن النقاش لا يؤدي إلى أي مكان، أو لا توجد خطوات واضحة للقيام بها، أو تم اتخاذ الإجراء المناسب بالفعل، أغلق الـ issue واشرح سبب إغلاقه.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   توجيه النقاش نحو الفائدة دون أن تكون متسلطًا هو فن. لا يجدي نفعًا أن توبيخ الناس ببساطة للتوقف عن إضاعة وقتهم، أو أن تطلب منهم عدم النشر إلا إذا كان لديهم شيء بناء ليقولوه. (...) بدلًا من ذلك، عليك اقتراح شروط للتقدم: أعط الناس مسارًا أو طريقًا يؤدي إلى النتائج التي تريدها، دون أن يبدو أنك تملي عليهم كيفية التصرف.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_إنتاج البرمجيات المفتوحة المصدر (Producing OSS)_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### اختر معاركك بحكمة
 

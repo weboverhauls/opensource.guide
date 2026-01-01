@@ -37,12 +37,12 @@ Inserisci un file CODE_OF_CONDUCT nella directory principale del tuo progetto e 
 
 ## Decidi come applicherai il tuo codice di condotta
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Un codice di condotta non applicato (o inapplicabile) è peggio di nessun codice di condotta: invia il messaggio che i valori del codice di condotta non sono realmente importanti o rispettati nella tua comunità.
   <p markdown="1" class="pquote-credit">
 — [Iniziativa di Ada](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 È necessario spiegare come verrà applicato il codice di condotta **_prima_** di una violazione. Ci sono diversi motivi per farlo:
 
@@ -72,12 +72,12 @@ Il membro della comunità in questione potrebbe essere un recidivo che mette cos
 
 Prima di rispondere, concediti il ​​tempo di capire cosa è successo. Leggi i commenti e le conversazioni passate della persona per capire meglio chi è e perché potrebbe essersi comportato in quel modo. Prova a raccogliere punti di vista diversi dal tuo su questa persona e sul suo comportamento.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Non entrare in una discussione. Non esitare ad affrontare il comportamento di qualcun altro prima di aver finito di esaminare la questione. Concentrati su ciò di cui hai bisogno.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["Quindi avete una politica. E adesso?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Intraprendi le azioni appropriate
 

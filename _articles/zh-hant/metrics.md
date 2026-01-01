@@ -97,13 +97,13 @@ redirect_from: /zh-tw/metrics/
 
 * **不同種類的貢獻者：** 比如說，提交代碼，修復筆誤或者bug，或者在issue下面評論。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
 開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。
   <p markdown="1" class="pquote-credit">
 — @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
 </p>
-</aside>
+</div>
 
 ## 維護者活躍度
 

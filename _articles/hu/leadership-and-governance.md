@@ -30,25 +30,25 @@ A karbantartó nem feltétlen szükséges, hogy olyan ember legyen aki kódot í
 
 **"Résztvevő" akárki lehet** aki kommentez egy hibát vagy egy beolvasztási kérelmet, vagy más értéket ad a projekthez (megold egy hibát, kódot ír, vagy eseményeket szervez), vagy bárki, akinek a módosítását beolvasztották a projektbe (talán ez a legszűkebb definíció).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Node.js,\] esetén mindenki, aki megjelenik mint kommentelő egy hibánál, vagy mint programozó hozzájárul a kódhoz, az a projekt közösségének tagjává válik. Látni lehet, ahogy felhasználóból a projekt résztvevőivé válnak az emberek.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **A "committer" fogalma** segít abban, hogy megkülönböztethessük a kódhoz való hozzáférést, mint speciális felelősséget attól, amelyet más résztvevői típusok képviselnek.
 
 Bármilyen szerepkört definiálhatsz a projektedben, de [fontold meg a tágabb definíciók használatát](../how-to-contribute/#mit-jelent-a-hozzájárulás) hogy a közreműködés más formáit is ösztönözd. Használhatsz vezetői szerepeket, hogy hivatalosan elismerd azokat a személyeket, akik kiemelkedő mennyiségű munkát fektettek a projektbe, függetlenül a technikai készségeiktől.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Úgy ismerhetsz, mint a Django feltalálója ... de a valóságban én csak egy alkalmazott srác voltam, aki egy évvel azután kezdett rajta dolgozni, miután már kész volt. (...) Az emberek azt feltételezik, hogy a programozási készségem miatt vagyok sikeres ... de a legjobb esetben is egy átlagos programozó vagyok.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Hogyan formalizálhatom ezeket a vezetői szerepeket?
 
@@ -60,12 +60,12 @@ Nagyobb projekt esetén, ha van weboldala, hozz létre egy csapatoldalt, ahol be
 
 Ha a projektben nagyon aktív a közreműködő közösség, akkor a "karbantartók" szűkebb köre vagy akár albizottságok alakulhatnak ki, akik a különböző problémakörök (például biztonsági, problémamegoldó vagy közösségi magatartás) kezelését vállalják. Hagyd, hogy az emberek önszerveződjenek és önkéntesek jelentkezzenek azokért a szerepekért, amelyeket a legjobban szeretnének.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   A központi csapatot számos "alcsoporttal" egészítettük ki. Minden alcsoportnak saját területe van, például nyelvi tervezés vagy a programozói könyvtárak. (...) Minden egyes alcsoportot a központi csapat egy tagja vezeti, ezzel biztosítjuk a globális koordinációt és az egész projekt egységes, koherens vízióját.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 A vezetői csapatok egy kijelölt csatornát hozhatnak létre (például IRC) vagy találkozhatnak rendszeresen egyéb projekt megbeszéléseken (mint a Gitter vagy Google Hangout). Akár nyilvánosak is lehetnek ezek, így a többi résztvevő is láthatja. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), például, [minden héten időt biztosít erre](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ Másrészről, különösen komplex és nagy projektek esetén, csak azoknak az 
 
 Ha a projekt a GitHub-on van, használhatsz [védett kód ágakat (branch)](https://help.github.com/articles/about-protected-branches/), melyekkel szabályozni tudod, hogy kik és milyen feltételekkel olvaszthatnak be kódot egy kód ágra.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Amikor valaki küld egy beolvasztási kérelmet, adj neki a projekthez commit jogot. Bár elsőre nagyon rossz ötletnek tűnik, ennek a stratégiának a használata megmutatja a GitHub valódi erejét. (...) Miután az emberek önállóan tudnak commit-olni, többé nem aggódnak azon, hogy nem kerül be a kódjuk a projektbe ... ez pedig sokkal több hozzájárulást jelent.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Melyek a nyílt forráskódú projektek közös irányítási struktúrái?
 
@@ -115,13 +115,13 @@ Néhány korai dokumentáció azonban elkerülhetetlenül hozzásegít a projekt
 
 Mielőtt olyan nyílt forráskódú projektet indítasz, amelyet a céged kezdeményez, mindenképpen érdemes megvitatni és tisztázni a céges elvárásokat a karbantartással és döntéshozatallal kapcsolatosan, hogy a projekt gördülékenyen haladjon. Célszerű nyilvánosan elmagyarázni, hogy a vállalat hogyan (vagy épp nem) fog részt venni a projektben.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Kicsi csapatokat rendelünk a GitHub projektekhez, akik ezeken dolgoznak itt a Facebook-nál. Például a React projektet egy React mérnök vezeti.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Mi történik, ha vállalati alkalmazottaktól érkezik hozzájárulás?
 
@@ -145,12 +145,12 @@ Ha adományokat szeretnél kapni a nyílt forráskódú projektedért, elhelyezh
 
 Számos projekt nem vállalja a non-profit szervezet létrehozásával járó bonyodalmakat, ezért olyan támogatókat keresnek akik már non-profit jogi személyek. Ezek a szervezetek a te nevedben fogadhatnak el adományokat, általában némi részesedésért cserébe. A [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) és [Open Collective](https://opencollective.com/opensource) jó példák az ilyen non-profit támogató szervezetre.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Célunk, hogy olyan infrastruktúrát biztosítsunk, melynek segítségével a közösségek önfenntartók tudnak lenni, így olyan környezetet teremtünk, ahol mindenki - a közreműködők, a támogatók, a szponzorok - kézzelfogható előnyökhöz jut.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Ha a projekted egy adott programnyelvhez, vagy ökoszisztémához tartozik, akkor ezen területeken kell keresned a non-profit támogatókat. Például, a [Python Software Foundation](https://www.python.org/psf/) támogatja a [PyPI](https://pypi.org/), nevű Python csomagkezelőt, és a [Node.js Foundation](https://foundation.nodejs.org/) támogatja az [Express.js](https://expressjs.com/) nevű Node.js alapú webes keretrendszert.

@@ -12,7 +12,7 @@ related:
 
 ## De ce să contribui la open source?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Lucrând pe [freenode] m-a ajutat să obțin multe din aptitudinile pe care mai târziu le-am folosit pentru studiile mele la universitate și pentru locul de muncă actual. Cred că a lucra pe proiecte cu sursă deschisă mă ajută la fel de mult cât ajută proiectul!
@@ -25,7 +25,7 @@ related:
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Contribuind la open source poate fi un cale recompensantă de a învăța, a preda și a construi experiență în aproape oricare abilitate pe care ți-o poți imagina.
 
@@ -65,7 +65,7 @@ Nu te îngrijora! Există o mulțime mare de feluri de a te implica într-un pro
 
 O neînțelegere comună despre contribuirea la open source este că trebuie să contribui cu cod. De fapt, deseori sunt celelalte părți ale unui proiect care sunt [cele mai neglijate și omise](https://github.com/blog/2195-the-shape-of-open-source). Vei face proiectului o _gigantică_ favoare oferindu-te să pășești înăuntru cu aceste tipuri de contribuții!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Am fost renumit pentru munca mea pe CocoaPods, dar marea majoritate a oamenilor nu știu că eu de fapt nu fac nicio muncă reală pe unealta propriu-zisă CocoaPods. Timpul meu pentru proiect este în mare parte cheltuit făcând lucruri precum documentație și lucrul pe marcă.
@@ -78,7 +78,7 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
   <p markdown="1" class="pquote-credit">
 — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale grozavă de a te implica într-un proiect și de a întâlni alți membri ai comunității. Construind aceste relații îți va da oportunități de a lucra pe alte părți ale proiectului.
 
@@ -103,7 +103,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
 * Scrie tutoriale pentru proiect, [cum au făcut contribuitorii PyPA](https://packaging.python.org/)
 * Scrie o traducere pentru documentația proiectului
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Serios, [documentația] este mega-importantă. Documentația până acum a fost foarte bună și a fost o facilitate grozavă a Babel. Sunt secțiuni care sigur ar putea fi lucrate și chiar adăugarea unui paragraf aici sau acolo este extrem de apreciată.
@@ -116,7 +116,7 @@ Chiar dacă îți place să scrii cod, alte tipuri de contribuții sunt o cale g
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Îți place să organizezi?
 
@@ -157,7 +157,7 @@ Chiar dacă ești un dezvoltator software, lucrând pe un proiect de documentaț
 
 ## Orientându-te către un nou proiect
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Dacă mergi la un urmăritor de probleme și lucrurile par confuze, nu ești singur. Aceste unelte cer multe cunoștințe implicite, dar oamenii pot să te ajute să îl navighezi și poți să le pui întrebări.
@@ -170,7 +170,7 @@ Chiar dacă ești un dezvoltator software, lucrând pe un proiect de documentaț
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Pentru orice mai mult decât o corectare gramaticală, contribuind la open source este ca a merge la un grup de străini la o petrecere. Dacă începi să vorbești despre lame, în timp ce ei erau adânc într-o discuție despre peștișori de aur, probabil se vor uita la tine puțin ciudat.
 
@@ -387,7 +387,7 @@ Un proiect prietenos și primitor semnalează că ei vor fi receptivi la noi con
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   <p>
     De fiecare dată când vezi un fir de discuție lung, verifică pe loc răspunsurile dezvoltatorilor principali care vin târziu în discuție. Rezumă ei în mod constructiv, și fac pași să aducă discuția la o decizie rămânând în același timp politicoși? Dacă vezi multe războieli, acesta este deseori un semn că energia merge înspre ceartă în loc de dezvoltare.
@@ -400,7 +400,7 @@ Un proiect prietenos și primitor semnalează că ei vor fi receptivi la noi con
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Cum să trimiți o contribuție?
 
@@ -410,7 +410,7 @@ Ai găsit un proiect care îți place, și ești pregătit să faci o contribuț
 
 Fie că ești un contributor de o singură dată sau încerci să te alături unei comunități, lucrând cu alții este cea mai importantă abilitate pe care o vei dezvolta în open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   <p>
     [Ca și contributor nou,] Am realizat repede că trebuia să pun întrebări dacă voiam să fiu capabilă să închid problema. Am frunzărit codul. Odată ce am simțit ce are loc, am cerut mai multă îndrumare. Și iată! Am reușit să rezolv problema după ce am obținut toate detaliile relevante de care aveam nevoie.
@@ -423,7 +423,7 @@ Fie că ești un contributor de o singură dată sau încerci să te alături un
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Înainte de a deschide o problemă sau o cerere de pull, sau a întreba în chat, păstrează aceste puncte în minte pentru a-ți ajuta ideile să vină eficient.
 
@@ -479,7 +479,7 @@ Dacă nu-ți poți găsi ideea altundeva, ești pregătit să faci o mutare. Dac
 
 Dacă dorești să faci o contribuție substanțială, deschide o problemă și întreabă înainte de a lucra pe ea. Este de ajutor să urmăriți proiectul un timp (pe GitHub, [poți da clic pe "Watch"](https://help.github.com/articles/watching-repositories/) pentru a fi anunțat de toate conversațiile), și să începi să cunoști membrii comunității, înainte de a face muncă ce ar putea să nu fie acceptată.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Vei învăța <em>multe</em> din a alege un singur proiect pe care îl folosești în mod activ, „urmărindu-l” pe GitHub și citind oricare problemă și PR.
@@ -492,7 +492,7 @@ Dacă dorești să faci o contribuție substanțială, deschide o problemă și 
   <p markdown="1" class="pquote-credit">
 — @gaearon [despre alăturarea la proiecte](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Deschiderea unei probleme
 

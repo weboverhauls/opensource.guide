@@ -14,13 +14,13 @@ related:
 
 Sebilangan besar kerja sumber terbuka adalah sukarela. Sebagai contoh, seseorang mungkin menemui bug dalam projek yang mereka gunakan dan mengirimkan perbaikan cepat, atau mereka mungkin senang bermain-main dengan projek sumber terbuka di masa lapang mereka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Saya mencari projek pengaturcaraan "hobi" yang akan membuat saya sibuk sepanjang minggu sekitar Krismas. (...) Saya mempunyai komputer di rumah, dan tidak banyak yang lain di tangan saya. Saya memutuskan untuk menulis jurubahasa untuk bahasa skrip baru yang saya fikirkan akhir-akhir ini. (...) Saya memilih Python sebagai tajuk kerja.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Terdapat banyak sebab mengapa seseorang tidak mahu dibayar untuk pekerjaan sumber terbuka mereka.
 
@@ -28,35 +28,35 @@ Terdapat banyak sebab mengapa seseorang tidak mahu dibayar untuk pekerjaan sumbe
 * **Mereka gemar memikirkan sumber terbuka sebagai hobi** atau melarikan diri secara kreatif dan tidak ingin merasa berkewajiban dari segi kewangan untuk mengerjakan projek mereka.
 * **Mereka mendapat faedah lain dari memberikan sumbangan kepada sumber terbuka,** seperti membangun reputasi atau portfolio mereka, mempelajari kemahiran baru, atau merasa lebih dekat dengan komuniti.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Sumbangan kewangan menambah rasa tanggungjawab, bagi sebilangan orang. (...) Penting bagi kita, di dunia yang serentak dengan dunia pantas, di mana kita hidup, untuk dapat mengatakan "tidak sekarang, saya merasa seperti melakukan sesuatu yang sama sekali berbeza".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Bagi yang lain, terutamanya ketika sumbangan sedang berlangsung atau memerlukan masa yang besar, bayaran untuk menyumbang kepada sumber terbuka adalah satu-satunya cara mereka dapat mengambil bahagian, sama ada kerana projek itu memerlukannya, atau atas sebab peribadi.
 
 Menyelenggara projek popular boleh menjadi tanggungjawab yang besar, memakan masa 10 atau 20 jam seminggu dan bukannya beberapa jam sebulan.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Tanya mana-mana penyelenggara projek sumber terbuka, dan mereka akan memberitahu anda mengenai realiti jumlah kerja yang diperlukan untuk menguruskan projek. Anda mempunyai pelanggan. Anda sedang menyelesaikan masalah untuknya. Anda membuat ciri baru. Ini menjadi permintaan sebenar pada masa anda.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Pekerjaan bergaji juga membolehkan orang dari pelbagai lapisan masyarakat memberikan sumbangan yang bermakna. Sebilangan orang tidak mampu meluangkan masa yang belum dibayar untuk projek sumber terbuka, berdasarkan kedudukan kewangan semasa, hutang, atau keluarga atau kewajipan menjaga mereka yang lain. Ini bermakna dunia tidak pernah melihat sumbangan daripada orang-orang berbakat yang tidak dapat meluangkan masa mereka secara sukarela. Ini mempunyai implikasi etika, seperti @ashedryden [has described](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), kerana pekerjaan yang dilakukan berat sebelah memihak kepada mereka yang sudah mempunyai kelebihan dalam hidup, yang kemudian memperoleh kelebihan tambahan berdasarkan sumbangan sukarelawan mereka, sementara yang lain yang tidak dapat menjadi sukarelawan kemudian tidak mendapat peluang kemudian, yang memperkuat saat ini kekurangan kepelbagaian dalam komuniti sumber terbuka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS memberikan faedah besar kepada industri teknologi, yang pada gilirannya, memberi manfaat kepada semua industri. (...) Namun, jika satu-satunya orang yang dapat memusatkan perhatiannya adalah orang yang beruntung dan yang taksub, maka ada potensi yang belum dimanfaatkan.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Sekiranya anda mencari sokongan kewangan, ada dua jalan yang perlu dipertimbangkan. Anda boleh membiayai masa anda sendiri sebagai penyumbang, atau anda dapat mencari dana organisasi untuk projek tersebut.
 
@@ -76,13 +76,13 @@ Banyak syarikat sedang mengembangkan program sumber terbuka untuk membina jenama
 
 Sekiranya syarikat anda melalui laluan ini, penting untuk menjaga batas antara aktiviti komuniti dan syarikat. Pada akhirnya, sumber terbuka mempertahankan dirinya melalui sumbangan daripada orang di seluruh dunia, dan itu lebih besar daripada satu syarikat atau lokasi mana pun.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Mendapat gaji untuk bekerja di sumber terbuka adalah peluang yang jarang dan luar biasa, tetapi anda tidak harus melepaskan semangat anda dalam proses ini. Kesungguhan anda adalah mengapa syarikat mahu membayar anda.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Sekiranya anda tidak dapat meyakinkan majikan anda untuk memprioritaskan pekerjaan sumber terbuka, pertimbangkan untuk mencari majikan baru yang mendorong sumbangan pekerja kepada sumber terbuka. Cari syarikat yang membuat dedikasi mereka untuk kerja sumber terbuka secara eksplisit. Sebagai contoh:
 
@@ -164,13 +164,13 @@ Apa sebenarnya yang akan anda capai dengan dana yang dicadangkan? Fokus pada pen
 
 Adakah pemegang dana mempunyai keperluan sekitar pengeluaran? Sebagai contoh, anda mungkin perlu menjadi bukan untung atau mempunyai penaja fiskal bukan untung. Atau mungkin dana mesti diberikan kepada kontraktor individu dan bukannya organisasi. Keperluan ini berbeza antara pemberi dana, jadi pastikan anda melakukan penyelidikan terlebih dahulu.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   Selama bertahun-tahun, kami menjadi sumber utama ikon mesra laman web, dengan komuniti lebih daripada 20 juta orang dan telah dipaparkan di lebih daripada 70 juta laman web, termasuk Whitehouse.gov. (...) Versi 4 adalah tiga tahun yang lalu. Teknologi laman web telah banyak berubah sejak itu, dan terus terang, Font Awesome semakin basi. (...) Itulah sebabnya kami memperkenalkan Font Awesome 5. Kami memodenkan dan menulis semula CSS dan merancang semula setiap ikon dari atas ke bawah. Kami bercakap reka bentuk yang lebih baik, konsistensi yang lebih baik, dan mudah dibaca.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Eksperimen dan jangan menyerah
 

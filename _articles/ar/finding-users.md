@@ -32,12 +32,12 @@ related:
 
 ## ساعد الأشخاص في العثور على مشروعك ومتابعته
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   من الناحية المثالية، تحتاج إلى عنوان URL "رئيسي" واحد يمكنك الترويج له وتوجيه الأشخاص إليه فيما يتعلق بمشروعك. لا تحتاج إلى إنفاق الكثير من المال على قالب فاخر أو حتى اسم نطاق، ولكن مشروعك يحتاج إلى نقطة محورية.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["كيفية نشر الخبر عن الكود الخاص بك"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 ساعد الأشخاص في العثور على مشروعك وتذكره من خلال توجيههم إلى مساحة اسم واحدة.
 
@@ -45,13 +45,13 @@ related:
 
 إذا كنت لا ترغب في إنشاء منافذ لمشروعك حتى الآن، فقم بالترويج لحسابك الخاص على Twitter أو GitHub في كل ما تفعله. إن الترويج لحسابك على Twitter أو GitHub سيسمح للأشخاص بمعرفة كيفية الاتصال بك أو متابعة عملك. إذا كنت تتحدث في اجتماع أو حدث، فتأكد من تضمين معلومات الاتصال الخاصة بك في سيرتك الذاتية أو شرائحك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   كان الخطأ الذي ارتكبته في تلك الأيام الأولى (...) هو عدم إنشاء حساب Twitter للمشروع. يُعد Twitter وسيلة رائعة لإبقاء الأشخاص على اطلاع دائم بمشروع ما، فضلاً عن تعريف الأشخاص بالمشروع باستمرار.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["تاريخ عاصفة Apache والدروس المستفادة"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **فكر في إنشاء موقع إلكتروني لمشروعك.** يجعل موقع الويب مشروعك أكثر سهولة ويسرًا في التصفح، خاصةً عندما يقترن بوثائق وبرامج تعليمية واضحة. كما أن وجود موقع ويب يشير إلى أن مشروعك نشط، مما يجعل جمهورك يشعر براحة أكبر عند استخدامه. قدم أمثلة لتزويد الأشخاص بأفكار حول كيفية استخدام مشروعك.
 
@@ -69,13 +69,13 @@ related:
 
 استفد من المجتمعات والمنصات الموجودة على الإنترنت للوصول إلى جمهورك. إذا كان مشروعك مفتوح المصدر مشروعًا برمجيًا، فمن المحتمل أن تجد جمهورك على [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), أو [Quora](https://www.quora.com/). ابحث عن القنوات التي تعتقد أن الأشخاص سيستفيدون منها أكثر أو سيكونون متحمسين لعملك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   كل برنامج له وظائف محددة للغاية لن يجدها مفيدة سوى عدد قليل من المستخدمين. لا ترسل رسائل غير مرغوب فيها إلى أكبر عدد ممكن من الأشخاص. بدلاً من ذلك، ركز جهودك على المجتمعات التي ستستفيد من معرفة مشروعك.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["التسويق للمشاريع مفتوحة المصدر"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 انظر إذا كان بإمكانك العثور على طرق لمشاركة مشروعك بالطرق :
 
@@ -95,37 +95,37 @@ related:
 
 إذا كنت [جديد في مجال الخطابة](https://speaking.io/), ابدأ بالبحث عن لقاء محلي يتعلق بلغة أو نظام مشروعك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   كنت متوترة جدًا بشأن الذهاب إلى PyCon. كنت سألقي محاضرة، ولم أكن أعرف سوى شخصين هناك، وكنت سأبقى لمدة أسبوع كامل. (...) لكن لم يكن عليّ أن أقلق. كان PyCon رائعًا للغاية! (...) كان الجميع ودودين ومتفتحين للغاية، لدرجة أنني نادرًا ما وجدت وقتًا لا أتحدث فيه مع الناس!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["كيف تعلمت التوقف عن القلق وحبPyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 إذا لم يسبق لك التحدث في أي مناسبة من قبل، فمن الطبيعي أن تشعر بالتوتر! تذكر أن جمهورك موجود هناك لأنه يرغب حقًا في الاستماع إلى ما ستقوله عن عملك.
 
 عند كتابة خطابك، ركز على ما سيجده جمهورك مثيرًا للاهتمام وذا قيمة. استخدم لغة ودية وميسّرة. ابتسم، تنفس، واستمتع.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   عندما تبدأ في كتابة خطابك، بغض النظر عن موضوعه، قد يكون من المفيد أن تنظر إلى خطابك على أنه قصة ترويها للناس.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["كيفية إعداد وكتابة خطاب في مؤتمر تقني"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 عندما تشعر أنك مستعد، فكر في التحدث في مؤتمر لترويج مشروعك. يمكن أن تساعدك المؤتمرات في الوصول إلى المزيد من الأشخاص، وأحيانًا من جميع أنحاء العالم.
 
 ابحث عن المؤتمرات التي تخص لغتك أو نظامك البيئي. قبل أن ترسل محاضرتك، ابحث عن المؤتمر لتكييف محاضرتك مع الحضور وزيادة فرص قبولك للتحدث في المؤتمر. غالبًا ما يمكنك التعرف على جمهورك من خلال الاطلاع على المتحدثين في المؤتمر.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   كتبت رسالة لطيفة جدًا إلى القائمين على مؤتمر JSConf ورجوتهم أن يمنحوني فرصة لتقديم عرضي في مؤتمر JSConf. (...) كنت خائفة جدًا من تقديم هذا العمل الذي كنت أعمل عليه لمدة ستة أشهر. (...) طوال الوقت كنت أفكر، يا إلهي. ماذا أفعل هنا؟
   <p markdown="1" class="pquote-credit">
 — @ry, [”تاريخ Node.js“ (فيديو)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## بناء سمعة
 
@@ -133,13 +133,13 @@ related:
 
 إن مساعدة المبتدئين ومشاركة الموارد وتقديم مساهمات مدروسة لمشاريع الآخرين سيساعدك على بناء سمعة إيجابية. كونك عضوًا نشطًا في مجتمع المصادر المفتوحة سيساعد الناس على فهم سياق عملك ويجعلهم أكثر اهتمامًا بمشروعك ومشاركته. يمكن أن يؤدي تطوير العلاقات مع مشاريع المصادر المفتوحة الأخرى إلى شراكات رسمية.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   السبب الوحيد الذي يجعل urllib3 أكثر مكتبات Python الخارجية شيوعًا اليوم هو أنها جزء من الطلبات.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["كيف تجعل مشروعك مفتوح المصدر ناجحًا"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 ليس من المبكر أو المتأخر أبدًا أن تبدأ في بناء سمعتك. حتى لو كنت قد أطلقت مشروعك الخاص بالفعل، فاستمر في البحث عن طرق لمساعدة الآخرين.
 

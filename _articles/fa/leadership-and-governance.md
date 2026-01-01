@@ -30,25 +30,25 @@ related:
 
 **مشارکت‌کننده می‌تواند هر کسی باشد**: کسی که مسئله یا درخواست <span dir="rtl">«Pull»</span>ی را مطرح می‌کند، یا افرادی باشند که به پروژه ارزش می‌بخشند (خواه این که مسائل مربوط به اولویت‌بندی درخواست‌ها، نوشتن کد یا سازماندهی رویدادها باشد) یا هر کسی باشد که درخواست <span dir="rtl">«Pull»</span>ی را ادغام <span dir="rtl">(merge)</span> بکند (جزئی‌ترین تعریف از مشارکت‌کننده)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[در پروژه‌ی <span dir="rtl">Node.js</span>\]، هر شخصی که درباره یک موضوع اظهارنظر یا کدی را ارسال کند، عضوی از پروژه است. تنها دیدن نظرات یا ارسال کد به منزله‌ی عبور آن‌ها از فقط کاربر بودن به مشارکت‌کننده بودن است.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **اصطلاح «کامیت کننده»،** ممکن است برای وجه تمایز دسترسی کامیت، که نوع خاصی از مسئولیت در مقابل سایر اشکال مشارکت است، استفاده شود.
 
 در حالی که می‌توانید نقش‌ها را در پروژه‌ی خود به هر روشی که دوست دارید تعریف کنید، استفاده از تعاریف گسترده‌تر را برای تقویت اشکال بیشتری از مشارکت، [مد نظر خود قرار دهید](../how-to-contribute/#مشارکت-به-چه-معناست). شما می‌توانید از نقش‌های مدیریتی برای شناسایی رسمی افرادی که مشارکت برجسته‌ای به پروژه‌ی شما کرده‌اند، صرف نظر از مهارت‌های فنی آن‌ها استفاده کنید
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   ممکن است من را به عنوان سازنده‌ی <span dir="rtl">«Django»</span> بشناسید... اما در واقع من کسی هستم که یک سال بعد از ساخت <span dir="rtl">«Django»</span>، برای کار در بخشی از آن استخدام شدم. (...)مردم فکر می‌کنند به دلیل مهارت برنامه‌نویسی است که موفق شدم... اما در بهترین حالت می‌توان گفت که من یک برنامه‌نویس متوسط هستم.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## چگونه به این نقش‌های مدیریتی، رسمیت ببخشیم؟
 
@@ -60,12 +60,12 @@ related:
 
 اگر پروژه‌ی شما دارای جامعه‌ی مشارکت‌کننده‌ی بسیار فعالی است، شما می‌توانید یک «تیم اصلی» از نگهدارنده‌ها، یا حتی کمیته‌های فرعی از افرادی که مالکیت حوزه‌های  موضوعات مختلف را دارند (به عنوان مثال، امنیت، اولویت‌بندی درخواست‌ها یا هدایت اجتماع) تشکیل دهید. به جای اینکه به هر کسی، وظایف خاصی را محول کنید، بگذارید افراد خودشان، برای نقش‌هایی که بیشتر از همه هیجان زده‌اند سازمان یابند و داوطلب شوند.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[ما\] تیم اصلی را با چندین «زیرگروه (گروه‌های فرعی)» تکمیل می‌کنیم. هر زیرگروه، بر روی حوزه‌ای خاص متمرکز می‌شود، به عنوان مثال، طراحی زبان یا کتابخانه‌ها. (…)به منظور اطمینان از هماهنگی کلی و داشتن چشم‌اندازی قوی و منسجم برای کل پروژه، هر زیرگروه توسط یکی از اعضای تیم اصلی هدایت می‌شود
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 تیم‌های مدیریت، ممکن است بخواهند کانالی مشخص (مانند <span dir="rtl">IRC</span>) ایجاد کنند یا به طور منظم برای بحث درمورد پروژه با هم ملاقات کنند (مانند <span dir="rtl">Gitter</span> یا <span dir="rtl">Google Hangout</span>). حتی می‌توانید آن جلسات را علنی برگزار کنید تا سایر افراد بتوانند گوش دهند. به عنوان مثال، [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) همچین کاری می‌کند
 
@@ -83,13 +83,13 @@ related:
 
 اگر پروژه‌ی شما در <span dir="rtl">«GitHub»</span> است، می توانید از شاخه‌های محافظت شده [protected branches](https://help.github.com/articles/about-protected-branches/) برای مدیریت افرادی که می‌توانند تحت شرایط خاصی در شاخه‌ای خاص عمل کنند، استفاده کنید
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   هر زمان کسی درخواست <span dir="rtl">«Pull»</span>ی را برای شما ارسال کرد، به او اجازه‌ی دسترسی کامیت به پروژه را بدهید. اگرچه ممکن است در ابتدا بسیار احمقانه به نظر برسد، اما استفاده از این استراتژی به شما این امکان را می‌دهد تا قدرت واقعی <span dir="rtl">«GitHub»</span> را تجربه کنید. (...)به محض دسترسی کامیت افراد، آن‌ها دیگر نگران این نیستند که <span dir="rtl">«patch»</span>هاشان ادغام نشود و باعث زحمت و کار زیادی برای آن‌ها شود.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## برخی از ساختارهای نظارتی متداول برای پروژه‌های متن باز چیست؟
 
@@ -115,13 +115,13 @@ related:
 
 اگر شما عضوی از شرکتی هستید که پروژه‌ای متن باز راه‌اندازی می‌کند، بد نیست قبل از راه‌اندازی، بحثی درون‌سازمانی درباره نحوه‌ی نگهداری شرکت و تصمیم‌گیری در مورد پیشرفت پروژه داشته باشید. همچنین بهتر است در مورد مسیری که شرکت شما در رابطه با پروژه پیش خواهد گرفت، به صورت علنی صحبت دهید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
  ما تیم‌های کوچکی را برای مدیریت پروژه‌ها در <span dir="rtl">«GitHub»</span> اختصاص می‌دهیم که در واقع در فیس‌بوک نیز بر روی آن‌ها کار می‌کنند. برای مثال، پروژه‌ی <span dir="rtl">«React»</span> توسط <span dir="rtl">«React engineer»</span>، اداره می‌شود.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## اگر کارمندان شاغل در شرکت شروع به ارائه‌ی خدمات کنند، چه می‌شود؟
 
@@ -145,12 +145,12 @@ related:
 
 بسیاری از پروژه‌ها مایل به پذیرفتن مشکلات ناشی از ایجاد سازمانی غیرانتفاعی نیستند، بنابراین در عوض یک حامی مالی غیرانتفاعی پیدا می‌کنند. یک حامی مالی، معمولاً در ازای درصدی از کمک مالی، کمک‌های مالی را از طرف شما قبول می‌کند. [Software Freedom Conservancy](https://sfconservancy.org/)،[Apache Foundation](https://www.apache.org/) ،[Eclipse Foundation](https://eclipse.org/org/) ، [Linux Foundation](https://www.linuxfoundation.org/projects) و [Open Collective](https://opencollective.com/opensource)، نمونه‌هایی از سازمان‌ها هستند که به عنوان حامی‌های مالی در پروژه‌های متن باز فعالیت می‌کنند
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   هدف ما فراهم آوردن زیرساختی است که اجتماع‌هامان <span dir="rtl">(communities)</span> بتوانند از آن برای پایداری خود استفاده کنند، بنابراین محیطی ایجاد می‌کنیم که همه - مشارکت‌کنندگان، پشتیبانان، حامیان مالی - از مزایای آن بهره‌مند شوند
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 اگر پروژه‌ی شما رابطه‌ی نزدیکی با زبان یا اکوسیستم خاصی داشته باشد، ممکن است پیش‌زمینه‌ی نرم‌افزاری مرتبط با آن وجود داشته باشد که بتوانید با آن کار کنید. به عنوان مثال، [Python Software Foundation](https://www.python.org/psf/) از [PyPI](https://pypi.org/) پشتیبانی می‌کند، [Python package manager](https://www.python.org/psf/) و [Node.js Foundation](https://foundation.nodejs.org/) به [Express.js](https://expressjs.com/)، که مبتنی بر Node است، کمک می‌کند.

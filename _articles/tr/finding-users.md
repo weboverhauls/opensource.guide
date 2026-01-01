@@ -30,12 +30,12 @@ Mesajlaşmaya daha derin bir dalış yapmak için Mozilla'nın ["Personas and Pa
 
 ## İnsanların projenizi bulmasına ve takip etmesine yardımcı olun
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   İdeal olarak, insanları projenizle ilgili olarak tanıtabileceğiniz ve işaret edebileceğiniz tek bir "anasayfa" URL'sine ihtiyacınız var. Süslü bir şablona, hatta etkili bir alan adına sahip olmanıza gerek yoktur, ancak projenizin bir odak noktasına ihtiyacı vardır.
   <p markdown="1" class="pquote-credit">
 - Peter Cooper ve Robert Nyman, ["Kodunuzun Mesajı Nasıl Yayılır"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 İnsanların projenizi tek bir alana işaret ederek bulup hatırlamalarına yardımcı olun.
 
@@ -43,13 +43,13 @@ Mesajlaşmaya daha derin bir dalış yapmak için Mozilla'nın ["Personas and Pa
 
 Henüz projeniz için iletişim noktaları kurmak istemiyorsanız, yaptığınız her şeyde kendi Twitter veya GitHub hesabınızı tanıtın. Twitter veya GitHub hesabınızı tanıtmak, insanların sizinle nasıl iletişim kurabileceklerini veya işlerinizi takip etmelerini sağlayacaktır. Bir buluşma veya etkinlikte konuşuyorsanız, iletişim bilgilerinizin biyo veya slaytlarınıza eklendiğinden emin olun.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   Bu ilk günlerde yaptığım bir hata (...) proje için Twitter hesabı oluşturmamaktı. Twitter, insanları bir proje hakkında güncel tutmak ve insanları projeyle sürekli iletişimde bırakmak için harika bir yol.
   <p markdown="1" class="pquote-credit">
 - @nathanmarz, ["Apache Storm'un ve Öğrenilen Derslerin Tarihi"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Projeniz için bir web sitesi oluşturmayı düşünün.** Bir web sitesi, projenizi daha net hale getirir ve özellikle açık belgeler ve eğitimlerle desteklendiğinde gezinmeyi kolaylaştırır. Bir web sitesine sahip olmak, projenizin aktif olduğunu ve bu sayede hedef kitlenizin kendisini daha rahat hissetmesini sağlayacaktır. İnsanlara projenizi nasıl kullanacakları hakkında fikir vermek için örnekler verin.
 
@@ -67,13 +67,13 @@ Artık projeniz için bir mesajınız ve insanların projenizi bulmaları için 
 
 Hedef kitlenize ulaşmak için mevcut çevrimiçi topluluklardan ve platformlardan yararlanın. Açık kaynaklı projeniz bir yazılım projesiyse, kitlenizi [Stack Overflow](https://stackoverflow.com/) , [Reddit](https://www.reddit.com) , [Hacker News](https://news.ycombinator.com/) veya [Quora](https://www.quora.com/)'da bulabilirsiniz. İnsanların işinizden en çok faydalanabileceğini veya heyecanlanacağını düşündüğünüz kanalları bulun.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   Her programın, kullanıcıların yalnızca bir kısmının yararlı bulacağı çok özel işlevleri vardır. Mümkün olduğunca çok insana spam yapmayın. Bunun yerine, çabalarınızı projeniz hakkında bilgi sahibi olmaktan yararlanacak topluluklara hedefleyin.
   <p markdown="1" class="pquote-credit">
 - @pazdera, ["Açık kaynak projeleri için pazarlama"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Projenizi ilgili kanallarda paylaşmanın yollarını bulabilecek misiniz bir bakın:
 
@@ -93,37 +93,37 @@ Genel olarak konuşursak, karşılığında bir şey istemeden önce başkaları
 
 [Topluluk karşısında konuşma konusunda](https://speaking.io/) yeniyseniz, projenizin dili veya ekosistemiyle ilgili yerel bir buluşma bularak başlayın.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   PyCon'a giderken oldukça gergindim. Bir konuşma yapıyordum, sadece birkaç kişiyi tanıyacaktım, bir hafta boyunca gidecektim. (...) Yine de bu kadar endişelenmemeliydim. PyCon olağanüstü bir harikaydı! (...) Herkes inanılmaz derecede cana yakın ve paylaşımcıydı, o kadar ki nadiren ben de konuşmak için fırsat bulabildim!
   <p markdown="1" class="pquote-credit">
 - @jhamrick, ["Endişelenmeyi Durdurmayı ve PyCon'u Sevmeyi Nasıl Öğreniyorum"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Daha önce topluluk önünde konuşmadıysanız, gergin hissetmek tamamen normaldir! İzleyicilerinizin sizin için orada olduğunu unutmayın, çünkü işinizi gerçekten duymak istiyorlar.
 
 Konuşmanızı yazarken, izleyicilerinizin ilginç bulacağı ve değer kazanacağı şeylere odaklanın. Dilinizi arkadaşça ve ulaşılabilir tutun. Gülümseyin, nefes alın ve eğlenin.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   Konuşmanızı yazmaya başladığınızda, konunuz ne olursa olsun, konuşmanızı insanlara anlattığınız bir hikaye olarak görmeniz yararlı olabilir.
   <p markdown="1" class="pquote-credit">
 - Lena Reinhard, ["Teknik Konferans Konuşması Nasıl Hazırlanır ve Yazılır"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Hazır olduğunuzda, projenizi tanıtmak için bir konferansta konuşmayı düşünün. Konferanslar, bazen dünyanın her yerinden daha fazla insana ulaşmanıza yardımcı olabilir.
 
 Dilinize veya ekosisteminize özgü konferansları arayın. Konuşmanızı göndermeden önce, konuşmanızı katılımcılar için uyarlamak ve konferansta konuşma kabul etme şansınızı artırmak için konferansı araştırın. Konferansın konuşmacılarına bakarak, izleyicilerinizi daha kolay anlayabilirsiniz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   JSConf insanlarına çok hoş bir şekilde yazdım ve bana JSConf AB'de sunabileceğim bir yer vermeleri için yalvardım. (...) Altı aydır üzerinde çalıştığım bu şeyi sunarken son derece korktum. (...) Bütün konuşma sırasında şunu düşündüm. Aman tanrım, burada ne yapıyorum?
   <p markdown="1" class="pquote-credit">
 - @ry, ["Node.js'nin Hikayesi" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&amp;t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Bir itibar oluşturun
 
@@ -131,13 +131,13 @@ Yukarıda belirtilen stratejilere ek olarak, insanları projenizi paylaşmaya ve
 
 Yeni gelenlere yardım etmek, kaynakları paylaşmak ve başkalarının projelerine anlamlı katkılar yapmak olumlu bir itibara kavuşmanıza yardımcı olacaktır. Açık kaynak topluluğunda aktif bir üye olmak, insanların çalışmanız için bağlam oluşturmasına yardımcı olacak ve projenize dikkat etme ve paylaşma olasılıkları artacaktır. Diğer açık kaynaklı projelerle ilişkilerin geliştirilmesi resmi ortaklıklara yol açabilir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   Urllib3'ün günümüzdeki en popüler üçüncü parti Python kütüphanesi olmasının tek nedeni isteklerin parçası olmasıdır.
   <p markdown="1" class="pquote-credit">
 - @shazow, ["Açık kaynak projeniz nasıl gelişir?"](Https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 İtibarınızı oluşturmak için asla çok erken veya geç değildir. Kendi projenizi daha önce başlatmış olsanız bile, başkalarına yardım etmenin yollarını aramaya devam edin.
 

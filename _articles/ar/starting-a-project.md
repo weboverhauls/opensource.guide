@@ -26,13 +26,13 @@ related:
 
 ### لماذا يفتح الناس مصدر أعمالهم؟
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
   واحدة من أكثر التجارب المجزية التي أحصل عليها من استخدام والتعاون في المصادر المفتوحة تأتي من العلاقات التي أبنيها مع مطورين آخرين يواجهون العديد من نفس المشاكل التي أواجهها.
   <p markdown="1" class="pquote-credit">
 — @kentcdodds, ["كيف كان الدخول إلى المصادر المفتوحة رائعًا بالنسبة لي"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
   </p>
-</aside>
+</div>
 
 [هناك العديد من الأسباب](https://ben.balter.com/2015/11/23/why-open-source/) التي قد تجعل شخصًا أو منظمة يرغب في فتح مصدر مشروع. بعض الأمثلة تشمل:
 
@@ -70,13 +70,13 @@ related:
 
 إذا كان هدفك الوحيد هو إظهار عملك، فقد لا تريد حتى مساهمات، بل وحتى تقول ذلك في ملف <span dir='ltr' markdown="1">README</span> الخاص بك. من ناحية أخرى، إذا كنت تريد مساهمين، فستستثمر الوقت في توثيق واضح وجعل الوافدين الجدد يشعرون بالترحيب.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
   في مرحلة ما أنشأت UIAlertView مخصصًا كنت أستخدمه... وقررت جعله مفتوح المصدر. لذلك قمت بتعديله ليكون أكثر ديناميكية ورفعته إلى GitHub. كتبت أيضًا توثيقي الأول لأشرح للمطورين الآخرين كيفية استخدامه في مشاريعهم. من المحتمل أن لا أحد استخدمه لأنه كان مشروعًا بسيطًا لكنني كنت أشعر بالرضا عن مساهمتي.
   <p markdown="1" class="pquote-credit">
 — @mavris, ["مطورو البرمجيات ذاتيو التعلم: لماذا المصادر المفتوحة مهمة لنا"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
   </p>
-</aside>
+</div>
 
 مع نمو مشروعك، قد يحتاج مجتمعك إلى أكثر من مجرد كود منك. الرد على issues، ومراجعة الكود، والترويج لمشروعك كلها مهام مهمة في مشروع مفتوح المصدر.
 
@@ -86,13 +86,13 @@ related:
 
 إذا كنت بحاجة إلى ميزانية مخصصة أو موظفين للترويج والعمليات وصيانة المشروع، ابدأ تلك المحادثات مبكرًا.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
   عندما تبدأ في فتح مصدر المشروع، من المهم التأكد من أن عمليات إدارتك تأخذ في الاعتبار المساهمات والقدرات للمجتمع المحيط بمشروعك. لا تخف من إشراك المساهمين غير الموظفين في نشاطك التجاري في الجوانب الرئيسية للمشروع - خاصة إذا كانوا مساهمين متكررين.
   <p markdown="1" class="pquote-credit">
 — @captainsafia, ["إذن تريد فتح مصدر مشروع، صحيح؟"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
   </p>
-</aside>
+</div>
 
 ### المساهمة في مشاريع أخرى
 
@@ -144,13 +144,13 @@ related:
 
 يمكنك استخدام README الخاص بك للإجابة على أسئلة أخرى، مثل كيفية التعامل مع المساهمات، وما هي أهداف المشروع، ومعلومات حول التراخيص والإسناد. إذا كنت لا تريد قبول المساهمات، أو أن مشروعك ليس جاهزًا بعد للإنتاج، اكتب هذه المعلومات.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
   توثيق أفضل يعني المزيد من المستخدمين، وطلبات دعم أقل، والمزيد من المساهمين. (...) تذكر أن قراءك ليسوا أنت. هناك أشخاص قد يأتون إلى مشروع لديهم تجارب مختلفة تمامًا.
   <p markdown="1" class="pquote-credit">
 — @tracymakes, ["الكتابة بحيث تُقرأ كلماتك (فيديو)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
-</aside>
+</div>
 
 في بعض الأحيان، يتجنب الناس كتابة README لأنهم يشعرون أن المشروع غير مكتمل، أو أنهم لا يريدون مساهمات. هذه كلها أسباب وجيهة جدًا لكتابة واحد.
 
@@ -190,13 +190,13 @@ related:
 
 ### إنشاء قواعد السلوك
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
   لقد مررنا جميعًا بتجارب واجهنا فيها ما كان على الأرجح سوء معاملة إما كمسؤول يحاول شرح لماذا يجب أن يكون شيء ما بطريقة معينة، أو كمستخدم... يطرح سؤالاً بسيطًا. (...) قواعد السلوك تصبح وثيقة يسهل الرجوع إليها وربطها والتي تشير إلى أن فريقك يأخذ الخطاب البناء على محمل الجد.
   <p markdown="1" class="pquote-credit">
 — @mlynch, ["جعل المصادر المفتوحة مكانًا أكثر سعادة"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
   </p>
-</aside>
+</div>
 
 أخيرًا، تساعد قواعد السلوك في وضع قواعد أساسية للسلوك لمشاركي مشروعك. هذا ذو قيمة خاصة إذا كنت تطلق مشروع مفتوح المصدر لمجتمع أو شركة. تمكّنك قواعد السلوك من تسهيل سلوك المجتمع الصحي والبنّاء، مما سيقلل من توترك كمسؤول.
 
@@ -241,13 +241,13 @@ related:
 
 سواء كانت وثائق رسمية أو بريدًا إلكترونيًا عاديًا، فإن أسلوب كتابتك هو جزء من علامة مشروعك التجارية. ضع في اعتبارك كيف قد تبدو لجمهورك وما إذا كانت هذه هي النبرة التي ترغب في نقلها.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   حاولت أن أشارك في كل موضوع في القائمة البريدية، وأظهر سلوكًا نموذجيًا، وأكون لطيفًا مع الناس، وأخذ مشاكلهم على محمل الجد وأحاول أن أكون مفيدًا بشكل عام. بعد فترة، التزم الناس ليس فقط لطرح الأسئلة، ولكن للمساعدة في الإجابة أيضًا، وكانت سعادتي كاملة، فقد قلدوا أسلوبي.
   <p markdown="1" class="pquote-credit">
 — @janl على [CouchDB](https://github.com/apache/couchdb), ["المصادر المفتوحة المستدامة"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 استخدام لغة دافئة وشاملة (مثل "هم"، حتى عند الإشارة إلى شخص واحد) يمكن أن يقطع شوطًا طويلاً في جعل مشروعك يبدو ترحيبيًا للمساهمين الجدد. التزم باللغة البسيطة، حيث قد لا يكون العديد من قرائك متحدثين أصليين للغة الإنجليزية.
 

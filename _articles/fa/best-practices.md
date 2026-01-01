@@ -38,13 +38,13 @@ related:
 
 به عنوان مثال، @lord، متوجه شد که داشتن چشم‌انداز پروژه به او کمک می‌کند تا بفهمد برای کدام درخواست‌ها وقت بگذارد. به عنوان یک نگهدارنده‌ی جدید، وقتی اولین درخواست خود را برای [Slate](https://github.com/lord/slate) دریافت کرد، از عدم پایبندی به اهداف پروژه‌ی خود پشیمان شد.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
  دستپاچه شدم. تلاشی نکردم تا به راه‌حلی کامل دست پیدا کنم. ای کاش به جای یک راه‌حل بی‌فکر، می‌گفتم: «الان برای این وقت ندارم، اما آن را به لیست بلند مدت خودم اضافه کردم».
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### انتظارات خود را اعلام کنید
 
@@ -95,13 +95,13 @@ related:
 
 اگر مشارکتی به شما پیشنهاد بشود که نخواهید آن را بپذیرید؛ اولین واکنش شما ممکن است نادیده گرفتن آن یا تظاهر به ندیدن آن باشد. انجام این کار می‌تواند به احساسات طرف مقابل ضربه بزند و حتی باعث کاهش انگیزه‌ی سایر مشارکت‌کنندگان بالقوه‌ی اجتماع (community) شما شود.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   نکته‌ی مهم در مدیریت پروژه‌های اوپن سورس در مقیاسی بزرگ، حرکت رو به جلو است. سعی کنید از ماندگاری مسائل و مشکلات، جلوگیری کنید. اگر توسعه‌دهنده‌ی iOS باشید، می‌دانید که این مسائل چقدر طاقت‌فرسا هستند. ممکن است 2 سال بعد دوباره این مسائل به سراغ شما بیاد و به شما گفته شود که با آخرین نسخه iOS دوباره امتحان کنید.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 مشارکت ناخواسته را صرف اینکه آدم خوبی به نظر برسید، ادامه ندهید زیرا در ادامه‌ی راه احساس گناه خواهید کرد. با گذشت زمان، مسائل و روابط عمومی بی‌پاسخ باعث می‌شود که کارتان روی پروژه بسیار استرس‌زا و ترسناک پیش برود.
 
@@ -141,13 +141,13 @@ related:
 
 اگرچه ممکن است در ابتدا این رویکرد کمی خشن به نظر برسد، اما فعال بودن برای هر دو طرف خوب است. در نتیجه این احتمال را کاهش می‌دهد که کسی ساعت‌های زیادی صرف «درخواست Pull»ی که شما آن را قبول نخواهید کرد، نکند. و ثانیا حجم کاری شما را نیز کمتر می‌کند و مدیریت آن ساده‌تر می‌شود
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
  بهتر است که به افراد متقاضی در یک فایل «CONTRIBUTING.md» توضیح دهید که چه چیزهایی مورد قبول و چه چیزهایی مورد قبول شما برای شروع کردن کارشان نیست.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 بعضی اوقات، وقتی نه می‌گویید، مشارکت‌کننده‌ی بالقوه ممکن است ناراحت شود یا از تصمیم شما انتقاد کند. اگر آن‌ها خصومت‌آمیز رفتار کردند و اگر نخواستند به طور سازنده همکاری کنند، [قدم‌هایی را برای خنثی کردن موقعیت](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) بردارید یا حتی آن‌ها را از اجتماع خودتان اخراج کنید.
 
@@ -171,13 +171,13 @@ related:
 
 همانطور که @lmccart در پروژه‌ی خود متوجه شد، تشویق دیگران [به اشتراک گذاشتن مالکیت پروژه](../building-community/#مالکیت-پروژه-تان-را-به-اشتراک-بگذارید) می‌تواند حجم کاری شما را بسیار کاهش دهد[p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   من می‌گفتم، «هر کسی می‌تواند در پروژه سهیم شود، لازم نیست که حتما مهارت زیادی در زمینه‌ی کدنویسی داشته باشید [...]» افرادی بودند که برای ورود به رویداد ما ثبت‌نام کردند و آن وقت بود که من واقعاً با خودم فکر کردم «آیا حرف‌هایی که می‌زدم واقعیت دارند؟» قرار هست که 40 نفر در رویداد حضور پیدا کنند و اینطور نیست که من بتوانم با هرکدام بنشینم و با آن‌ها صحبت کنم... اما مردم دور هم جمع شدند و خود به خود همه چی به خوبی پیش رفت. به محض اینکه یک نفر یاد گرفت، آن‌ها می‌توانند به یکدیگر یاد دهند.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 اگر لازم است کمی از پروژه‌ی خود فاصله بگیرید، یا وقفه‌ای در آن ایجاد کنید یا به طور کلی کنار بکشید؛ به هیچ وجه شرم‌آمور نیست که از شخص دیگری بخواهید مسئولیت کار شما را به عهده بگیرد.
 
@@ -193,13 +193,13 @@ related:
 
 به چند شاخه تقسیم کردن پروژه، الزاما چیز بدی نیست. امکان کپی و اصلاح پروژه‌ها، یکی از بهترین ویژگی‌های اوپن سورس بودن است. تشویق اجتماع (community) خودتان به کار بر روی شاخه‌های خودشان می‌تواند فضای خلاقانه‌ی مورد نیاز را فراهم آورد، بدون اینکه با چشم‌اندازهای پروژه‌ی شما تداخلی ایجاد کند.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   من زمینه‌ی 80% موارد کاربردی را فراهم می‌کنم.  اگر از کار خود اطمینان دارید، لطفا شاخه‌ای از پروژه‌ی من را بردارید. دلخور نخواهم شد! پروژه‌های عمومی من اکثرا برای حل رایج‌ترین مشکلات هستند؛ سعی می‌کنم با شاخه شاخه کردن کارم یا بسط دادن، آن را کاربردی‌تر بکنم.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 این موضوع همچنین درمورد کاربری صدق می‌کند که واقعاً نیاز به راه‌حلی دارد که ظرفیت طراحی آن را ندارید. ارائه‌ی APIها و هوک‌های سفارشی‌سازی (customization hooks)، بدون نیاز به تغییر مستقیم سورس، می‌توانند به دیگران در تأمین نیازهاشان کمک کنند. @orta [متوجه شد](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) که افزونه‌های پرورشی برای «CocoaPods» منجر به «برخی از جالب‌ترین ایده‌ها» شد:
 
@@ -219,13 +219,13 @@ related:
 
 اگر تست‌هایی اضافه کردید، حتماً نحوه‌ی کارکرد آن‌ها را در فایل «CONTRIBUTING» (مشارکت) خود توضیح دهید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   من معتقد هستم که تست‌ها برای همه‌ی کدهایی که افراد روی آن‌‌ها کار می‌کنند، لازم است. اگر کد کاملاً صحیح و سالم باشد، دیگر نیازی به تغییر نخواهد داشت - ما فقط درصورتی که مشکلی پیش آمده باشد کد می‌نویسیم؛ مگر در زمان‌هایی که کد «خراب شود» یا «فاقد فلان ویژگی باشد». و صرف نظر از تغییراتی که ایجاد می‌کنید، تست‌ها برای دستیابی به رگرسیون‌هایی که به طور تصادفی به وجود می‌آ‌ورید، ضروری است.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### از ابزارها برای اتوماتیک کردن کارهای ساده‌ی نگهداری استفاده کنید
 
@@ -261,13 +261,13 @@ related:
 
 درست مانند هر کار دیگری، تعطیلات منظم، شما را باطراوت نگه می‌دارد و باعث خوشحالی و هیجان شما نسبت به کارتان می‌شود.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   در حین نگهداری «WP CLI»، متوجه شدم که باید ابتدا خودم را خوشحال کنم و مرزهای مشخصی را برای مشارکت خودم تعیین کنم. بهترین تعادلی که پیدا کردم این بود که 2 تا 5 ساعت را در هفته صرف این مشارکت جدای از برنامه‌ی عادی کارم، بکنم. این باعث شد که اشتیاقم به این کار مانند روز اول باشد و آن حس اجباری بودن کار را بر روی دوش حس نکنم. از آنجا که من موضوعاتی که بر روی آن‌ها کار می‌کنم را اولویت‌بندی می‌کنم، می‌توانم مرتباً در آن کارهایی که از نظرم مهم هستند، پیشرفت داشته باشم.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://runcommand.io/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 گاهی اوقات، زمان‌هایی که حس می‌کنید همه به شما احتیاج دارند؛ ممکن است فاصله گرفتن از پروژه‌ی اوپن سورس سخت باشد. حتی ممکن است دیگران، شما را به خاطر فاصله گرفتن سرزنش کنند.
 

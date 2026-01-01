@@ -37,12 +37,12 @@ Placez un fichier CODE_OF_CONDUCT dans le répertoire racine de votre projet et 
 
 ## D&eacute;cider comment vous allez appliquer votre code de conduite
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Un code de conduite qui n'est pas (ou ne peut pas être) appliqué est pire qu'aucun code de conduite: il envoie le message que les valeurs du code de conduite ne sont pas vraiment importantes ou respectées dans votre communauté.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 Vous devrez expliquer comment votre code de conduite sera appliqué **_avant_** qu'une violation se produise. Il y a plusieurs raisons de le faire:
 
@@ -72,12 +72,12 @@ Le membre de la communauté en question peut être un récidiviste qui incite co
 
 Avant de répondre, donnez-vous le temps de comprendre ce qui s'est passé. Lisez les commentaires et les conversations passés de la personne pour mieux comprendre qui ils sont et pourquoi ils ont agi de cette façon. Essayez de recueillir des points de vues autres que le vôtre au sujet de cette personne et de son comportement.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Ne vous laissez pas entraîner dans une dispute. Ne vous laissez pas distraire par le comportement de quelqu'un d'autre avant d'avoir réglé le problème. Concentrez-vous sur ce dont vous avez besoin.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Prendre les mesures appropriées
 

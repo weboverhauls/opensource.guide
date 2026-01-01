@@ -13,13 +13,13 @@ Bakımcıların deneyimleri ve dengeyi bulma stratejileri hakkında bilgi edinme
 
 Kişisel ekoloji nedir? <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">Rockwood Leadership Institute</a>'nin tanımına göre, "<strong>enerjinizi uzun bir aktivizm süresince sürdürebilmek için dengeyi, tempoyu ve verimliliği korumak</strong>" anlamına gelir. Bu, bakımcıların katkılarını daha geniş bir ekosistemin parçası olarak görmelerine yardımcı oldu. Dünya Sağlık Örgütü'nün (WHO) tanımına göre kronik iş stresi sonucu ortaya çıkan tükenmişlik, bakımcılar arasında yaygındır. Bu durum motivasyon kaybı, odaklanamama ve katkıda bulunduğunuz topluluğa empati gösterememe ile sonuçlanabilir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   Bir göreve odaklanamıyor veya başlayamıyordum. Kullanıcılara empati gösteremiyordum.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, Owncast canlı yayın sunucusu bakımcısı
   </p>
-</aside>
+</div>
 
 Kişisel ekoloji kavramını benimseyerek, bakımcılar tükenmişliği önleyebilir, öz bakım önceliklerini koruyabilir ve dengeli bir şekilde en iyi işleri yapabilir.
 
@@ -35,33 +35,33 @@ Tükenmişliğe neyin sebep olduğunu anlamak önemlidir. Açık kaynak bakımc�
 
 * **Olumlu geri bildirim eksikliği:** Kullanıcılar yalnızca şikayetleri olduğunda iletişime geçer. Her şey iyi çalışıyorsa sessiz kalırlar. Giderek artan bir sorun listesi görmek, katkılarınızın fark yaratıp yaratmadığını gösteren geri bildirimlerin eksikliği moral bozabilir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   Bazen boşluğa bağırıyormuş gibi hissediyorum; geri bildirim almak beni gerçekten enerjilendiriyor. Birçok mutlu ama sessiz kullanıcı var.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, Apache Arrow bakımcısı
   </p>
-</aside>
+</div>
 
 * **'Hayır' diyememek:** Açık kaynak projesinde gereğinden fazla sorumluluk almak kolaydır. Kullanıcılardan, katkıda bulunanlardan veya diğer bakımcılardan gelen beklentilerle başa çıkmak zor olabilir.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   Gereğinden fazla iş üstlendiğimi ve birden fazla kişinin işini yapmak zorunda kaldığımı fark ettim.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, Termux bakımcısı
   </p>
-</aside>
+</div>
 
 * **Yalnız çalışmak:** Bakımcı olmak son derece yalnız bir süreç olabilir. Bir grup bakımcı ile çalışsanız bile, son birkaç yılda dağıtık ekipleri yüz yüze toplamak zor olmuştur.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   Özellikle COVID ve evden çalışmayla, kimseyi hiç görmemek veya konuşmamak daha zor hale geldi.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, Owncast bakımcısı
   </p>
-</aside>
+</div>
 
 * **Yetersiz zaman veya kaynak:** Gönüllü bakımcılar için, projeye çalışmak için kendi boş zamanlarını feda etmek zorunda kalmak yaygındır.
 

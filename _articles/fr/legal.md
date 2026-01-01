@@ -44,13 +44,13 @@ Vous avez de la chance, car aujourd'hui, les licences open source sont standardi
 
 Lorsque vous créez un nouveau projet sur GitHub, vous serez [invité à ajouter une licence](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
   Une licence standardisée sert de proxy pour ceux qui n'ont pas de formation juridique pour savoir précisément ce qu'ils peuvent et ne peuvent pas faire avec le logiciel. Sauf en cas d'absolue nécessité, évitez les termes personnalisés, modifiés ou non standard, qui constitueront un obstacle à l'utilisation en aval du code de l'agence.
   <p markdown="1" class="pquote-credit">
 — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## Quelle licence open source est appropri&eacute;e pour mon projet
 
@@ -94,13 +94,13 @@ Un accord de contribution supplémentaire - souvent appelé Accord de licence de
 
 En outre, en ajoutant de la "paperasse" jugée inutile, difficile à comprendre ou injuste (lorsque le destinataire obtient plus de droits que les contributeurs ou le public via la licence open source du projet), un accord de contribution supplémentaire peut être perçu comme inamical à la communauté du projet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
     Nous avons éliminé le CLA pour Node.js. Cela réduit la barrière à l'entrée pour les contributeurs Node.js, élargissant ainsi la base des contributeurs.
   <p markdown="1" class="pquote-credit">
 — @bcantrill, ["Broadening Node.js Contributions"](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 Certaines situations où vous pourriez envisager un accord de contribution supplémentaire pour votre projet incluent:
 
@@ -135,23 +135,23 @@ Si vous publiez le premier projet open source de votre entreprise, ce qui préc�
 
 * **Règles de contribution des employés :** Envisagez de développer une politique d'entreprise qui spécifie comment vos employés contribuent aux projets open source. Une politique claire réduira la confusion parmi vos employés et les aidera à contribuer à des projets open source dans le meilleur intérêt de l'entreprise, que ce soit dans le cadre de leur travail ou pendant leur temps libre. Un bon exemple est Rackspace [Modèle IP et Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   Laisser l'adresse IP associée à un correctif crée la base de connaissances et la réputation de l'employé. Cela montre que l'entreprise est investie dans le développement de cet employé et crée un sentiment d'autonomie et d'autonomie. Tous ces avantages mènent également à un meilleur moral et à une meilleure rétention des employés.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **Que publier :** [(Presque) tout ?](Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si votre équipe juridique comprend et est investie dans la stratégie open source de votre entreprise, ils seront les mieux placés pour vous aider plutôt que d'entraver vos efforts.
 * **Conformité :** Même si votre entreprise ne diffuse aucun projet open source, elle utilise le logiciel open source des autres. [Awareness and process](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) peut prévenir les maux de tête, les retards de produit et les poursuites judiciaires.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Les organisations doivent disposer d'une stratégie de licence et de conformité qui corresponde à la fois aux catégories \["permissive" et "copyleft"\]. Cela commence par garder une trace des conditions de licence qui s'appliquent aux logiciels open source que vous utilisez, y compris les sous-composants et les dépendances.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **Brevets :** Votre entreprise voudra peut-être rejoindre le [Open Invention Network](https://www.openinventionnetwork.com/), un pool de brevets défensif partagé pour protéger l'utilisation de projets open source majeurs par les membres, ou explorer une autre [licence alternative de brevet](https://www.eff.org/document/hacking-patent-system-2016).
 * **Gouvernance :** Surtout si et quand il est logique de transférer un projet à une [entité juridique extérieure à l'entreprise](../leadership-and-governance/#ai-je-besoin-dune-entit&eacute;-l&eacute;gale-pour-soutenir-mon-projet).

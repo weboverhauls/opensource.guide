@@ -12,13 +12,13 @@ related:
 
 ## Защо да допринасяте за отворен код?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Работата върху \[freenode\] ми помогна да спечеля много от уменията, които по-късно използвах за обучението си в университета и действителната си работа. Мисля, че работата по проекти с отворен код ми помага толкова, колкото и на проекта!
   <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Защо обичам да допринасям за софтуер с отворен код"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Приносът към отворен код може да бъде възнаграждаващ начин за учене, преподаване и изграждане на опит в почти всяко умение, което можете да си представите.
 
@@ -62,13 +62,13 @@ related:
 
 Често срещано погрешно схващане относно приноса към отворен код е, че трябва да допринесете с код. Всъщност често другите части на проекта са [най-пренебрегвани или пренебрегвани](https://github.com/blog/2195-the-shape-of-open-source). Ще направите _огромна_ услуга на проекта, като предложите да се включите с тези видове принос!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Известен съм с работата си върху CocoaPods, но повечето хора не знаят, че всъщност не правя реална работа върху самия инструмент CocoaPods. Времето ми по проекта минава предимно в правене на неща като документация и работа по брандиране.
   <p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Преминаване към OSS по подразбиране"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Дори ако обичате да пишете код, други видове приноси са чудесен начин да се включите в проект и да се срещнете с други членове на общността. Изграждането на тези взаимоотношения ще ви даде възможности да работите върху други части на проекта.
 
@@ -93,13 +93,13 @@ related:
 * Напишете уроци за проекта, [както направиха сътрудниците на PyPA](https://packaging.python.org/)
 * Напишете превод за документацията на проекта, [както @frontendwizard направи за инструкциите за CSS Flexbox предизвикателството на freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Сериозно, \[документацията\] е изключително важна. Документацията досега беше страхотна и беше убийствена характеристика на Babel. Има раздели, които със сигурност биха могли да поработят и дори добавянето на параграф тук или там е изключително ценено.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Покана за сътрудници"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Обичате ли да организирате?
 
@@ -140,13 +140,13 @@ related:
 
 ## Ориентиране към нов проект
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Ако отидете на инструмент за проследяване на проблеми и нещата изглеждат объркващи, не сте само вие. Тези инструменти изискват много имплицитни знания, но хората могат да ви помогнат да се ориентирате в тях и можете да им задавате въпроси.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["Как да допринесете за отворения код"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 За нещо повече от поправка на печатна грешка, да допринесете за отворен код е като да отидете до група непознати на парти. Ако започнете да говорите за лами, докато те бяха потънали в дискусия за златните рибки, вероятно ще ви погледнат малко странно.
 
@@ -191,13 +191,13 @@ related:
 
 Ако никога преди не сте допринасяли за отворения код, приемете съвет от президента на САЩ Джон Ф. Кенеди, който веднъж каза: "Не питайте какво вашата страна може да направи за вас – попитайте какво можете да направите вие за вашата страна."_
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Не питайте какво вашата страна може да направи за вас - попитайте какво можете да направите за вашата страна.
   <p markdown="1" class="pquote-credit">
 — [_Библиотека Джон Ф. Кенеди_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
-</aside>
+</div>
 
 Приносът към отворения код се случва на всички нива, във всички проекти. Не е нужно да мислите прекалено много какъв точно ще бъде първият ви принос или как ще изглежда.
 
@@ -371,13 +371,13 @@ related:
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Всеки път, когато видите дълга нишка, проверете на място отговорите от основните разработчици, идващи късно в нишката. Обобщават ли конструктивно и предприемат ли стъпки, за да доведат нишката до решение, като същевременно остават учтиви? Ако видите да се водят много пламъчни войни, това често е знак, че енергията отива в спор, вместо в развитие.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Произвеждайте OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Как да изпратите принос
 
@@ -387,13 +387,13 @@ related:
 
 Независимо дали сте сътрудник еднократно, или се опитвате да се присъедините към общност, работата с други е едно от най-важните умения, които ще развиете в отворен код.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Като нов сътрудник,\] бързо осъзнах, че трябва да задавам въпроси, ако искам да мога да затворя проблема. Прегледах набързо кодовата база. След като усетих какво се случва, помолих за повече насоки. И готово! Успях да разреша проблема, след като получих всички необходими подробности.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [Много неравномерно пътешествие за начинаещи през света на отворения код](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Преди да отворите проблем или заявка за изтегляне, или да зададете въпрос в чата, имайте предвид тези моменти, за да помогнете на вашите идеи да се реализират ефективно.
 
@@ -449,13 +449,13 @@ related:
 
 Ако искате да направите значителен принос, отворете проблем, който да попитате, преди да работите по него. Полезно е да гледате проекта известно време (в GitHub, [можете да щракнете върху "Гледане"](https://help.github.com/articles/watching-repositories/), за да бъдете уведомени за всички разговори) и да стигнете до познавайте членовете на общността, преди да вършите работа, която може да не бъде приета.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Ще научите <em>много</em>, като вземете един проект, който активно използвате, „гледате“ го в GitHub и четете всеки брой и PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [за присъединяване към проекти](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Отваряне на проблем
 

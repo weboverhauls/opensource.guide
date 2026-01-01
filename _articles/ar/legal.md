@@ -46,13 +46,13 @@ related:
 
 عند إنشاء مشروع جديد على GitHub، سيُطلب منك [إضافة ترخيص](https://help.github.com/articles/open-source-licensing/).
 
- <aside markdown="1" class="pquote">
+ <div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
 يًعد الترخيص الموحد بمثابة وسيط لأولئك الذين ليس لديهم تدريب قانوني لمعرفة بالضبط ما يمكنهم و ما لا يمكنهم فعله بالبرمجيات. ما لم يكن ذلك مطلوباً يشكل مطلق، تجنب الشروط المخصصة أو المُعدلة أو غير القياسية، لأنها ستشكل عائقاًأمام استخدام كود الجهة لاحقاً.
   <p markdown="1" class="pquote-credit">
   — @benbalter, ["كل ما يحتاجه المحامي الحكومي لمعرفته عن ترخيص برامج المصدر المفتوح"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
   </p>
-</aside>
+</div>
 
 ## أي ترخيص مفتوح المصدر مناسب لمشروعي؟ {#اي-ترخيص-مفتوح-المصدر-مناسب-لمشروعي}
 
@@ -101,13 +101,13 @@ related:
 
 أيضاً من خلال إضافة "أعمال ورقية" يعتقد البعض أنها غير ضرورية أو يصعب فهمها أو غير عادلة(عندما يحصل متلقي الاتفاقية على حقوق أكثر من المساهمين أو الجمهور عبر ترخيص المصادر المفتوحة للمشروع)، قد يُنظر إلى اتفاقية المساهم الإضافية على أنها غير ودية تجاه مجتمع المشروع .
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
 لقد ألغينا اتفاقية ترخيص المساهمين(CLA) لمشروع Node.js. إن القيام بذلك يقلل من العوائق أمام المساهمين في Node.js. مما يوسع قاعدة المساهمين.
 <p markdown="1" class="pquote-credit">
 — @bcantrill, [" توسيع نطاق المساهمات فيNode.js "](https://www.tritondatacenter.com/blog/broadening-node-js-contributions)
   </p>
-</aside>
+</div>
 
 بعض الحالات التي قد ترغب فيها في النظر في اتفاقية مساهم إضافية لمشروعك تشمل :
 
@@ -146,23 +146,23 @@ related:
 
 * **سياسات مساهمة الموظفين:** فكر في تطوير سياسة شركية تحدد كيف يساهم موظفوك في مشاريع مفتوحة المصدر. ستقلل سياسة واضحة من الالتباس بين الموظفين وتساعدهم على المساهمة في مشاريع مفتوحة المصدر بما يخدم مصلحة الشركة، سواء كجزء من وظائفهم أو في أوقات فراغهم. مثال جيد هو [Model IP and Open Source Contribution Policy](https://ospo.co/blog/crafting-your-open-source-contribution-policy/) لشركة Rackspace.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   السماح بخروج الملكية الفكرية المرتبطة بإحدى الإضافات يعزز قاعدة معرفة الموظف و سمعته. كما يُظهر أن الشركة تستثمر في تطوير ذلك الموظف و يخلق شعوراً بالتمكين و الاستقلالية. كل هذه الفوائد تؤدي أيضاً إلى رفع الروح المعنوية و تحسين الاحتفاظ بالموظفين.
   <p markdown="1" class="pquote-credit">
 — @vanl, ["سياسة نموذج الملكية الفكرية و مساهمة المصدر المفتوح "](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
-</aside>
+</div>
 
 * **ما الذي يجب إصداره:** [(تقريبًا) كل شيء؟](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) إذا كان فريقك القانوني يفهم ويشارك في استراتيجية شركتك للمصدر المفتوح، فسيكون أفضل من يساعدك بدلاً من عرقلة جهودك.
 * **الامتثال:** حتى إذا لم تصدر شركتك أي مشاريع مفتوحة المصدر، فهي تستخدم برمجيات مفتوحة المصدر للآخرين. يمكن أن تمنع [الوعي والعمليات](https://www.linuxfoundation.org/blog/blog/why-companies-that-use-open-source-need-a-compliance-program/) الصداع، وتأخير المنتجات، والدعاوى القضائية.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 يجب أن يكون لدى المؤسسات استراتيجية ترخيص وامتثال تتناسب مع فئتي \["متساهل" و "حقوق الطبع المتبادلة - copyleft"\]. يبدأ ذلك بالحفاظ على سجل لشروط الترخيص التي تنطبق على البرمجيات مفتوحة المصدر التي تستخدمها، بما في ذلك المكونات الفرعية والاعتمادات.
   <p markdown="1" class="pquote-credit">
 — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
   </p>
-</aside>
+</div>
 
 * **براءات الاختراع:** قد ترغب شركتك في الانضمام إلى [Open Invention Network](https://www.openinventionnetwork.com/)، وهي تجمع دفاعي مشترك للبراءات لحماية استخدام الأعضاء للمشاريع مفتوحة المصدر الكبرى، أو استكشاف خيارات [ترخيص براءات اختراع بديلة](https://www.eff.org/document/hacking-patent-system-2016).
 * **الحوكمة:** خاصة إذا ومتى كان من المنطقي نقل مشروع إلى [كيان قانوني خارج الشركة](../leadership-and-governance/#هل-أحتاج-إلى-كيان-قانوني-لدعم-مشروعي).

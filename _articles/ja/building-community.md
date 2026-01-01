@@ -36,13 +36,13 @@ related:
 * **受け入れるコントリビュートの種類について心を広く持とう。** 多くのコントリビューターがバグレポートや小さな修正から始めます。プロジェクトへの[コントリビュートには多くのやり方](../how-to-contribute/#コントリビュートするということが意味するもの)があります。人々が望むやり方でコントリビュートできるように手助けしましょう。
 * **受け入れられないコントリビュートがあった場合は、** そのアイデアに感謝を示しつつ、なぜプロジェクトのスコープから外れているのかを[説明しましょう](../best-practices/#ノーと言うやり方を学ぼう)。その際、関連するドキュメントも共有しましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   オープンソースにコントリビュートすることは一部の人にとってはより簡単なことです。間違ったことをしたり、場違いな事をして叱られるのではないかという大きな恐怖があります。（中略）コントリビューターに対して、技術力をあまり必要としない（ドキュメントやウェブサイトのコンテンツのマークダウン等）コントリビュートができる場を提供することで、そういった心配を大きく減らすことができます。
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 オープンソースのコントリビューターの大部分は「通りすがりのコントリビューター」です：彼らはプロジェクトへのコントリビュートを時々するだけの人々です。通りすがりのコントリビューターはあなたのプロジェクトに十分に理解する時間がないかもしれないため、彼らがコントリビュートしやすくするべきです。
 
@@ -50,13 +50,13 @@ related:
 
 ### あらゆる事を記録しよう
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   これまでに（技術）イベントに参加して、知り合いが誰もおらず、周りは皆グループになって古くからの友人同士のように話しているといった経験をしたことはありませんか？（中略）オープンソースプロジェクトにコントリビュートをしたいと思っているのに、なぜ、またはどのようにそのプロジェクトが立ち上がったのかがわからないという状況を想像してみて下さい。
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 新しいプロジェクトを始めるときは、あなたのやっていることを秘密にしておきたいと感じるのは当然です。しかし、オープンソースプロジェクトはその過程を公開して記録することで成長していきます。
 
@@ -112,13 +112,13 @@ Stack Overflow、Twitter、Reddit といったインターネットにおける�
 
 こういった類の人々に対しては、ゼロ・トレランスポリシー（訳注：1990年代にアメリカで始まった教育方針の一つ。ポリシー違反には厳密に処分を行う）を適用することに最善を尽くしましょう。もし放置されてしまうと、有害な人々によって、コミュニティ内の人々は居心地が悪いと感じてしまうでしょう。コミュニティを去ってしまいさえするかもしれません。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/karissa?s=180" class="pquote-avatar" alt="avatar">
   実のところ、協力的なコミュニティを持つことが鍵となります。私は、同僚や親切なインターネット上の見知らぬ人、気さくな IRC チャンネルの助けが無ければ、この仕事を達成することはできなかったでしょう。（中略）そうでない状況に甘んじてはいけません。愚か者を甘んじて受け入れてはいけません。
   <p markdown="1" class="pquote-credit">
 — @karissa, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 プロジェクトの些末な点について議論することが日常的になってしまうと、あなたを含むプロジェクトの人々が重要なタスクに集中することから気が逸れてしまいます。新たにあなたのプロジェクトにやってきた人もこういった議論を見て、参加したくないと思うかもしれません。
 
@@ -144,13 +144,13 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 ### プロジェクトの所有権を共有しよう
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   リーダーたちは異なる意見を持っていることでしょう。あらゆる健全なコミュニティはそうあるべきなのです！しかし、大きな声が人々を疲弊させることによって必ずしも勝つとは限らず、目立たない少数派の声も聞き入れられるように対策を講じる必要があります。
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 人々は、自分にもプロジェクトの所有権があるという感覚を持つときに、コントリビュートすることにワクワクしてくれます。これはあなたが望まない方向にプロジェクトのビジョンを切り替えたり、望まないコントリビュートを受け入れるということではありません。しかし、他者を信用すればするほど、彼らはよりプロジェクトに留まってくれるようになるでしょう。
 
@@ -172,13 +172,13 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 常に要求に応じてくれる人が見つかるとは限りませんが、そういったシグナルを出しておくことで、協力してくれる人が出てくるチャンスが増えます。そしてより早く始めると、より早く人々が助けてくれるでしょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   あなたがやりたいと思わないことを楽しんでやってくれるコントリビューターを募集する事が得策です。コーディングは好きだけどイシューに回答するのは好きではありませんか？それなら、コミュニティの中からそれを楽しんでくれる人を探し出して、その人にやってもらいましょう。
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## 衝突を解消しよう
 
@@ -194,13 +194,13 @@ CONTRIBUTING ファイルに、新しいコントリビューターに始め方�
 
 メンテナーとしてのあなたの仕事はこういった状況が悪化しないようにすることです。たとえあなたがそのトピックについて強い意見を持っていたとしても、争いに飛び込んであなたの意見を押し付けるのではなく、調停役やファシリテーターとして振る舞うようにしましょう。もし誰かが不親切であったり会話を独り占めしたりしている場合は、議論を市民的かつ生産的に保つために[即座に行動しましょう](../building-community/#悪い参加者を許容しない)。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
   プロジェクトのメンテナーとして、コントリビューターに対して敬意を払うのは非常に重要です。彼らはあなたの言うことを非常に個人的に捉えることがよくあります。
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 他の人々はあなたの指導を求めています。良い手本を示しましょう。がっかりしていたり、良い気分でなかったり、心配したりしている事を表明することもできますが、その場合も穏やかに行うようにしましょう。
 
@@ -220,13 +220,13 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
 
 合意を模索する過程において、コミュニティメンバーは十分出し尽くされたと感じるまで懸念点を議論します。小さな論点しか残っていない状況になってはじめて、コミュニティは前に進みます。「合意の模索」は、コミュニティが完璧な解にたどり着けないかもしれないことを受け入れます。そのかわりに、意見を聞き、議論をすることに重きをおくのです。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Atom の Issue に投票システムが存在しない理由の一部は、 Atom チームはあらゆるケースにおいて投票システムを使うわけではないからです。時には、あまり支持されていなくても、正しいと感じることを選ぶ必要があります。（中略）私が提供し、実施すると固く約束するのは…、コミュニティの意見に耳を傾けることが私の仕事であるということです。
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's decision making process
   </p>
-</aside>
+</div>
 
 たとえ合意の模索プロセスを採用していないとしても、プロジェクトメンテナーとして重要なことは、あなたが意見に耳を傾けていることを人々が知っているということです。人々に意見を受け止められていると感じさせ、彼らの心配を解決すると約束することは、慎重な対応が必要な状況を散らすための長い道のりのスタートとなります。そして、あなたの発言に行動が伴うようにするのです。
 
@@ -246,13 +246,13 @@ README は[単なる手順書以上の存在です](../starting-a-project/#readm
 
 もし会話が明らかにどこにも向かっていなく、取るべきアクションもないか、適切なアクションはすでに起こしたのであれば、理由とともにイシューを閉じましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   強引にならずに議論を実利的なものに導いていくのはある種の技術です。単に無駄な時間を使わないよう忠告したり、建設的な内容がない限り書かないでほしいとお願いするだけではうまくいきません。 (中略) そうする代わりに、議論を進める条件を提案する必要があります：例えば指針を与えたり、あなたが望む結論に導くための道筋を提示したりといったことです。ただ、あなたが行動を指示しているように聞こえないよう気をつける必要があります。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### 戦う場所を賢く選ぼう
 

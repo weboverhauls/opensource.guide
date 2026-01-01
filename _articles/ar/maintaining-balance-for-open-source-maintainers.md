@@ -16,13 +16,13 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 إذًا, ما هي البيئة الشخصية <span dir='ltr'  markdown="1">(Personal Ecology)</span> كما ورد في <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">وصف معهد Rockwood للقيادة</a>, يتضمن الأمر "<strong>الحفاظ على التوازن، والسرعة، والكفاءة للحفاظ على طاقتنا على مدى الحياة</strong>." لقد أطّر هذا الأمر محادثاتنا، وساعد المشرفين في إدراك أن أفعالهم ومساهماتهم هي أجزاء من نظام بيئي أكبر يتطور مع مرور الوقت. الإرهاق، وهو متلازمة ناتجة عن الإجهاد المزمن في مكان العمل [كما عرّفتها منظمة الصحة العالمية <span dir='ltr'  markdown="1">(WHO)</span>](https://icd.who.int/browse/2025-01/foundation/en#129180281), ليس أمرًا نادر الحدوث بين المشرفين. وغالبًا ما يؤدي هذا إلى فقدان الدافع، وعدم القدرة على التركيز، ونقص التعاطف مع المساهمين والمجتمع الذي تعمل معه.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   كنت غير قادر على التركيز أو البدء في أي مهمة. كان لدي نقص في التعاطف تجاه المستخدمين.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek" dir="ltr">@gabek</a>,  مشرف على صيانة خادم البث المباشر <span dir='ltr'  markdown="1">Owncast</span>،متحدثًا عن تأثير الإرهاق على عمله في المشاريع مفتوحة المصدر.
   </p>
-</aside>
+</div>
 
 من خلال تبنّي مفهوم البيئة الشخصية <span dir='ltr'  markdown="1">(Personal Ecology)</span>، يمكن للمُشرفين أن يتجنبوا الإرهاق <span dir='ltr'  markdown="1">(burnout)</span>، وإعطاء الأولوية للعناية بالنفس، والحفاظ على إحساسٍ بالتوازن يمكّنهم من أداء عملهم بأفضل صورة ممكنة.
 
@@ -38,52 +38,52 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 * **نقص التعليقات الإيجابية:** المستخدمون غالبًا ما يتواصلون فقط عندما تكون لديهم شكوى. أما إذا كان كل شيء يعمل بشكل جيد، فإنهم يميلون إلى الصمت. قد يكون الأمر محبطًا أن رؤية قائمة متزايدة من المشكلات دون أن تتلقى ملاحظات إيجابية تُظهر كيف أن مساهماتك تُحدث فرقًا فعليًا.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   في بعض الأحيان، أشعر وكأنني أصرخ في الفراغ، وأجد أن التعليقات  تُنشطني حقًا. لدينا الكثير من المستخدمين السعداء ولكنهم هادئون (صامتون).
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic" dir="ltr">@thisisnic</a>,  مُشرف مشروع أباتشي آرو <span dir='ltr'  markdown="1">(Apache Arrow)</span>
   </p>
-</aside>
+</div>
 
 * **عدم قول "لا":** قد يكون من السهل أن تتحمّل مسؤوليات أكثر مما ينبغي في مشروع مفتوح المصدر. سواء كانت الطلبات من المستخدمين أو المساهمين أو حتى المشرفين الآخرين على المشروع — لا يمكننا دائمًا تلبية جميع التوقعات.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   اكتشفت أنني كنت أتحمّل أكثر مما ينبغي، وأؤدي مهامّ عدة أشخاص، كما هو شائع في مشاريع FOSS.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>,  مشرف <span dir='ltr'  markdown="1">(maintainer)</span> على مشروع <span dir='ltr'  markdown="1">Termux</span> متحدثًا عن الأسباب التي تؤدي إلى الإرهاق في عمله.
   </p>
-</aside>
+</div>
 
 * **العمل بمفردك:** قد يكون عمل المُشرف شديد العزلة. حتى لو كنت تعمل مع مجموعة من المُشرفين، فقد كانت السنوات القليلة الماضية صعبة فيما يخص جمع الفرق الموزعة والعمل سويًا بشكل مباشر (وجهاً لوجه).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
  خصوصًا منذ جائحة كوفيد والعمل من المنزل، أصبح من الأصعب ألا ترى أي شخص أو تتحدث مع أحد.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, مُشرف خادم البث المباشر <span dir='ltr'  markdown="1">(Owncast live streaming server)</span>، في حديثه عن تأثير الإرهاق على عمله في المصادر المفتوحة.
   </p>
-</aside>
+</div>
 
 * **عدم توفر وقت أو موارد كافية:** ينطبق هذا بشكلٍ خاص على المشرفين على المشاريع التطوعية، الذين يضطرون إلى التضحية بوقت فراغهم للعمل على المشروع.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [أود أن أحصل على] المزيد من الدعم المالي، حتى أتمكن من التركيز على العمل في مشاريع مفتوحة المصدر دون أن أستنزف مدّخراتي، ومع إدراكي أنني سأضطر إلى القيام بالكثير من الأعمال التعاقدية لاحقًا لتعويض ذلك.
   <p markdown="1" class="pquote-credit">
 —  مشرف مشروع مفتوح المصدر <span dir='ltr' markdown="1">open source
 </span>
   </p>
-</aside>
+</div>
 
 * **المطالب المتعارضة:**  مشاريع المصدر المفتوح مليئة بمجموعات ذات دوافع مختلفة، قد يكون من الصعب التوفيق بينها. وإذا كنت تتقاضى أجرًا مقابل عملك في المصدر المفتوح، فقد تتعارض أحيانًا مصالح جهة عملك مع المجتمع.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   في حالة العمل المأجور في مشاريع مفتوحة المصدر، قد ينشأ تضارب بين تركيز صاحب العمل وما هو الأفضل للمجتمع.
   <p markdown="1" class="pquote-credit">
 —  مشرف مشروع مفتوح المصدر
   </p>
-</aside>
+</div>
 
 ### احذر من علامات الإرهاق
 
@@ -91,11 +91,11 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 توجد أدوات مثل قائمة التحقق من الإرهاق <span dir='ltr' markdown="1">[Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html)</span> من <span dir='ltr' markdown="1">[@shaunagm](https://github.com/shaunagm)</span> التي يمكن أن تساعدك على التأمل في وتيرتك الحالية ومعرفة ما إذا كان بإمكانك إجراء أي تعديلات. يستخدم بعض المشرفين أيضًا الأجهزة القابلة للارتداء <span dir='ltr' markdown="1">(wearable technology)</span> لتتبع مقاييس مثل جودة النوم وتقلّب معدل ضربات القلب (كلاهما مرتبط بالتوتر).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 أنا مؤمن بشدة بفائدة الأجهزة القابلة للارتداء. من خلال العلم وراءها، يمكنك أن تفهم كيف يمكنك أن تؤدي بشكل أفضل وكيف تصل إلى الحالة المثلى التي ترغب فيها.
   <p markdown="1" class="pquote-credit">
 —  مشرف مشروع مفتوح المصدر</p>
-</aside>
+</div>
 
 ### ما الذي تحتاجه للاستمرار في دعم نفسك ومجتمعك؟
 
@@ -107,62 +107,62 @@ image: /assets/images/cards/maintaining-balance-for-open-source-maintainers.png
 
 * **استكشاف التمويل:** سواء كنت تبحث عن بعض المال لشراء "بيتزا" 🍕، أو تحاول الانتقال إلى المشاريع مفتوحة المصدر بدوام كامل، فهناك العديد من الموارد للمساعدة! كخطوة أولى، فكر في تفعيل <span dir='ltr' markdown="1">[GitHub Sponsors](https://github.com/sponsors)</span> للسماح للآخرين برعاية عملك. إذا كنت تفكر في الانتقال إلى العمل بدوام كامل، قدّم طلبًا للانضمام إلى <span dir='ltr' markdown="1">[GitHub Accelerator](http://accelerator.github.com/)</span>.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
  كنت ضيفًا في بودكاست منذ فترة، وتحدثنا عن صيانة واستدامة مشروع مفتوح المصدر. اكتشفت أن مجرد وجود عدد قليل من الأشخاص الذين يدعمون عملي على <span dir='ltr' markdown="1">GitHub</span> ساعدني على اتخاذ قرار سريع بعدم الجلوس أمام لعبة، وبدل من ذلك القيام بشيء صغير لمشروع مفتوح المصدر <span dir='ltr' markdown="1">open source</span>.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona" dir='ltr'>@mansona</a>، مشرف في <span dir='ltr' markdown="1">EmberJS</span>
   </p>
-</aside>
+</div>
 
 * **استخدام الأدوات:** استكشف أدوات مثل <span dir='ltr' markdown="1">[GitHub Copilot](https://github.com/features/copilot/)</span> و <span dir='ltr' markdown="1">[GitHub Actions](https://github.com/features/actions)</span> لأتمتة المهام الروتينية وتحرير وقتك للمساهمات الأكثر أهمية.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  استخدم <a href="https://github.com/features/copilot/" dir="ltr">Copilot</a> للأشياء المملة - وافعل الأشياء الممتعة بنفسك
   <p markdown="1" class="pquote-credit">
 —  مشرف مشروع مفتوح المصدر
   </p>
-</aside>
+</div>
 
 * **الراحة وإعادة الشحن:** خصص وقتًا لهواياتك واهتماماتك خارج المشاريع مفتوحة المصدر. خذ عطلات نهاية الأسبوع للاسترخاء وتجديد النشاط، واضبط حالتك على <span dir='ltr' markdown="1">[GitHub status](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status)</span> لتعكس مدى توفرك! النوم الجيد لليلة واحدة يمكن أن يحدث فرقًا كبيرًا في قدرتك على الاستمرار على المدى الطويل.
 
   إذا وجدت أن جوانب معينة من مشروعك ممتعة بشكل خاص، فحاول هيكلة عملك بحيث يمكنك تجربتها على مدار يومك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
  أجد المزيد من الفرص لإدخال 'لحظات من الإبداع' في منتصف اليوم بدلاً من محاولة التوقف في المساء.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe" dir='ltr'>@danielroe</a>,  مشرف في <span dir='ltr' markdown="1">Nuxt</span>
   </p>
-</aside>
+</div>
 
 * **وضع الحدود:** لا يمكنك قول "نعم" لكل طلب. يمكن أن يكون ذلك ببساطة بقولك: "لا أستطيع القيام بذلك الآن، وليس لدي خطط لذلك في المستقبل." أو سرد ما تهتم بفعله وما لا تهتم بفعله في ملف <span dir='ltr' markdown="1">README</span>. على سبيل المثال، يمكنك أن تقول: "أنا أدمج فقط طلبات <span dir='ltr' markdown="1">(PRs)</span> التي تشرح بوضوح سبب إنشائها" أو "أنا أراجع المشكلات فقط في أيام الخميس البديلة من الساعة 6 إلى 7 مساءً.”هذا يحدد التوقعات للآخرين، ويمنحك شيئًا للإشارة إليه في الأوقات الأخرى للمساعدة في تخفيف المطالب التي يفرضها المساهمون أو المستخدمون على وقتك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 لكي تثق بالآخرين بشكل هادف في هذه المحاور، يجب ألا تكون شخصًا يقول "نعم" لكل طلب. فبقيامك بذلك، لن تحافظ على أي حدود، مهنيًا أو شخصيًا، ولن تكون زميل عمل يعتمد عليه.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid" dir="ltr">@mikemcquaid</a>, مشرف في  <span dir='ltr' markdown="1">Homebrew</span> في <a href="https://mikemcquaid.com/saying-no/" dir="ltr">Saying No</a>
   </p>
-</aside>
+</div>
 
 تعلم أن تكون حازمًا في إيقاف السلوك السام والتفاعلات السلبية. لا بأس ألا تمنح طاقتك للأشياء التي لا تهتم بها.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 برنامجي مجاني <span dir='ltr' markdown="1">(gratis)</span>، لكن وقتي واهتمامي ليسا كذلك.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez" dir='ltr'>@IvanSanchez</a>, مشرف في  <span dir='ltr' markdown="1">Leaflet</span>
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 ليس سراً أن صيانة المصادر المفتوحة لها جوانبها المظلمة، وأحد هذه الجوانب هو الاضطرار أحيانًا إلى التفاعل مع أشخاص جاحدين أو سامّين. ومع زيادة شهرة المشروع، يزداد تكرار هذا النوع من التفاعل، مما يزيد العبء على المشرفين وربما يصبح عامل خطر كبيرًا للإرهاق.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel" dir="ltr">@foosel</a>, مشرف في  <span dir='ltr' markdown="1">Octoprint</span> في <a href="https://www.youtube.com/watch?v=7lIpP3GEyXs" dir='ltr'>How to deal with toxic people</a>
   </p>
-</aside>
+</div>
 
 تذكر، أن البيئة الشخصية <span dir='ltr' markdown="1">(personal ecology)</span> هي ممارسة مستمرة ستتطور مع تقدمك في رحلة المشاريع مفتوحة المصدر. من خلال إعطاء الأولوية للرعاية الذاتية والحفاظ على الشعور بالتوازن، يمكنك المساهمة في مجتمع <span dir='ltr' markdown="1">open sources</span> بفعالية واستدامة، مما يضمن رفاهيتك ونجاح مشاريعك على المدى الطويل.
 

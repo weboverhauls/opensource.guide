@@ -14,13 +14,13 @@ related:
 
 ## لماذا تساهم في مشروع مفتوح المصدر؟
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
 العمل على <span dir="rtl">Freenode</span> ساعدني على اكتساب الكثير من المهارات التي استخدمتها لاحقًا في دراستي الجامعية وفي عملي الفعلي. أعتقد أن العمل على مشاريع مفتوحة المصدر يساعدني بقدر ما يساعد المشروع! 
 <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Why cd opensourceI love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 المساهمة في مشاريع مفتوحة المصدر يمكن أن تكون تجربة مُجزية للتعلّم، والتعليم، واكتساب الخبرة في أيّ مهارة تقريبًا.
 
@@ -66,13 +66,13 @@ related:
 
 من المفاهيم الخاطئة الشائعة حول المساهمة في المشاريع مفتوحة المصدر هو أنك بحاجة إلى المساهمة بالكود. في الواقع، غالبًا ما تكون الأجزاء الأخرى من المشروع هي [الأكثر إهمالًا أو تجاهلًا](https://github.com/blog/2195-the-shape-of-open-source). ستقدّم خدمة كبيرة للمشروع إذا عرضت المساعدة في هذا النوع من المساهمات!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
 أنا معروف بعملي على<span dir="rtl">CocoaPods</span> لكن في الواقع، معظم الناس لا يعلمون أنني لا أقوم بأيّ عمل حقيقيّ على أداة <span dir="rtl">CocoaPods</span> نفسها. معظم وقتي في المشروع يُقضى في أمور مثل توثيق المشروع والعمل على <span dir="rtl">(branding)</span> بناء هُويّته.
 <p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 حتى لو كنت تحب كتابة الكود، فأنواع المساهمات الأخرى تُعد طريقة ممتازة للمشاركة في المشروع والتعرف على أعضاء المجتمع الآخرين. بناء هذه العلاقات سيفتح أمامك فرصًا للعمل على أجزاء أخرى من المشروع.
 
@@ -97,13 +97,13 @@ related:
 * اكتب شروحات <span dir="rtl">(Tutorials)</span> للمشروع, [like PyPA's contributors did](https://packaging.python.org/)
 * اكتب ترجمة لتوثيق المشروع, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
  بجديّة، [التوثيق] مهم جدًّا. حتى الآن، كان التوثيق ممتازًا وكان ميزة قوية في <span dir="rtl">Babel</span>. هناك أقسام بالتأكيد يمكن تحسينها، وحتى إضافة فقرة هنا أو هناك تُقدّر كثيرًا. 
 <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### هل تحب التنظيم؟
 
@@ -144,13 +144,13 @@ related:
 
 ## التعرف على مشروع جديد
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
 إذا ذهبت إلى متتبع المشكلات<span dir="rtl">(issue tracker)</span> وبدا الأمر محيرًا، فأنت لست وحدك. هذه الأدوات تتطلب الكثير من المعرفة الضمنية، لكن يمكن للناس مساعدتك في التنقل خلالها ويمكنك طرح الأسئلة عليهم.  
 <p markdown="1" class="pquote-credit">
 — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 بالنسبة لأي مساهمة تتعدى مجرد تصحيح خطأ مطبعي، فإن المساهمة في المشاريع مفتوحة المصدر تشبه الاقتراب من مجموعة غرباء في حفلة. إذا بدأت بالحديث عن حيوان اللاما بينما هم منغمسون في مناقشة حول أسماك الزينة، فغالبًا سينظرون إليك بنظرة محيرة بعض الشيء.
 
@@ -199,13 +199,13 @@ related:
 
 إذا لم تكن قد ساهمت في المشاريع مفتوحة المصدر من قبل، خذ بعض النصائح من الرئيس الأمريكي جون إف. كينيدي، الذي قال مرة: _"لا تسأل ماذا يمكن لبلدك أن يفعل لك، بل اسأل ماذا يمكنك أن تفعل لبلدك."_
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Ask not what your country can do for you - ask what you can do for your country.
   <p markdown="1" class="pquote-credit">
 — [_John F. Kennedy Library_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
-</aside>
+</div>
 
 تحدث المساهمة في المصادر المفتوحة على جميع المستويات وفي مختلف المشاريع. لا تحتاج إلى التفكير كثيرًا فيما ستكون عليه مساهمتك الأولى بالضبط، أو كيف ستبدو.
 
@@ -380,13 +380,13 @@ related:
 </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
 كلما رأيت سلسلة طويلة من النقاشات، تحقق عشوائيًا من ردود المطورين الأساسيين التي تأتي في أواخر السلسلة. هل يقومون بتلخيص الأمور بشكل بنّاء، ويتخذون خطوات لتوجيه النقاش نحو اتخاذ قرار مع البقاء مهذبين؟ إذا رأيت الكثير من النزاعات الحادة، فهذا غالبًا علامة على أن الطاقة تُستهلك في الجدال بدلًا من تطوير المشروع.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## كيف ترسل المساهمة؟
 
@@ -396,13 +396,13 @@ related:
 
 سواء كنت مساهمًا لمرة واحدة أو تحاول الانضمام إلى مجتمع، فإن العمل مع الآخرين هو من أهم المهارات التي ستطورها في المشاريع مفتوحة المصدر.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
 \[كمساهم جديد،\] أدركت بسرعة أنه يجب علي طرح الأسئلة إذا كنت أرغب في القدرة على إغلاق الـ issue. تصفحت الكود سريعًا. بمجرد أن حصلت على فكرة عما يجري، طلبت توجيهًا إضافيًا. وأخيرًا! تمكنت من حل الـ issue بعد حصولي على كل التفاصيل ذات الصلة التي كنت بحاجة إليها.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 قبل أن تفتح (issue) أو (pull request)، أو تطرح سؤالًا في المحادثة، ضع هذه النقاط في اعتبارك لمساعدتك على توصيل أفكارك بفعالية.
 
@@ -458,13 +458,13 @@ related:
 
 إذا كنت تريد تقديم مساهمة كبيرة، افتح issue للسؤال قبل البدء بالعمل عليها. من المفيد متابعة المشروع لفترة (على GitHub، [يمكنك الضغط على "Watch"](https://help.github.com/articles/watching-repositories/) لتصلك إشعارات بكل النقاشات)، والتعرف على أعضاء المجتمع، قبل القيام بعمل قد لا يتم قبوله.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
 ستتعلم <em>الكثير</em> من خلال اختيار مشروع واحد تستخدمه بانتظام، ومتابعته على GitHub وقراءة كل **issue** و**pull request**.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### الإبلاغ عن مشكلة (issue)
 

@@ -96,11 +96,11 @@ related:
 
 * **Типы вклада (contribution):** например, правки (commit), исправление опечаток или ошибок, или комментирование проблемы (issue).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Открытый исходный код — это больше, чем просто код. Успешные проекты с открытым исходным кодом включают написание кода и документации вместе с обсуждением этих изменений.
   <p markdown="1" class="pquote-credit">— @arfon, ["Как выглядит Open Source"](https://github.com/blog/2195-the-shape-of-open-source)</p>
-</aside>
+</div>
 
 ## Активность сопровождающих
 

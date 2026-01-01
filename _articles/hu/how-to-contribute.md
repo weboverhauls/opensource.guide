@@ -12,13 +12,13 @@ related:
 
 ## Miért vegyél részt a Nyílt Forráskódú fejlesztésben?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és a munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapasztalatok megszerzésének a legjobb útja bármiben, amit csak el tudsz képzelni.
 
@@ -58,13 +58,13 @@ Ne aggódj! Rengeteg módja van annak, hogy részt vegyél a nyílt forráskód�
 
 Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programozni kell hozzá. Valójában gyakran a projekt többi része az, amely [elhanyagolt, vagy mellőzött](https://github.com/blog/2195-the-shape-of-open-source). Óriási segítség a projektnek, ha ilyen jellegű munkával járulsz hozzá!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
   <p markdown="1" class="pquote-credit">
 — @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget teremt arra, hogy a projekt egyéb részein dolgozz.
 
@@ -89,13 +89,13 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Írj útmutatókat a projektről, [ahogy PyPA fejlesztői tették](https://packaging.python.org/)
 * Fordíts le a projekt dokumentációját
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Komolyan: a \[dokumentáció\] rendkívül fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legütősebb része. Biztosan vannak azonban olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes munka.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Részvételre való felhívás"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Szeretsz szervezni?
 
@@ -136,13 +136,13 @@ Még ha szoftverfejlesztő is vagy, egy dokumentációs projekt könnyebbé tesz
 
 ## Kezdetek egy új projektben
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Ha megnyitsz egy hibakövető rendszert és a dolgok furának tűnnek, akkor ezzel nem vagy egyedül. Ezek használatához ismerned kell a projektet, de ebben a többi résztvevő tud segíteni, irányt mutatni, csak kérdezned kell.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["Hogyan vegyél részt Nyílt Forráskódú projektben"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Bármi más dolog, mint mondjuk egy elírás javítása olyan, mintha idegenekkel állnál le beszélgetni. Ha elkezdesz a lámákról beszélni, miközben ők elmélyedt párbeszédet folytatnak az aranyhalakról, akkor lehet kicsit furán fognak rád nézni.
 
@@ -359,13 +359,13 @@ Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket sz�
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntéshozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Hogyan kell hozzájárulni?
 
@@ -375,13 +375,13 @@ Végül megtaláltad a projekted és készen állsz a részvételre! Nézzük, h
 
 Akár csak egyszeri résztvevő vagy, vagy csatlakoznál a közösséghez, a másokkal való együttműködés az egyik legfontosabb képesség, amit a nyílt forráskódú munkád során fejleszteni tudsz.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan működnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Mielőtt hibát jelzel, beolvasztást kérelmezel vagy esetleg kérdéseket teszel fel a csevegésben, tartsd szem előtt ezeket a pontokat a hatékonyabb munka érdekében.
 
@@ -437,13 +437,13 @@ Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet
 
 Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követed a projektet és a közösséget (a GitHub-on, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerd a tagjait, mielőtt olyan munkát végeznél benne, amit nem fogadnak el.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Rendkívül <em>sokat</em> fogsz tanulni egy projektből, amelyen aktívan részt veszel azzal, hogy "figyeled" a GitHub-on és olvasod az összes megnyitott kérdést és beolvasztási kérelmet.
 <p markdown="1" class="pquote-credit">
 — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Hibajegy nyitása
 

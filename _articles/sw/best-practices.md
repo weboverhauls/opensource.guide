@@ -38,13 +38,13 @@ Kuwa na maono wazi, yaliyoandikwa kunakufanya uwe na mwelekeo na kukusaidia kuep
 
 Kwa mfano, @lord aligundua ya kwamba kuwa na maono ya mradi kulimsaidia kubaini ni maombi gani ya kupoea kupao mbele. Kama mtunzaji mpya, alijutia kutoshikilia upeo wa mradi wake alipokutana na ombi lake la kwanza la kipengele kwa [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   Nilishindwa. Sikutia juhudi kuja na suluhisho kamili. Badala ya suluhisho la nusu, ningependa kusema "Sina muda kwa hili sasa, lakini nitaongeza kwenye orodha ya mambo mazuri ya kuwa nayo baadaye."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Vidokezo kwa watunzaji wapya wa open source"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Wasiliana matarajio yako
 
@@ -95,13 +95,13 @@ Bila kujali sababu, inawezekana kushughulikia kwa ustadi michango ambayo haikidh
 
 Ikiwa unapokea mchango usiotaka kukubali, majibu yako ya kwanza yanaweza kuwa kuupuuza au kujaribu kuonyesha hujaona. Kufanya hivyo kunaweza kuumiza hisia za mtu mwingine na hata kumkatisha tamaa mchango mwingine wa uwezekano katika jamii yako.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   Ufumbuzi wa kusaidia miradi mikubwa ya open source ni kuweka masuala yakiendelea. Jaribu kuepuka kuwa na masuala yanayokwama. Ikiwa wewe ni mwandishi wa programu wa iOS unajua jinsi inavyoweza kuwa ngumu kuwasilisha radari. Unaweza kusikia tena baada ya miaka 2, na unashauriwa kujaribu tena na toleo jipya la iOS.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Kukuza jamii za open source"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Usiache mchango usiotakikana wazi kwa sababu unajisikia hatia au unataka kuwa wa huruma. Kadri muda unavyopita, masuala yako na PRs zisizojibiwa zitafanya kufanya kazi kwenye mradi wako kuwa ngumu zaidi na ya kutisha.
 
@@ -141,13 +141,13 @@ Ikiwa hawafuati sheria zako, funga suala mara moja na uelekeze kwenye nyaraka za
 
 Ingawa njia hii inaweza kuonekana kuwa si ya huruma mwanzoni, kuwa mchangamfu ni nzuri kwa pande zote. Inapunguza uwezekano wa mtu kuweka masaa mengi ya kazi kwenye PR ambalo hutakubali. Na inafanya kazi yako iwe rahisi kudhibiti.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Kwa kawaida, eleza kwao na katika faili ya CONTRIBUTING.md jinsi wanavyoweza kupata dalili bora katika siku zijazo kuhusu kile ambacho kitakubaliwa na kisichokubaliwa kabla ya kuanza kazi.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kufunga kwa Huruma Ombi la Kuvuta"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Wakati mwingine, unaposema hapana, mchangiaji wako wa uwezekano unaweza kukasirika au kukosoa uamuzi wako. Ikiwa tabia yao inakuwa ya uhasama, [chukua hatua za kupunguza hali](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) au hata uwondoe kwenye jamii yako, ikiwa hawataki kushirikiana kwa njia ya kujenga.
 
@@ -171,13 +171,13 @@ Unapowaona wachangiaji wapya wakifanya michango mara kwa mara, tambua kazi yao k
 
 Kuhamasisha wengine [kushiriki umiliki wa mradi](../building-community/#shiriki-umiliki-wa-mradi-wako) kunaweza kupunguza mzigo wako mwenyewe, kama @lmccart alivyogundua kwenye mradi wake, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   Nilikuwa nikisema, "Ndio, mtu yeyote anaweza kushiriki, huwezi kuwa na ujuzi mwingi wa kuandika msingo [...]." Tulikuwa na watu kujiandikisha kuja [katika tukio] na wakati huo nilikuwa nikijiuliza: je, hii ni kweli, kile nilichokuwa nikisema? Kulikuwa na watu 40 watakaokuja, na siwezi kukaa na kila mmoja wao...Lakini watu walikuja pamoja, na ilitimizika. Mara mtu mmoja alipokipata, angeweza kumfundisha jirani yake.
   <p markdown="1" class="pquote-credit">
 — @lmccart, ["Je, "open source" Kinamaanisha Nini? Toleo la p5.js"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Ikiwa unahitaji kuondoka kwenye mradi wako, ama kwa mapumziko au milele, hakuna aibu katika kuwaomba wengine wachukue nafasi yako.
 
@@ -193,13 +193,13 @@ Ikiwa mchango wa uwezekano una maoni tofauti kuhusu kile mradi wako unapaswa kuf
 
 Kutengeneza mfano wa mradi ya fork hakuhitaji kuwa jambo baya. Kuweza kunakili na kubadilisha miradi ni moja ya mambo bora kuhusu open source. Kuwaelekeza wanajamii wako kufanya kazi kwenye fork yao wenyewe kunaweza kutoa njia ya ubunifu wanayohitaji, bila kuingiliana na maono ya mradi wako.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   Ninazingatia matumizi ya 80%. Ikiwa wewe ni mmoja wao, tafadhali fork kazi yangu. Sitakosea! Miradi yangu ya umma mara nyingi inakusudia kutatua matatizo ya kawaida; ninajaribu kufanya iwe rahisi kuingia kwa kufork kazi yangu au kuipanua.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Kwa Nini Nafunga PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 Vile vile hutumika kwa mtumiaji ambaye anataka sana suluhu ambayo huna tu kipimo data cha kujenga. Kutoa API na ndoano za kubinafsisha kunaweza kusaidia wengine kukidhi mahitaji yao wenyewe, bila kulazimika kurekebisha chanzo moja kwa moja. @orta [aligundua kuwa](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) programu jalizi za CocoaPods za zilisababisha "baadhi ya mawazo ya kuvutia zaidi":
 
@@ -219,13 +219,13 @@ Weka majaribio ya kiotomatiki ambayo yataendeshwa kwa michango yote inayoingia, 
 
 Ukiongeza majaribio, hakikisha umeeleza jinsi yanavyofanya kazi katika faili yako ya KUCHANGIA.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   Ninaamini kuwa majaribio ni muhimu kwa msimbo zote ambazo watu hufanya kazi. Ikiwa msimbo ulikuwa sahihi kabisa, hautahitaji mabadiliko - tunaandika tu msimbo wakati kuna kitu kibaya, iwe "Inaacha kufanya kazi" au "Haina kipengele fulani-na-vile". Na bila kujali mabadiliko unayofanya, majaribio ni muhimu ili kupata matatizo zozote ambazo unaweza kuanzisha kimakosa.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Tumia zana kurekebisha kazi za kimsingi za urekebishaji kiotomatiki
 
@@ -261,13 +261,13 @@ Ingawa inapaswa kwenda bila kusema, pumzika! Hupaswi kusubiri hadi uhisi upweke 
 
 Kama tu aina nyingine yoyote ya kazi, kuchukua mapumziko ya kawaida kutakufanya upate kuburudishwa, kufurahi, na kuchangamkia kazi yako.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   Katika kudumisha WP-CLI, nimegundua ninahitaji kujifurahisha kwanza, na kuweka mipaka wazi juu ya ushiriki wangu. Salio bora ambalo nimepata ni saa 2-5 kwa wiki, kama sehemu ya ratiba yangu ya kawaida ya kazi. Hii inaweka ushiriki wangu kuwa wa shauku, na kutoka kwa kuhisi kama kazi sana. Kwa sababu ninatanguliza masuala ninayoshughulikia, ninaweza kufanya maendeleo ya mara kwa mara kuhusu kile ninachofikiri ni muhimu zaidi.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["Rambirambi zangu, sasa wewe ni mtunzaji wa mradi maarufu wa programu huria"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Wakati mwingine, inaweza kuwa vigumu kuchukua pumziko kutoka kwa kazi huria wakati inahisi kama kila mtu anakuhitaji. Watu wanaweza hata kujaribu kukufanya uhisi hatia kwa kuondoka.
 

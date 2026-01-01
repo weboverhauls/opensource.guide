@@ -96,13 +96,13 @@ related:
 
 * **பங்களிப்பு வகைகள்:** உதாரணமாக, எழுத்துப்பிழைகள் அல்லது பிழைகளை சரிசெய்து, அல்லது சிக்கலில் கருத்து தெரிவித்தல்.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   திறந்த மூலம் குறியீட்டை விட கூடுதலாகும். வெற்றிகரமான திறந்த மூல திட்டங்கள் இந்த மாற்றங்கள் பற்றி உரையாடல்களுடன் குறியீடு மற்றும் ஆவண பங்களிப்பு ஆகியவை அடங்கும்.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["திறந்த மூல வடிவம்"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## பராமரிப்பாளர் செயல்பாடு
 

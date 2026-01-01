@@ -30,25 +30,25 @@ related:
 
 **"기여자"**는 이슈나 풀 리퀘스트에 댓글을 작성하는 모든 사람이라고 볼 수 있습니다. 이슈에 우선 순위를 매기는 사람, 코드를 작성하는 사람, 행사를 조율하는 사람에서부터 (가장 좁은 의미로는) 병합된 풀 리퀘스트를 가진 사람까지 모두가 기여자인 셈입니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
   <p markdown="1" class="pquote-credit">
 — @mikeal, [“Healthy Open Source”](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **"커미터"**라는 용어는 다른 기여 유형에 대비해 커밋이라는 특정 권한과 책임을 가진 사람을 구분하고자 사용합니다.
 
 프로젝트 역할은 여러분이 원하는 대로 정의할 수 있지만, 다양한 유형의 기여를 이끌어내기 위해 되도록 [넓은 정의를 사용하세요](../how-to-contribute/#기여한다는-것의-의미). 전문적인 기술 수준과 별개로 프로젝트에 대단한 기여를 한 사람들에게 리더십 역할을 부여하며 그들에게 답례를 표할 수 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
   <p markdown="1" class="pquote-credit">
 — @jacobian, [“PyCon 2015 Keynote” (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## 어떻게 리더십 역할을 구성해야 할까요?
 
@@ -60,12 +60,12 @@ related:
 
 매우 활성화된 기여자 커뮤니티를 가진 프로젝트라면 관리자들이나 각 분야(보안, 이슈 분류, 커뮤니티 관리 등)의 기여자들로 "핵심 팀"을 구성하는 방법이 있습니다. 사람들에게 역할을 부여하기보다 사람들이 스스로 역할을 구성하고 자원할 수 있게 하세요.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
   <p markdown="1" class="pquote-credit">
 — [“Rust Governance RFC”](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 리더 팀은 IRC 등 지정된 채널을 만들거나 Gitter나 Google Hangout 등에서 정기적으로 프로젝트 토론 시간을 가지는 것이 좋습니다. 다른 사람들도 참관할 수 있게 채널이나 토론을 공개해도 됩니다. 예컨대 [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)는 [매주 토론 시간을 갖습니다](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -83,13 +83,13 @@ related:
 
 여러분의 프로젝트가 GitHub에서 진행되고 있다면 [보호 브랜치](https://help.github.com/articles/about-protected-branches/) 기능을 사용해 누가 어떠한 상황에 특정 브랜치에 푸시할 수 있는지 지정할 수 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
   <p markdown="1" class="pquote-credit">
 — @felixge, [“The Pull Request Hack”](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## 오픈소스의 관리 구조로는 어떤 것이 있나요?
 
@@ -115,13 +115,13 @@ related:
 
 여러분이 오픈소스 프로젝트를 출시하는 기업의 일원이라면, 출시 전에 앞으로 어떻게 프로젝트를 유지하고 사안을 결정할지에 대한 내부 토론 시간을 가지세요. 또한 기업이 프로젝트에 어떤 식으로 관여할지 (또는 관여하지 않을지!) 공개적으로 설명하는 것이 좋습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook”](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## 기업 직원들이 기여하기 시작하면 어떤 일이 일어나나요?
 
@@ -145,12 +145,12 @@ related:
 
 대부분 프로젝트는 비영리 단체를 설립하는 번거로운 절차를 따르고 싶어하지 않습니다. 대신 비영리 회계 스폰서를 찾는 방법을 택합니다. 회계 스폰서는 보통 기부금의 일정 비율을 대가로 여러분을 대신하여 기부금을 수령합니다. 오픈소스 프로젝트를 위한 회계 스폰서 역할을 하는 조직은 [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource) 등이 있습니다.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework”](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 여러분의 프로젝트가 특정 언어 또는 생태계와 밀접하게 관련되어 있다면 협업할 수 있는 관련 소프트웨어 재단 또한 있을 것입니다. 예를 들어 [Python Software Foundation](https://www.python.org/psf/)은 Python 패키지 관리자인 [PyPI](https://pypi.org/) 프로젝트를 지원하고, [Node.js Foundation](https://foundation.nodejs.org/)은 Node 기반 프레임워크인 [Express.js](https://expressjs.com/) 프로젝트를 지원합니다.

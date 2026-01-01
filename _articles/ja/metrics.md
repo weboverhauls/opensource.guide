@@ -96,13 +96,13 @@ related:
 
 * **コントリビュートの種類:** 例えば、コミット、タイポやバグの修正、イシューへのコメントなどです。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   オープンソースというのはコードだけの話ではありません。成功するオープンソースプロジェクトでは、コードやドキュメントへのコントリビュートに加えて、それらの変更についての議論も行われているものです。
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## メンテナーの活動
 

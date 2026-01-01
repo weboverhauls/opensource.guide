@@ -30,12 +30,12 @@ related:
 
 ## مردم را در پیدا کردن و دنبال کردن پروژه‌ی خودتان یاری کنید
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   شما ترجیحاً به یک <span dir="rtl">URL</span> (نشانی وب) نیاز دارید تا بتوانید پروژه‌ی خود را تبلیغ کنید و مردم را به آن مشتاق سازید. لازم نیست که قالب و یا حتی یک آدرس اینترنتی شیک و فانتزی داشته باشید، اما پروژه‌ی شما به یک نقطه‌ی توجه (مطلب اصلی و مهم) نیاز دارد.
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 طوری باشد که با اشاره‌ای کوچک، مردم پروژه‌ی شما را به یاد بیاورند.
 
@@ -43,13 +43,13 @@ related:
 
 اگر هنوز مایل به راه‌اندازی رسانه‌هایی برای پروژه‌ی خودتان نیستید، در همه‌ی کارهایی که انجام می‌دهید <span dir="rtl">Twitter</span> یا <span dir="rtl">GitHub</span> خود را ترویج دهید. توسعه و تبلیغ <span dir="rtl">Twitter</span> یا <span dir="rtl">GitHub</span> به مردم این امکان را می‌دهد تا با شما در ارتباط باشند یا کارهای شما را دنبال کنند. اگر در جلسه یا رویدادی صحبت می‌کنید، اطمینان حاصل کنید تا اطلاعات تماس شما در مشخصات شما یا اسلایدها آمده باشد.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   اشتباهی که در همان روزهای اولیه مرتکب به آن شدم، افتتاح نکردن یک حساب توییتر برای پروژه بود. توییتر راهی عالی برای به روز نگه داشتن مردم در مورد پروژه و همچنین نشان دادن پروژه به آدم‌های جدید است.
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **ساخت وب‌سایتی را برای پروژه‌ی خود مد نظر قرار دهید.** داشتن وب‌سایت، پروژه‌ی شما را دوستانه‌تر و برای وب‌گردی و گشت‌زنی ساده‌تر می‌کند؛ به ویژه هنگامی که با مستندات و آموزش‌های واضح همراه باشد. داشتن یک وب سایت همچنین بیانگر این است که پروژه‌ی شما فعال است که همین باعث می‌شود مخاطبان شما احساس راحتی بیشتری در استفاده از آن داشته باشند. مثال‌هایی را ارائه دهید تا به افراد در مورد چگونگی استفاده از پروژه‌تان ایده بدهد.
 
@@ -65,13 +65,13 @@ related:
 
 برای دسترسی به مخاطبان خود از ارتباطات‌ و بسترهای آنلاین موجود استفاده کنید. اگر پروژه‌ی اوپن سورس شما پروژه‌ای نرم‌افزاری است، احتمالاً بتوانید مخاطبان خود را در [Stack Overflow](https://stackoverflow.com/) ،[Hacker News](https://news.ycombinator.com/)  یا [Quora](https://www.quora.com/) پیدا کنید. کانال‌هایی را پیدا کنید که فکر می‌کنید مردم در آن از کار شما بیشترین استفاده را می‌برند یا مشتاق آن هستند.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   هر برنامه‌ای، عملکرد بسیار خاص خود را دارد که فقط برای کسری از کاربران مفید واقع می‌شود. مردم را با تبلیغات بیش از حد برنامه، بمباران نکنید! درعوض، تلاش‌های خود را معطوف گروهی از افراد کنید که از مطلع شدن از پروژه‌ی شما بهره‌مند می‌شوند و برنامه برای آن‌ها مفید واقع می‌شود.
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 ببینید آیا می‌توانید روش‌هایی برای به اشتراک گذاشتن پروژه خود به صورت متناسبی پیدا کنید:
 
@@ -91,36 +91,36 @@ related:
 
 اگر [تجربه‌ی چندانی در حوزه‌ی سخنرانی در عموم](https://speaking.io/), ندارید و تازه‌کار هستید، با پیدا کردن یک جلسه‌ی محلی که مرتبط با محتوا یا اکوسیستم پروژه‌ی خودتان است شروع کنید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   من از اینکه بخواهم به <span dir="rtl">«PyCon»</span> بروم، خیلی استرس داشتم. قرار بود که سخنرانی بکنم، قرار بود فقط با چند نفر در آنجا آشنا شوم، قرار بود یک هفته‌ی تمام آنجا می‌بودم. .... هر چند نیازی نبود که استرس داشته باشم. <span dir="rtl">PyCon</span>  فراتر از انتظارهایم فوق‌العاده بود! همگی به طرز خار‌ق‌العاده‌ای رفتاری دوستانه داشتند و خوش‌برخورد بودند، به قدری که من به ندرت وقت می‌کردم که با مردم صحبت نکنم!
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 اگر قبلاً هرگز در رویدادی صحبت نکرده‌اید، اینکه استرس داشته باشید، کاملاً طبیعی است! به یاد داشته باشید که مخاطبان شما آنجا هستند زیرا واقعاً می‌خواهند در مورد کارهای شما بشنوند.
 هنگام نوشتن سخنرانی خود، بر آنچه که مخاطبان جالب می‌پندارند و از آن ارزش و درسی می‌گیرند، تمرکز کنید. دوستانه و صمیمانه سخن بگویید. لبخند به لب داشته باشید، تنفس کنید و لذت ببرید.
 
 هنگامی که کار را بر روی متن سخنرانی خود آغاز می‌کنید، خواه هر چه موضوع سخنرانی شما باشد، اگر سخنرانی خود را همانند داستانی که برای مردم تعریف می‌کنید تصور کنید، می‌تواند به شما کمک بسزایی بکند.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   وقتی احساس کردید که آماده‌اید، سخنرانی در کنفرانس‌ها به منظور تبلیغ پروژه‌ی خود را مد نظر قرار دهید. کنفرانس‌ها می‌توانند به شما کمک کنند تا به افراد بیشتری، گاهی اوقات از سراسر جهان، دسترسی پیدا کنید.
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 به دنبال کنفرانس‌هایی باشید که مرتبط با محتوا یا اکوسیستم مورد نظر شما باشد. قبل از ارسال سخنرانی خود، در مورد کنفرانس تحقیق کنید تا سخنرانی خود را برای حاضران تنظیم و اصلاح کرده و در نتیجه شانس پذیرفته شدن برای سخنرانی در کنفرانس را افزایش دهید. شما همچنین می‌توانید با مراجعه به لیست سخنرانان کنفرانس، از نوع و کیفیت مخاطبان خود آگاه شوید.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   من خیلی محترمانه برای مسئولان کنفرانس <span dir="rtl">JS</span> نامه نوشتم و از آن‌ها خواهش کردم تا نوبتی به من برای سخنرانی در کنفرانس <span dir="rtl">JS</span> اروپا به من بدهند. ...برای این سخنرانی که شش ماه بر روی آن کار کرده بودم، بسیار ترسیده بودم. ...فقط با خودم می‌گفتم، خدایا! من اینجا چیکار می‌کنم؟
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## برای خود اعتبار و شهرت دست و پا کنید
 
@@ -128,13 +128,13 @@ related:
 
 کمک به تازه‌واردان، به اشتراک گذاشتن منابع و مشارکت مدبرانه در پروژه‌های دیگران به شما کمک می‌کند تا اعتبار خوبی برای خود بسازید. اگر عضوی فعال در اجتماع (انجمن) اوپن سورس باشید به شما کمک می‌کند تا مردم کار و محتوای شما را بشناسند و احتمال اینکه به پروژه شما توجه کنند و آن را به اشتراک بگذارند، بیشتر می‌شود. توسعه‌ی روابط با سایر پروژه‌های اوپن سورس، می‌تواند منجر به مشارکت و همکاری  رسمی شود.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
  تنها به خاطر درخواست‌های زیاد از <span dir="rtl">urllib3</span> است که <span dir="rtl">urllib3</span> محبوب‌ترین کتابخانه‌ی پایتون شخص ثالث <span dir="rtl">(third-party)</span> امروزی است.
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 برای ایجاد و کسب اعتبار، هیچوقت خیلی زود و یا خیلی دیر نیست. حتی اگر پروژه‌ی خود را از قبل راه‌اندازی کرده‌اید، به جستجوی راه‌هایی برای کمک به دیگران ادامه دهید. برای ایجاد و جذب مخاطب، هیچ راه‌حل یک شبه‌ای وجود ندارد.
 

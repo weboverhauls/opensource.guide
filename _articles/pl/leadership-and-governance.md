@@ -30,7 +30,7 @@ Opiekun niekoniecznie musi być kimś, kto pisze kod dla twojego projektu. Może
 
 **"Contributor" może być każdy** kto komentuje problem lub żądanie ściągnięcia, osoby, które dodają wartość do projektu (czy to dzielenie problemów, pisanie kodu lub organizowanie wydarzeń), czy ktokolwiek z połączonym żądaniem ściągnięcia (być może najwęższa definicja autora).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   <i>
   \[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project’s community. Just being able to see them means that they have crossed the line from being a user to being a contributor.
@@ -38,13 +38,13 @@ Opiekun niekoniecznie musi być kimś, kto pisze kod dla twojego projektu. Może
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **Określenie "committer"** może zostać wykorzystane do odróżnienia dostępu do zatwierdzenia, który jest szczególnym rodzajem odpowiedzialności, od innych form wkładu.
 
 Chociaż możesz zdefiniować role swojego projektu w dowolny sposób, [rozważ użycie szerszych definicji](../how-to-contribute/#co-to-znaczy-przyczynić-się) aby zachęcić więcej form wkładu. Możesz użyć ról przywódczych, aby formalnie rozpoznać osoby, które wniosły wybitny wkład w Twój projekt, niezależnie od ich umiejętności technicznych.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   <i>
   You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer.
@@ -52,7 +52,7 @@ Chociaż możesz zdefiniować role swojego projektu w dowolny sposób, [rozważ 
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Jak sformalizować te role przywódcze?
 
@@ -64,12 +64,12 @@ W przypadku większego projektu, jeśli masz witrynę internetową, utwórz stro
 
 Jeśli Twój projekt ma bardzo aktywną społeczność współpracowników, możesz utworzyć „podstawowy zespół” opiekunów, a nawet podkomitety osób, które przejmują odpowiedzialność za różne obszary problemowe (na przykład bezpieczeństwo, klasyfikowanie problemów lub postępowanie społeczności). Pozwól ludziom samoorganizować się i zgłaszać do ról, które są najbardziej podekscytowani, zamiast przypisywać je.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Zespoły kierownicze mogą chcieć utworzyć wyznaczony kanał (np. Na IRC) lub regularnie spotykać się w celu omówienia projektu (np. Na Gitter lub Google Hangout). Możesz nawet upublicznić te spotkania, aby inni mogli je słuchać. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), na przykład [organizuje godziny pracy co tydzień](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs)
 
@@ -87,7 +87,7 @@ Z drugiej strony, szczególnie w przypadku większych, bardziej złożonych proj
 
 Jeśli Twój projekt znajduje się na GitHub, możesz użyć [protected branches](https://help.github.com/articles/about-protected-branches/) zarządzać, kto może naciskać na konkretny branch i w jakich okolicznościach.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it.
@@ -95,7 +95,7 @@ Jeśli Twój projekt znajduje się na GitHub, możesz użyć [protected branches
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Jakie są wspólne struktury zarządzania projektami typu open source?
 
@@ -121,7 +121,7 @@ Jednak wczesna dokumentacja nieuchronnie przyczyni się do zarządzania projekte
 
 Jeśli należysz do firmy prowadzącej projekt open source, przed rozpoczęciem warto przeprowadzić wewnętrzną dyskusję na temat tego, w jaki sposób Twoja firma zamierza utrzymać projekt i podejmować decyzje dotyczące jego dalszego rozwoju. Możesz także publicznie wyjaśnić wszystko, w jaki sposób Twoja firma będzie (lub nie będzie!) Zaangażowana w projekt.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   <i>
   We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer.
@@ -129,7 +129,7 @@ Jeśli należysz do firmy prowadzącej projekt open source, przed rozpoczęciem 
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Co się stanie, jeśli pracownicy korporacji zaczną składać kontrybucje?
 
@@ -153,7 +153,7 @@ Jeśli chcesz przyjąć darowizny na projekt open source, możesz ustawić przyc
 
 Wiele projektów nie chce borykać się z tworzeniem organizacji non-profit, dlatego zamiast tego znajdują sponsora fiskalnego. Sponsor fiskalny przyjmuje darowizny w Twoim imieniu, zwykle w zamian za procent darowizny. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) i [Open Collective](https://opencollective.com/opensource) to przykłady organizacji, które pełnią rolę sponsorów fiskalnych dla projektów open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   <i>
   Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
@@ -161,6 +161,6 @@ Wiele projektów nie chce borykać się z tworzeniem organizacji non-profit, dla
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Jeśli Twój projekt jest ściśle powiązany z określonym językiem lub ekosystemem, może istnieć powiązana podstawa oprogramowania, z którą możesz pracować. Na przykład [Python Software Foundation](https://www.python.org/psf/) pomaga w obsłudze [PyPI](https://pypi.org/), menedżera pakietów Python i [Node.js Foundation](https://foundation.nodejs.org/) pomaga w obsłudze [Express.js](https://expressjs.com/), frameworka opartego na Node.

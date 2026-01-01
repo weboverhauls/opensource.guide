@@ -30,7 +30,7 @@ Tiefere Einblicke in das Thema "Botschaften" finden Sie in Mozillas ["Personas a
 
 ## Helfen Sie Menschen dabei, Ihr Projekt zu finden und zu beobachten
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
 
   Am besten nutzen Sie eine einzige "Heimat"-Adresse im Internet, auf die Sie im Zusammenhang mit Ihrem Projekt aufmerksam machen können und auf die Sie Interessenten verweisen. Sie müssen kein großes Geld für ausgefallene Vorlagen oder gar einen Domainnamen hinblättern, aber Ihr Projekt braucht eine zentrale Anlaufstelle.
 
@@ -39,7 +39,7 @@ Tiefere Einblicke in das Thema "Botschaften" finden Sie in Mozillas ["Personas a
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Helfen Sie Leuten dabei, Ihr Projekt zu finden und es sich zu merken, indem Sie sie auf einen einzigen Namensraum verweisen.
 
@@ -47,7 +47,7 @@ Helfen Sie Leuten dabei, Ihr Projekt zu finden und es sich zu merken, indem Sie 
 
 Wenn Sie noch keine "Marktstände" für Ihr Projekt einrichten möchten, bewerben Sie immer Ihren eigenen Twitter- oder GitHub-Namen. Werben Sie für Ihren Twitter- oder GitHub-Namen, damit die Leute wissen, wie Sie zu erreichen sind oder wo Ihre Arbeit beobachtet werden kann. Wenn Sie bei einem Meeting oder einer Veranstaltung sprechen, stellen Sie sicher, dass Sie Ihre Kontaktinformationen erwähnen oder in Ihren Folien nennen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
 
   Ein Fehler der frühen Tage (...) war, dass ich kein Twitter-Konto für das Projekt einrichtete. Twitter ist eine großartige Möglichkeit, die Leute auf dem Laufenden zu halten und sie ständig mit dem Projekt in Kontakt zu bringen.
@@ -57,7 +57,7 @@ Wenn Sie noch keine "Marktstände" für Ihr Projekt einrichten möchten, bewerbe
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Ziehen Sie eine Website für Ihr Projekt in Betracht.** Eine Website macht Ihr Projekt freundlicher und einfacher zu navigieren. Vor allem, wenn die Seite klare Dokumentation und Tutorials enthält. Außerdem zeigt eine Website auch, dass Ihr Projekt aktiv ist, was wiederum Ihrem Publikum Vertrauen in den Nutzen Ihres Projektes gibt.
 
@@ -75,7 +75,7 @@ Internetkommunikation ist ein großartiger Weg, um die Botschaft Ihres Projektes
 
 Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr Publikum zu erreichen. Wenn es sich bei Ihrem Open-Source-Projekt um ein Softwareprojekt handelt, erreichen Sie Ihr Publikum wahrscheinlich auf [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), oder [Quora](https://www.quora.com/). Finden Sie die Kanäle, von denen Sie denken, dass die Menschen am meisten von Ihrer Arbeit profitieren werden, oder sich begeistern lassen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
 
   Jedes Programm verfügt über sehr spezifische Funktionen, die nur ein Bruchteil der Benutzer für nützlich hält: Spammen Sie nicht so viele Leute wie möglich zu, sondern richten Sie Ihre Bemühungen auf Gemeinschaften, die vom Kennenlernen Ihres Projekts profitieren.
@@ -85,7 +85,7 @@ Nutzen Sie die Vorteile bestehender Online-Communities und -Plattformen, um Ihr 
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Finden Sie Wege, um Ihr Projekt auf relevante Art und Weise mit anderen zu teilen:
 
@@ -105,7 +105,7 @@ Offline-Veranstaltungen helfen Ihnen dabei, neue Projekte beim Publikum bekannt 
 
 Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun Sie das am besten auf einem lokalen Treffen ("Meetup"), bei dem es um die Sprache oder die Programmierumgebung geht, in der Ihr Projekt angesiedelt ist.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
 
   Ich war ziemlich nervös, als ich zur PyCon ging. Ich hielt einen Vortrag; Ich wollte nur ein paar Leute dort kennenlernen; Ich wollte eine ganze Woche lang hingehen. (...) Ich hätte mir aber keine Sorgen machen müssen. (...) PyCon war phänomenal grandios! Alle waren unglaublich freundlich und kontaktfreudig, so sehr, dass ich selten Zeit fand, nicht mit Leuten zu reden!
@@ -115,13 +115,13 @@ Wenn Sie gerade erst anfangen, [Vorträge zu halten](http://speaking.io/), tun S
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Wenn Sie noch nie auf einer Veranstaltung gesprochen haben, sind Gefühle der Nervosität völlig normal: Denken Sie daran, dass Ihr Publikum da ist, weil es wirklich von Ihrer Arbeit hören möchte.
 
 Während Sie Ihren Vortrag ausarbeiten, konzentrieren Sie sich auf das für Ihr Publikum Interessante, das ihm einen Mehrwert bietet. Gestalten Sie Ihren Vortrag in einem freundlichen, zugänglichen Tonfall. Lächeln, atmen und Spaß haben.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
 
   Wenn Du anfängst, Deinen Vortrag zu schreiben (Gleich über welches Thema!) kann es helfen, ihn als eine Geschichte anzusehen, die Du den Leuten erzählst.
@@ -131,13 +131,13 @@ Während Sie Ihren Vortrag ausarbeiten, konzentrieren Sie sich auf das für Ihr 
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Wenn Sie sich gut vorbereitet fühlen, sollten Sie sich überlegen, mit einem Konferenzvortrag für Ihr Projekt zu werben. Das kann Ihnen helfen, mehr Menschen zu erreichen; Manchmal aus der ganzen Welt.
 
 Suchen Sie nach Konferenzen, die speziell auf Ihre Sprache oder Ihre Programmierumgebung zugeschnitten sind. Bevor Sie Ihren Vortrag einreichen, recherchieren Sie die Konferenz, um Ihren Vortrag auf die Teilnehmer\*innen zuzuschneiden und Ihre Chancen zu erhöhen, auf der Konferenz als Redner\*in akzeptiert zu werden. Sie können oft ein Gefühl für Ihr Publikum bekommen, wenn Sie frühere Redner\*innen der Konferenz recherchieren.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
 
   Ich schrieb sehr nett an die JSConf-Leute und flehte sie an, mir einen Platz zu geben, sodass ich auf der JSConf EU präsentieren könnte. (...) Ich hatte große Angst, dieses Ding, an dem ich sechs Monate lang gearbeitet hatte, vorzustellen. (...) Die ganze Zeit dachte ich nur, oh mein Gott, was mache ich hier?
@@ -147,7 +147,7 @@ Suchen Sie nach Konferenzen, die speziell auf Ihre Sprache oder Ihre Programmier
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Reputation aufbauen
 
@@ -155,7 +155,7 @@ Zusätzlich zu den oben skizzierten Strategien ist der beste Weg, Menschen für 
 
 Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Beiträge zu anderen Projekten leisten, können Sie einen guten Ruf aufbauen. Ein aktives Mitglied in der Open-Source-Gemeinschaft zu sein, hilft Leuten dabei, den Kontext Ihrer Arbeit zu verstehen. Es wird zudem wahrscheinlicher, dass Leute Ihr Projekt aufmerksam verfolgen und teilen. Die Entwicklungsbeziehungen zu anderen Open-Source-Projekten können sogar zu offiziellen Kooperationen führen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
 
   Urllib3 ist nur darum die populärste Python-Bibliothek eines Drittanbieters, weil ihr Einbau mittels so vieler Pull Requests vorgeschlagen wird.
@@ -165,7 +165,7 @@ Wenn Sie Neuankömmlingen helfen, Ressourcen gemeinsam nutzen und durchdachte Be
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Es ist nie zu früh oder zu spät, um mit dem Aufbau eines guten Rufs zu beginnen. Auch wenn Sie bereits ein eigenes Projekt gestartet haben, suchen Sie weiterhin nach Möglichkeiten, anderen zu helfen.
 

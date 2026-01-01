@@ -14,13 +14,13 @@ related:
 
 Banyak dari pekerjaan open source adalah sukarela. Sebagai contoh, seseorang mungkin menemukan sebuah kesalahan dalam sebuah proyek yang mereka gunakan dan mengirimkan sebuah perbaikan, atau mereka menikmati menggunakan proyek open source dalam waktu senggang mereka.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
 Saya sedang mencari proyek pemrograman sebagai "hobi" yang bisa membuat saya sibuk saat menjelang Natal. (...) Saya memiliki komputer dirumah dan tidak banyak yang bisa dikerjakan. Saya memutuskan untuk menulis sebuah penterjemah untuk bahasa pemrograman script yang sudah saya pikirkan belakangan ini. (...) Saya memilih Python sebagai judul pekerjaan saya.
   <p markdown="1" class="pquote-credit">
 — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
   </p>
-</aside>
+</div>
 
 Terdapat banyak alasan kenapa seseorang tidak ingin dibayar untuk pekerjaan open source mereka.
 
@@ -28,35 +28,35 @@ Terdapat banyak alasan kenapa seseorang tidak ingin dibayar untuk pekerjaan open
 * **Mereka menikmati pemikiran open source sebagai hobi** atau pelampiasan kreatif dan tidak ingin terikat secara finansial untuk bekerja pada proyek mereka.
 * **Mereka mendapatkan keuntungan lainnya untuk berkontribusi pada open source,** seperti membangun reputasi atau portofolio mereka, mempelajari ketrampilan baru, atau merasa lebih dekat pada komunitas.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
   Donasi finansial memang menambahkan perasaan tanggung jawab untuk beberapa orang. (...) Merupakan sesuatu yang penting bagi kami yang hidup pada dunia yang sangat cepat dan terkoneksi secara global untuk bisa mengatakan "belum waktunya, saya merasa melakukan sesuatunya dengan cara yang berbeda".
   <p markdown="1" class="pquote-credit">
 — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
   </p>
-</aside>
+</div>
 
 Bagi orang lain, terutama bagi membutuhkan waktu yang cukup signifikan untuk kontribusi mereka, mendapatkan dana untuk berkontribusi pada open source adalah satu-satunya cara mereka untuk bisa berpartisipasi, entah karena proyek tersebut membutuhkannya, atau karena alasan pribadi.
 
 Mengelola proyek yang terkenal merupakan tanggung jawab besar, yang membutuhkan waktu 10 atau 20 jam per minggu dibandingkan beberapa jam setiap bulannya.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
   Tanyakan kepada sembarang pengelola proyek open source, dan mereka akan memberikan informasi tentang realitas pekerjaan yang diperlukan untuk mengelola sebuah proyek. Anda memiliki klien. Anda memperbaiki masalah untuk mereka. Anda menciptakan fitur baru. Hal ini membutuhkan waktu Anda.
   <p markdown="1" class="pquote-credit">
 — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
   </p>
-</aside>
+</div>
 
 Pekerjaan yang dibayar juga memungkinkan orang-orang dari berbagai latar belakang untuk membuat kontribusi yang berarti. Beberapa orang tidak bisa meluangkan waktu tanpa dibayar pada proyek open source, mengingat posisi finansial mereka, hutang, atau tanggung jawab mengelola keluarga. Hal ini berarti dunia tidak akan melihat kontribusi dari orang-orang bertalenta yang tidak mampu menyumbangkan waktu mereka secara sukarela. Hal ini meiliki implikasi etika, seperti [yang dijelaskan](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) @ashedryden, karena pekerjaan yang dilakukan bias terhadap mereka yang telah memiliki keuntungan dalam hidupnya, yang kemudian mendapatkan keuntungan tambahan karena kontribusi sukarela mereka, sedangkan orang lain yang tidak mampu meluangkan waktunya tidak mendapatkan kesempatan lainnya, sehingga mengakibatkan kurangnya perbedaan pada komunitas open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
    OSS menghasilkan keuntungan yang besar pada industri teknologi, yang akan menguntungkan semua industri. (...) Namun, jika satu-satunya orang yang bisa berfokus padanya adalah orang yang beruntung dan terobsesi, maka terdapat potensi yang sangat besar.
   <p markdown="1" class="pquote-credit">
 — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
   </p>
-</aside>
+</div>
 
 Jika Anda mencari dukungan finansial, terdapat dua jalan yang bisa dipertimbangkan. Anda bisa mendanai sendiri sebagai kontributor, atau Anda mencari organisasi pendanaan untuk proyek Anda.
 
@@ -76,13 +76,13 @@ Banyak perusahaan mengembangkan program open source untuk membangun citra mereka
 
 Jika perusahaan Anda mengikuti rute ini, merupakan hal yang penting untuk menjaga batas antar aktivitas komunitas dan korporasi. Akhirnya, open source bertahan melalui kontribusi dari orang-orang diseluruh dunia, dan itu sesuatu yang lebih besar dari satu perusahaan atau lokasi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
   Dibayar untuk bekerja pada open source adalah kesempatan yang langka dan indah, tetapi Anda tidak boleh menyerah pada minat Anda dalam prosesnya. Minat Anda harus menjadi alasan kenapa perusahaan mau membayar Anda.
   <p markdown="1" class="pquote-credit">
 — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
   </p>
-</aside>
+</div>
 
 Jika Anda tidak mampu meyakinkan perusahaan untuk memprioritaskan pekerjaan open source, pertimbangkan untuk mencari perusahaan lain yang mendorong kontribusi karyawan pada open source. Cari perusahaan yang mendedikasikan pada pekerjaan open source secara eksplisit. Sebagai contoh:
 
@@ -158,13 +158,13 @@ Apa yang akan Anda raih dengan dana yang diajukan? Fokuslah pada tonggakan proye
 
 Apakah pemberi dana memiliki persyaratan? Misalnya Anda harus bersifat nirlaba atau memiliki sponsor dana nirlaba. Atau misalnya dana harus diberikan pada kontraktor individu dan bukan pada organisasi. Kebutuhan ini akan berbeda diantara pemberi dana, jadi pastikan Anda melakukan pekerjaan Anda terlebih dahulu.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
   Bertahun-tahun kami menjadi sumber daya unggulan untuk ikon website yang ramah, dengan jumlah komunitas lebih dari 20 juta orang dan telah ditampilkan di lebih dari 70 juta halaman web, termasuk Whitehouse.gov. (...) Versi 4 dikembangkan tiga tahun yang lalu. Teknologi web telah banyak berubah semenjak itu, dan jujur, Font Awesome tampak stagnan. (...) Itulah sebabnya kami memperkenalkan Font Awesome 5. Kami melakukan modernisasi dan menuliskan ulang CSS dan merancang ulang semua ikon dari atas ke bawah. Kami menawarkan desain  yang lebih baik, konsisten, dan mudah dibaca.
   <p markdown="1" class="pquote-credit">
 — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
   </p>
-</aside>
+</div>
 
 ## Eksperimen dan jangan menyerah
 

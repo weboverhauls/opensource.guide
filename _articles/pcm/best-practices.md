@@ -30,13 +30,13 @@ Start to write wetin you want make your project be. Put am for your README or cr
 
 As @lord don talk, project vision fit help you know wetin you go fit work on. As new maintainer, e talk say e no follow him project scope when e see first feature request for [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   I mess up. I no put effort to find correct solution. Instead of one kain solution, I for talk say, "I no get time for this now, but I go add am to the list for future when I fit do am well."
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Talk Wetin You Expect
 
@@ -79,13 +79,13 @@ No matter how e be, e fit possible to waka diplomatically for contributions wey 
 
 If you come across one contribution wey you no wan accept, your first reaction fit be to dey do like say you no see am or to dey form say you no see am. If you do am like that, e fit wound the person way submit am and e fit even discourage other people wey wan contribute for your community.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
     The main trick for managing support for big open source projects be say make you dey make issues dey waka. Try no make issues dey hang. If you be iOS developer, you sabi as e dey vex when you submit radars. You fit dey wait for like 2 years before dem go reply you, and dem go talk say make you try again with the latest iOS version.
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 No just allow one contribution wey you no want dey open because you dey feel bad or you dey try to dey nice. As time dey go, the issues and PRs wey you never answer go make your project come dey feel like say e too stress you and dey intimidate you.
 
@@ -123,13 +123,13 @@ If them no follow your rules, close the issue sharp-sharp and show them your doc
 
 Although e fit seem like say this approach no dey friendly at first, but e dey better for everybody. E dey reduce the chance say person go waste time dey work on top PR wey you no go accept. E also dey reduce your own work burden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   Make e clear to them, for one CONTRIBUTING.md file, how them fit sabi whether you go accept their work or no go accept am before them start work.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Sometimes, when you talk no, person fit vex or criticize your decision. If their behavior come bad, [take steps to defuse the situation](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) or even remove them from your community, if them no dey ready to work together positively.
 
@@ -151,13 +151,13 @@ One way to get new contributors be to [label issues wey dey simple for beginners
 
 When you see new contributors wey dey make repeated contributions, make you acknowledge their work and give them more responsibility. Write down how other people fit grow into leadership roles if them wan. Make you encourage others to [share ownership of the project](../building-community/#share-the-person-waeh-get-your-project) because e fit reduce your own workload, just like @lmccart find out for her project, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   I been dey talk say, "Yes, anybody fit participate, e no need make you sabi plenty coding [...]." People come sign up to join [one event], and I con dey wonder whether na true I talk or not. 40 people show up, and I no fit sit down with all of them...But people come together, and e just dey work. As soon as one person sabi am, e fit teach their neighbor.
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 If you need to step away from your project, whether on leave or permanently, no shame dey ask another person to take over for you.
 
@@ -173,13 +173,13 @@ If potential contributor get another idea for your project and e no follow your 
 
 Creating one fork of the project no dey bad at all. Make people sabi say them fit copy and modify projects, and e dey good thing about open source. Encourage your community members to work on their own fork because e fit give them creative freedom wey no go dey against your project vision.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   I dey consider the 80% use case. If you be one of the special people, please fork my work. I no go vex! My public projects almost always dey solve common problems; I dey try make am easy for person to dive deeper by forking or extending my work.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 The same thing fit apply to one user wey need solution wey you no get time to build. Offer APIs and customization options wey fit help other people meet their needs, without them needing to modify the source directly. @orta [see](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) say as them dey encourage plugins for CocoaPods, e lead to "some of the most interesting ideas":
 
@@ -199,13 +199,13 @@ Set up automatic tests wey go run on all incoming contributions, and make sure s
 
 If you add tests, make sure say you explain how them dey work for your CONTRIBUTING file.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce.
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Carry tools use am to automate basic maintenance tasks
 
@@ -241,13 +241,13 @@ Though e suppose dey obvious, make you take break! You no need wait until you fe
 
 Just like any other work, make you dey take regular breaks so you go dey refreshed, happy, and excited about your work.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important.
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Sometimes, e fit hard to take break from open source work when e look like everybody need you. People fit even try to make you feel guilty as you dey step away.
 

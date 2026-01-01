@@ -32,27 +32,27 @@ related:
 
 **"المساهم" يمكن أن يكون أي شخص** يعلق على مشكلة أو طلب دمج، أو أي شخص يضيف قيمة للمشروع (سواء من خلال فرز المشكلات، كتابة الأكواد، أو تنظيم الفعاليات)، أو أي شخص تم دمج طلبه للدمج (ربما أضيق تعريف للمساهم).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[For Node.js,\] كل شخص يشارك بالتعليق على مشكلة أو يقدّم كودًا يصبح عضوًا في مجتمع المشروع.
 مجرد تواجده ومشاركته يعني أنه انتقل من كونه مجرد مستخدم إلى كونه مساهم فعلي في المشروع.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["المشاريع مفتوحة المصدر السليمة"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **مصطلح "المصرّح له بالتحديث"** قد يُستخدم للتمييز بين الأشخاص الذين يمتلكون صلاحية تعديل الكود مباشرة — وهي مسؤولية محددة — وبين المساهمين الآخرين الذين يقدّمون دعمًا أو مساهمات بطرق مختلفة.
 
 رغم أنه بإمكانك تحديد أدوار المشروع بالطريقة التي تناسبك, [فكر في استخدام تعريفات أوسع للأدوار أو المسؤوليات](../how-to-contribute/#ما-معنى-المساهمة) لتشجيع المزيد من أشكال المساهمة. كما يمكنك استخدام أدوار القيادة للاعتراف رسميًا بالأشخاص الذين قدموا مساهمات بارزة في مشروعك، بغض النظر عن مهاراتهم التقنية.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
  "قد يعرفني البعض على أنني "مخترع Django… لكن في الواقع، أنا الشخص الذي تم توظيفه للعمل على المشروع بعد مرور عام على إنشائه. (…)
 يعتقد الناس أن نجاحي يرجع إلى مهاراتي البرمجية… لكن في الحقيقة، أنا مبرمج متوسط المستوى على أفضل تقدير.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["الكلمة الافتتاحية لمؤتمر PyCon 2015" (فيديو)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## كيف يمكنني جعل هذه الأدوار القيادية رسمية؟
 
@@ -64,12 +64,12 @@ related:
 
 إذا كان مشروعك يضم مجتمع مساهمين نشط جدًا، يمكنك تشكيل "فريق أساسي" من المشرفين، أو حتى لجان فرعية لأشخاص يتحملون مسؤولية مجالات مختلفة من المشروع (مثل الأمن، فرز المشكلات، أو سلوك المجتمع)، اترك المجال للأشخاص لتنظيم أنفسهم والتطوع للأدوار التي يشعرون بالحماس تجاهها، بدلًا من تعيينها لهم مباشرة .
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[نحن\] ندعم الفريق الأساسي بعدة "فرق فرعية". يركّز كل فريق فرعي على مجال محدد على سبيل المثال، تصميم اللغة أو المكتبات. (…) ولتأمين التنسيق العام والحفاظ على رؤية قوية ومتسقة للمشروع ككل، يقود كل فريق فرعي عضو من الفريق الأساسي.
   <p markdown="1" class="pquote-credit">
 — ["حوكمة مشروع Rust عبر RFC "](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 د ترغب فرق القيادة في إنشاء قناة مخصصة (مثل IRC) أو عقد اجتماعات منتظمة لمناقشة المشروع (مثل Gitter أو Google Hangout). يمكنك حتى جعل هذه الاجتماعات عامة ليستمع إليها الآخرون. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), على سبيل المثال, [يستضيف ساعات مكتبية أسبوعية](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -87,13 +87,13 @@ related:
 
 إذا كان مشروعك موجودًا على GitHub، يمكنك استخدام [الفروع المحمية](https://help.github.com/articles/about-protected-branches/) لإدارة من يمكنه رفع التعديلات إلى فرع معين، وتحديد الظروف التي يُسمح فيها بذلك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
 كلما أرسل لك شخص pull request، امنحه صلاحية commit في مشروعك، قد يبدو هذا غريبًا جدًا في البداية، لكن استخدام هذه الاستراتيجية سيمكنك من إطلاق القوة الحقيقية لـ GitHub، بمجرد أن يحصل الأشخاص على صلاحية commit، لن يقلقوا بعد ذلك من احتمال عدم دمج تعديلاتهم، مما يدفعهم لبذل جهد أكبر في عملهم.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## ما هي بعض الهياكل الحوكمة الشائعة للمشاريع مفتوحة المصدر؟
 
@@ -119,14 +119,14 @@ related:
 
 إذا كنت جزءًا من شركة تطلق مشروعًا مفتوح المصدر، فمن المفيد إجراء نقاش داخلي قبل الإطلاق حول كيفية توقع الشركة لإدارة المشروع واتخاذ القرارات المتعلقة به مستقبلًا، قد ترغب أيضًا في توضيح أي أمور خاصة بكيفية مشاركة الشركة (أو عدم مشاركتها!) مع المشروع بشكل عام للجمهور.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   نحن نخصص فرقًا صغيرة لإدارة المشاريع على GitHub، وهم فعليًا يعملون على هذه المشاريع في Facebook.
 على سبيل المثال، مشروع React يُدار بواسطة مهندس من فريق React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["نظرة من الداخل على المشاريع مفتوحة المصدر في Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## ماذا يحدث إذا بدأ موظفو الشركات بتقديم مساهمات؟
 
@@ -150,13 +150,13 @@ related:
 
 كثير من المشاريع لا ترغب في عناء إنشاء منظمة غير ربحية، لذلك تجد راعٍ مالي غير ربحي بدلاً من ذلك، حيث يقبل الراعي المالي التبرعات نيابة عنك عادةً مقابل نسبة من التبرع. [Software Freedom Conservancy](https://sfconservancy.org/)، [Apache Foundation](https://www.apache.org/)، [Eclipse Foundation](https://www.eclipse.org/org/)، [Linux Foundation](https://www.linuxfoundation.org/projects) و[Open Collective](https://opencollective.com/opensource) أمثلة على المنظمات التي تعمل كراعٍ مالي للمشاريع مفتوحة المصدر.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   هدفنا هو توفير بنية تحتية يمكن للمجتمعات استخدامها لتكون مكتفية ذاتيًا، مما يخلق بيئة يستفيد منها الجميع — سواء كانوا مساهمين، داعمين، أو رعاة — بشكل ملموس.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["تجاوز إطار العمل الخيري"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 إذا كان مشروعك مرتبطًا ارتباطًا وثيقًا بلغة أو بيئة معينة، فقد يكون هناك أيضًا مؤسسة برمجيات ذات صلة يمكنك العمل معها. على سبيل المثال، [Python Software Foundation](https://www.python.org/psf/) تدعم [PyPI](https://pypi.org/)، مدير حزم بايثون، و[Node.js Foundation](https://foundation.nodejs.org/) تدعم [Express.js](https://expressjs.com/)، إطار عمل مبني على Node.
 

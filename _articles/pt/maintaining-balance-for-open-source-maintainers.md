@@ -13,13 +13,13 @@ Para obter insights sobre as experiências dos mantenedores e suas estratégias 
 
 Então, o que é a ecologia pessoal? Conforme <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">descrito pelo Instituto de Liderança Rockwood</a>, envolve "<strong>manter o equilíbrio, o ritmo e a eficiência para sustentar nossa energia ao longo de uma vida</strong>." Isso moldou nossas conversas, ajudando os mantenedores a reconhecerem suas ações e contribuições como partes de um ecossistema maior que evolui ao longo do tempo. O esgotamento, uma síndrome resultante do estresse crônico no local de trabalho, conforme [definido pela OMS](https://icd.who.int/browse/2025-01/foundation/en#129180281), não é incomum entre mantenedores. Isso frequentemente leva a uma perda de motivação, incapacidade de se concentrar e falta de empatia pelos colaboradores e comunidade com os quais você trabalha.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   Eu não conseguia me concentrar ou começar uma tarefa. Eu tinha uma falta de empatia pelos usuários.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, mantenedor do servidor de streaming ao vivo Owncast, sobre o impacto do esgotamento em seu trabalho de código aberto
   </p>
-</aside>
+</div>
 
 Ao abraçar o conceito de ecologia pessoal, os mantenedores podem evitar o esgotamento de forma proativa, priorizar o autocuidado e manter um senso de equilíbrio para fazer o seu melhor trabalho.
 
@@ -35,51 +35,51 @@ Dedique um tempo para refletir sobre quais aspectos da manutenção em código a
 
 * **Falta de feedback positivo:** Os usuários tendem a entrar em contato quando têm uma reclamação. Se tudo funciona bem, tendem a ficar em silêncio. Pode ser desanimador ver uma crescente lista de problemas sem o feedback positivo mostrando como suas contribuições fazem a diferença.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   Às vezes, parece um pouco como gritar no vazio e acho que o feedback realmente me energiza. Temos muitos usuários felizes, mas silenciosos.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, mantenedor do Apache Arrow
   </p>
-</aside>
+</div>
 
 * **Não dizer 'não':** Pode ser fácil assumir mais responsabilidades do que se deveria em um projeto de código aberto. Seja de usuários, colaboradores ou outros mantenedores, nem sempre podemos corresponder às expectativas deles.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
   Percebi que estava assumindo mais do que deveria e tendo que fazer o trabalho de várias pessoas, como comumente é feito em FOSS.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, mantenedor do Termux, sobre o que causa o esgotamento em seu trabalho
   </p>
-</aside>
+</div>
 
 * **Trabalhar sozinho:** Ser um mantenedor pode ser incrivelmente solitário. Mesmo se você trabalha com um grupo de mantenedores, os últimos anos têm sido difíceis para reunir equipes distribuídas pessoalmente.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   Especialmente desde a COVID e o trabalho em casa, é mais difícil nunca ver ninguém ou falar com ninguém.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, mantenedor do servidor de streaming ao vivo Owncast, sobre o impacto do esgotamento em seu trabalho de código aberto
   </p>
-</aside>
+</div>
 
 * **Falta de tempo ou recursos:** Isso é especialmente verdade para mantenedores voluntários que têm que sacrificar seu tempo livre para trabalhar em um projeto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [Eu gostaria de ter] mais apoio financeiro, para que eu possa me concentrar no trabalho de código aberto sem esgotar minhas economias e sabendo que terei que fazer muitos contratos para compensar depois.
   <p markdown="1" class="pquote-credit">
 — mantenedor de código aberto
   </p>
-</aside>
+</div>
 
 * **Demandas conflitantes:** O código aberto é cheio de grupos com diferentes motivações, o que pode ser difícil de navegar. Se você é pago para fazer código aberto, os interesses de seu empregador às vezes podem entrar em conflito com a comunidade.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Com código aberto pago, conflito entre o foco do empregador e o que é melhor para a comunidade.
   <p markdown="1" class="pquote-credit">
 — mantenedor de código aberto
   </p>
-</aside>
+</div>
 
 ### Fique atento aos sinais de esgotamento
 
@@ -87,12 +87,12 @@ Você consegue manter seu ritmo por 10 semanas? 10 meses? 10 anos?
 
 Existem ferramentas como a [Lista de Verificação de Esgotamento](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) que podem ajudá-lo a refletir sobre seu ritmo atual e ver se há ajustes que você pode fazer. Alguns mantenedores também usam tecnologia vestível para acompanhar métricas como qualidade do sono e variabilidade da frequência cardíaca (ambas ligadas ao estresse).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Sou um grande defensor de dispositivos vestíveis de qualidade. Com a ciência por trás deles, você pode entender como poderia ter se saído melhor e como atingir um estado ideal do que deseja fazer.
   <p markdown="1" class="pquote-credit">
 — mantenedor de código aberto
   </p>
-</aside>
+</div>
 
 ### O que você precisa para continuar sustentando a si mesmo e à sua comunidade?
 
@@ -104,62 +104,62 @@ Isso será diferente para cada mantenedor e mudará dependendo de sua fase de vi
 
 * **Explore o financiamento:** Esteja você procurando um dinheiro extra para pizza ou tentando se dedicar integralmente ao código aberto, há muitos recursos disponíveis! Como primeiro passo, considere ativar [Patrocinadores do GitHub](https://github.com/sponsors) para permitir que outros patrocinem seu trabalho de código aberto. Se você está pensando em dar o salto para o tempo integral, inscreva-se para a próxima rodada do [GitHub Accelerator](http://accelerator.github.com/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
  Participei de um podcast há algum tempo e estávamos conversando sobre manutenção de código aberto e sustentabilidade. Descobri que mesmo um pequeno número de pessoas apoiando meu trabalho no GitHub me ajudou a tomar uma decisão rápida de não ficar na frente de um jogo, mas sim fazer uma pequena contribuição ao código aberto.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, mantenedor do EmberJS
   </p>
-</aside>
+</div>
 
 * **Use ferramentas:** Explore ferramentas como [GitHub Copilot](https://github.com/features/copilot/) e [GitHub Actions](https://github.com/features/actions/) para automatizar tarefas mundanas e liberar tempo para contribuições mais significativas.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Use o [Copilot](https://github.com/features/copilot/) para as coisas chatas - faça as coisas divertidas
   <p markdown="1" class="pquote-credit">
 — mantenedor de código aberto
   </p>
-</aside>
+</div>
 
 * **Descanse e recarregue:** Reserve tempo para seus hobbies e interesses fora do código aberto. Tire os fins de semana para relaxar e rejuvenescer - e ajuste seu [status do GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) para refletir sua disponibilidade! Uma boa noite de sono pode fazer uma grande diferença em sua capacidade de manter seus esforços a longo prazo.
 
   Se você encontrar certos aspectos de seu projeto particularmente agradáveis, tente estruturar seu trabalho de forma que você possa experimentá-los ao longo do dia.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class "pquote-avatar" alt="avatar">
  Estou encontrando mais oportunidade para espalhar 'momentos de criatividade' no meio do dia, em vez de tentar desligar à noite.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, mantenedor do Nuxt
   </p>
-</aside>
+</div>
 
 * **Estabeleça limites:** Você não pode dizer sim para todos os pedidos. Isso pode ser tão simples quanto dizer: "Não consigo fazer isso agora e não tenho planos de fazê-lo no futuro" ou listar o que você tem interesse em fazer e o que não tem no README. Por exemplo, você pode dizer: "Só aceito solicitações de pull que tenham razões claras para sua criação" ou "Só reviso problemas em todas as quintas-feiras, das 18h às 19h." Isso estabelece expectativas para os outros e fornece algo a que você pode se referir em outros momentos para ajudar a reduzir as demandas de colaboradores ou usuários sobre o seu tempo.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 Para confiar de forma significativa em outras pessoas nesses aspectos, você não pode ser alguém que diz sim para todos os pedidos. Ao fazer isso, você não mantém limites, profissionais ou pessoais, e não será um colega confiável.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, mantenedor do Homebrew em [Dizer Não](https://mikemcquaid.com/saying-no/)
   </p>
-</aside>
+</div>
 
   Aprenda a ser firme em desligar comportamentos tóxicos e interações negativas. Não há problema em não dar energia a coisas com as quais você não se importa.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 Meu software é gratuito, mas meu tempo e atenção não são.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, mantenedor do Leaflet
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 Não é segredo que a manutenção de código aberto tem seus lados negros, e um deles é ter que interagir às vezes com pessoas bastante ingratas, arrogantes ou abertamente tóxicas. À medida que a popularidade de um projeto aumenta, aumenta também a frequência desse tipo de interação, aumentando o fardo dos mantenedores e se tornando possivelmente um fator de risco significativo para o esgotamento do mantenedor.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, mantenedor do Octoprint em [Como lidar com pessoas tóxicas](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
-</aside>
+</div>
 
 Lembre-se, a ecologia pessoal é uma prática contínua que evoluirá à medida que você avança em sua jornada de código aberto. Ao priorizar o autocuidado e manter um senso de equilíbrio, você pode contribuir para a comunidade de código aberto de forma eficaz e sustentável, garantindo tanto o seu bem-estar quanto o sucesso de seus projetos a longo prazo.
 

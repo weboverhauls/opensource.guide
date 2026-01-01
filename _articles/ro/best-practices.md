@@ -38,7 +38,7 @@ A avea o viziune clară, documentată te ține concentrat și te ajută să evi�
 
 De exemplu, @lord a descoperit că având o viziune a proiectului l-a ajutat să-și dea seama pe care cereri să-și petreacă timpul. În calitate de nou întreținător, el a regretat că nu s-a lipit de scopul proiectului lui când a primit prima lui cerere de facilitate pentru [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Am fumat-o. Nu am acordat efortul pentru a veni cu o soluție completă. În schimbul unei soluții neadecvate, îmi doresc să fi spus „Nu am timp pentru aceasta chiar acum, dar o să o adaug la lista pe termen lung de lucruri drăguțe de făcut.”
@@ -51,7 +51,7 @@ De exemplu, @lord a descoperit că având o viziune a proiectului l-a ajutat să
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### Comunică-ți așteptările
 
@@ -102,7 +102,7 @@ Indiferent de motiv, este posibil să gestionezi cu mult tact contribuțiile car
 
 Dacă primești o contribuție pe care nu vrei să o accepți, prima ta reacție ar putea fi să o ignori sau să pretinzi că nu ai văzut-o. Făcând astfel ar putea răni sentimentele celeilalte persoane și chiar să demotiveze alți potențiali contributori din comunitatea ta.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Cheia pentru a gestiona asistența pentru proiecte cu sursă deschisă la scară mare este să ții problemele în mișcare. Încearcă să eviți a avea probleme în stagnare. Dacă ești un dezvoltator iOS știi cât de frustrant poate fi să trimiți radare. Ai putea primi răspuns 2 ani mai târziu, și ți se spune să încerci din nou cu ultima versiune iOS.
@@ -115,7 +115,7 @@ Dacă primești o contribuție pe care nu vrei să o accepți, prima ta reacție
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 Nu lăsa o contribuție nedorită deschisă pentru că te simți vinovat sau dorești să fii drăguț. În timp, problemele la care nu s-a răspuns și PR-urile vor face lucrul pe proiectul tău să se simtă cu foarte mult mai stresant și mai intimidant.
 
@@ -157,7 +157,7 @@ Dacă ei nu îți urmează regulile, închide problema imediat și fă trimitere
 
 În timp ce această abordare se poate simți necuviincioasă la început, fiind proactiv este de fapt bine pentru ambele părți. Aceasta reduce șansele ca cineva să pună multe ore pierdute de muncă într-o cerere de pull pe care nu o vei accepta. Și îți face volumul de muncă mai ușor de gestionat.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   <p>
     În mod ideal, explică-le direct și într-un fișier CONTRIBUTING.md cum pot obține în viitor o indicație mai bună despre ce ar fi sau nu ar fi acceptat înainte ca ei să înceapă munca.
@@ -170,7 +170,7 @@ Dacă ei nu îți urmează regulile, închide problema imediat și fă trimitere
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 Uneori, când spui „nu”, contributorul tău potențial ar putea să se supere sau să-ți critice decizia. Dacă comportamentul lui devine ostil, [ia măsuri să dezamorsezi situația](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) sau chiar să-l înlături din comunitatea ta, dacă nu dorește să colaboreze constructiv.
 
@@ -192,7 +192,7 @@ Când vezi contributori noi făcând contribuții repetate, recunoaște munca lo
 
 Încurajându-i pe alții să [împartă proprietatea proiectului](../building-community/#împarte-proprietatea-proiectului-tău) poate reduce foarte mult propriul tău volum de muncă, după cum @lmccart a descoperit pe proiectul ei, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Spuneam „Da, oricine poate fi implicat, nu trebuie să ai multă expertiză cu programarea [...].” Am avut oameni semnând să vină [la un eveniment] și atunci a fost când mă întrebam cu adevărat: este aceasta adevărat, ceea ce spuneam? Vor fi aproape 40 de oameni care vin, și nu este ca și cum aș putea sta cu fiecare dintre ei...Dar oamenii au venit împreună, și chiar a funcționat cumva. De îndată ce o persoana a reușit, ea și-a putut învăța aproapele.
@@ -205,7 +205,7 @@ Când vezi contributori noi făcând contribuții repetate, recunoaște munca lo
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 Dacă trebuie să renunți la proiectul tău, fie ca pauză sau permanent, nu este nicio rușine în a cere altcuiva să-l preia pentru tine.
 
@@ -223,7 +223,7 @@ Dacă un contributor potențial are o părere diferită despre ce ar trebui să 
 
 Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi și să modifici proiectele este unul dintre cele mai bune lucruri despre open source. Încurajând membrii comunității tale să lucreze pe propria lor copie poate furniza ieșirea creativă de care ei au nevoie, fără să intre în conflict cu viziunea proiectului tău.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Satisfac cazul de utilizare de 80%. Dacă ești unul dintre „unicorni”, te rog bifurcă munca mea. Nu mă voi simți jignit! Proiectele mele publice sunt aproape întotdeauna menite să rezolve cele mai comune probleme; eu încerc să fac mai ușor să ajungi mai adânc fie prin bifurcarea muncii mele sau prin extinderea ei.
@@ -236,7 +236,7 @@ Copierea proiectului nu trebuie să fie un lucru rău. Fiind capabil să copiezi
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 Același lucru se aplică unui utilizator care chiar dorește o soluție pentru care pur și simplu nu ai lățimea de bandă să o construiești. A oferi API-uri și cârlige de personalizare poate să-i ajute pe alții să-și satisfacă nevoile lor, fără să trebuiască să modifice sursa direct. @orta [a găsit că](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) încurajarea plugin-urilor pentru CocoaPods a dus la „unele dintre cele mai interesante idei":
 
@@ -258,7 +258,7 @@ Configurează teste automate care vor rula pe toate contribuțiile ce vin, și a
 
 Dacă adaugi teste, asigură-te că explici cum funcționează în fișierul tău CONTRIBUTING.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Cred că testele sunt necesare pentru tot codul pe care oamenii lucrează. Dacă codul a fost complet și perfect corect, nu ar avea nevoie de schimbări – noi scriem cod doar când ceva este greșit, fie că aceasta este „Se blochează” sau „Îi lipsește o astfel de facilitate”. Și indiferent de schimbările pe care le faci, testele sunt esențiale pentru prinderea oricărei regresii pe care ai putea-o introduce accidental.
@@ -271,7 +271,7 @@ Dacă adaugi teste, asigură-te că explici cum funcționează în fișierul tă
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### Folosește unelte pentru a automatiza sarcini de bază de întreținere
 
@@ -305,7 +305,7 @@ Cu toate că ar trebui să meargă fără să se spună, fă o pauză! Nu ar tre
 
 Exact la fel ca oricare alt fel de muncă, luarea de pauze dese te va păstra revigorat, fericit, și încântat de munca ta.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   <p>
     În întreținerea WP-CLI, am descoperit că am nevoie să mă fac fericit pe mine mai întâi, și să stabilesc limite clare ale implicării mele. Cel mai bun echilibru pe care l-am găsit este de 2-5 ore pe săptămână, ca parte din programul meu normal de muncă. Acest lucru îmi păstrează implicarea o pasiune, și departe de a simți prea mult ca muncă. Deoarece prioritizez problemele la care lucrez, pot face progres în mod obișnuit pe ce cred că este cel mai important.
@@ -318,7 +318,7 @@ Exact la fel ca oricare alt fel de muncă, luarea de pauze dese te va păstra re
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 Câteodată, poate fi greu să faci o pauză de la muncă pe sursă deschisă când simți ca și cum toți au nevoie de tine. Oamenii ar putea chiar să încerce să te facă să te simți vinovat pentru că te retragi.
 

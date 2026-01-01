@@ -96,13 +96,13 @@ related:
 
 * **योगदान के प्रकार:** उदाहरण के लिए, कमिट करना, टाइपो या बग को ठीक करना, या किसी मुद्दे पर टिप्पणी करना।
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   ओपन सोर्स सिर्फ कोड से कहीं अधिक है। सफल ओपन सोर्स परियोजनाओं में इन परिवर्तनों के बारे में बातचीत के साथ-साथ कोड और दस्तावेज़ीकरण योगदान भी शामिल हैं।
   <p markdown="1" class="pquote-credit">
 — @arfon, ["ओपन सोर्स का आकार"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## अनुरक्षक गतिविधि
 

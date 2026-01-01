@@ -98,13 +98,13 @@ related:
 
 * **أنواع المساهمات:** على سبيل المثال، الالتزامات، إصلاح الأخطاء المطبعية أو الأخطاء البرمجية، أو التعليق على مشكلة ما.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   المصدر المفتوح هو أكثر من مجرد كود. تشمل المشاريع الناجحة للمصدر المفتوح المساهمات في الكود والوثائق بالإضافة إلى المحادثات حول هذه التغييرات.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["شكل المصدر المفتوح"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## نشاط المسؤول
 

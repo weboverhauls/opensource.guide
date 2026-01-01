@@ -96,13 +96,13 @@ Mifano ya takwimu za jamii ambazo unaweza kutaka kufuatilia mara kwa mara ni pam
 
 * **Aina za michango:** Kwa mfano, commits, kurekebisha makosa au typos, au kutoa maoni kwenye suala.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Open Source ni zaidi ya msimbo tu. Miradi ya open source yenye mafanikio inajumuisha michango ya msimbo na nyaraka pamoja na mazungumzo kuhusu mabadiliko haya.
   <p markdown="1" class="pquote-credit">
 — @arfon, ["Umbo la Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## Shughuli za watunzaji
 

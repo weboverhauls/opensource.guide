@@ -13,13 +13,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ## **為何要為開源貢獻心力？**
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/134585?v=3&s=400" class="pquote-avatar" alt="avatar">
   在開源專案[freenode]的工作讓我學習到許多技能，這些技能在我往後大學研究及實際工作上有許多幫助，我在開源專案的貢獻跟收穫一樣多！
   <p markdown="1" class="pquote-credit">
 — @errietta, ["為什麼我熱愛貢獻心力在開源軟體上"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 透過為開源貢獻力量，能從中學習、幫助他人並且從中累積相關技能的經驗 - 任何你能想像得到的技能。
 
@@ -59,13 +59,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 對開源做出貢獻常見的誤解之一就是：要寫程式才算貢獻。其實專案裡不需編碼的工作也是[經常被忽視](https://github.com/blog/2195-the-shape-of-open-source)的部分。你對專案所做的非程式類貢獻，其實是對專案來說莫大的幫助！
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/49038?v=3&s=460" class="pquote-avatar" alt="avatar">
   我被大家所熟知是因為為 CocoaPods 做了一些事, 但大多數人並不知道我實際並沒有為 CocoaPods 本身做了什麼，我多數的工作是撰寫說明文件與品牌宣傳的事情。
   <p markdown="1" class="pquote-credit">
 — @orta, ["將自己預設為開源軟體"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 即便你樂於寫程式，撰寫程式以外的貢獻對於專案來說也是舉足輕重的，維繫這樣的關係也能讓你獲得與專案的其他成員共事的機會。
 
@@ -90,13 +90,13 @@ redirect_from: /zh-tw/how-to-contribute/
 * 寫一個專案教學，就像 [PyPA 的貢獻者做的](https://packaging.python.org/)
 * 翻譯專案的說明文件
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars3.githubusercontent.com/u/853712?v=3&s=400" class="pquote-avatar" alt="avatar">
   講真的， [說明文件] 是至關重要的。目前 Babel 的說明文件已經很棒了，這也是它傑出的特色之一。有些段落還需要加強或者補上一個句子，有些段落是很值得讚賞的。
   <p markdown="1" class="pquote-credit">
 — @kittens, ["貢獻者召集令"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### **你喜歡組織活動嗎？**
 
@@ -137,13 +137,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 ## **根據專案定位自我**
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/1179362?v=3&s=460" class="pquote-avatar" alt="avatar">
   如果你嘗試使用 Issue tracker 去了解一件 Issue，看完後還是滿腹疑惑，其他的人一定也會。要能會活用這些工具有許多小訣竅，總會有人教你怎麼使用，你也可以直接向他們提出問題。
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["如何為開源做貢獻"](http://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 除了錯誤檢查錯字的簡單工作之外，為開源做貢獻有時就像是走進陌生人群嘗試融入一樣。如果這群人已經討論西討論得的非常深入了，你突然加入劈頭就開始講東，肯定會讓人覺得你有點奇怪。
 
@@ -358,13 +358,13 @@ redirect_from: /zh-tw/how-to-contribute/
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars1.githubusercontent.com/u/401111?v=3&s=400" class="pquote-avatar" alt="avatar">
   當你看到一個很長的對話時，來自核心開發者的零星的回覆排在列表的後面。你就得想想，他們是否在作建設性的總結？是否保持風度的情況下做出最後的決定？如果你看到的是更多的口水仗，這通常代表社群的能量都在拿來爭論，已經不在開發上了。
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_開源軟體生產力_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## **如何提交成果**
 
@@ -374,13 +374,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 無論你只是一次性的貢獻，或是決定長期參與社群，在開源的世界裡，學會如何與他人共事是很重要的技能之一。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/7693422?v=3&s=460" class="pquote-avatar" alt="avatar">
   \[作爲一名新手,\] 我很快的就注意到，若嘗試要解決一條 issue 時，我不得不向社群提問題。我瀏覽了程式碼，一旦對議題有一定程度的了解後，我就會去社群徵詢一些指南，然後嘩啦！ 在我得到所有的所需要的訊息後，我就有能力親自解決這個問題！
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [一名菜鳥進入開源世界的顛頗之旅](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 在你提出一個 issue 或 PR 之前，或者是在聊天室提問之前，請謹記下面所列出的幾點建議，會讓你的工作更有效率。
 
@@ -436,13 +436,13 @@ redirect_from: /zh-tw/how-to-contribute/
 
 如果你想做一個重大的貢獻，在正式開始之前先創建一個 issue。監控專案是很有幫助的（在GitHub，[點擊 "Watch"](https://help.github.com/articles/watching-repositories/) ，所有當中的對話都會通知你），通知社群的成員們，讓大家知道你要做的工作，免得你做了之後，他們事後才知道。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/810438?v=3&s=400" class="pquote-avatar" alt="avatar">
   只要你踊躍的使用 watching ，在 GitHub 上密切觀察專案，並閱讀每一個 issue 和 PR，你會從你積極參與的專案中學到 <em>很多</em> 。
 <p markdown="1" class="pquote-credit">
 — @gaearon [參與專案](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### 提出問題
 

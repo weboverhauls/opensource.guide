@@ -12,13 +12,13 @@ related:
 
 ## Perché contribuire all'Open Source?
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Lavorare su \[freenode\] mi ha aiutato ad acquisire molte delle competenze che poi ho utilizzato per i miei studi universitari e per il mio lavoro vero e proprio. Penso che lavorare su progetti open source mi aiuti tanto quanto il progetto stesso!
   <p markdown="1" class="pquote-credit">
 — [@errietta](https://github.com/errietta), ["Perché amo contribuire al software open source"](https://www.errietta.me/blog/open-source/)
   </p>
-</aside>
+</div>
 
 Contribuire all'open source può essere un modo gratificante per apprendere, insegnare e sviluppare competenze in quasi tutte le competenze immaginabili.
 
@@ -62,13 +62,13 @@ Non preoccuparti! Esistono molti modi per essere coinvolti in un progetto open s
 
 Un malinteso comune riguardo al contributo all'open source è che si debba contribuire con il codice. In effetti, sono spesso le altre parti del progetto ad essere [più trascurate o trascurate](https://github.com/blog/2195-the-shape-of-open-source). Farai un _enorme_ favore al progetto offrendoti di contribuire con questo tipo di contributi!
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Sono conosciuto per il mio lavoro su CocoaPods, ma la maggior parte delle persone non sa che in realtà non svolgo alcun lavoro reale sullo strumento CocoaPods stesso. Il mio tempo nel progetto è dedicato principalmente a cose come la documentazione e il lavoro di branding.
   <p markdown="1" class="pquote-credit">
 — [@orta](https://github.com/orta), ["Passa a OSS per impostazione predefinita"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
-</aside>
+</div>
 
 Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo per essere coinvolto in un progetto e incontrare altri membri della comunità. Costruire queste relazioni ti darà l'opportunità di lavorare su altre parti del progetto.
 
@@ -93,13 +93,13 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
 * Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://packaging.python.org/)
 * Scrivi una traduzione per la documentazione del progetto, [come ha fatto @frontendwizard per le istruzioni CSS Flexbox della sfida freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
   Seriamente, la \[documentazione\] è estremamente importante. La documentazione finora è stata eccezionale ed è una caratteristica fondamentale di Babel. Ci sono sezioni che potrebbero sicuramente funzionare, e anche aggiungere un paragrafo qua o là è molto apprezzato.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Invito per contribuire"](https://github.com/babel/babel/issues/1347)
   </p>
-</aside>
+</div>
 
 ### Ti piace organizzare?
 
@@ -140,13 +140,13 @@ Anche se sei uno sviluppatore di software, lavorare su un progetto di documentaz
 
 ## Orientamento verso un nuovo progetto
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
   Se vai a un rilevatore di problemi e le cose sembrano confuse, non sei solo tu. Questi strumenti richiedono molta conoscenza implicita, ma le persone possono aiutarti a esplorarli e puoi porre loro domande.
   <p markdown="1" class="pquote-credit">
 — @shaunagm, ["Come contribuire all'open source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
   </p>
-</aside>
+</div>
 
 Oltre a correggere un errore di battitura, contribuire all'open source è come avvicinarsi a un gruppo di sconosciuti a una festa. Se inizi a parlare dei lama mentre sono immersi in una discussione sui pesci rossi, probabilmente ti guarderanno in modo un po' strano.
 
@@ -191,13 +191,13 @@ Ora che hai capito come funzionano i progetti open source, è il momento di trov
 
 Se non hai mai contribuito all'open source prima, segui il consiglio del presidente degli Stati Uniti John F. Kennedy, che una volta disse: "Non chiederti cosa può fare il tuo paese per te, chiediti cosa puoi fare tu per il tuo paese".
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
   Non chiederti cosa può fare il tuo Paese per te: chiediti cosa puoi fare tu per il tuo Paese.
   <p markdown="1" class="pquote-credit">
 — [_Biblioteca John F. Kennedy_](https://www.jfklibrary.org/learn/education/teachers/curricular-resources/ask-not-what-your-country-can-do-for-you)
   </p>
-</aside>
+</div>
 
 Il contributo all'open source avviene a tutti i livelli, in tutti i progetti. Non devi pensare troppo a quale sarà esattamente il tuo primo contributo o come sarà.
 
@@ -371,13 +371,13 @@ Un progetto amichevole e accogliente segnala che saranno ricettivi verso nuovi c
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Ogni volta che vedi un thread lungo, controlla a campione le risposte degli sviluppatori principali che arrivano alla fine del thread. Riassumono in modo costruttivo e adottano misure per portare il thread a una risoluzione pur rimanendo educati? Se vedi molte guerre di fiamma in corso, spesso è un segno che l'energia viene utilizzata nella discussione invece che nello sviluppo.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Produrre OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
   </p>
-</aside>
+</div>
 
 ## Come inviare un contributo
 
@@ -387,13 +387,13 @@ Hai trovato un progetto che ti piace e sei pronto a contribuire. Finalmente! Ecc
 
 Che tu collabori occasionalmente o cerchi di entrare a far parte di una comunità, lavorare con gli altri è una delle competenze più importanti che svilupperai nell'open source.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
   \[Come nuovo collaboratore,\] mi sono reso conto subito che dovevo fare domande se volevo riuscire a chiudere la questione. Ho dato una rapida occhiata al codice base. Dopo aver percepito cosa stava succedendo, ho chiesto ulteriori indicazioni. E fatto! Sono riuscito a risolvere il problema dopo aver ottenuto tutti i dettagli di cui avevo bisogno.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [Un viaggio molto accidentato per principianti attraverso il mondo dell'open source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
-</aside>
+</div>
 
 Prima di aprire un problema o una richiesta pull o porre una domanda in chat, tieni a mente questi punti per aiutare le tue idee a prendere vita in modo efficace.
 
@@ -449,13 +449,13 @@ Prima di aprire un problema o una richiesta pull, controlla i documenti che cont
 
 Se vuoi dare un contributo significativo, apri un issue da chiedere prima di lavorarci. È utile guardare il progetto per un po' (su GitHub, [puoi fare clic su "Guarda"](https://help.github.com/articles/watching-repositories/) per ricevere una notifica di tutte le conversazioni) e accedere a conoscere i membri della comunità prima di svolgere lavori che potrebbero non essere accettati.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
   Imparerai <em>molto</em> prendendo un progetto che stai utilizzando attivamente, "guardandolo" su GitHub e leggendo ogni numero e PR.
 <p markdown="1" class="pquote-credit">
 — @gaearon [per partecipare ai progetti](https://twitter.com/dan_abramov/status/819555257055322112)
   </p>
-</aside>
+</div>
 
 ### Apertura di un problema
 

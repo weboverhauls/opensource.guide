@@ -37,13 +37,13 @@ Mulakan dengan dokumentasi anda:
 * **Berfikiran terbuka tentang jenis sumbangan yang akan anda terima.** Banyak penyumbang bermula dengan laporan bug atau perbaikan kecil. Disana ada[banyak cara untuk menyumbang](../how-to-contribute/#apa-maksudnya-menyumbang) ke projek. Biarkan orang menolong bagaimana mereka mahu menolong.
 * **Sekiranya ada sumbangan yang anda tidak setuju,** terima kasih atas idea mereka dan [terangkan mengapa](../best-practices/#belajar-bila-untuk-mengatakan-tidak) ini tidak sesuai dengan skop projek, menghubungkan ke dokumentasi yang relevan jika anda memilikinya.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   Menyumbang kepada sumber terbuka lebih mudah bagi sesetengah orang daripada yang lain. Terdapat banyak ketakutan untuk ditengking kerana tidak melakukan sesuatu yang betul atau tidak sesuai. (...) Dengan memberi para penyumbang tempat untuk menyumbang dengan kecekapan teknikal yang sangat rendah (dokumentasi, penurunan kandungan web, dll.) Anda dapat mengurangkan kebimbangan itu.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
   </p>
-</aside>
+</div>
 
 Sebilangan besar penyumbang sumber terbuka adalah "penyumbang kasual": orang yang menyumbang kepada projek hanya sekali-sekala. Penyumbang kasual mungkin tidak mempunyai masa untuk mencapai kemajuan sepenuhnya dengan projek anda, jadi tugas anda adalah untuk memudahkan mereka menyumbang.
 
@@ -51,13 +51,13 @@ Mendorong penyumbang lain adalah pelaburan dalam diri anda juga. Apabila anda me
 
 ### Mendokumentasikan semuanya
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
   Pernahkah anda ke acara (berteknologi) di mana anda tidak mengenali sesiapa, tetapi orang lain sepertinya berdiri dalam kumpulan dan berbual seperti rakan lama? (...) Sekarang bayangkan anda mahu menyumbang kepada projek sumber terbuka, tetapi anda tidak melihat mengapa atau bagaimana ini berlaku.
   <p markdown="1" class="pquote-credit">
 — @janl, ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
   </p>
-</aside>
+</div>
 
 Apabila anda memulakan projek baru, mungkin terasa wajar untuk menjaga kerahsiaan kerja anda. Tetapi projek sumber terbuka berkembang apabila anda mendokumentasikan proses anda di khalayak ramai.
 
@@ -113,13 +113,13 @@ Mana-mana projek yang popular pasti akan menarik orang yang membahayakan, dan bu
 
 Lakukan yang terbaik untuk mengamalkan dasar toleransi sifar terhadap jenis orang ini. Sekiranya dibiarkan, orang negatif akan membuat orang lain dalam komuniti anda tidak selesa. Mereka mungkin juga pergi.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
   Yang benar adalah bahawa mempunyai komuniti yang menyokong adalah kunci. Saya tidak akan dapat melakukan kerja ini tanpa bantuan rakan sekerja, orang asing yang ramah, dan saluran IRC yang cerewet. (...) Jangan berpuas hati. Jangan berpuas hati dengan orang yang teruk.
   <p markdown="1" class="pquote-credit">
 — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
   </p>
-</aside>
+</div>
 
 Perbahasan berkala mengenai aspek sepele projek anda mengalihkan perhatian orang lain, termasuk anda, daripada memfokus pada tugas penting. Orang baru yang tiba ke projek anda mungkin melihat perbualan ini dan tidak mahu mengambil bahagian.
 
@@ -145,13 +145,13 @@ Contohnya, inilah caranya [Rubinius](https://github.com/rubinius/rubinius/) berm
 
 ### Kongsi pemilikan projek anda
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
   Pemimpin anda akan berbeza pendapat, sebagaimana seharusnya semua komuniti sihat! Namun, anda perlu mengambil langkah untuk memastikan suara yang paling keras tidak selalu menang dengan melelahkan orang, dan suara yang kurang menonjol dan minoriti kedengaran.
   <p markdown="1" class="pquote-credit">
 — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
   </p>
-</aside>
+</div>
 
 Orang ramai teruja untuk menyumbang kepada projek apabila mereka merasakan kepemilikan. Itu tidak bermaksud anda perlu membalikkan visi projek anda atau menerima sumbangan yang tidak anda mahukan. Tetapi semakin banyak anda memberi penghargaan kepada orang lain, semakin banyak mereka tetap bertahan.
 
@@ -173,13 +173,13 @@ Kenyataannya adalah bahawa[most projects only have](https://peerj.com/preprints/
 
 Walaupun anda mungkin tidak selalu menjumpai seseorang untuk menjawab panggilan tersebut, memberi isyarat di luar sana akan meningkatkan kemungkinan orang lain akan masuk. Dan lebih awal anda memulakannya, semakin cepat orang dapat membantu.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
   \[Ia ada di dalam anda\] minat terbaik untuk merekrut penyumbang yang menikmati dan yang mampu melakukan perkara yang bukan anda lakukan. Adakah anda menikmati pengekodan, tetapi tidak menjawab masalah? Kemudian kenal pasti individu-individu dalam komuniti anda yang melakukannya dan biarkan mereka memilikinya.
   <p markdown="1" class="pquote-credit">
 — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
   </p>
-</aside>
+</div>
 
 ## Menyelesaikan konflik
 
@@ -195,13 +195,13 @@ Apabila komuniti anda bergelut dengan masalah yang sukar, kemarahan mungkin akan
 
 Tugas anda sebagai penyelenggara adalah untuk memastikan situasi ini tidak meningkat. Walaupun anda mempunyai pendapat yang kuat mengenai topik ini, cubalah mengambil kedudukan sebagai moderator atau fasilitator, daripada melompat ke dalam pertengkaran dan mendorong pandangan anda. Sekiranya seseorang bersikap tidak baik atau memonopoli perbualan, [bertindak segera](../building-community/#jangan-bertolak-ansur-dengan-pelakon-jahat) agar perbincangan tetap sopan dan produktif.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
  Sebagai penyelenggara projek, sangat penting untuk menghormati penyumbang anda. Mereka sering mengambil apa yang anda katakan secara peribadi.
   <p markdown="1" class="pquote-credit">
 — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
   </p>
-</aside>
+</div>
 
 Orang lain mencari bimbingan anda. Berikan contoh yang baik. Anda masih dapat menyatakan kekecewaan, ketidakbahagiaan, atau keprihatinan, tetapi melakukannya dengan tenang.
 
@@ -221,13 +221,13 @@ Kadang kala, pengundian adalah pemangkin yang perlu. Walau seberapa banyak yang 
 
 Di bawah proses pencarian konsensus, anggota masyarakat membincangkan masalah utama sehingga mereka merasa mereka telah didengar dengan cukup. Apabila hanya ada masalah kecil, masyarakat bergerak maju. "Pencarian konsensus" mengakui bahawa masyarakat mungkin tidak dapat mencapai jawapan yang sempurna. Sebaliknya, ia mengutamakan pendengaran dan perbincangan.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
   Sebahagian daripada sebab mengapa sistem pemungutan suara tidak ada untuk Masalah Atom adalah kerana pasukan Atom tidak akan mengikuti sistem pengundian dalam semua hal. Kadang-kadang kita harus memilih apa yang kita rasa betul walaupun tidak popular. (...) Apa yang dapat saya tawarkan dan berjanji untuk dilakukan ... adalah tugas saya untuk mendengarkan masyarakat.
   <p markdown="1" class="pquote-credit">
 — @lee-dohm on Atom's decision making process
   </p>
-</aside>
+</div>
 
 Walaupun anda tidak benar-benar menggunakan proses mencari konsensus, sebagai penyelenggara projek, penting bagi orang untuk mengetahui bahawa anda sedang mendengar. Membuat orang lain merasa terdengar, dan berkomitmen untuk menyelesaikan masalah mereka, banyak membantu menangani situasi sensitif. Kemudian, ikuti kata-kata anda dengan tindakan.
 
@@ -247,13 +247,13 @@ Sekiranya perbualan mula terungkai, tanyakan kepada kumpulan, _"Langkah mana yan
 
 Sekiranya perbualan jelas tidak akan ke mana-mana, tidak ada tindakan yang jelas untuk diambil, atau tindakan yang sesuai telah diambil, tutup masalahnya dan terangkan mengapa anda menutupnya.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
   Membimbing utas ke arah berguna tanpa memaksa adalah seni. Tidak akan berguna hanya untuk memberi nasihat kepada orang ramai agar berhenti membuang masa mereka, atau meminta mereka untuk tidak mengeposkan melainkan mereka mempunyai sesuatu yang membina. (...) Sebagai gantinya, anda harus mencadangkan syarat untuk kemajuan lebih lanjut: beri laluan kepada orang lain, jalan untuk diikuti yang membawa kepada hasil yang anda mahukan, namun tanpa terdengar seperti anda menentukan tingkah laku.
   <p markdown="1" class="pquote-credit">
 — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
   </p>
-</aside>
+</div>
 
 ### Pilih pertempuran anda dengan bijak
 

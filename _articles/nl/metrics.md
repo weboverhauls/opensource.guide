@@ -96,7 +96,7 @@ Voorbeelden van communitystatistieken die u regelmatig wilt bijhouden, zijn:
 
 * **Soorten bijdragen:** Bijvoorbeeld commits, typefouten of bugs verhelpen, of commentaar geven op een probleem.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
   Open source is meer dan alleen code. Succesvolle open source-projecten omvatten bijdragen aan code en documentatie, samen met gesprekken over deze veranderingen.
   
@@ -104,7 +104,7 @@ Voorbeelden van communitystatistieken die u regelmatig wilt bijhouden, zijn:
   <p markdown="1" class="pquote-credit">
 — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
   </p>
-</aside>
+</div>
 
 ## open source beheerdersactiviteit
 

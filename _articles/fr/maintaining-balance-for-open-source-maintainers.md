@@ -14,13 +14,13 @@ Afin de mieux comprendre les expériences des mainteneurs et leurs stratégies p
 
 Alors, qu'est-ce que l'écologie personnelle ? Comme <a href="https://rockwoodleadership.org/nonprofit-four-day-workweek-can-take-care-still-change-world/#:~:text=personal%20ecology%3A%20maintaining%20balance%2C%20pacing%20and%20efficiency%20to%20sustain%20your%20energy%20over%20a%20lifetime%20of%20activism">le décrit le Rockwood Leadership Institute</a>, il s'agit de « maintenir l'équilibre, le rythme et l'efficacité pour soutenir notre énergie tout au long de la vie ». Cela a encadré nos conversations, en aidant les responsables à reconnaître que leurs actions et leurs contributions font partie d'un écosystème plus large qui évolue au fil du temps. L'épuisement professionnel, un syndrome résultant d'un stress chronique sur le lieu de travail [tel que défini par l'OMS](https://icd.who.int/browse/2024-01/mms/fr#129180281), n'est pas rare chez les responsables de la maintenance. Il se traduit souvent par une perte de motivation, une incapacité à se concentrer et un manque d'empathie à l'égard des contributeurs et de la communauté avec laquelle vous travaillez.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
   J'étais incapable de me concentrer ou de commencer une tâche. Je manquais d'empathie pour les utilisateurs.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, mainteneur du serveur de streaming en direct Owncast, à propos de l'impact de l'épuisement professionnel sur son travail dans le domaine de l'open source.
   </p>
-</aside>
+</div>
 
 En adoptant le concept d'écologie personnelle, les responsables de la maintenance peuvent éviter de manière proactive l'épuisement professionnel, donner la priorité aux soins personnels et maintenir un sens de l'équilibre afin de faire leur meilleur travail.
 
@@ -36,52 +36,52 @@ Il est important de comprendre les causes de l'épuisement professionnel. Voici 
 
 * **Absence de retours positifs:** Les utilisateurs sont beaucoup plus enclins à se manifester lorsqu'ils ont une plainte à formuler. Si tout fonctionne parfaitement, ils ont tendance à rester silencieux. Il peut être décourageant de voir la liste des problèmes s'allonger sans que les commentaires positifs montrent que votre contribution fait la différence.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/thisisnic?s=180" class="pquote-avatar" alt="avatar">
   Parfois, j'ai l'impression de crier dans le vide et je trouve que le retour d'information me donne beaucoup d'énergie. Nous avons beaucoup d'utilisateurs heureux mais silencieux.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/thisisnic">@thisisnic</a>, mainteneur d'Apache Arrow
   </p>
-</aside>
+</div>
 
 * **Ne pas dire « non »:** Il peut être facile de prendre plus de responsabilités qu'on ne le devrait sur un projet open source. Que ce soit de la part des utilisateurs, des contributeurs ou d'autres mainteneurs, nous ne pouvons pas toujours répondre à leurs attentes.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/agnostic-apollo?s=180" class="pquote-avatar" alt="avatar">
  Je me suis rendu compte que j'assumais plus qu'il ne fallait et que je devais faire le travail de plusieurs personnes, comme c'est souvent le cas dans les logiciels libres.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/agnostic-apollo">@agnostic-apollo</a>, mainteneur de Termux, sur les causes de l'épuisement au travail
   </p>
-</aside>
+</div>
 
 * **Travailler en solitaire :** Être un mainteneur peut être incroyablement solitaire. Même si vous travaillez avec un groupe de mainteneurs, les dernières années ont été difficiles pour réunir des équipes dispersées en personne.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/gabek?s=180" class="pquote-avatar" alt="avatar">
  Surtout depuis COVID et le travail à domicile, il est plus difficile de ne voir personne et de ne parler à personne.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/gabek">@gabek</a>, mainteneur du serveur de streaming en direct Owncast, à propos de l'impact de l'épuisement professionnel sur son travail dans le domaine de l'open source.
   </p>
-</aside>
+</div>
 
 * **Manque de temps et de ressources :** C'est particulièrement vrai pour les mainteneurs bénévoles qui doivent sacrifier leur temps libre pour travailler sur un projet.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   [J'aimerais avoir]  plus de soutien financier, afin que je puisse me concentrer sur le travail de l'open source sans brûler mes économies et en sachant que je devrai faire beaucoup de contrats pour me rattraper plus tard.
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
-</aside>
+</div>
 
 * **Demandes contradictoires :**  L'open source est un ensemble de groupes aux motivations diverses, dans lequel il peut être difficile de s'y retrouver. Si vous êtes payé pour faire de l'open source, les intérêts de votre employeur peuvent parfois être en contradiction avec ceux de la communauté.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Dans le cas des logiciels libres payants, il existe un conflit entre l'objectif de l'employeur et ce qui est le mieux pour la communauté.
   
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
-</aside>
+</div>
 
 ### Faites attention aux signes d'épuisement professionnel
 
@@ -89,13 +89,13 @@ Pouvez-vous maintenir votre rythme pendant 10 semaines ? 10 mois ? 10 ans ?
 
 Il existe des outils comme la [Burnout Checklist](https://governingopen.com/resources/signs-of-burnout-checklist.html) de [@shaunagm](https://github.com/shaunagm) qui peuvent vous aider à réfléchir à votre rythme actuel et à voir s'il y a des ajustements à faire. Certains mainteneurs utilisent également une technologie portable pour suivre des paramètres tels que la qualité du sommeil et la variabilité du rythme cardiaque (tous deux liés au stress).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Je suis un fervent partisan des outils portables de qualité. Grâce à la science, vous pouvez comprendre comment vous auriez pu faire mieux et comment atteindre un état optimal de ce que vous voulez faire.
   
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
-</aside>
+</div>
 
 ### De quoi auriez-vous besoin pour continuer à subvenir à vos besoins et à ceux de votre communauté ?
 
@@ -107,66 +107,66 @@ Cela sera différent pour chaque responsable, et changera en fonction de votre p
 
 * **Explorer le financement :** Que vous soyez à la recherche d'un peu d'argent pour une pizza ou que vous essayiez de vous lancer à plein temps dans l'open source, il existe de nombreuses ressources pour vous aider ! Dans un premier temps, pensez à activer [GitHub Sponsors](https://github.com/sponsors) pour permettre à d'autres de sponsoriser votre travail open source. Si vous envisagez de passer à temps plein, postulez pour le prochain cycle de l'[Accélérateur GitHub](http://accelerator.github.com/).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mansona?s=180" class="pquote-avatar" alt="avatar">
  Il y a quelque temps, j'ai participé à un podcast et nous avons discuté de la maintenance et de la durabilité des logiciels libres. J'ai constaté que même un petit nombre de personnes soutenant mon travail sur GitHub m'a aidé à prendre la décision rapide de ne pas m'asseoir devant un jeu, mais plutôt de faire une petite chose avec l'open source.
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mansona">@mansona</a>, maintainer de EmberJS
   </p>
-</aside>
+</div>
 
 * **Utilisez les outils:** Profitez d'outils tels que [GitHub Copilot](https://github.com/features/copilot/) et [GitHub Actions](https://github.com/features/actions) pour automatiser les tâches banales et libérer votre temps pour des contributions plus significatives.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
  Utilisez [Copilot](https://github.com/features/copilot/) pour les choses ennuyeuses - faites les choses amusantes.
   
   <p markdown="1" class="pquote-credit">
 — Un Mainteneur Open Source
   </p>
-</aside>
+</div>
 
 * **Se reposer et se ressourcer :** Consacrez du temps à vos loisirs et à vos centres d'intérêt en dehors de l'open source. Prenez vos week-ends pour vous détendre et vous ressourcer, et réglez votre [statut GitHub](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/personalizing-your-profile#setting-a-status) pour qu'il reflète votre disponibilité ! Une bonne nuit de sommeil peut faire une grande différence dans votre capacité à soutenir vos efforts à long terme.
 Si certains aspects de votre projet vous plaisent particulièrement, essayez de structurer votre travail de manière à en faire l'expérience tout au long de la journée.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielroe?s=180" class="pquote-avatar" alt="avatar">
    Je trouve davantage d'occasions de ménager des « moments de créativité » au milieu de la journée plutôt que d'essayer de me déconnecter le soir.
   
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/danielroe">@danielroe</a>, maintaineur de Nuxt
   </p>
-</aside>
+</div>
 
 * **Definir des limites :** Vous ne pouvez pas dire oui à toutes les demandes. Cela peut être aussi simple que de dire « Je ne peux pas le faire maintenant et je n'ai pas l'intention de le faire à l'avenir », ou d'énumérer ce que vous souhaitez faire et ne pas faire dans le fichier README. Par exemple, vous pourriez dire : « Je ne fusionne que les PR dont les raisons sont clairement listées » ou "Je n'examine les problèmes qu'un jeudi sur deux, de 18 à 19 heures". Cela définit les attentes des autres et vous donne un point de repère à d'autres moments pour aider à désamorcer les demandes de contributeurs ou d'utilisateurs sur votre temps.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
 Pour faire confiance aux autres sur ces axes, vous ne pouvez pas être quelqu'un qui dit oui à toutes les demandes. Ce faisant, vous ne respectez aucune limite, ni sur le plan professionnel ni sur le plan personnel, et vous ne serez pas un collègue fiable.
   
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/mikemcquaid">@mikemcquaid</a>, mainteneur de Homebrew sur [Saying No](https://mikemcquaid.com/saying-no/)
   </p>
-</aside>
+</div>
 
   Apprenez à faire preuve de fermeté pour mettre fin aux comportements toxiques et aux interactions négatives. Il est normal de ne pas donner d'énergie à des choses qui ne vous intéressent pas.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/IvanSanchez?s=180" class="pquote-avatar" alt="avatar">
 Mon logiciel est gratuit, mais mon temps et mon attention ne le sont pas.
   
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/IvanSanchez">@IvanSanchez</a>, maintaineur de Leaflet
   </p>
-</aside>
+</div>
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/foosel?s=180" class="pquote-avatar" alt="avatar">
 Ce n'est un secret pour personne que la maintenance des logiciels libres a ses côtés sombres, et l'un d'entre eux est d'avoir parfois à interagir avec des personnes assez ingrates, qui ont le droit d'agir ou qui sont carrément toxiques. À mesure que la popularité d'un projet augmente, la fréquence de ce type d'interaction s'accroît, ce qui alourdit le fardeau des mainteneurs et peut devenir un facteur de risque important pour l'épuisement des mainteneurs.
   
   <p markdown="1" class="pquote-credit">
 — <a href="https://github.com/foosel">@foosel</a>, mainteneur de Octoprint sur [Comment gérer les personnes toxiques](https://www.youtube.com/watch?v=7lIpP3GEyXs)
   </p>
-</aside>
+</div>
 
 N'oubliez pas que l'écologie personnelle est une pratique permanente qui évoluera au fur et à mesure que vous progresserez dans votre voyage vers l'open source. En accordant la priorité à la prise en charge de soi et au maintien d'un équilibre, vous pouvez contribuer à la communauté open source de manière efficace et durable, en assurant à la fois votre bien-être et le succès de vos projets sur le long terme.
 

@@ -30,7 +30,7 @@ Pentru o vedere mai adâncă în mesagerie, aruncă o privire la exercițiul ["P
 
 ## Ajută oamenii să-ți găsească și să-ți urmeze proiectul
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <p>
     În mod ideal, ai nevoie de un singurl URL „acasă” pe care îl poți promova și indica oamenilor în legătură cu proiectul tău. Nu trebuie să folosești un șablon extravagant sau chiar un nume de domeniu, dar proiectul tău are nevoie de un punct focal.
   </p>
@@ -42,7 +42,7 @@ Pentru o vedere mai adâncă în mesagerie, aruncă o privire la exercițiul ["P
   <p markdown="1" class="pquote-credit">
 — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
   </p>
-</aside>
+</div>
 
 Ajută oamenii să îți găsească și să îți țină minte proiectul direcționându-i către un singur domeniu.
 
@@ -50,7 +50,7 @@ Ajută oamenii să îți găsească și să îți țină minte proiectul direcț
 
 Dacă nu dorești să configurezi prize pentru proiectul tău încă, promovează-ți propriul tău mâner Twitter sau GitHub în orice faci. Promovarea mânerului tău Twitter sau GitHub va înștiința oamenii cum să te contacteze sau să-ți urmeze munca. Dacă vorbești la o întâlnire sau un eveniment, asigură-te că informațiile tale de contact sunt incluse în biografia ta sau în diapozitive.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/nathanmarz?s=180" class="pquote-avatar" alt="avatar">
   <p>
     O greșeală pe care am făcut-o în acele zile timpurii (...) a fost să nu încep un cont Twitter pentru proiect. Twitter este o modalitate excelentă de a ține oamenii la curent cu privire la un proiect precum și de a expune constant oameni la proiect.
@@ -63,7 +63,7 @@ Dacă nu dorești să configurezi prize pentru proiectul tău încă, promoveaz�
   <p markdown="1" class="pquote-credit">
 — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
   </p>
-</aside>
+</div>
 
 **Consideră crearea unui site web pentru proiectul tău.** Un site web face proiectul tău mai prietenos și mai ușor de navigat, în special când este cuplat cu documentație și tutoriale clare. Având un site web sugerează de asemenea că proiectul tău este activ ceea ce îți va face publicul să se simtă mai confortabil folosindu-l. Furnizează exemple pentru a oferi oamenilor idei despre cum să folosească proiectul tău.
 
@@ -81,7 +81,7 @@ Extinderea online este o modalitate excelentă de a împărtăși și răspândi
 
 Profită de comunitățile online și platformele existente pentru a ajunge la publicul tău. Dacă proiectul tău open source este un proiect software, probabil îți poți găsi publicul pe [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), sau [Quora](https://www.quora.com/). Găsește canalele unde tu crezi că oamenii vor beneficia cel mai mult de munca ta sau vor fi cei mai încântați de munca ta.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/pazdera?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Fiecare program are facilități foarte specifice pe care doar o fracțiune din utilizatori le va găsi folositoare. Nu spam-ui cât poți de mulți oameni. În schimb, țintește-ți eforturile înspre comunități care vor beneficia de a ști de proiectul tău.
@@ -94,7 +94,7 @@ Profită de comunitățile online și platformele existente pentru a ajunge la p
   <p markdown="1" class="pquote-credit">
 — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
   </p>
-</aside>
+</div>
 
 Vezi dacă poți găsi metode relevante de a-ți împărtăși proiectul:
 
@@ -114,7 +114,7 @@ Evenimentele offline sunt o modalitate populară de a promova noi proiecte publi
 
 Dacă ești [începător la vorbitul în public](https://speaking.io/), începe prin a găsi o întâlnire locală care are o legătură cu limbajul sau ecosistemul proiectului tău.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jhamrick?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Eram destul de nervoasă în legătură cu a merge la PyCon. Urma să țin un discurs, știam doar pe câțiva oameni acolo, mergeam acolo pentru o săptămână întreagă. (...) Nu trebuia să mă îngrijorez, totuși. PyCon a fost fenomenal de grozav! (...) Toată lumea era incredibil de prietenoasă și liberă, atât de mult încât rar am găsit timp să nu vorbesc cu oameni!
@@ -127,13 +127,13 @@ Dacă ești [începător la vorbitul în public](https://speaking.io/), începe 
   <p markdown="1" class="pquote-credit">
 — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](https://www.jesshamrick.com/post/2014-04-18-how-i-learned-to-stop-worrying-and-love-pycon/)
   </p>
-</aside>
+</div>
 
 Dacă nu ai vorbit niciodată la un eveniment înainte, este perfect normal să te simți nervos! Ține minte că publicul tău este acolo deoarece ei sincer își doresc să audă despre munca ta.
 
 Pe măsură ce-ți scrii discursul, concentrează-te pe ce va găsi interesant publicul tău și din ce va obține valoare. Păstrează-ți limbajul prietenos și abordabil. Zâmbește, respiră, și distrează-te.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="/assets/images/finding-users/lena.jpg" class="pquote-avatar" alt="avatar">
   <p>
     Când începi să-ți scrii primul discurs, indiferent de care este subiectul tău, te poate ajuta să-ți vezi discursul ca pe o poveste pe care o spui oamenilor.
@@ -146,13 +146,13 @@ Pe măsură ce-ți scrii discursul, concentrează-te pe ce va găsi interesant p
   <p markdown="1" class="pquote-credit">
 — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
   </p>
-</aside>
+</div>
 
 Când te simți pregătit, consideră a vorbi la o conferință pentru a-ți promova proiectul. Conferințele te pot ajuta să ajungi la mai mulți oameni, câteodată din toate colțurile lumii.
 
 Caută conferințe care sunt specifice limbajului sau ecosistemului tău. Înainte de a-ți trimite discursul, cercetează conferința pentru a-ți adapta discursul pentru participanți și a-ți mări șansele de a fi acceptat să vorbești la conferință. Deseori poți obține un simț al publicului tău privind vorbitorii conferinței.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/ry?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Am scris foarte drăguț către oamenii de la JSConf și i-am implorat să-mi dea o bucată de timp în care aș fi putut să-l prezint la JSConf EU. (...) Eram extrem de speriat, prezentând acest lucru pe care lucram de șase luni. (...) Tot timpul doar mă gândeam, o Doamne. Ce fac aici?
@@ -165,7 +165,7 @@ Caută conferințe care sunt specifice limbajului sau ecosistemului tău. Înain
   <p markdown="1" class="pquote-credit">
 — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
   </p>
-</aside>
+</div>
 
 ## Construiește-ți o reputație
 
@@ -173,7 +173,7 @@ Pe lângă strategiile schițate mai sus, cea mai bună cale de a invita oameni 
 
 Ajutând nou-veniții, împărțind resurse, și făcând contribuții gândite bine la proiectele altora te va ajuta să-ți construiești o reputație pozitivă. Fiind un membru activ în comunitatea open source îi va ajuta pe oameni să aibă context despre munca ta și să fie mai probabil să acorde atenție la și să împărtășească proiectul tău. Dezvoltarea relațiilor cu alte proiecte cu sursă deschisă poate duce chiar la parteneriate oficiale.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shazow?s=180" class="pquote-avatar" alt="avatar">
   <p>
     Singurul motiv pentru care urllib3 este cea mai populară bibliotecă Python din terță parte azi este fiindcă este parte din cereri.
@@ -186,7 +186,7 @@ Ajutând nou-veniții, împărțind resurse, și făcând contribuții gândite 
   <p markdown="1" class="pquote-credit">
 — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
   </p>
-</aside>
+</div>
 
 Nu este niciodată prea devreme, sau prea tâziu, să începi să-ți construiești reputația. Chiar dacă ți-ai lansat deja propriul tău proiect, continuă să cauți căi de a-i ajuta pe ceilalți.
 

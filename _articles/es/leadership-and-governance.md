@@ -30,25 +30,25 @@ Un mantenedor no necesariamente tiene que ser alguien que escribe c&oacute;digo 
 
 **Un "contribuyente" puede ser cualquiera** que comente en una issue o un pull request, personas que agreguen valor al proyecto (sin importar si sólo está clasificando issues, escribiendo c&oacute;digo u organizando eventos), o cualquiera con un merged pull request (esta es la definici&oacute;n m&aacute;s estrecha de un contribuyente).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   [Para Node.js], cada persona que se presenta para comentar un problema o env&iacute;a c&oacute;digo es un miembro de la comunidad de un proyecto. S&oacute;lo ser capaz de verlos significa que han cruzado la l&iacute;nea de ser un usuario a ser un contribuyente.
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **El t&eacute;rmino "committer"** podr&iacute;a utilizarse para distinguir entre el acceso a commit, que es un tipo espec&iacute;fico de responsabilidad, de otras formas de contribuci&oacute;n.
 
 Mientras que puedes definir tus roles de proyecto de cualquier forma que quieras te gustar&iacute;a [considerar usar definiciones m&aacute;s amplias](../how-to-contribute/#qué-significa-contribuir) para fomentar m&aacute;s formas de contribuci&oacute;n. Puedes utilizar funciones de liderazgo para reconocer formalmente a personas que han hecho contribuciones excepcionales a su proyecto, independientemente de su habilidad t&eacute;cnica.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Quizás me conozcan como el "inventor" de Django... pero realmente soy el individuo que consigui&oacute; ser contratado para trabajar en algo un a&ntilde;o despu&eacute;s de que ya fuera hecho. (...) La gente sospecha que tengo &eacute;xito debido a mi habilidad de programaci&oacute;n ... pero, en el mejor de los casos soy un programador promedio.
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## &iquest;C&oacute;mo formalizo los roles de liderazgo?
 
@@ -60,12 +60,12 @@ Por un proyecto m&aacute;s grande, si tienes una p&aacute;gina web, crea una p&a
 
 Si tu proyecto tiene una comunidad de contribuidores muy activa, puede formar un "equipo central" de mantenedores, o incluso subcomisiones de personas que se apropian de diferentes &aacute;reas tem&aacute;ticas (por ejemplo, seguridad, clasificaci&oacute;n de temas o conducta comunitaria). Permite que la gente se auto-organice y se ofrezca como voluntaria para los papeles que m&aacute;s le entusiasman, en lugar de asignarlos.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Nosotros complementamos el equipo central con varios "sub-grupos". Cada sub-grupo se centra en un &aacute;rea espec&iacute;fica, por ejemplo, dise&ntilde;o de lenguajes o bibliotecas. (...) Para garantizar una coordinaci&oacute;n global y una visi&oacute;n s&oacute;lida y coherente del proyecto en su conjunto, cada sub-grupo est&aacute; dirigido por un miembro del equipo central.
   <p markdown="1" class="pquote-credit">
 — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Los equipos de liderazgo pueden querer crear un canal designado (como en IRC) o reunirse regularmente para discutir el proyecto (como en Gitter o Google Hangout). Incluso puedes hacer p&uacute;blicas esas reuniones para que otras personas puedan escucharlas. [Cucumber-rub&iacute;](https://github.com/cucumber/cucumber-ruby), por ejemplo, [hospeda las horas de oficina cada semana](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talk-with-other-devs).
 
@@ -83,13 +83,13 @@ Por otro lado, especialmente para proyectos m&aacute;s grandes y complejos, es p
 
 Si tu proyecto est&aacute; en GitHub, pod&eacute;s utilizar [ramas protegidas](https://help.github.com/articles/about-protected-branches/) para administrar qui&eacute;n puede enviar a una rama en particular y bajo qu&eacute; circunstancias.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Cada vez que alguien te env&iacute;a un pull request, dales acceso de commit a tu proyecto. Si bien puede sonar incre&iacute;blemente tonto al principio, el uso de esta estrategia te permitir&aacute; liberar el verdadero poder de GitHub. (...) Una vez que las personas tienen acceso de commit, ya no est&aacute;n preocupados de que su parche pudiese quedar fuera de merge... haciendo que coloquen mucho m&aacute;s trabajo en &eacute;l.
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## &iquest;Cu&aacute;les son algunas de las estructuras de gobierno comunes para los proyectos de c&oacute;digo abierto?
 
@@ -115,13 +115,13 @@ Sin embargo, una cierta documentaci&oacute;n temprana contribuir&aacute; inevita
 
 Si usted es parte de una empresa lanzando un proyecto de c&oacute;digo abierto, vale la pena tener una discusi&oacute;n interna antes del lanzamiento acerca de c&oacute;mo su empresa espera mantener y tomar decisiones sobre el proyecto de seguir adelante. Tambi&eacute;n es posible que desee explicar p&uacute;blicamente algo en particular sobre c&oacute;mo su empresa (o no) participar&aacute; en el proyecto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   Nosotros asignamos peque&ntilde;os equipos para gestionar proyectos en GitHub, los cuales está actualmente trabajando en ellos en Facebook. Por ejemplo, React es ejecutado por un Ingeniero de React.
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Una vista interna del c&oacute;digo abierto en Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## &iquest;Qu&eacute; pasa cuando los empleados de corporaciones comienzan a enviar contribuciones?
 
@@ -145,12 +145,12 @@ Si quieres aceptar donaciones para tu proyecto de c&oacute;digo abierto, podes c
 
 Muchos proyectos no desean pasar por la molestia de crear una organizaci&oacute;n sin fines de lucro, por lo que encuentran un patrocinador fiscal sin fines de lucro en su lugar. Un patrocinador fiscal acepta donaciones en su nombre, normalmente a cambio de un porcentaje de la donaci&oacute;n. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://www.eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) y [Open Collective](https://opencollective.com/opensource) son ejemplos de organizaciones que sirven como patrocinadores fiscales para proyectos de c&oacute;digo abierto.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
   Nuestra meta es proveer una infraestructura que las comunidades puedan usar para ser autosostenibles, creando as&iacute; un ambiente en el que todos, contribuyentes, patrocinadores, obtengan beneficios concretos.
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Si tu proyecto est&aacute; estrechamente asociado con un determinado idioma o ecosistema, tambi&eacute;n puede haber un framework relacionado con el que pueda trabajar. Por ejemplo, la [Python Software Foundation](https://www.python.org/psf/) ayuda a [PyPI](https://pypi.org/), el gestor de paquetes de Python y el [Node.js Foundation](https://foundation.nodejs.org/) ayuda a apoyar [Express.js](https://expressjs.com/), un framework basado en nodos.

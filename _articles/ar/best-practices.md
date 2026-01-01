@@ -40,13 +40,13 @@ related:
 
 كمثال، اكتشف @lord أن وجود رؤية للمشروع ساعده على تحديد أي الطلبات تستحق أن يقضي وقتَه عليها. وكـ maintainer جديد، ندم على عدم التزامه بـ scope مشروعه عندما تعامل مع أول feature request لمشروع  [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
 لقد أخطأت في الأمر. لم أبذل الجهد الكافي لإنتاج حل كامل. بدل هذا الحل ال half-assed solution، كنت أتمنى لو قلت: " ليس لدي وقت لهذا الأمر حاليًا، لكن سأضيفه إلى قائمة الأشياء الـ nice-to-have للمدى البعيد ".
   <p markdown="1" class="pquote-credit">
 — @lord, ["نصائح للمحافظين الجدد في المصادر المفتوحة"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### وضّح توقعاتك
 
@@ -97,14 +97,14 @@ related:
 
 إذا تلقيت مساهمة لا ترغب في قبولها، قد تكون ردة فعلك الأولى هي تجاهلها أو التظاهر بعدم رؤيتها. القيام بذلك قد يجرح مشاعر الشخص الآخر، وربما يثبط أيضًا الآخرين المحتملين للمساهمة في مجتمعك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   المفتاح للتعامل مع الدعم الفني لمشاريع open source الضخمة هو أن تحافظ على issues في حالة حركة مستمرة، وألا تسمح لها بأن تتوقف أو stall.
 إذا كنت مطور iOS developer فأنت بالتأكيد تعرف مدى الإحباط عند إرسال radars، حيث قد تنتظر لسنتين قبل أن يصلك رد يخبرك ببساطة: جرّب مرة أخرى باستخدام آخر version من iOS!
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["توسيع مجتمع الـ open source"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 لا تترك مساهمة لا ترغب بها مفتوحة فقط لأنك تشعر بالذنب أو بدافع اللطف. مع مرور الوقت، تراكم issues و PRs غير المردود عليها سيجعل العمل على مشروعك أكثر توترًا ويخلق شعورًا بالرهبة.
 
@@ -144,13 +144,13 @@ related:
 
 رغم أن هذه الطريقة قد تبدو unkind في البداية، إلا أن كونك proactive مفيد للطرفين. فهو يقلل من احتمال أن يضع شخص ما ساعات طويلة من العمل الضائع على pull request لن يتم قبوله، ويسهّل إدارة ضغط العمل الخاص بك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   من الأفضل أن تشرح لهم، وفي ملف CONTRIBUTING.md، كيف يمكنهم الحصول على فكرة أوضح في المستقبل حول ما سيتم قبوله وما لن يتم قبوله قبل أن يبدأوا بالعمل.
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid، <a href="https://github.com/blog/2124-kindly-closing-pull-requests">"إغلاق Pull Requests بلطف"</a>
   </p>
-</aside>
+</div>
 
 أحيانًا، عندما تقول "لا"، قد يغضب المساهم المحتمل أو ينتقد قرارك. إذا أصبح سلوكه عدائيًا، [اتخذ خطوات لتهدئة الوضع](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) أو حتى قم بإزالته من الـcommunity الخاص بك، إذا لم يكن راغبًا في التعاون بشكل بنّاء.
 
@@ -174,13 +174,13 @@ related:
 
 تشجيع الآخرين على مشاركة ownership في المشروع يمكن أن يقلّل من workload عنك بشكل كبير، كما حدث مع المشروع p5.js الخاص بـ @lmccart.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   كنت أقول: "نعم، أي شخص يمكنه المشاركة، ليس من الضروري أن يمتلك خبرة كبيرة في <span dir='ltr' markdown="1">coding</span> [...]." سجل الناس للحضور [إلى حدث]، وهنا بدأت أتساءل حقًا: هل ما أقوله صحيح؟ سيكون هناك حوالي 40 شخصًا سيحضرون، وليس بإمكاني الجلوس مع كل واحد منهم... لكن الناس اجتمعوا، وسارت الأمور بسلاسة. بمجرد أن فهم شخص واحد الأمر، استطاع تعليم جاره.
   <p markdown="1" class="pquote-credit">
 — @lmccart, ["ماذا يعني فعليًا <span dir='ltr' markdown="1">Open Source</span>? نسخة <span dir='ltr' markdown="1">p5.js</span>"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
   </p>
-</aside>
+</div>
 
 إذا احتجت إلى الابتعاد عن مشروعك أو اضطررت إلى step away عن مشروعك، سواء لفترة hiatus مؤقتة أو بشكل permanently دائم، فلا يوجد أي شعور بالـ shame في أن تطلب من شخص آخر أن take over تولّي المسؤولية بدلاً منك.
 
@@ -196,13 +196,13 @@ related:
 
 الـ Forking ليس أمرًا سيئًا. القدرة على copy وmodify المشاريع هي واحدة من أقوى مزايا open source. تشجيع أعضاء الـ community على العمل في fork خاص بهم يمكن أن يوفر لهم creative outlet يحتاجونه، دون أن يتعارض مع vision مشروعك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   أنا أركز على تلبية احتياجات 80% use case. إذا كنت من الحالات النادرة unicorns، فيمكنك fork عملي دون أي مشكلة، فلن أشعر بالإساءة! مشاريعّي public تهدف غالبًا لحل المشاكل الأكثر شيوعًا؛ وأحاول تسهيل إمكانية التعمق فيها عن طريق forking أو extending العمل.
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, [لماذا أغلق المساهمات PRs](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 نفس الشيء ينطبق على المستخدم الذي يريد حلًا لا تمتلك الوقت لبنائه. تقديم واجهات برمجة التطبيقات وخيارات التخصيص يساعد الآخرين على تلبية احتياجاتهم دون تعديل المصدر مباشرة. [@orta وجد أن تشجيع الإضافات في CocoaPods أدى إلى "بعض من أكثر الأفكار إثارة للاهتمام"](https://artsy.github.io/blog/2016/07/03/handling-big-projects/).
 
@@ -222,14 +222,14 @@ related:
 
 إذا أضفت tests، تأكد من شرح كيفية عملها في ملف CONTRIBUTING.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   أنا أؤمن بأن tests ضرورية لكل code يعمل عليه الناس. فلو كان code صحيحًا وكاملًا تمامًا، لما احتاج إلى أي تعديل – نحن نكتب code فقط عندما يكون هناك خلل، سواء كان سببًا في It crashes أو لغياب ميزة معينة .
   وبغض النظر عن التغييرات، تظل tests أساسية لاكتشاف أي regressions قد تدخلها عن طريق الخطأ
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### استخدام الأدوات لأتمتة مهام الصيانة الأساسية
 
@@ -265,13 +265,13 @@ related:
 
 مثل أي عمل آخر، ستبقيك الاستراحات المنتظمة متجدد النشاط، سعيدًا، ومتحمسًا لمواصلة عملك.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   أثناء إدارة WP-CLI اكتشفت أن عليّ أن أضع سعادتي أولًا، وأن أرسم حدودًا واضحة لمستوى مشاركتي. أفضل توازن وجدته هو من ساعتين إلى خمس ساعات في الأسبوع، كجزء من جدول عملي العادي. هذا يحافظ على أن تظل مشاركتي شغفًا، وليس عبئًا أو عملًا ثقيلًا. ولأنني أُعطي الأولوية للقضايا التي أعمل عليها، أتمكن من إحراز تقدم منتظم في الأمور التي أراها الأكثر أهمية.
   <p markdown="1" class="pquote-credit">
 @danielbachhuber —, ["تعازيّ، لقد أصبحت الآن المسؤول عن مشروع open source مشهور"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 أحيانًا يكون من الصعب أخذ استراحة من العمل في open source عندما تشعر أن الجميع يحتاج إليك. قد يحاول البعض حتى جعلك تشعر بالذنب إذا ابتعدت قليلًا.
 

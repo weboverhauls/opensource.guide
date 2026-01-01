@@ -37,12 +37,12 @@ Put one CODE_OF_CONDUCT file for your project's main directory, and make sure sa
 
 ## How you go take think your code of conduct to stand gidi gba
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   Code of conduct wey dem nor dey enforce, or wey dem nor fit enforce, e bad pass if dem nor get any code of conduct: e show say the values wey dey the code of conduct nor dey important or dem nor dey respected for your community.
   <p markdown="1" class="pquote-credit">
 — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
   </p>
-</aside>
+</div>
 
 You suppose explain how you go enforce your code of conduct **_before_** person violate am. Some reasons why you suppose do am be say:
 
@@ -72,12 +72,12 @@ The community member wey dey involved fit be person wey dey always cause trouble
 
 Before you yarn, give yourself time to understand wetin happen. Read the person's past comments and conversations make you sabi who e be and why e fit do something like that. Try gather different perspectives from other people about the person and the way e take behave.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   No let yourself enter argument. No allow yourself sidetrack, dey address another person's behavior before you don finish with the main matter. Just focus on wetin you need.
   <p markdown="1" class="pquote-credit">
 — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
   </p>
-</aside>
+</div>
 
 ### Carry action waeh make sense
 

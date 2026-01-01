@@ -30,7 +30,7 @@ Een onderhouder hoeft niet per se iemand te zijn die code voor uw project schrij
 
 **Een 'bijdrager' kan iedereen zijn** die opmerkingen maakt over een probleem of pull-verzoek, mensen die waarde toevoegen aan het project (of het nu gaat om triaging-problemen, het schrijven van code of het organiseren van evenementen), of iemand met een samengevoegd pull-verzoek (misschien de engste definitie van een bijdrager).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
   \[Voor Node.js\] is elke persoon die komt opdagen om commentaar te geven op een probleem of code in te dienen, lid van de community van een project. Alleen al om ze te kunnen zien, betekent dat ze de grens hebben overschreden van een gebruiker naar een bijdrager.
   
@@ -38,13 +38,13 @@ Een onderhouder hoeft niet per se iemand te zijn die code voor uw project schrij
   <p markdown="1" class="pquote-credit">
 — @mikeal, ["Gezond Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
   </p>
-</aside>
+</div>
 
 **De term "committer"** kan worden gebruikt om commit-toegang, wat een specifiek type verantwoordelijkheid is, te onderscheiden van andere vormen van bijdrage.
 
 Hoewel u uw projectrollen op elke gewenste manier kunt definiëren, [overweeg het gebruik van bredere definities](../how-to-contribute/#waarom-bijdragen-aan-open-source) om meer vormen van bijdrage aan te moedigen. U kunt leiderschapsrollen gebruiken om formeel mensen te erkennen die een uitstekende bijdrage aan uw project hebben geleverd, ongeacht hun technische vaardigheden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
   Je kent me misschien als de "uitvinder" van Django... maar eigenlijk ben ik de man die werd aangenomen om aan iets te werken een jaar nadat het al gemaakt was. (...) Mensen vermoeden dat ik succesvol ben vanwege mijn programmeervaardigheid... maar ik ben op zijn best een gemiddelde programmeur.
   
@@ -52,7 +52,7 @@ Hoewel u uw projectrollen op elke gewenste manier kunt definiëren, [overweeg he
   <p markdown="1" class="pquote-credit">
 — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
   </p>
-</aside>
+</div>
 
 ## Hoe formaliseer ik deze leiderschapsrollen?
 
@@ -64,14 +64,14 @@ Voor een groter project, als u een website heeft, maak dan een teampagina aan of
 
 Als uw project een zeer actieve bijdragersgemeenschap heeft, kunt u een "kernteam" van beheerders vormen, of zelfs subcommissies van mensen die de verantwoordelijkheid nemen voor verschillende probleemgebieden (bijvoorbeeld beveiliging, probleemopsporing of gedrag van de gemeenschap). Laat mensen zichzelf organiseren en vrijwilligerswerk doen voor de rollen waar ze het meest enthousiast over zijn, in plaats van ze toe te wijzen.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   \[We\] vullen het kernteam aan met verschillende "subteams". Elk subteam is gericht op een specifiek gebied, bijvoorbeeld taalontwerp of bibliotheken. (...) Om wereldwijde coördinatie en een sterke, samenhangende visie voor het project als geheel te verzekeren, wordt elk subteam geleid door een lid van het kernteam.
   
   _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
   <p markdown="1" class="pquote-credit">
 — ["Rust Bestuur RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
   </p>
-</aside>
+</div>
 
 Leiderschapsteams willen misschien een aangewezen kanaal creëren (zoals op IRC) of regelmatig bijeenkomen om het project te bespreken (zoals op Gitter of Google Hangout). U kunt die bijeenkomsten zelfs openbaar maken, zodat andere mensen kunnen luisteren. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), bijvoorbeeld [host wekelijks kantooruren](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -89,7 +89,7 @@ Aan de andere kant, vooral voor grotere, meer complexe projecten, wil je misschi
 
 Als je project op GitHub staat, kun je [beschermde branches](https://help.github.com/articles/about-protected-branches/) gebruiken om te beheren wie naar een bepaalde branch kan pushen, en onder welke omstandigheden.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
   Elke keer dat iemand je een pull-request stuurt, geef hem dan commit-toegang tot je project. Hoewel het in het begin misschien ongelooflijk stom klinkt, kun je met deze strategie de ware kracht van GitHub ontketenen. (...) Als mensen eenmaal commit-toegang hebben, zijn ze niet langer bang dat hun patch niet zal worden samengevoegd... waardoor ze er veel meer werk in steken.
   
@@ -97,7 +97,7 @@ Als je project op GitHub staat, kun je [beschermde branches](https://help.github
   <p markdown="1" class="pquote-credit">
 — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
   </p>
-</aside>
+</div>
 
 ## Wat zijn enkele van de algemene bestuursstructuren voor open source-projecten?
 
@@ -123,7 +123,7 @@ Sommige vroege documentatie zal echter onvermijdelijk bijdragen aan het beheer v
 
 Als u deel uitmaakt van een bedrijf dat een open source-project lanceert, is het de moeite waard om vóór de lancering een interne discussie te hebben over hoe uw bedrijf verwacht te handhaven en beslissingen te nemen over het toekomstige project. Misschien wilt u ook in het openbaar uitleggen hoe uw bedrijf wel of niet bij het project betrokken zal zijn (of niet!).
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
   We wijzen kleine teams toe om projecten op GitHub te beheren die hier daadwerkelijk aan werken op Facebook. React wordt bijvoorbeeld gerund door een React-engineer.
   
@@ -131,7 +131,7 @@ Als u deel uitmaakt van een bedrijf dat een open source-project lanceert, is het
   <p markdown="1" class="pquote-credit">
 — @caabernathy, ["Een kijkje in open source bij Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
   </p>
-</aside>
+</div>
 
 ## Wat gebeurt er als bedrijfsmedewerkers bijdragen beginnen in te dienen?
 
@@ -155,7 +155,7 @@ Als u donaties voor uw open source-project wilt accepteren, kunt u een donatiekn
 
 Veel projecten willen niet de moeite nemen om een ​​non-profitorganisatie op te zetten, dus zoeken ze in plaats daarvan een fiscale sponsor zonder winstoogmerk. Een fiscale sponsor accepteert namens u schenkingen, meestal in ruil voor een percentage van de schenking. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/), [Linux Foundation](https://www.linuxfoundation.org/projects) en [Open Collective](https://opencollective.com/opensource) zijn voorbeelden van organisaties die als fiscale sponsors dienen voor open source-projecten.
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
     Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it.
 
@@ -164,6 +164,6 @@ Veel projecten willen niet de moeite nemen om een ​​non-profitorganisatie op
   <p markdown="1" class="pquote-credit">
 — @piamancini, ["Verder gaan dan het liefdadigheidskader"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
   </p>
-</aside>
+</div>
 
 Als uw project nauw verbonden is met een bepaalde taal of een bepaald ecosysteem, kan er ook een gerelateerde softwarefundament zijn waarmee u kunt werken. De [Python Software Foundation](https://www.python.org/psf/) helpt bijvoorbeeld bij het ondersteunen van [PyPI](https://pypi.org/), de Python-pakketbeheerder en de [Node.js Foundation](https://foundation.nodejs.org/) helpt bij het ondersteunen van [Express.js](https://expressjs.com/), een op knooppunten gebaseerd raamwerk.

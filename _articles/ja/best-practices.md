@@ -38,13 +38,13 @@ related:
 
 例えば @lord は、プロジェクトのビジョンを持つことでどのリクエストに時間を割くべきか判断しやすくなる、ということに気づきました。新しいメンテナーとして、彼は [Slate](https://github.com/lord/slate) への最初の機能要望を受け取ったときに、プロジェクトのスコープを固執しなかったことを後悔していました。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
   私はヘマをしたのです。私は完璧な解決策を見つける努力をしませんでした。中途半端な解決策の代わりに、「今は十分な時間がないのですが、長期的な nice-to-have リストに追加します」と言えたら良かったのです。
   <p markdown="1" class="pquote-credit">
 — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
   </p>
-</aside>
+</div>
 
 ### 期待することを伝えよう
 
@@ -95,13 +95,13 @@ related:
 
 もし受け入れたくないコントリビュートを受け取った場合は、あなたの最初の反応はそれを無視するか見なかったことにすることでしょう。そのようなことは他の人の感情を傷つけ、さらにコミュニティの中にいる潜在的なコントリビューターのやる気まで削いでしまいます。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
   大規模なオープンソースプロジェクトでサポートの対応をする際に大事なのは、イシューを動かし続けることです。イシューを停滞させないようにしましょう。もしあなたが iOS 開発者なのであれば、審査に時間がかかることがどれだけイライラするものかわかるでしょう。2年経ってから返事が返ってきて、 iOS の最新バージョンでやり直してくれと言われるかもしれないのです。
   <p markdown="1" class="pquote-credit">
 — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
   </p>
-</aside>
+</div>
 
 望ましくないコントリビュートをオープンのまま放置しないようにしましょう。放置すると罪悪感を感じたり親切になろうとしてしまいます。時間が経つにつれて、回答されていないイシューやプルリクエストによって、プロジェクトを進めることがストレスを伴い、恐怖を感じるものになってしまいます。
 
@@ -141,13 +141,13 @@ related:
 
 はじめはこのやり方は親切ではないと感じるかもしれませんが、先回りしておくことは両者にとって良いことなのです。コントリビュートする人にとっては、受け入れられる見込みのないプルリクエストに何時間も費やす機会が減ります。そして、あなた自身の作業量もやりくりしやすくなります。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
   コントリビューターに対して CONTRIBUTING.md ファイルでどういった変更は受け入れられるのかを、作業を開始する前に知ることができるようになっているのが理想的です。
   <p markdown="1" class="pquote-credit">
 — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
   </p>
-</aside>
+</div>
 
 時には、ノーということで、潜在的なコントリビューターが怒ったり決定を批判したりするかもしれません。もしそれらの行動が敵対的であれば、[状況を沈静化するために行動を起こす](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items)か、建設的に協調できないようであればコミュニティから抜けてもらいましょう。
 
@@ -169,13 +169,13 @@ related:
 
 他の人に対して[プロジェクトの所有権を共有する](../building-community/#プロジェクトの所有権を共有しよう)よう推奨することはあなたの作業負荷を大いに減らすことに繋がります。 @lmccart が彼女のプロジェクトである [p5.js](https://github.com/processing/p5.js) で認識したように。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
   （コントリビューター向けのイベントの告知で）私は「誰でも参加可能です、優れたコーディングスキルも必要ありません。」と言い続けてきました。その後、（イベントに）多くの人が登録してくれた時に、今まで自分が言ってきたことは本当だろうか？と思い始めました。40人もの参加者が来てくれたため、彼ら一人ひとりを私がサポートすることは出来ませんでした。しかし、彼らは一致団結し、そしてうまくいきました。一人が状況を理解するとすぐに、近くの人に理解した内容を教えることができたのです。
   <p markdown="1" class="pquote-credit">
 —  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39#.chnjlag7p)
   </p>
-</aside>
+</div>
 
 もし、暫定的であれ恒久的であれ、あなたがプロジェクトから離れる必要があるのであれば、他の誰かに引き継ぎをお願いするのは少しも恥ずかしいことではありません。
 
@@ -191,13 +191,13 @@ related:
 
 プロジェクトをフォークすることは必ずしも悪いことではありません。プロジェクトをコピーしてそれを修正できるということはオープンソースの最も素晴らしい点の1つです。コミュニティメンバーに対して彼ら自身のフォークを作ることを推奨することで、あなたのプロジェクトのビジョンと衝突することなく、メンバーの創造性を発揮するはけ口を作り出すことが出来ます。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
   私は80%のユースケースを満たすように提供します。もしユニコーンの一人（訳注：残りの20％のユースケースが必要な人のこと）なのであれば、私の作品をフォークして下さい。私はそれによって傷つくことはありません。私のプロジェクトはほとんどが常に最もよくある問題を解決するためのものなのです; 更に深いことをやりたい場合のために、フォークしたり拡張しやすくするよう努めています。
   <p markdown="1" class="pquote-credit">
 — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
   </p>
-</aside>
+</div>
 
 同じことが、あなたが構築する余裕の無い解決策を本当に望んでいるユーザーに対しても言えます。 API とカスタマイズのためのフックを提供することで、他の人が彼ら自身のニーズを、ソースコードを直接修正することなく実現する助けとなります。 @orta は CocoaPods 向けのプラグインを他の人に作ってもらうことで、「最も面白いアイデア」が出てきたと[言っています](https://artsy.github.io/blog/2016/07/03/handling-big-projects/)：
 
@@ -217,13 +217,13 @@ related:
 
 テストを追加したら、 CONTRIBUTING ファイルでテストがどう実行されるかを説明しましょう。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
   私は人々が実装するあらゆるコードに対してテストが必要だと思っています。もしコードが完全に正しいのであれば、変更の必要はありませんが、 私達がコードを書くときは何かがおかしいときです、それは「クラッシュする」であったり「これこれの機能が足りない」といったようなケースです。どんな変更をしようとしているのであれ、テストは誤ってバグを入れ込んでしまう事を防ぐために非常に重要です。
   <p markdown="1" class="pquote-credit">
 — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
   </p>
-</aside>
+</div>
 
 ### ツールを使って基本的なメンテナンス作業を自動化しよう
 
@@ -257,13 +257,13 @@ related:
 
 他の仕事と同じように、休みを取ることでリフレッシュし、幸せを感じ、仕事に熱中できるのです。
 
-<aside markdown="1" class="pquote">
+<div markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
   WP-CLI をメンテナンスする中で、まずは自分自身を幸せにし、自分がどこまで関わるかの境界を明確にすることが必要であると気づきました。私が見つけた最も良いバランスは、私の通常の仕事時間の中で週に2 ~ 5時間を充てるというものです。このバランスで、私はプロジェクトに熱心に関わることができ、かつ仕事のようだと感じることもありません。取り掛かるイシューの優先順位付けをしているので、最も重要だと思うことで定期的に進捗を出すことができるのです。
   <p markdown="1" class="pquote-credit">
 — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://web.archive.org/web/20220306014037/https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
   </p>
-</aside>
+</div>
 
 時には、皆があなたを必要としていると感じられて、オープンソース活動を休むのは難しいと感じることがあるかもしれません。あなたが退くことに対して、罪悪感を感じさせようとする人さえいるかもしれません。
 
