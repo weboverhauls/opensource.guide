@@ -1,6 +1,7 @@
 zh-hant:
   locale_name: 繁體中文
   nav:
+    label: 主要
     about: 關於
     contribute: 貢獻
   index:

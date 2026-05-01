@@ -1,6 +1,7 @@
 hu:
   locale_name: Magyar
   nav:
+    label: Fő
     about: Rólunk
     contribute: Közreműködés
   index:

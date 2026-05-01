@@ -1,6 +1,7 @@
 hi:
   locale_name: Hindi
   nav:
+    label: मुख्य
     about: बारे में
     contribute: योगदान करें
   index:

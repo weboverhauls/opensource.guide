@@ -1,6 +1,7 @@
 tr:
   locale_name: Türkçe
   nav:
+    label: Ana
     about: Hakkında 
     contribute: Katkıda Bulun 
   index:

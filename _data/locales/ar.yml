@@ -1,6 +1,7 @@
 ar:
   locale_name: العربية
   nav:
+    label: الرئيسية
     about: عن المشروع
     contribute: ساهِم
   index:

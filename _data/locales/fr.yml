@@ -1,6 +1,7 @@
 fr:
   locale_name: Français
   nav:
+    label: Principale
     about: A propos
     contribute: Contribuer
   index:

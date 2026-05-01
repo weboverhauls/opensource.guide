@@ -1,6 +1,7 @@
 ja:
   locale_name: 日本語
   nav:
+    label: メイン
     about: このサイトについて
     contribute: 貢献する
   index:

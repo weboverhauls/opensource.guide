@@ -1,6 +1,7 @@
 ta:
   locale_name: தமிழ்
   nav:
+    label: முதன்மை
     about: பற்றி
     contribute: பங்களிப்பு
   index:

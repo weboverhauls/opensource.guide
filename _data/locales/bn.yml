@@ -1,6 +1,7 @@
 bn:
   locale_name: Bangla
   nav:
+    label: প্রধান
     about: বিস্তারিত
     contribute: অবদান রাখুন
   index:

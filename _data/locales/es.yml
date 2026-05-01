@@ -1,6 +1,7 @@
 es:
   locale_name: Español
   nav:
+    label: Principal
     about: Acerca de
     contribute: Contribuir
   index:

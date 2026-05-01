@@ -1,6 +1,7 @@
 zh-hans:
   locale_name: 简体中文
   nav:
+    label: 主要
     about: 关于
     contribute: 贡献
   index:

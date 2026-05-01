@@ -1,6 +1,7 @@
 en:
   locale_name: English
   nav:
+    label: Main
     about: About
     contribute: Contribute
   index:

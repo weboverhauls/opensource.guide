@@ -1,6 +1,7 @@
 ru:
   locale_name: Русский
   nav:
+    label: Основная
     about: О проекте
     contribute: Содействие
   index:

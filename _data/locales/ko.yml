@@ -1,6 +1,7 @@
 ko:
   locale_name: 한국어
   nav:
+    label: 주요
     about: 소개
     contribute: 기여
   index:

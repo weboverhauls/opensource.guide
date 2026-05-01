@@ -1,6 +1,7 @@
 bg:
   locale_name: Български
   nav:
+    label: Главна
     about: Относно нас
     contribute: Допринеси
   index:

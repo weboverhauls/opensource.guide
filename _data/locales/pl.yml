@@ -1,6 +1,7 @@
 pl:
   locale_name: Polski
   nav:
+    label: Główna
     about: O projekcie
     contribute: Współpracuj
   index:

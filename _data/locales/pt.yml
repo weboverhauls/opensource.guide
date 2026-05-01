@@ -1,6 +1,7 @@
 pt:
   locale_name: "Português"
   nav:
+    label: Principal
     about: Sobre
     contribute: Contribua
   index:
