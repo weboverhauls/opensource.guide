@@ -3,6 +3,7 @@
 {% include head.html %}
 
 <body>
+  {% comment %}Nested layouts render their own body-level landmarks and should not be wrapped in a second main.{% endcomment %}
   {% if page.layout == "default" %}
   <main id="content">
     {{ content }}
