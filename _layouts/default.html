@@ -3,11 +3,13 @@
 {% include head.html %}
 
 <body>
-  <main>
-    <div id="content">
-      {{ content }}
-    </div>
+  {% if page.layout == "default" %}
+  <main id="content">
+    {{ content }}
   </main>
+  {% else %}
+  {{ content }}
+  {% endif %}
 
   <script src="https://cdn.usefathom.com/script.js" data-site="BFHXUQHJ" defer></script>
   <script src='{{ "/assets/js/index.js" | relative_url }}'></script>
