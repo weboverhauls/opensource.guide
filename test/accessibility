@@ -1,0 +1,108 @@
+#!/usr/bin/env node
+
+'use strict';
+
+var http = require('http');
+var fs = require('fs');
+var path = require('path');
+
+// Pages to check for color-contrast violations
+var pagesToCheck = [
+  '/getting-paid/'
+];
+
+var siteDir = path.join(__dirname, '..', '_site');
+
+function startServer(port) {
+  return new Promise(function(resolve, reject) {
+    var server = http.createServer(function(req, res) {
+      var urlPath = req.url.split('?')[0];
+      if (urlPath.endsWith('/')) urlPath += 'index.html';
+      var filePath = path.join(siteDir, urlPath);
+      fs.readFile(filePath, function(err, data) {
+        if (err) {
+          res.writeHead(404);
+          res.end('Not found');
+          return;
+        }
+        var ext = path.extname(filePath);
+        var mimeTypes = {
+          '.html': 'text/html',
+          '.css': 'text/css',
+          '.js': 'application/javascript',
+          '.png': 'image/png',
+          '.jpg': 'image/jpeg',
+          '.svg': 'image/svg+xml',
+          '.woff': 'font/woff',
+          '.woff2': 'font/woff2',
+          '.ttf': 'font/ttf'
+        };
+        res.writeHead(200, { 'Content-Type': mimeTypes[ext] || 'application/octet-stream' });
+        res.end(data);
+      });
+    });
+    server.listen(port, '127.0.0.1', function() {
+      resolve(server);
+    });
+    server.on('error', reject);
+  });
+}
+
+async function main() {
+  var chromium, AxeBuilder;
+
+  try {
+    chromium = require('playwright').chromium;
+    AxeBuilder = require('@axe-core/playwright').AxeBuilder;
+  } catch (e) {
+    console.error('playwright or @axe-core/playwright not available, skipping accessibility checks');
+    console.error('Run: cd test && npm install && npx playwright install chromium');
+    process.exit(0);
+  }
+
+  if (!fs.existsSync(siteDir)) {
+    console.error('_site/ not found. Run script/build first.');
+    process.exit(1);
+  }
+
+  var port = 9995;
+  var server = await startServer(port);
+  var baseUrl = 'http://127.0.0.1:' + port;
+
+  var browser = await chromium.launch();
+  var context = await browser.newContext();
+
+  var violations = [];
+
+  for (var page of pagesToCheck) {
+    var p = await context.newPage();
+    await p.goto(baseUrl + page);
+    var results = await new AxeBuilder({ page: p })
+      .withRules(['color-contrast'])
+      .analyze();
+    if (results.violations.length > 0) {
+      violations.push({ page: page, issues: results.violations });
+    }
+    await p.close();
+  }
+
+  await browser.close();
+  server.close();
+
+  if (violations.length === 0) {
+    console.log('accessibility: no color-contrast violations found');
+    process.exit(0);
+  } else {
+    violations.forEach(function(v) {
+      v.issues.forEach(function(issue) {
+        issue.nodes.forEach(function(node) {
+          console.error(v.page + ': ' + node.failureSummary);
+          console.error('  ' + node.html);
+        });
+      });
+    });
+    process.exit(1);
+  }
+}
+
+main();
