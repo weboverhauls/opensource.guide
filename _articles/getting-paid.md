@@ -1,5 +1,6 @@
 ---
 lang: en
+layout: article
 title: Getting Paid for Open Source Work
 description: Sustain your work in open source by getting financial support for your time or your project.
 class: getting-paid
