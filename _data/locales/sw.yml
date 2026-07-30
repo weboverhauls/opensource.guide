@@ -1,6 +1,7 @@
 sw:
   locale_name: Swahili
   nav:
+    label: Kuu
     about: Kuhusu
     contribute: Changia
   index:

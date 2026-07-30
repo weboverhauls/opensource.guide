@@ -1,6 +1,7 @@
 fa:
   locale_name: Farsi
   nav:
+    label: اصلی
     about: درباره پروژه
     contribute: مشارکت
   index:

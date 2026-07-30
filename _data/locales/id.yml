@@ -1,6 +1,7 @@
 id:
   locale_name: Indonesia
   nav:
+    label: Utama
     about: Tentang
     contribute: Kontribusi
   index:

@@ -1,6 +1,7 @@
 ro:
   locale_name: Romanian
   nav:
+    label: Principal
     about: Despre
     contribute: Contribuie
   index:

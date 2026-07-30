@@ -1,6 +1,7 @@
 it:
   locale_name: Italiano
   nav:
+    label: Principale
     about: Chi siamo
     contribute: Contribuire
   index:

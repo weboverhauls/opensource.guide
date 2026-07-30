@@ -1,6 +1,7 @@
 pcm:
   locale_name: Pidgin
   nav:
+    label: Main
     about: About
     contribute: Put hand
   index:

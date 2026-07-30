@@ -1,6 +1,7 @@
 nl:
   locale_name: Nederlands
   nav:
+    label: Hoofd
     about: Over
     contribute: Bijdragen
   index:

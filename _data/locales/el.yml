@@ -1,6 +1,7 @@
 el:
   locale_name: Ελληνικά
   nav:
+    label: Κύρια
     about: Σχετικά με
     contribute: Συνεισφορά
   index:
