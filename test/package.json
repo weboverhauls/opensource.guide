@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
+    "@axe-core/playwright": "^4.11.3",
     "async": "^2.0.0",
     "dictionary-en-us": "^2.0.0",
     "glob": "^7.0.5",
@@ -54,6 +55,7 @@
     "to-vfile": "^2.1.0",
     "unified": "^6.1.0",
     "vfile-reporter": "^4.0.0",
-    "vfile-statistics": "^1.0.0"
+    "vfile-statistics": "^1.0.0",
+    "playwright": "^1.60.0"
   }
 }

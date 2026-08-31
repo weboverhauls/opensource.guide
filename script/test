@@ -15,4 +15,6 @@ CHECK_EXTERNAL_LINKS=false script/html-proofer
 HTML_PROOFER_EXIT="$?"
 test/prose
 PROSE_EXIT="$?"
-[[ "$HTML_PROOFER_EXIT" == 0 && "$PROSE_EXIT" == 0 ]]
+test/accessibility
+A11Y_EXIT="$?"
+[[ "$HTML_PROOFER_EXIT" == 0 && "$PROSE_EXIT" == 0 && "$A11Y_EXIT" == 0 ]]
